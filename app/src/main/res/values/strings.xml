@@ -2,4 +2,5 @@
     <string name="app_name">Zaandam</string>
     <string name="launcher_getCurrentLocation">Tell me your location:</string>
     <string name="launcher_searchPlaceholder">...or type your destination</string>
+    <string name="title_activity_display_map">DisplayMapActivity</string>
 </resources>
