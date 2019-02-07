@@ -43,7 +43,7 @@ public class DisplayMapActivity extends AppCompatActivity implements OnMapReadyC
     public void onMapReady(@NonNull final MapboxMap mapboxMap) {
         DisplayMapActivity.this.mapboxMap = mapboxMap;
 
-        mapboxMap.setStyle(new Style.Builder().fromUrl("mapbox://styles/mapbox/cjerxnqt3cgvp2rmyuxbeqme7"),
+        mapboxMap.setStyle(new Style.Builder().fromUrl("mapbox://styles/felixthecat63/cjrt46gay1jib2sl8392oa7sw"),
                 new Style.OnStyleLoaded() {
                     @Override
                     public void onStyleLoaded(@NonNull Style style) {
