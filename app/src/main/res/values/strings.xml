@@ -4,4 +4,8 @@
     <string name="launcher_searchPlaceholder">...or type your destination</string>
     <string name="title_activity_display_map">DisplayMapActivity</string>
     <string name="mapbox_access_token">pk.eyJ1IjoiZmVsaXh0aGVjYXQ2MyIsImEiOiJjanJ0MW5sYWoyZ2VtNDNwbHp5aXN2ZXh2In0.LQr-tOgZu1TMv36-A7X3oQ</string>
+    <string name="english">English</string>
+    <string name="french">French</string>
+    <string name="italian">Italian</string>
+
 </resources>
