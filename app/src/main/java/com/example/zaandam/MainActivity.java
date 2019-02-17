@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         Button getCurrentLocation=findViewById(R.id.getMyLocation);
         getCurrentLocation.setOnClickListener(new OnClickListener(){
             public void onClick(View view){
-
+                // definir ici le comportement du bouton
             }
         });
         */
@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     /** Called when the user taps on the search button (select a destination) */
     public void selectDestination (View view) {
         Intent intent = new PlaceAutocomplete.IntentBuilder()
-                .accessToken("pk.eyJ1IjoiZmVsaXh0aGVjYXQ2MyIsImEiOiJjanJ0MW5sYWoyZ2VtNDNwbHp5aXN2ZXh2In0.LQr-tOgZu1TMv36-A7X3oQ")
+                .accessToken(getString(R.string.mapbox_access_token))
                 .placeOptions(PlaceOptions.builder()
                         .backgroundColor(Color.parseColor("#EEEEEE"))
                         .limit(10)
@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
         startActivityForResult(intent, REQUEST_CODE_AUTOCOMPLETE);
     }
 
+    /** this method is used by the autocomplete function */
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
