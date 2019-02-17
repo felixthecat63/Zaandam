@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        // define here the behaviour of the button
         /*
         Button getCurrentLocation=findViewById(R.id.getMyLocation);
         getCurrentLocation.setOnClickListener(new OnClickListener(){
@@ -47,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
     /** Called when the user taps on the search button (select a destination) */
     public void selectDestination (View view) {
         Intent intent = new PlaceAutocomplete.IntentBuilder()
-                .accessToken("pk.eyJ1IjoiZmVsaXh0aGVjYXQ2MyIsImEiOiJjanJ0MW5sYWoyZ2VtNDNwbHp5aXN2ZXh2In0.LQr-tOgZu1TMv36-A7X3oQ")
+                .accessToken(getString(R.string.mapbox_access_token))
                 .placeOptions(PlaceOptions.builder()
                         .backgroundColor(Color.parseColor("#EEEEEE"))
                         .limit(10)

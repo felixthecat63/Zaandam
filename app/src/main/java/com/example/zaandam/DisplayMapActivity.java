@@ -1,5 +1,24 @@
 package com.example.zaandam;
 
+import android.app.Activity;
+import android.content.Intent;
+import android.support.v7.util.SortedList;
+import android.util.Log;
+import android.view.View;
+import android.widget.Button;
+import com.mapbox.api.geocoding.v5.GeocodingCriteria;
+import com.mapbox.api.geocoding.v5.MapboxGeocoding;
+import com.mapbox.api.geocoding.v5.models.CarmenFeature;
+import com.mapbox.api.geocoding.v5.models.GeocodingResponse;
+import com.mapbox.geocoder.GeocoderCriteria;
+import com.mapbox.geocoder.MapboxGeocoder;
+import com.mapbox.geojson.Point;
+import com.mapbox.mapboxsdk.plugins.places.autocomplete.PlaceAutocomplete;
+import retrofit2.Call;
+import retrofit2.Callback;
+import retrofit2.Response;
+
+
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -19,6 +38,8 @@ import com.mapbox.mapboxsdk.maps.Style;
 import java.util.List;
 
 public class DisplayMapActivity extends AppCompatActivity implements OnMapReadyCallback, PermissionsListener {
+
+    private static final int REQUEST_CODE_AUTOCOMPLETE = 1;
     private MapView mapView;
     private PermissionsManager permissionsManager;
     private MapboxMap mapboxMap;
@@ -38,7 +59,6 @@ public class DisplayMapActivity extends AppCompatActivity implements OnMapReadyC
         mapView.getMapAsync(this);
     }
 
-
     @Override
     public void onMapReady(@NonNull final MapboxMap mapboxMap) {
         DisplayMapActivity.this.mapboxMap = mapboxMap;
@@ -51,7 +71,6 @@ public class DisplayMapActivity extends AppCompatActivity implements OnMapReadyC
                     }
                 });
     }
-
 
     @SuppressWarnings({"MissingPermission"})
     private void enableLocationComponent(@NonNull Style loadedMapStyle) {
@@ -72,6 +91,61 @@ public class DisplayMapActivity extends AppCompatActivity implements OnMapReadyC
 
             // Set the component's render mode
             locationComponent.setRenderMode(RenderMode.COMPASS);
+
+            // current location
+            Double latitude = locationComponent.getLastKnownLocation().getLatitude();
+            Double longitude = locationComponent.getLastKnownLocation().getLongitude();
+
+            /*
+            MapboxGeocoder client = new MapboxGeocoder.Builder()
+                .setAccessToken(getString(R.string.mapbox_access_token))
+                .setLocation("restaurant")
+                .setType(GeocoderCriteria.TYPE_POI)
+                .build();
+            */
+            /*
+            MapboxGeocoder client = new MapboxGeocoder.Builder()
+                    .setAccessToken(getString(R.string.mapbox_access_token))
+                    .setLocation("The White House")
+                    .build();
+            */
+
+            /*
+            MapboxGeocoding reverseGeocode = MapboxGeocoding.builder()
+                    .accessToken(getString(R.string.mapbox_access_token))
+                    .query(Point.fromLngLat(longitude, latitude))
+                    .geocodingTypes(GeocodingCriteria.TYPE_ADDRESS)
+                    .build();
+            reverseGeocode.enqueueCall(new Callback<GeocodingResponse>() {
+                @Override
+                public void onResponse(Call<GeocodingResponse> call, Response<GeocodingResponse> response) {
+                    List<CarmenFeature> results = response.body().features();
+                    if (results.size() > 0) {
+                        // Log the first results Point.
+                        Point firstResultPoint = results.get(0).center();
+                        Log.d("INFO", "onResponse: " + firstResultPoint.toString());
+                    } else {
+                        // No result for your request were found.
+                        Log.d("ERROR", "onResponse: No result found");
+                    }
+                }
+                @Override
+                public void onFailure(Call<GeocodingResponse> call, Throwable throwable) {
+                    throwable.printStackTrace();
+                }
+            });
+            Toast.makeText(this, latitude+", "+longitude, Toast.LENGTH_LONG).show();
+            */
+
+            Button closeButton = (Button) findViewById(R.id.confirmLocationButton);
+            closeButton.setOnClickListener(new View.OnClickListener() {
+
+                @Override
+                public void onClick(View v) {
+                    finish();
+                }
+            });
+
         } else {
             permissionsManager = new PermissionsManager(this);
             permissionsManager.requestLocationPermissions(this);
