@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         Button getCurrentLocation=findViewById(R.id.getMyLocation);
         getCurrentLocation.setOnClickListener(new OnClickListener(){
             public void onClick(View view){
-
+                // definir ici le comportement du bouton
             }
         });
         */
@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
         startActivityForResult(intent, REQUEST_CODE_AUTOCOMPLETE);
     }
 
+    /** this method is used by the autocomplete function */
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
