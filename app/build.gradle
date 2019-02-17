@@ -33,4 +33,6 @@ dependencies {
     implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:7.1.1'
     implementation 'com.mapbox.mapboxsdk:mapbox-android-plugin-places-v7:0.7.0'
     implementation 'com.mapbox.mapboxsdk:mapbox-android-geocoder:1.0.0@aar'
+    implementation 'com.android.support:cardview-v7:28.0.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.2'
 }

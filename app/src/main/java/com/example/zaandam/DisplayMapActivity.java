@@ -43,6 +43,7 @@ public class DisplayMapActivity extends AppCompatActivity implements OnMapReadyC
     private MapView mapView;
     private PermissionsManager permissionsManager;
     private MapboxMap mapboxMap;
+    public static Point destinationCoordinates = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -96,47 +97,6 @@ public class DisplayMapActivity extends AppCompatActivity implements OnMapReadyC
             Double latitude = locationComponent.getLastKnownLocation().getLatitude();
             Double longitude = locationComponent.getLastKnownLocation().getLongitude();
 
-            /*
-            MapboxGeocoder client = new MapboxGeocoder.Builder()
-                .setAccessToken(getString(R.string.mapbox_access_token))
-                .setLocation("restaurant")
-                .setType(GeocoderCriteria.TYPE_POI)
-                .build();
-            */
-            /*
-            MapboxGeocoder client = new MapboxGeocoder.Builder()
-                    .setAccessToken(getString(R.string.mapbox_access_token))
-                    .setLocation("The White House")
-                    .build();
-            */
-
-            /*
-            MapboxGeocoding reverseGeocode = MapboxGeocoding.builder()
-                    .accessToken(getString(R.string.mapbox_access_token))
-                    .query(Point.fromLngLat(longitude, latitude))
-                    .geocodingTypes(GeocodingCriteria.TYPE_ADDRESS)
-                    .build();
-            reverseGeocode.enqueueCall(new Callback<GeocodingResponse>() {
-                @Override
-                public void onResponse(Call<GeocodingResponse> call, Response<GeocodingResponse> response) {
-                    List<CarmenFeature> results = response.body().features();
-                    if (results.size() > 0) {
-                        // Log the first results Point.
-                        Point firstResultPoint = results.get(0).center();
-                        Log.d("INFO", "onResponse: " + firstResultPoint.toString());
-                    } else {
-                        // No result for your request were found.
-                        Log.d("ERROR", "onResponse: No result found");
-                    }
-                }
-                @Override
-                public void onFailure(Call<GeocodingResponse> call, Throwable throwable) {
-                    throwable.printStackTrace();
-                }
-            });
-            Toast.makeText(this, latitude+", "+longitude, Toast.LENGTH_LONG).show();
-            */
-
             Button closeButton = (Button) findViewById(R.id.confirmLocationButton);
             closeButton.setOnClickListener(new View.OnClickListener() {
 
@@ -149,6 +109,38 @@ public class DisplayMapActivity extends AppCompatActivity implements OnMapReadyC
         } else {
             permissionsManager = new PermissionsManager(this);
             permissionsManager.requestLocationPermissions(this);
+        }
+
+        MapboxGeocoding mapboxGeocoding = MapboxGeocoding.builder()
+                .accessToken(getString(R.string.mapbox_access_token))
+                .query("Olbia")
+                .build();
+
+        mapboxGeocoding.enqueueCall(new Callback<GeocodingResponse>() {
+            @Override
+            public void onResponse(Call<GeocodingResponse> call, Response<GeocodingResponse> response) {
+                List<CarmenFeature> results = response.body().features();
+                if (results.size() > 0) {
+                    // Log the first results Point.
+                    Point firstResultPoint = results.get(0).center();
+                    destinationCoordinates = firstResultPoint;
+                    Log.d("INFO", "onResponse: " + firstResultPoint.latitude()+", "+firstResultPoint.longitude());
+                } else {
+                    // No result for your request were found.
+                    Log.d("ERROR", "onResponse: No result found");
+                }
+            }
+            @Override
+            public void onFailure(Call<GeocodingResponse> call, Throwable throwable) {
+                throwable.printStackTrace();
+            }
+        });
+
+        if (destinationCoordinates != null) {
+            Toast.makeText(this, destinationCoordinates.longitude()+", "+destinationCoordinates.latitude(), Toast.LENGTH_LONG).show();
+        }
+        else {
+            Toast.makeText(this, "Problem in retrieving coordinates for this place", Toast.LENGTH_LONG).show();
         }
     }
 

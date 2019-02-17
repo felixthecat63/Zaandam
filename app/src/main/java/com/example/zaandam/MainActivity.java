@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
 
     /** Called when the user taps the getMyLocation button */
     public void getCurrentLocation(View view) {
-        Intent intent = new Intent(this, DisplayMapActivity.class);
+        Intent intent = new Intent(this, GeocodingActivity.class);
         startActivity(intent);
     }
 }
