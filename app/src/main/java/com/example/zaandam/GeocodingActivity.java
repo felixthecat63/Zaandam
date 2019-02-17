@@ -1,5 +1,8 @@
 package com.example.zaandam;
 
+import android.app.Activity;
+import android.content.Intent;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
@@ -28,6 +31,8 @@ import com.mapbox.mapboxsdk.maps.MapView;
 import com.mapbox.mapboxsdk.maps.MapboxMap;
 import com.mapbox.mapboxsdk.maps.OnMapReadyCallback;
 import com.mapbox.mapboxsdk.maps.Style;
+import com.mapbox.mapboxsdk.plugins.places.autocomplete.PlaceAutocomplete;
+import com.mapbox.mapboxsdk.plugins.places.autocomplete.model.PlaceOptions;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -48,6 +53,8 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
     private EditText longEditText;
     private TextView destinationAddressTextView;
     public static Point destinationCoordinates = null;
+    private static final int REQUEST_CODE_AUTOCOMPLETE = 1;
+    public static String destinationAddress = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -111,6 +118,7 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
         chooseCityButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
                 MapboxGeocoding mapboxGeocoding = MapboxGeocoding.builder()
                         .accessToken(getString(R.string.mapbox_access_token))
                         .query(destinationAddressTextView.getText().toString())
@@ -153,9 +161,20 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
 
                 // Make a geocoding search with the target's coordinates
                 makeGeocodeSearch(target);
-
             }
         });
+    }
+
+    /** Called when the user taps on the search button (select a destination) */
+    public void selectDestination (View view) {
+        Intent intent = new PlaceAutocomplete.IntentBuilder()
+                .accessToken(getString(R.string.mapbox_access_token))
+                .placeOptions(PlaceOptions.builder()
+                        .backgroundColor(Color.parseColor("#EEEEEE"))
+                        .limit(10)
+                        .build(PlaceOptions.MODE_CARDS))
+                .build(this);
+        startActivityForResult(intent, REQUEST_CODE_AUTOCOMPLETE);
     }
 
     private boolean latCoordinateIsValid(double value) {
@@ -170,7 +189,6 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
         latEditText.setText(String.valueOf(latLng.getLatitude()));
         longEditText.setText(String.valueOf(latLng.getLongitude()));
     }
-
 
     private void makeGeocodeSearch(final LatLng latLng) {
         try {
@@ -190,8 +208,10 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
                         // Get the first Feature from the successful geocoding response
                         CarmenFeature feature = results.get(0);
                         Log.d("INFO", feature.placeName().toString());
+                        destinationAddress = feature.placeName();
                         //geocodeResultTextView.setText(feature.placeName().toString());
                         animateCameraToNewPosition(latLng);
+                        destinationAddressTextView.setText(destinationAddress);
                         Toast.makeText(GeocodingActivity.this, feature.placeName().toString(), Toast.LENGTH_LONG).show();
                     } else {
                         Toast.makeText(GeocodingActivity.this, "no results", Toast.LENGTH_SHORT).show();
@@ -216,6 +236,18 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
                         .target(latLng)
                         .zoom(13)
                         .build()), 1500);
+    }
+
+    /** this method is used by the autocomplete function */
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        if (resultCode == Activity.RESULT_OK && requestCode == REQUEST_CODE_AUTOCOMPLETE) {
+            CarmenFeature feature = PlaceAutocomplete.getPlace(data);
+            destinationAddress = feature.text();
+            destinationAddressTextView.setText(destinationAddress);
+            Toast.makeText(this, feature.text(), Toast.LENGTH_LONG).show();
+        }
     }
 
     // Add the mapView lifecycle to the activity's lifecycle methods

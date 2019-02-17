@@ -23,23 +23,24 @@
 
         <Button
             android:id="@+id/map_center_button"
-            android:layout_width="wrap_content"
+            android:layout_width="@dimen/search_buttons"
             android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
             android:text="Center map"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
         <Button
             android:id="@+id/start_geocode_button"
-            android:layout_width="wrap_content"
+            android:layout_width="@dimen/search_buttons"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:layout_marginBottom="8dp"
             android:baselineAligned="false"
-            android:text="Get coordinates"
+            android:text="Get by lat/long"
             app:layout_constraintBottom_toTopOf="@+id/geocode_latitude_editText"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintHorizontal_bias="0.784"
             app:layout_constraintStart_toEndOf="@+id/map_center_button"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="1.0" />
@@ -51,10 +52,10 @@
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:layout_marginEnd="8dp"
+            android:digits="0123456789,."
             android:ems="10"
             android:hint="Latitude"
             android:inputType="number"
-            android:digits="0123456789,."
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/map_center_button" />
@@ -67,55 +68,51 @@
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:layout_marginEnd="8dp"
+            android:digits="0123456789,."
             android:ems="10"
             android:hint="Longitude"
             android:inputType="number"
-            android:digits="0123456789,."
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/geocode_latitude_editText"
-            />
+            app:layout_constraintTop_toBottomOf="@+id/geocode_latitude_editText" />
 
-        <ScrollView
-            android:id="@+id/scroll_view_results"
-            android:layout_width="match_parent"
-            android:layout_height="45dp"
-            android:layout_marginTop="8dp"
-            android:layout_marginBottom="541dp"
-            android:background="@color/colorPrimary"
-            app:layout_constraintEnd_toEndOf="@+id/geocode_longitude_editText"
-            app:layout_constraintStart_toStartOf="@+id/choose_city_spinner_button"
-            app:layout_constraintTop_toBottomOf="@+id/geocode_longitude_editText">
-
-            <EditText
-                android:id="@+id/destination_address"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="8dp"
-                android:layout_marginTop="8dp"
-                android:layout_marginEnd="8dp"
-                android:text="Result Message"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/geocode_longitude_editText" />
-        </ScrollView>
-
-
-        <Button
-            android:id="@+id/choose_city_spinner_button"
-            android:layout_width="wrap_content"
+        <EditText
+            android:id="@+id/destination_address"
+            android:layout_width="295dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:layout_marginEnd="8dp"
-            android:layout_marginBottom="8dp"
-            android:text="Search by name"
-            app:layout_constraintBottom_toBottomOf="parent"
+            android:hint="Type destination"
+            android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.498"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/scroll_view_results"
-            app:layout_constraintVertical_bias="0.0" />
+            app:layout_constraintTop_toBottomOf="@+id/geocode_longitude_editText" />
+
+
+        <Button
+            android:id="@+id/choose_city_spinner_button"
+            android:layout_width="@dimen/search_buttons"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:text="Get by name"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.783"
+            app:layout_constraintStart_toEndOf="@+id/searchByNameButton"
+            app:layout_constraintTop_toBottomOf="@+id/destination_address" />
+
+        <Button
+            android:id="@+id/searchByNameButton"
+            android:layout_width="177dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:onClick="selectDestination"
+            android:text="Advanced"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/destination_address" />
 
     </android.support.constraint.ConstraintLayout>
 
