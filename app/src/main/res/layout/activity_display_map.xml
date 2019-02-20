@@ -8,11 +8,16 @@
 
     <Button
         android:id="@+id/confirmLocationButton"
+        android:theme="@style/AppTheme.ButtonFuchsia"
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:layout_marginBottom="0dp"
-        android:text="@string/confirm_location"
-        />
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:text="@string/display_map_confirm_location"
+        mapbox:layout_constraintEnd_toEndOf="parent"
+        mapbox:layout_constraintStart_toStartOf="parent"
+        mapbox:layout_constraintTop_toTopOf="parent" />
 
     <com.mapbox.mapboxsdk.maps.MapView
         android:id="@+id/mapView"
