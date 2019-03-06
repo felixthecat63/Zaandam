@@ -22,28 +22,29 @@
         app:layout_constraintVertical_bias="0.0">
 
         <Button
-            android:theme="@style/AppTheme.ButtonFuchsia"
             android:id="@+id/map_center_button"
             android:layout_width="@dimen/search_buttons"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
             android:text="@string/geocoding_button_center_map"
+            android:theme="@style/AppTheme.ButtonFuchsia"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
         <Button
-            android:theme="@style/AppTheme.ButtonBlue"
             android:id="@+id/start_geocode_button"
             android:layout_width="@dimen/search_buttons"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
             android:layout_marginBottom="8dp"
             android:baselineAligned="false"
             android:text="@string/geocoding_button_get_by_coordinates"
+            android:theme="@style/AppTheme.ButtonBlue"
             app:layout_constraintBottom_toTopOf="@+id/geocode_latitude_editText"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.784"
-            app:layout_constraintStart_toEndOf="@+id/map_center_button"
+            app:layout_constraintStart_toStartOf="@+id/choose_city_spinner_button"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="1.0" />
 
@@ -93,7 +94,6 @@
 
 
         <Button
-            android:theme="@style/AppTheme.ButtonBlue"
             android:id="@+id/choose_city_spinner_button"
             android:layout_width="@dimen/search_buttons"
             android:layout_height="wrap_content"
@@ -101,20 +101,21 @@
             android:layout_marginTop="8dp"
             android:layout_marginEnd="8dp"
             android:text="@string/geocoding_button_get_by_name"
+            android:theme="@style/AppTheme.ButtonBlue"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.783"
             app:layout_constraintStart_toEndOf="@+id/searchByNameButton"
             app:layout_constraintTop_toBottomOf="@+id/destination_address" />
 
         <Button
-            android:theme="@style/AppTheme.ButtonBlue"
             android:id="@+id/searchByNameButton"
-            android:layout_width="177dp"
+            android:layout_width="@dimen/search_buttons"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:onClick="selectDestination"
             android:text="@string/geocoding_button_advanced"
+            android:theme="@style/AppTheme.ButtonBlue"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/destination_address" />
 
@@ -133,6 +134,22 @@
         app:layout_constraintTop_toBottomOf="@+id/linearLayout2"
         mapbox:mapbox_cameraTargetLat="40.73581"
         mapbox:mapbox_cameraTargetLng="-73.99155"
-        mapbox:mapbox_cameraZoom="11" />
+        mapbox:mapbox_cameraZoom="11" >
+
+    </com.mapbox.mapboxsdk.maps.MapView>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="@dimen/mapbox_plugins_text_left_margin"
+        android:layout_height="@dimen/mapbox_plugins_text_left_margin"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="OK"
+        android:onClick="confirmLocation"
+        android:textColor="@color/colorWhite"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="@drawable/background_round_button"/>
 
 </android.support.constraint.ConstraintLayout>

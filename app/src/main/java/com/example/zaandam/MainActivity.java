@@ -19,8 +19,6 @@ import com.mapbox.mapboxsdk.plugins.places.autocomplete.model.PlaceOptions;
 
 
 public class MainActivity extends AppCompatActivity {
-    private static final int REQUEST_CODE_AUTOCOMPLETE = 1;
-    public static LatLng destination = new LatLng();
 
 
     @Override
@@ -29,8 +27,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
-        Toast.makeText(this, destination.getLatitude()+", "+destination.getLongitude(), Toast.LENGTH_LONG).show();
 
         // define here the behaviour of the button
         /*
@@ -42,7 +38,6 @@ public class MainActivity extends AppCompatActivity {
         });
         */
     }
-
 
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();

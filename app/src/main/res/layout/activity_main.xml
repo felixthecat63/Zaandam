@@ -12,7 +12,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/sea"
+        android:background="@drawable/aerial"
         android:gravity="center_horizontal"
         android:orientation="vertical">
 
@@ -30,34 +30,31 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <Button
-            android:onClick="getCurrentLocation"
             android:id="@+id/getMyLocation"
             android:layout_width="40dp"
             android:layout_height="40dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/placeholder"/>
+            android:background="@drawable/placeholder"
+            android:onClick="getCurrentLocation" />
 
-            <TextView
-                android:id="@+id/typeDestination"
-                android:layout_marginTop="40dp"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@drawable/background_edittext"
-                android:backgroundTint="@color/colorWhite"
-                android:text="@string/launcher_searchPlaceholder"
-                android:padding="5dp"
-                android:textColor="@android:color/background_dark" />
+        <TextView
+            android:id="@+id/typeDestination"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/background_edittext"
+            android:backgroundTint="@color/colorWhite"
+            android:padding="5dp"
+            android:text="@string/launcher_searchPlaceholder"
+            android:textColor="@android:color/background_dark" />
 
-            <Button
-                android:onClick="selectDestination"
-                android:id="@+id/selectDestination"
-                android:layout_marginTop="20dp"
-                android:layout_width="40dp"
-                android:layout_height="40dp"
-                android:background="@drawable/search" />
-
-
-
+        <Button
+            android:id="@+id/selectDestination"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/search"
+            android:onClick="selectDestination" />
 
     </LinearLayout>
 

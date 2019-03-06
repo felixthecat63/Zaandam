@@ -1,23 +1,7 @@
 package com.example.zaandam;
 
-import android.app.Activity;
 import android.content.Intent;
-import android.support.v7.util.SortedList;
-import android.util.Log;
 import android.view.View;
-import android.widget.Button;
-import com.mapbox.api.geocoding.v5.GeocodingCriteria;
-import com.mapbox.api.geocoding.v5.MapboxGeocoding;
-import com.mapbox.api.geocoding.v5.models.CarmenFeature;
-import com.mapbox.api.geocoding.v5.models.GeocodingResponse;
-import com.mapbox.geocoder.GeocoderCriteria;
-import com.mapbox.geocoder.MapboxGeocoder;
-import com.mapbox.geojson.Point;
-import com.mapbox.mapboxsdk.plugins.places.autocomplete.PlaceAutocomplete;
-import retrofit2.Call;
-import retrofit2.Callback;
-import retrofit2.Response;
-
 
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
@@ -39,11 +23,9 @@ import java.util.List;
 
 public class DisplayMapActivity extends AppCompatActivity implements OnMapReadyCallback, PermissionsListener {
 
-    private static final int REQUEST_CODE_AUTOCOMPLETE = 1;
     private MapView mapView;
     private PermissionsManager permissionsManager;
     private MapboxMap mapboxMap;
-    public static Point destinationCoordinates = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -97,17 +79,9 @@ public class DisplayMapActivity extends AppCompatActivity implements OnMapReadyC
             Double latitude = locationComponent.getLastKnownLocation().getLatitude();
             Double longitude = locationComponent.getLastKnownLocation().getLongitude();
 
-            MainActivity.destination.setLatitude(latitude);
-            MainActivity.destination.setLongitude(longitude);
+            SelectPOIActivity.destination.setLatitude(latitude);
+            SelectPOIActivity.destination.setLongitude(longitude);
 
-            Button closeButton = (Button) findViewById(R.id.confirmLocationButton);
-            closeButton.setOnClickListener(new View.OnClickListener() {
-
-                @Override
-                public void onClick(View v) {
-                    finish();
-                }
-            });
 
         } else {
             permissionsManager = new PermissionsManager(this);
@@ -183,5 +157,11 @@ public class DisplayMapActivity extends AppCompatActivity implements OnMapReadyC
     public void onLowMemory() {
         super.onLowMemory();
         mapView.onLowMemory();
+    }
+
+    /** Called when the user taps on the confirm location button (select a destination) */
+    public void confirmLocation (View view) {
+        Intent intent = new Intent(this, SelectPOIActivity.class);
+        startActivity(intent);
     }
 }

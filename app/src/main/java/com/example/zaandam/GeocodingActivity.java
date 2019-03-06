@@ -34,7 +34,6 @@ import com.mapbox.mapboxsdk.maps.Style;
 import com.mapbox.mapboxsdk.plugins.places.autocomplete.PlaceAutocomplete;
 import com.mapbox.mapboxsdk.plugins.places.autocomplete.model.PlaceOptions;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import retrofit2.Call;
@@ -55,6 +54,9 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
     public static Point destinationCoordinates = null;
     private static final int REQUEST_CODE_AUTOCOMPLETE = 1;
     public static String destinationAddress = null;
+
+    Double latitude = null;
+    Double longitude = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -188,6 +190,8 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
     private void setCoordinateEditTexts(LatLng latLng) {
         latEditText.setText(String.valueOf(latLng.getLatitude()));
         longEditText.setText(String.valueOf(latLng.getLongitude()));
+        latitude = latLng.getLatitude();
+        longitude = latLng.getLongitude();
     }
 
     private void makeGeocodeSearch(final LatLng latLng) {
@@ -213,6 +217,9 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
                         animateCameraToNewPosition(latLng);
                         destinationAddressTextView.setText(destinationAddress);
                         Toast.makeText(GeocodingActivity.this, feature.placeName().toString(), Toast.LENGTH_LONG).show();
+
+                        latitude = latLng.getLatitude();
+                        longitude = latLng.getLongitude();
                     } else {
                         Toast.makeText(GeocodingActivity.this, "no results", Toast.LENGTH_SHORT).show();
                     }
@@ -291,5 +298,15 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
     protected void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
         mapView.onSaveInstanceState(outState);
+    }
+
+    /** Called when the user taps on the confirm location button (select a destination) */
+    public void confirmLocation (View view) {
+        Intent intent = new Intent(this, SelectPOIActivity.class);
+
+        SelectPOIActivity.destination.setLatitude(latitude);
+        SelectPOIActivity.destination.setLongitude(longitude);
+
+        startActivity(intent);
     }
 }
