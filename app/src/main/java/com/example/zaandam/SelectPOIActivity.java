@@ -39,15 +39,13 @@ public class SelectPOIActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         retrievePOI2(destination);
         printCategories();
-        Log.d("INFO", "hello, it's me");
         ParseJSON p = new ParseJSON();
-        String json = p.loadJSONFromAsset(this, "hotel");
+        String json = p.loadJSONFromAsset(this, "mcDonalds");
         try {
             p.readJSON(json);
         } catch (JSONException e) {
             e.printStackTrace();
         }
-        Log.d("INFO", "json should be parsed");
     }
 
     private void retrievePOI2(LatLng latlng) {

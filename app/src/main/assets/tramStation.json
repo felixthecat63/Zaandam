@@ -1,686 +1,686 @@
 [
   {
-    "longitude": 1.41835,
-    "latitude": 43.59293,
+    "latitude": 1.41835,
+    "longitude": 43.59293,
     "name": "Tram Station Arenes",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 4.88,
-    "latitude": 45.695,
+    "latitude": 4.88,
+    "longitude": 45.695,
     "name": "Tram Station T4 11",
     "city": "Lyon",
     "description": "Lyc�e Jacques Brel"
   },
   {
-    "longitude": 1.38278,
-    "latitude": 43.64045,
+    "latitude": 1.38278,
+    "longitude": 43.64045,
     "name": "Tram Station Patinoire",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 4.86202,
-    "latitude": 45.76431,
+    "latitude": 4.86202,
+    "longitude": 45.76431,
     "name": "Tram Station T1 14",
     "city": "Lyon",
     "description": "Thiers Lafayette"
   },
   {
-    "longitude": 4.86472,
-    "latitude": 45.73306,
+    "latitude": 4.86472,
+    "longitude": 45.73306,
     "name": "Tram Station T4 03",
     "city": "Lyon",
     "description": "Etats Unis - Mus�e Tony Garnier"
   },
   {
-    "longitude": 4.93614,
-    "latitude": 45.69959,
+    "latitude": 4.93614,
+    "longitude": 45.69959,
     "name": "Tram Station T2 24",
     "city": "Lyon",
     "description": "Alfred de Vigny"
   },
   {
-    "longitude": 4.88189,
-    "latitude": 45.78691,
+    "latitude": 4.88189,
+    "longitude": 45.78691,
     "name": "Tram Station T1 23",
     "city": "Lyon",
     "description": "Iut Feyssine"
   },
   {
-    "longitude": 4.94687,
-    "latitude": 45.69474,
+    "latitude": 4.94687,
+    "longitude": 45.69474,
     "name": "Tram Station T2 27",
     "city": "Lyon",
     "description": "Jules Ferry"
   },
   {
-    "longitude": 4.91681,
-    "latitude": 45.73103,
+    "latitude": 4.91681,
+    "longitude": 45.73103,
     "name": "Tram Station T2 16",
     "city": "Lyon",
     "description": "Les Aliz�s"
   },
   {
-    "longitude": 1.39695,
-    "latitude": 43.61865,
+    "latitude": 1.39695,
+    "longitude": 43.61865,
     "name": "Tram Station Ancely",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 1.40338,
-    "latitude": 43.60864,
+    "latitude": 1.40338,
+    "longitude": 43.60864,
     "name": "Tram Station Purpan",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 4.86202,
-    "latitude": 45.76657,
+    "latitude": 4.86202,
+    "longitude": 45.76657,
     "name": "Tram Station T1 15",
     "city": "Lyon",
     "description": "College Bellecombe"
   },
   {
-    "longitude": 4.93118,
-    "latitude": 45.71439,
+    "latitude": 4.93118,
+    "longitude": 45.71439,
     "name": "Tram Station T2 21",
     "city": "Lyon",
     "description": "Parc Technologique"
   },
   {
-    "longitude": 4.95589,
-    "latitude": 45.69264,
+    "latitude": 4.95589,
+    "longitude": 45.69264,
     "name": "Tram Station T2 29",
     "city": "Lyon",
     "description": "Bel Air"
   },
   {
-    "longitude": 4.8723,
-    "latitude": 45.78154,
+    "latitude": 4.8723,
+    "longitude": 45.78154,
     "name": "Tram Station T1 20",
     "city": "Lyon",
     "description": "La Doua Gaston Berger"
   },
   {
-    "longitude": 4.85364,
-    "latitude": 45.76079,
+    "latitude": 4.85364,
+    "longitude": 45.76079,
     "name": "Tram Station T1 12",
     "city": "Lyon",
     "description": "Part Dieu Servient"
   },
   {
-    "longitude": 4.86167,
-    "latitude": 45.69667,
+    "latitude": 4.86167,
+    "longitude": 45.69667,
     "name": "Tram Station T4 16",
     "city": "Lyon",
     "description": "L�nine - Corsiere"
   },
   {
-    "longitude": 1.41171,
-    "latitude": 43.6007,
+    "latitude": 1.41171,
+    "longitude": 43.6007,
     "name": "Tram Station Cartoucherie",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 4.87259,
-    "latitude": 45.73898,
+    "latitude": 4.87259,
+    "longitude": 45.73898,
     "name": "Tram Station T2 09",
     "city": "Lyon",
     "description": "Jean Xiii Maryse Basti�"
   },
   {
-    "longitude": 4.93491,
-    "latitude": 45.70341,
+    "latitude": 4.93491,
+    "longitude": 45.70341,
     "name": "Tram Station T2 23",
     "city": "Lyon",
     "description": "Salavador Alliende"
   },
   {
-    "longitude": 1.39342,
-    "latitude": 43.62547,
+    "latitude": 1.39342,
+    "longitude": 43.62547,
     "name": "Tram Station Servanty",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 4.88444,
-    "latitude": 45.69639,
+    "latitude": 4.88444,
+    "longitude": 45.69639,
     "name": "Tram Station T4 10",
     "city": "Lyon",
     "description": "Marcel Houel - Hotel De Ville"
   },
   {
-    "longitude": 4.91525,
-    "latitude": 45.72209,
+    "latitude": 4.91525,
+    "longitude": 45.72209,
     "name": "Tram Station T2 18",
     "city": "Lyon",
     "description": "Parilly Universit� Hippodrome"
   },
   {
-    "longitude": 4.86444,
-    "latitude": 45.6925,
+    "latitude": 4.86444,
+    "longitude": 45.6925,
     "name": "Tram Station T4 17",
     "city": "Lyon",
     "description": "Darnaise"
   },
   {
-    "longitude": 4.8391,
-    "latitude": 45.75105,
+    "latitude": 4.8391,
+    "longitude": 45.75105,
     "name": "Tram Station T1 06",
     "city": "Lyon",
     "description": "Rue De L'Universit�"
   },
   {
-    "longitude": 1.3776,
-    "latitude": 43.64469,
+    "latitude": 1.3776,
+    "longitude": 43.64469,
     "name": "Tram Station Grand Noble",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 4.84242,
-    "latitude": 45.75888,
+    "latitude": 4.84242,
+    "longitude": 45.75888,
     "name": "Tram Station T1 09",
     "city": "Lyon",
     "description": "Libert�"
   },
   {
-    "longitude": 4.88299,
-    "latitude": 45.7835,
+    "latitude": 4.88299,
+    "longitude": 45.7835,
     "name": "Tram Station T1 22",
     "city": "Lyon",
     "description": "Croix Luizet"
   },
   {
-    "longitude": 4.92578,
-    "latitude": 45.7184,
+    "latitude": 4.92578,
+    "longitude": 45.7184,
     "name": "Tram Station T2 20",
     "city": "Lyon",
     "description": "Porte des Alpes"
   },
   {
-    "longitude": 4.87111,
-    "latitude": 45.72472,
+    "latitude": 4.87111,
+    "longitude": 45.72472,
     "name": "Tram Station T4 05",
     "city": "Lyon",
     "description": "Viviani"
   },
   {
-    "longitude": 4.86627,
-    "latitude": 45.78085,
+    "latitude": 4.86627,
+    "longitude": 45.78085,
     "name": "Tram Station T1 19",
     "city": "Lyon",
     "description": "Universit� Lyon 1"
   },
   {
-    "longitude": 4.84844,
-    "latitude": 45.7603,
+    "latitude": 4.84844,
+    "longitude": 45.7603,
     "name": "Tram Station T1 11",
     "city": "Lyon",
     "description": "Moncey Mairie Du 3eme"
   },
   {
-    "longitude": 5.03134,
-    "latitude": 45.76778,
+    "latitude": 5.03134,
+    "longitude": 45.76778,
     "name": "Tram Station T3 10",
     "city": "Lyon",
     "description": "Meyzieu Z.I."
   },
   {
-    "longitude": 4.94064,
-    "latitude": 45.69449,
+    "latitude": 4.94064,
+    "longitude": 45.69449,
     "name": "Tram Station T2 26",
     "city": "Lyon",
     "description": "Esplanade des Arts"
   },
   {
-    "longitude": 4.85773,
-    "latitude": 45.76184,
+    "latitude": 4.85773,
+    "longitude": 45.76184,
     "name": "Tram Station T1 13",
     "city": "Lyon",
     "description": "Part Dieu Vivier Merle"
   },
   {
-    "longitude": 4.86271,
-    "latitude": 45.73866,
+    "latitude": 4.86271,
+    "longitude": 45.73866,
     "name": "Tram Station T2 07",
     "city": "Lyon",
     "description": "Villon"
   },
   {
-    "longitude": 1.38552,
-    "latitude": 43.63637,
+    "latitude": 1.38552,
+    "longitude": 43.63637,
     "name": "Tram Station Marronniers",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 4.84517,
-    "latitude": 45.7602,
+    "latitude": 4.84517,
+    "longitude": 45.7602,
     "name": "Tram Station T1 10",
     "city": "Lyon",
     "description": "Saxe Pr�fecture"
   },
   {
-    "longitude": 1.38976,
-    "latitude": 43.63677,
+    "latitude": 1.38976,
+    "longitude": 43.63677,
     "name": "Tram Station Relais",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 4.84212,
-    "latitude": 45.74526,
+    "latitude": 4.84212,
+    "longitude": 45.74526,
     "name": "Tram Station T2 03",
     "city": "Lyon",
     "description": "Jean Mac�"
   },
   {
-    "longitude": 4.97586,
-    "latitude": 45.77449,
+    "latitude": 4.97586,
+    "longitude": 45.77449,
     "name": "Tram Station T3 08",
     "city": "Lyon",
     "description": "D�cines Grand Large"
   },
   {
-    "longitude": 4.87917,
-    "latitude": 45.71472,
+    "latitude": 4.87917,
+    "longitude": 45.71472,
     "name": "Tram Station T4 06",
     "city": "Lyon",
     "description": "Joliot Curie - Marcel Sembat"
   },
   {
-    "longitude": 4.93685,
-    "latitude": 45.69505,
+    "latitude": 4.93685,
+    "longitude": 45.69505,
     "name": "Tram Station T2 25",
     "city": "Lyon",
     "description": "St Priest - Hotel De Ville"
   },
   {
-    "longitude": 4.87962,
-    "latitude": 45.74241,
+    "latitude": 4.87962,
+    "longitude": 45.74241,
     "name": "Tram Station T2 10",
     "city": "Lyon",
     "description": "Grange Blanche"
   },
   {
-    "longitude": 4.84275,
-    "latitude": 45.75506,
+    "latitude": 4.84275,
+    "longitude": 45.75506,
     "name": "Tram Station T1 08",
     "city": "Lyon",
     "description": "Guillotiere"
   },
   {
-    "longitude": 4.85935,
-    "latitude": 45.74005,
+    "latitude": 4.85935,
+    "longitude": 45.74005,
     "name": "Tram Station T4 01",
     "city": "Lyon",
     "description": "Jet D'Eau"
   },
   {
-    "longitude": 4.83549,
-    "latitude": 45.74733,
+    "latitude": 4.83549,
+    "longitude": 45.74733,
     "name": "Tram Station T2 02",
     "city": "Lyon",
     "description": "Centre Berthelot"
   },
   {
-    "longitude": 4.90566,
-    "latitude": 45.73474,
+    "latitude": 4.90566,
+    "longitude": 45.73474,
     "name": "Tram Station T2 14",
     "city": "Lyon",
     "description": "Boutasse Camille Rousset"
   },
   {
-    "longitude": 1.36896,
-    "latitude": 43.66064,
+    "latitude": 1.36896,
+    "longitude": 43.66064,
     "name": "Tram Station Beauzelle",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 4.92221,
-    "latitude": 45.76101,
+    "latitude": 4.92221,
+    "longitude": 45.76101,
     "name": "Tram Station T3 06",
     "city": "Lyon",
     "description": "Vaulx En Velin - La Soie"
   },
   {
-    "longitude": 4.94979,
-    "latitude": 45.69362,
+    "latitude": 4.94979,
+    "longitude": 45.69362,
     "name": "Tram Station T2 28",
     "city": "Lyon",
     "description": "Cordiere"
   },
   {
-    "longitude": 4.86414,
-    "latitude": 45.77406,
+    "latitude": 4.86414,
+    "longitude": 45.77406,
     "name": "Tram Station T1 17",
     "city": "Lyon",
     "description": "Le Tonkin"
   },
   {
-    "longitude": 1.37561,
-    "latitude": 43.64853,
+    "latitude": 1.37561,
+    "longitude": 43.64853,
     "name": "Tram Station Georges Brassens",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 1.39129,
-    "latitude": 43.63434,
+    "latitude": 1.39129,
+    "longitude": 43.63434,
     "name": "Tram Station Pasteur",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 4.85114,
-    "latitude": 45.74229,
+    "latitude": 4.85114,
+    "longitude": 45.74229,
     "name": "Tram Station T2 05",
     "city": "Lyon",
     "description": "Route de Vienne"
   },
   {
-    "longitude": 4.86307,
-    "latitude": 45.77071,
+    "latitude": 4.86307,
+    "longitude": 45.77071,
     "name": "Tram Station T1 16",
     "city": "Lyon",
     "description": "Charpennes Charles Hernu"
   },
   {
-    "longitude": 4.86695,
-    "latitude": 45.77801,
+    "latitude": 4.86695,
+    "longitude": 45.77801,
     "name": "Tram Station T1 18",
     "city": "Lyon",
     "description": "Condorcet"
   },
   {
-    "longitude": 4.87632,
-    "latitude": 45.69333,
+    "latitude": 4.87632,
+    "longitude": 45.69333,
     "name": "Tram Station T4 12",
     "city": "Lyon",
     "description": "Herriot - Cagne"
   },
   {
-    "longitude": 4.82744,
-    "latitude": 45.74996,
+    "latitude": 4.82744,
+    "longitude": 45.74996,
     "name": "Tram Station T2 01",
     "city": "Lyon",
     "description": "Perrache"
   },
   {
-    "longitude": 4.87797,
-    "latitude": 45.78244,
+    "latitude": 4.87797,
+    "longitude": 45.78244,
     "name": "Tram Station T1 21",
     "city": "Lyon",
     "description": "Insa Einstein"
   },
   {
-    "longitude": 4.91567,
-    "latitude": 45.72748,
+    "latitude": 4.91567,
+    "longitude": 45.72748,
     "name": "Tram Station T2 17",
     "city": "Lyon",
     "description": "Rebufer"
   },
   {
-    "longitude": 1.40943,
-    "latitude": 43.59456,
+    "latitude": 1.40943,
+    "longitude": 43.59456,
     "name": "Tram Station Zenith",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 4.89252,
-    "latitude": 45.75597,
+    "latitude": 4.89252,
+    "longitude": 45.75597,
     "name": "Tram Station T3 04",
     "city": "Lyon",
     "description": "Gare de Villeurbanne"
   },
   {
-    "longitude": 4.99877,
-    "latitude": 45.77136,
+    "latitude": 4.99877,
+    "longitude": 45.77136,
     "name": "Tram Station T3 09",
     "city": "Lyon",
     "description": "Meyzieu Gare"
   },
   {
-    "longitude": 4.8692,
-    "latitude": 45.73642,
+    "latitude": 4.8692,
+    "longitude": 45.73642,
     "name": "Tram Station T2 08",
     "city": "Lyon",
     "description": "Bachut Mairie du 8eme"
   },
   {
-    "longitude": 4.86833,
-    "latitude": 45.69833,
+    "latitude": 4.86833,
+    "longitude": 45.69833,
     "name": "Tram Station T4 14",
     "city": "Lyon",
     "description": "Division Leclerc"
   },
   {
-    "longitude": 1.37391,
-    "latitude": 43.65462,
+    "latitude": 1.37391,
+    "longitude": 43.65462,
     "name": "Tram Station Lyc�e",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 4.81921,
-    "latitude": 45.7407,
+    "latitude": 4.81921,
+    "longitude": 45.7407,
     "name": "Tram Station T1 01",
     "city": "Lyon",
     "description": "Montrochet"
   },
   {
-    "longitude": 4.88476,
-    "latitude": 45.74122,
+    "latitude": 4.88476,
+    "longitude": 45.74122,
     "name": "Tram Station T2 11",
     "city": "Lyon",
     "description": "Ambroise Par�"
   },
   {
-    "longitude": 4.91048,
-    "latitude": 45.75841,
+    "latitude": 4.91048,
+    "longitude": 45.75841,
     "name": "Tram Station T3 05",
     "city": "Lyon",
     "description": "Bel Air - Les Brosses"
   },
   {
-    "longitude": 4.9376,
-    "latitude": 45.70812,
+    "latitude": 4.9376,
+    "longitude": 45.70812,
     "name": "Tram Station T2 22",
     "city": "Lyon",
     "description": "Hauts de Feuilly"
   },
   {
-    "longitude": 1.39173,
-    "latitude": 43.63094,
+    "latitude": 1.39173,
+    "longitude": 43.63094,
     "name": "Tram Station Guyenne",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 4.8409,
-    "latitude": 45.75288,
+    "latitude": 4.8409,
+    "longitude": 45.75288,
     "name": "Tram Station T1 07",
     "city": "Lyon",
     "description": "Saint Andr�"
   },
   {
-    "longitude": 4.88778,
-    "latitude": 45.7,
+    "latitude": 4.88778,
+    "longitude": 45.7,
     "name": "Tram Station T4 09",
     "city": "Lyon",
     "description": "Croizat - Paul Bert"
   },
   {
-    "longitude": 4.84718,
-    "latitude": 45.74355,
+    "latitude": 4.84718,
+    "longitude": 45.74355,
     "name": "Tram Station T2 04",
     "city": "Lyon",
     "description": "Garibaldi Berthelot"
   },
   {
-    "longitude": 4.85842,
-    "latitude": 45.7399,
+    "latitude": 4.85842,
+    "longitude": 45.7399,
     "name": "Tram Station T2 06",
     "city": "Lyon",
     "description": "Jet d'Eau Mendes-France"
   },
   {
-    "longitude": 4.95577,
-    "latitude": 45.77193,
+    "latitude": 4.95577,
+    "longitude": 45.77193,
     "name": "Tram Station T3 07",
     "city": "Lyon",
     "description": "D�cines Centre"
   },
   {
-    "longitude": 4.8618,
-    "latitude": 45.76036,
+    "latitude": 4.8618,
+    "longitude": 45.76036,
     "name": "Tram Station T3 01",
     "city": "Lyon",
     "description": "Gare De La Part Dieu - Villette"
   },
   {
-    "longitude": 1.407,
-    "latitude": 43.60363,
+    "latitude": 1.407,
+    "longitude": 43.60363,
     "name": "Tram Station Casselardit",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 1.3619,
-    "latitude": 43.66353,
+    "latitude": 1.3619,
+    "longitude": 43.66353,
     "name": "Tram Station Garossos",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 4.8929,
-    "latitude": 45.73906,
+    "latitude": 4.8929,
+    "longitude": 45.73906,
     "name": "Tram Station T2 12",
     "city": "Lyon",
     "description": "Vinatier"
   },
   {
-    "longitude": 4.86194,
-    "latitude": 45.73667,
+    "latitude": 4.86194,
+    "longitude": 45.73667,
     "name": "Tram Station T4 02",
     "city": "Lyon",
     "description": "Lyc�e Lumiere"
   },
   {
-    "longitude": 4.86528,
-    "latitude": 45.68833,
+    "latitude": 4.86528,
+    "longitude": 45.68833,
     "name": "Tram Station T4 18",
     "city": "Lyon",
     "description": "Hopital Feyzin"
   },
   {
-    "longitude": 4.90973,
-    "latitude": 45.73334,
+    "latitude": 4.90973,
+    "longitude": 45.73334,
     "name": "Tram Station T2 15",
     "city": "Lyon",
     "description": "Hotel De Ville Bron"
   },
   {
-    "longitude": 4.83537,
-    "latitude": 45.74971,
+    "latitude": 4.83537,
+    "longitude": 45.74971,
     "name": "Tram Station T1 05",
     "city": "Lyon",
     "description": "Quai Claude Bernard"
   },
   {
-    "longitude": 4.88167,
-    "latitude": 45.71139,
+    "latitude": 4.88167,
+    "longitude": 45.71139,
     "name": "Tram Station T4 07",
     "city": "Lyon",
     "description": "La Borelle"
   },
   {
-    "longitude": 4.88778,
-    "latitude": 45.70528,
+    "latitude": 4.88778,
+    "longitude": 45.70528,
     "name": "Tram Station T4 08",
     "city": "Lyon",
     "description": "Gare Sncf"
   },
   {
-    "longitude": 4.8982,
-    "latitude": 45.73734,
+    "latitude": 4.8982,
+    "longitude": 45.73734,
     "name": "Tram Station T2 13",
     "city": "Lyon",
     "description": "Essarts Iris"
   },
   {
-    "longitude": 4.82756,
-    "latitude": 45.75002,
+    "latitude": 4.82756,
+    "longitude": 45.75002,
     "name": "Tram Station T1 04",
     "city": "Lyon",
     "description": "Perrache"
   },
   {
-    "longitude": 4.91703,
-    "latitude": 45.71966,
+    "latitude": 4.91703,
+    "longitude": 45.71966,
     "name": "Tram Station T2 19",
     "city": "Lyon",
     "description": "Europe Universit�"
   },
   {
-    "longitude": 4.86333,
-    "latitude": 45.69972,
+    "latitude": 4.86333,
+    "longitude": 45.69972,
     "name": "Tram Station T4 15",
     "city": "Lyon",
     "description": "Maurice Thorez"
   },
   {
-    "longitude": 4.82162,
-    "latitude": 45.74398,
+    "latitude": 4.82162,
+    "longitude": 45.74398,
     "name": "Tram Station T1 02",
     "city": "Lyon",
     "description": "Ste-Blandine"
   },
   {
-    "longitude": 4.82416,
-    "latitude": 45.747,
+    "latitude": 4.82416,
+    "longitude": 45.747,
     "name": "Tram Station T1 03",
     "city": "Lyon",
     "description": "Suchet"
   },
   {
-    "longitude": 1.39789,
-    "latitude": 43.61417,
+    "latitude": 1.39789,
+    "longitude": 43.61417,
     "name": "Tram Station Arenes Romaines",
     "city": "Toulouse",
     "description": ""
   },
   {
-    "longitude": 4.86889,
-    "latitude": 45.75292,
+    "latitude": 4.86889,
+    "longitude": 45.75292,
     "name": "Tram Station T3 02",
     "city": "Lyon",
     "description": "Dauphin� - Lacassagne"
   },
   {
-    "longitude": 4.86722,
-    "latitude": 45.72972,
+    "latitude": 4.86722,
+    "longitude": 45.72972,
     "name": "Tram Station T4 04",
     "city": "Lyon",
     "description": "Professeur Beauvisage"
   },
   {
-    "longitude": 4.88502,
-    "latitude": 45.75468,
+    "latitude": 4.88502,
+    "longitude": 45.75468,
     "name": "Tram Station T3 03",
     "city": "Lyon",
     "description": "Reconnaissance - Balzac"
   },
   {
-    "longitude": 4.87222,
-    "latitude": 45.69583,
+    "latitude": 4.87222,
+    "longitude": 45.69583,
     "name": "Tram Station T4 13",
     "city": "Lyon",
     "description": "V�nissy"
