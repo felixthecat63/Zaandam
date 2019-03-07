@@ -1,0 +1,7268 @@
+[
+  {
+    "longitude": 2.66375,
+    "latitude": 48.94556,
+    "name": "WiFi (free/gratuit)",
+    "city": "Claye-Souilly",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.84917,
+    "latitude": 45.74528,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "Quick rue Garibaldi"
+  },
+  {
+    "longitude": 6.24952,
+    "latitude": 43.12327,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Londe Les Maures Le Bar de l Etoile",
+    "description": ""
+  },
+  {
+    "longitude": 7.26544,
+    "latitude": 43.70468,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nice",
+    "description": "McDo Gare"
+  },
+  {
+    "longitude": 4.13587,
+    "latitude": 43.71601,
+    "name": "WiFi (free/gratuit)",
+    "city": "Villetelle",
+    "description": "Esso"
+  },
+  {
+    "longitude": 6.12861,
+    "latitude": 43.11917,
+    "name": "WiFi (free/gratuit)",
+    "city": "Hyeres",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.08699,
+    "latitude": 48.2733,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Julien les Villas",
+    "description": "McDo Marques Avenue"
+  },
+  {
+    "longitude": 3.4189,
+    "latitude": 43.45257,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pezenas",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.44414,
+    "latitude": 48.59401,
+    "name": "WiFi (free/gratuit)",
+    "city": "Aire de Villabe A6",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.38371,
+    "latitude": 43.28529,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "Quick Castellane"
+  },
+  {
+    "longitude": 4.39205,
+    "latitude": 45.42286,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Etienne",
+    "description": "McDo CC Centre Deux"
+  },
+  {
+    "longitude": 2.31263,
+    "latitude": 43.20921,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Fast Hotel"
+  },
+  {
+    "longitude": -1.62664,
+    "latitude": 47.22194,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Herblain",
+    "description": "Quick CC Atlantis"
+  },
+  {
+    "longitude": 2.36158,
+    "latitude": 48.86399,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mairie du 3eme et Maison des associations"
+  },
+  {
+    "longitude": -0.34304,
+    "latitude": 48.02688,
+    "name": "WiFi (free/gratuit)",
+    "city": "A81 aire Thorigne en Charnie (station essence)",
+    "description": ""
+  },
+  {
+    "longitude": 2.37572,
+    "latitude": 48.82935,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Jardin Cyprian Norwind"
+  },
+  {
+    "longitude": 2.36233,
+    "latitude": 48.84274,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Buffon"
+  },
+  {
+    "longitude": 2.32295,
+    "latitude": 48.86049,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Orsay"
+  },
+  {
+    "longitude": 5.71732,
+    "latitude": 45.15081,
+    "name": "WiFi (free/gratuit)",
+    "city": "Echirolles",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.85901,
+    "latitude": 46.77414,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chalon sur Saone",
+    "description": "McDo Sud"
+  },
+  {
+    "longitude": 4.27406,
+    "latitude": 45.37841,
+    "name": "WiFi (free/gratuit)",
+    "city": "Firminy",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.33838,
+    "latitude": 48.87165,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Columbus Cafe"
+  },
+  {
+    "longitude": 4.85762,
+    "latitude": 43.92282,
+    "name": "WiFi (free/gratuit)",
+    "city": "Avignon",
+    "description": "KFC Montfavet"
+  },
+  {
+    "longitude": 4.75242,
+    "latitude": 49.73342,
+    "name": "WiFi (free/gratuit)",
+    "city": "Charleville",
+    "description": "McDo"
+  },
+  {
+    "longitude": -0.93972,
+    "latitude": 45.31083,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lesparre-Medoc",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.32155,
+    "latitude": 48.83863,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Galerie Gaite"
+  },
+  {
+    "longitude": 2.29396,
+    "latitude": 48.7777,
+    "name": "WiFi (free/gratuit)",
+    "city": "Sceaux",
+    "description": "Salon de The (rue Houdan)"
+  },
+  {
+    "longitude": 6.57003,
+    "latitude": 45.40037,
+    "name": "WiFi (free/gratuit)",
+    "city": "Meribel",
+    "description": "Aux petits oignons"
+  },
+  {
+    "longitude": 7.01496,
+    "latitude": 43.552,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cannes",
+    "description": "McDo Les Allees"
+  },
+  {
+    "longitude": -0.10298,
+    "latitude": 49.2758,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dives sur Mer",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.61532,
+    "latitude": 43.81689,
+    "name": "WiFi (free/gratuit)",
+    "city": "Beaucaire",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.25544,
+    "latitude": 48.7867,
+    "name": "WiFi (free/gratuit)",
+    "city": "Clamart",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.32438,
+    "latitude": 49.06391,
+    "name": "WiFi (free/gratuit)",
+    "city": "Baillet en France",
+    "description": "Croix Verte"
+  },
+  {
+    "longitude": 1.92415,
+    "latitude": 48.74876,
+    "name": "WiFi (free/gratuit)",
+    "city": "Coignieres",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.0776,
+    "latitude": 45.0506,
+    "name": "WiFi (free/gratuit)",
+    "city": "Romans sur Isere",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.361,
+    "latitude": 48.73452,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dreux",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.42427,
+    "latitude": 46.19412,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Couarde sur Mer",
+    "description": "Office de tourisme"
+  },
+  {
+    "longitude": 2.67172,
+    "latitude": 48.55475,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rubelles",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.37768,
+    "latitude": 47.11182,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Doulchard",
+    "description": "McDo CC Geant"
+  },
+  {
+    "longitude": 6.65281,
+    "latitude": 44.38722,
+    "name": "WiFi (free/gratuit)",
+    "city": "Barcelonnette",
+    "description": "place Manuel"
+  },
+  {
+    "longitude": 5.76573,
+    "latitude": 45.18503,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Martin d Heres",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.68904,
+    "latitude": 45.2548,
+    "name": "WiFi (free/gratuit)",
+    "city": "Davezieux",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.33905,
+    "latitude": 45.44049,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Genest Lerpt",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.29064,
+    "latitude": 48.86995,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Elysee Foch"
+  },
+  {
+    "longitude": 7.5056,
+    "latitude": 43.77507,
+    "name": "WiFi (free/gratuit)",
+    "city": "Menton",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.35309,
+    "latitude": 48.84434,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Square des Arenes de Lutece"
+  },
+  {
+    "longitude": 6.36157,
+    "latitude": 48.60314,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dombasle",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.62715,
+    "latitude": 50.52521,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bethune",
+    "description": "Quick"
+  },
+  {
+    "longitude": 3.87035,
+    "latitude": 43.62948,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montpellier",
+    "description": "Quick Express Faculte"
+  },
+  {
+    "longitude": 4.7682,
+    "latitude": 48.55445,
+    "name": "WiFi (free/gratuit)",
+    "city": "Giffaumont Champaubert",
+    "description": "Office du Tourisme"
+  },
+  {
+    "longitude": 6.11143,
+    "latitude": 45.89636,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cran-Gevrier",
+    "description": "Quick"
+  },
+  {
+    "longitude": -1.05105,
+    "latitude": 43.72365,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Paul les Dax",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.96656,
+    "latitude": 44.14223,
+    "name": "WiFi (free/gratuit)",
+    "city": "Peipin",
+    "description": "McDo"
+  },
+  {
+    "longitude": 6.08241,
+    "latitude": 45.93301,
+    "name": "WiFi (free/gratuit)",
+    "city": "Epagny",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.29602,
+    "latitude": 48.75353,
+    "name": "WiFi (free/gratuit)",
+    "city": "Antony",
+    "description": "Mairie"
+  },
+  {
+    "longitude": 4.83284,
+    "latitude": 45.76762,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "Restaurant Opus (Place des Terreaux)"
+  },
+  {
+    "longitude": 2.23718,
+    "latitude": 48.89123,
+    "name": "WiFi (free/gratuit)",
+    "city": "Puteaux",
+    "description": "McDo CC les 4 Temps"
+  },
+  {
+    "longitude": -0.36158,
+    "latitude": 49.1832,
+    "name": "WiFi (free/gratuit)",
+    "city": "Caen",
+    "description": "McDo Centre"
+  },
+  {
+    "longitude": 2.30888,
+    "latitude": 48.85808,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Amelie"
+  },
+  {
+    "longitude": 1.89242,
+    "latitude": 47.94591,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saran",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.5466,
+    "latitude": 48.61555,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lieusaint",
+    "description": "McDo CC Carre Senart"
+  },
+  {
+    "longitude": 7.76556,
+    "latitude": 48.63091,
+    "name": "WiFi (free/gratuit)",
+    "city": "Hoenheim",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.05167,
+    "latitude": 47.35556,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dijon",
+    "description": "McDo CC de la Toison d Or"
+  },
+  {
+    "longitude": 0.29875,
+    "latitude": 46.54817,
+    "name": "WiFi (free/gratuit)",
+    "city": "Poitiers",
+    "description": "Quick Sud"
+  },
+  {
+    "longitude": 3.29167,
+    "latitude": 49.86417,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Quentin",
+    "description": "McDo CC Cora"
+  },
+  {
+    "longitude": 3.12934,
+    "latitude": 43.5952,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bedarieux",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.1033,
+    "latitude": 43.56822,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Grande Motte",
+    "description": "Hotel du Golf"
+  },
+  {
+    "longitude": 5.02945,
+    "latitude": 47.32327,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dijon",
+    "description": "Campanile Centre"
+  },
+  {
+    "longitude": 4.09546,
+    "latitude": 44.11161,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ales",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.32527,
+    "latitude": 48.88747,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo La Fourche"
+  },
+  {
+    "longitude": 5.70694,
+    "latitude": 48.37056,
+    "name": "WiFi (free/gratuit)",
+    "city": "Neufchateau",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.01374,
+    "latitude": 48.84075,
+    "name": "WiFi (free/gratuit)",
+    "city": "Villepreux",
+    "description": "Grands Maisons"
+  },
+  {
+    "longitude": 6.6281,
+    "latitude": 44.9038,
+    "name": "WiFi (free/gratuit)",
+    "city": "Briancon",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.70311,
+    "latitude": 47.42863,
+    "name": "WiFi (free/gratuit)",
+    "city": "Tours",
+    "description": "Quick Nord"
+  },
+  {
+    "longitude": 0.2133,
+    "latitude": 47.97797,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Mans",
+    "description": "Quick Sud"
+  },
+  {
+    "longitude": 4.88012,
+    "latitude": 43.97972,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Pontet",
+    "description": "Quick CC Avignon Nord"
+  },
+  {
+    "longitude": -0.32111,
+    "latitude": 45.69056,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cognac",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.37954,
+    "latitude": 44.03742,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montauban",
+    "description": "McDo Aussone"
+  },
+  {
+    "longitude": 3.57036,
+    "latitude": 47.7969,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auxerre",
+    "description": "Bar des Cordeliers 28 place des Cordeliers"
+  },
+  {
+    "longitude": 1.35982,
+    "latitude": 43.58942,
+    "name": "WiFi (free/gratuit)",
+    "city": "Tournefeuille",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.96748,
+    "latitude": 49.53654,
+    "name": "WiFi (free/gratuit)",
+    "city": "Barentin",
+    "description": "Quick ZAC du Mesnil Roux"
+  },
+  {
+    "longitude": 1.60525,
+    "latitude": 50.72415,
+    "name": "WiFi (free/gratuit)",
+    "city": "Boulogne sur Mer",
+    "description": "Metropole"
+  },
+  {
+    "longitude": 2.2962,
+    "latitude": 48.83732,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Convention"
+  },
+  {
+    "longitude": 2.95655,
+    "latitude": 48.37598,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montereau Fault Yonne",
+    "description": "McDo"
+  },
+  {
+    "longitude": 7.26553,
+    "latitude": 43.70455,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nice",
+    "description": "McDo Massena"
+  },
+  {
+    "longitude": 5.01638,
+    "latitude": 47.28025,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marsannay la Cote",
+    "description": "McDo"
+  },
+  {
+    "longitude": -0.53548,
+    "latitude": 44.79456,
+    "name": "WiFi (free/gratuit)",
+    "city": "Begles",
+    "description": "Quick CC Les Rives d Arcins"
+  },
+  {
+    "longitude": 0.26335,
+    "latitude": 49.14392,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lisieux",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.3791,
+    "latitude": 48.89271,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Benjamin Rabier"
+  },
+  {
+    "longitude": 1.32507,
+    "latitude": 45.12854,
+    "name": "WiFi (free/gratuit)",
+    "city": "Terrasson-Lavilledieu",
+    "description": "McDo"
+  },
+  {
+    "longitude": -0.26115,
+    "latitude": 49.26812,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ouistreham",
+    "description": "McDo CC Champion"
+  },
+  {
+    "longitude": 1.40487,
+    "latitude": 43.6869,
+    "name": "WiFi (free/gratuit)",
+    "city": "Fenouillet",
+    "description": "McDo"
+  },
+  {
+    "longitude": 6.36306,
+    "latitude": 45.65556,
+    "name": "WiFi (free/gratuit)",
+    "city": "Gilly sur Isere",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.32841,
+    "latitude": 47.60559,
+    "name": "WiFi (free/gratuit)",
+    "city": "Blois",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.30393,
+    "latitude": 48.86683,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Chambiges"
+  },
+  {
+    "longitude": 0.37615,
+    "latitude": 49.75916,
+    "name": "WiFi (free/gratuit)",
+    "city": "Fecamp",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.93131,
+    "latitude": 47.41355,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cosne sur Loire",
+    "description": "Tabac Hotel de la Gare"
+  },
+  {
+    "longitude": 2.43013,
+    "latitude": 48.93945,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Bourget",
+    "description": "Kyriad"
+  },
+  {
+    "longitude": 7.08708,
+    "latitude": 43.60345,
+    "name": "WiFi (free/gratuit)",
+    "city": "Antibes",
+    "description": "McDo CC Carrefour"
+  },
+  {
+    "longitude": 3.55114,
+    "latitude": 47.8489,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auxerre",
+    "description": "Hotel Premiere Classe rue d Athenes"
+  },
+  {
+    "longitude": 1.3757,
+    "latitude": 43.63709,
+    "name": "WiFi (free/gratuit)",
+    "city": "Blagnac",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.36364,
+    "latitude": 43.20647,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Hotel du Donjon"
+  },
+  {
+    "longitude": -0.70111,
+    "latitude": 49.28427,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bayeux",
+    "description": "McDo"
+  },
+  {
+    "longitude": 7.36354,
+    "latitude": 48.12852,
+    "name": "WiFi (free/gratuit)",
+    "city": "Houssen",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.29582,
+    "latitude": 48.8764,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Neva"
+  },
+  {
+    "longitude": 5.3975,
+    "latitude": 43.50639,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Pioline",
+    "description": "McDo Aix les Milles"
+  },
+  {
+    "longitude": 1.46368,
+    "latitude": 49.09698,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vernon",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.597,
+    "latitude": 47.1589,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nantes",
+    "description": "Aeroport (Oceania)"
+  },
+  {
+    "longitude": 5.75417,
+    "latitude": 49.51778,
+    "name": "WiFi (free/gratuit)",
+    "city": "Longwy",
+    "description": "McDo Pulventeux"
+  },
+  {
+    "longitude": 2.30427,
+    "latitude": 49.89121,
+    "name": "WiFi (free/gratuit)",
+    "city": "Amiens",
+    "description": "Grand Hotel de l Univers"
+  },
+  {
+    "longitude": 2.25347,
+    "latitude": 49.15293,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chambly",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.08284,
+    "latitude": 45.59401,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montbrison",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.54579,
+    "latitude": 48.52052,
+    "name": "WiFi (free/gratuit)",
+    "city": "Mortagne au Perche",
+    "description": "Office du Tourisme"
+  },
+  {
+    "longitude": 0.17041,
+    "latitude": 48.05048,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Saturnin",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.87886,
+    "latitude": 46.84616,
+    "name": "WiFi (free/gratuit)",
+    "city": "Challans",
+    "description": "Bar Le Marais"
+  },
+  {
+    "longitude": -1.76714,
+    "latitude": 48.14002,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pace",
+    "description": "McDo Rennes Pace"
+  },
+  {
+    "longitude": -3.91533,
+    "latitude": 47.89008,
+    "name": "WiFi (free/gratuit)",
+    "city": "Concarneau",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.35552,
+    "latitude": 43.21376,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Brasserie du Palais"
+  },
+  {
+    "longitude": 2.4337,
+    "latitude": 48.991,
+    "name": "WiFi (free/gratuit)",
+    "city": "Gonesse",
+    "description": "McDo"
+  },
+  {
+    "longitude": 3.57,
+    "latitude": 47.7964,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auxerre",
+    "description": "Le Subway 9 place des Cordeliers"
+  },
+  {
+    "longitude": 4.83904,
+    "latitude": 43.92786,
+    "name": "WiFi (free/gratuit)",
+    "city": "Avignon",
+    "description": "Quick CC Cap Sud"
+  },
+  {
+    "longitude": -1.31527,
+    "latitude": 46.15289,
+    "name": "WiFi (free/gratuit)",
+    "city": "Sainte Marie de Re",
+    "description": "Office de tourisme"
+  },
+  {
+    "longitude": 2.2186,
+    "latitude": 48.92281,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bezons",
+    "description": "McDo Pont de Bezons"
+  },
+  {
+    "longitude": 5.06467,
+    "latitude": 47.33912,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dijon",
+    "description": "McDo Nord-Est"
+  },
+  {
+    "longitude": 2.33997,
+    "latitude": 48.87656,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Lamartine Opera"
+  },
+  {
+    "longitude": 7.27446,
+    "latitude": 43.69941,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nice",
+    "description": "Thugs Cafe"
+  },
+  {
+    "longitude": 2.77695,
+    "latitude": 50.42326,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lievin",
+    "description": "Quick"
+  },
+  {
+    "longitude": 2.579,
+    "latitude": 50.49479,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bruay La Bussiere",
+    "description": "La Boucherie"
+  },
+  {
+    "longitude": 2.33514,
+    "latitude": 48.87111,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Opera"
+  },
+  {
+    "longitude": 5.72741,
+    "latitude": 45.19084,
+    "name": "WiFi (free/gratuit)",
+    "city": "Grenoble",
+    "description": "Place Grenette (id:grenoble-mdp:wifi)"
+  },
+  {
+    "longitude": 4.02946,
+    "latitude": 48.29114,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chantereigne",
+    "description": ""
+  },
+  {
+    "longitude": 6.87139,
+    "latitude": 45.92335,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chamonix",
+    "description": "McDo"
+  },
+  {
+    "longitude": 6.97306,
+    "latitude": 43.61579,
+    "name": "WiFi (free/gratuit)",
+    "city": "Mougins",
+    "description": "McDo"
+  },
+  {
+    "longitude": -0.54397,
+    "latitude": 47.4891,
+    "name": "WiFi (free/gratuit)",
+    "city": "Angers",
+    "description": "McDo CC Saint Serge"
+  },
+  {
+    "longitude": 3.26126,
+    "latitude": 49.64336,
+    "name": "WiFi (free/gratuit)",
+    "city": "Viry Noureuil",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.07035,
+    "latitude": 49.05087,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cergy",
+    "description": "Hotel Beaux Soleils"
+  },
+  {
+    "longitude": 6.1379,
+    "latitude": 49.35813,
+    "name": "WiFi (free/gratuit)",
+    "city": "Thionville",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.99337,
+    "latitude": 45.78677,
+    "name": "WiFi (free/gratuit)",
+    "city": "Meyzieu",
+    "description": "Mont Joyeux"
+  },
+  {
+    "longitude": 2.37084,
+    "latitude": 48.84586,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Aurore"
+  },
+  {
+    "longitude": 3.10555,
+    "latitude": 45.78861,
+    "name": "WiFi (free/gratuit)",
+    "city": "Clermont-Ferrand",
+    "description": "McDo Le Stade"
+  },
+  {
+    "longitude": 2.3405,
+    "latitude": 48.86685,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mairie du 2eme arrondissement"
+  },
+  {
+    "longitude": 2.32555,
+    "latitude": 48.83261,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Square Aspirant Dunand"
+  },
+  {
+    "longitude": 6.01821,
+    "latitude": 43.14056,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Garde",
+    "description": "McDo CC Grand Var Est"
+  },
+  {
+    "longitude": 2.3173,
+    "latitude": 48.88672,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Square des Batignolles"
+  },
+  {
+    "longitude": 2.68272,
+    "latitude": 48.87053,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lagny sur Marne",
+    "description": "McDo"
+  },
+  {
+    "longitude": 7.70538,
+    "latitude": 48.52153,
+    "name": "WiFi (free/gratuit)",
+    "city": "Illkirch-Graffenstaden",
+    "description": ""
+  },
+  {
+    "longitude": -1.64045,
+    "latitude": 48.13024,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rennes",
+    "description": "McDo Longchamps"
+  },
+  {
+    "longitude": 2.32418,
+    "latitude": 48.87311,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Fortuny"
+  },
+  {
+    "longitude": -3.62995,
+    "latitude": 47.81133,
+    "name": "WiFi (free/gratuit)",
+    "city": "Moelan sur Mer",
+    "description": "CC Intermarche"
+  },
+  {
+    "longitude": 1.2592,
+    "latitude": 45.82666,
+    "name": "WiFi (free/gratuit)",
+    "city": "Limoges",
+    "description": "BFM"
+  },
+  {
+    "longitude": -0.52344,
+    "latitude": 47.46668,
+    "name": "WiFi (free/gratuit)",
+    "city": "Angers",
+    "description": "CC espace Anjou"
+  },
+  {
+    "longitude": 5.40056,
+    "latitude": 43.27306,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "McDo Sainte Marguerite"
+  },
+  {
+    "longitude": 5.72849,
+    "latitude": 45.19303,
+    "name": "WiFi (free/gratuit)",
+    "city": "Grenoble",
+    "description": "Place Saint Andre (id:grenoble-mdp:wifi)"
+  },
+  {
+    "longitude": -3.36464,
+    "latitude": 47.74785,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lorient",
+    "description": "McDo Centre"
+  },
+  {
+    "longitude": 6.8133,
+    "latitude": 47.5031,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montbeliard",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.22903,
+    "latitude": 43.41814,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Victoret",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.94328,
+    "latitude": 45.85914,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rumilly",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.28993,
+    "latitude": 48.96348,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Gratien",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.2636,
+    "latitude": 43.43094,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vitrolles",
+    "description": "McDo"
+  },
+  {
+    "longitude": 7.26601,
+    "latitude": 43.69511,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nice",
+    "description": "McDo Promenade"
+  },
+  {
+    "longitude": 2.34738,
+    "latitude": 48.87656,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Montholon"
+  },
+  {
+    "longitude": -1.39185,
+    "latitude": 46.18344,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Bois-Plage en Re",
+    "description": "Office de tourisme"
+  },
+  {
+    "longitude": 5.89796,
+    "latitude": 45.59265,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chambery",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.34616,
+    "latitude": 48.7465,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dreux",
+    "description": "McDo Ouest"
+  },
+  {
+    "longitude": -0.48883,
+    "latitude": 44.90569,
+    "name": "WiFi (free/gratuit)",
+    "city": "Sainte Eulalie",
+    "description": "Flunch"
+  },
+  {
+    "longitude": 2.37335,
+    "latitude": 48.85197,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Columbus Cafe"
+  },
+  {
+    "longitude": 2.08895,
+    "latitude": 48.89798,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Germain en Laye",
+    "description": "place du Marche"
+  },
+  {
+    "longitude": 2.37075,
+    "latitude": 48.87718,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Francois Villon"
+  },
+  {
+    "longitude": 2.34972,
+    "latitude": 43.21266,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Alerte rouge"
+  },
+  {
+    "longitude": 2.60267,
+    "latitude": 48.87656,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chelles",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.34254,
+    "latitude": 48.8431,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Comfort Andre Latin"
+  },
+  {
+    "longitude": 2.29871,
+    "latitude": 48.83151,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Parc Georges Brassens"
+  },
+  {
+    "longitude": 5.40111,
+    "latitude": 43.30306,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "McDo Blancarde"
+  },
+  {
+    "longitude": 1.4681,
+    "latitude": 43.55401,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ramonville Saint Agne",
+    "description": "McDo Toulouse Rangueil"
+  },
+  {
+    "longitude": 6.14674,
+    "latitude": 49.19174,
+    "name": "WiFi (free/gratuit)",
+    "city": "Semecourt",
+    "description": "McDo"
+  },
+  {
+    "longitude": -0.55478,
+    "latitude": 47.451,
+    "name": "WiFi (free/gratuit)",
+    "city": "Angers",
+    "description": "McDo CC La Roseraie"
+  },
+  {
+    "longitude": 2.36411,
+    "latitude": 47.06046,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bourges",
+    "description": "McDo Aeroport"
+  },
+  {
+    "longitude": 0.17077,
+    "latitude": 48.05024,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Saturnin",
+    "description": "Quick"
+  },
+  {
+    "longitude": 1.6295,
+    "latitude": 43.1032,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pamiers",
+    "description": "McDo"
+  },
+  {
+    "longitude": 6.17498,
+    "latitude": 49.11856,
+    "name": "WiFi (free/gratuit)",
+    "city": "Metz",
+    "description": "McDo Palais Centre-Ville"
+  },
+  {
+    "longitude": 7.21332,
+    "latitude": 43.66525,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nice",
+    "description": "Aeroport 1"
+  },
+  {
+    "longitude": 2.32571,
+    "latitude": 48.83365,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Georges Brassens"
+  },
+  {
+    "longitude": 2.34365,
+    "latitude": 48.88342,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Columbus Cafe"
+  },
+  {
+    "longitude": 2.33513,
+    "latitude": 48.88591,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Arts"
+  },
+  {
+    "longitude": 2.34042,
+    "latitude": 48.87251,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mairie du 9eme"
+  },
+  {
+    "longitude": 2.33898,
+    "latitude": 48.83917,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Port-Royal"
+  },
+  {
+    "longitude": 2.22586,
+    "latitude": 48.90113,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nanterre",
+    "description": "McDo Prefecture"
+  },
+  {
+    "longitude": 1.56092,
+    "latitude": 45.16899,
+    "name": "WiFi (free/gratuit)",
+    "city": "Malemort sur Correze",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.98147,
+    "latitude": 47.17272,
+    "name": "WiFi (free/gratuit)",
+    "city": "Gilly les Citeaux",
+    "description": "Chateau de Gilly"
+  },
+  {
+    "longitude": 3.88028,
+    "latitude": 43.60867,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montpellier",
+    "description": "Quick"
+  },
+  {
+    "longitude": 8.75508,
+    "latitude": 42.55487,
+    "name": "WiFi (free/gratuit)",
+    "city": "Calvi",
+    "description": "Corsica"
+  },
+  {
+    "longitude": 3.95495,
+    "latitude": 49.04183,
+    "name": "WiFi (free/gratuit)",
+    "city": "Epernay",
+    "description": "Champagne"
+  },
+  {
+    "longitude": -1.68032,
+    "latitude": 48.1098,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rennes",
+    "description": "Quick Centre-Ville"
+  },
+  {
+    "longitude": -1.40338,
+    "latitude": 47.7011,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chateaubriant",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.21541,
+    "latitude": 47.97528,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Mans",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.3299,
+    "latitude": 48.8429,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Brea"
+  },
+  {
+    "longitude": -4.08663,
+    "latitude": 48.01671,
+    "name": "WiFi (free/gratuit)",
+    "city": "Quimper",
+    "description": "McDo Gourvily"
+  },
+  {
+    "longitude": 6.3337,
+    "latitude": 46.91028,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pontarlier",
+    "description": "McDo"
+  },
+  {
+    "longitude": 9.43708,
+    "latitude": 41.99873,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ghisonaccia",
+    "description": "Camping U Casone"
+  },
+  {
+    "longitude": -1.36703,
+    "latitude": 48.69064,
+    "name": "WiFi (free/gratuit)",
+    "city": "Avranches",
+    "description": "McDo"
+  },
+  {
+    "longitude": 3.51256,
+    "latitude": 50.33268,
+    "name": "WiFi (free/gratuit)",
+    "city": "Aulnoy les Valenciennes",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.4,
+    "latitude": 43.29556,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "McDo Chave"
+  },
+  {
+    "longitude": -1.73967,
+    "latitude": 48.0553,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bruz Ker Lann",
+    "description": "McDo"
+  },
+  {
+    "longitude": -3.34248,
+    "latitude": 47.77918,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lanester",
+    "description": "Quick"
+  },
+  {
+    "longitude": 2.35731,
+    "latitude": 48.8718,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Chateau d Eau"
+  },
+  {
+    "longitude": 6.6294,
+    "latitude": 45.9523,
+    "name": "WiFi (free/gratuit)",
+    "city": "Sallanches",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.27873,
+    "latitude": 48.84019,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Guthenberg"
+  },
+  {
+    "longitude": 2.13658,
+    "latitude": 48.92474,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montesson",
+    "description": "Centre Commercial"
+  },
+  {
+    "longitude": 2.35736,
+    "latitude": 43.2102,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Hotel des trois Couronnes"
+  },
+  {
+    "longitude": 2.1172,
+    "latitude": 43.91903,
+    "name": "WiFi (free/gratuit)",
+    "city": "Albi",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.29438,
+    "latitude": 48.87617,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Cecilia"
+  },
+  {
+    "longitude": -0.39092,
+    "latitude": 49.20354,
+    "name": "WiFi (free/gratuit)",
+    "city": "Caen",
+    "description": "Crocus Hotel"
+  },
+  {
+    "longitude": 3.5774,
+    "latitude": 47.79723,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auxerre",
+    "description": "Aquarelle Port de plaisance"
+  },
+  {
+    "longitude": 5.10044,
+    "latitude": 43.63131,
+    "name": "WiFi (free/gratuit)",
+    "city": "Salon de Provence",
+    "description": "Quick"
+  },
+  {
+    "longitude": 3.5744,
+    "latitude": 47.79888,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auxerre",
+    "description": "Maxime"
+  },
+  {
+    "longitude": 2.56402,
+    "latitude": 50.26384,
+    "name": "WiFi (free/gratuit)",
+    "city": "Courrieres",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.38876,
+    "latitude": 48.84236,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Jardin De Reuilly"
+  },
+  {
+    "longitude": 3.56659,
+    "latitude": 47.79131,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auxerre",
+    "description": "Le Cygne"
+  },
+  {
+    "longitude": 3.553,
+    "latitude": 47.84893,
+    "name": "WiFi (free/gratuit)",
+    "city": "Moneteau",
+    "description": "hotel B&B"
+  },
+  {
+    "longitude": 6.22397,
+    "latitude": 48.70124,
+    "name": "WiFi (free/gratuit)",
+    "city": "Essey les Nancy",
+    "description": "McDo"
+  },
+  {
+    "longitude": 7.73884,
+    "latitude": 48.58497,
+    "name": "WiFi (free/gratuit)",
+    "city": "Strasbourg",
+    "description": "Monopole Metropole"
+  },
+  {
+    "longitude": 2.32704,
+    "latitude": 48.8328,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mairie du 14eme"
+  },
+  {
+    "longitude": 2.33854,
+    "latitude": 48.85325,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Left Bank Saint Germain"
+  },
+  {
+    "longitude": 4.78961,
+    "latitude": 46.25292,
+    "name": "WiFi (free/gratuit)",
+    "city": "Creches sur Saone",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.84284,
+    "latitude": 49.16493,
+    "name": "WiFi (free/gratuit)",
+    "city": "Conflans en Jarnisy",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.31306,
+    "latitude": 43.20806,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Hotel Balladins"
+  },
+  {
+    "longitude": 0.07104,
+    "latitude": 49.3562,
+    "name": "WiFi (free/gratuit)",
+    "city": "Deauville",
+    "description": "Ak Hotel"
+  },
+  {
+    "longitude": -0.25472,
+    "latitude": 44.54306,
+    "name": "WiFi (free/gratuit)",
+    "city": "Langon",
+    "description": "McDo CC Leclerc"
+  },
+  {
+    "longitude": 5.04624,
+    "latitude": 43.43044,
+    "name": "WiFi (free/gratuit)",
+    "city": "Martiques",
+    "description": "Quick"
+  },
+  {
+    "longitude": 5.14003,
+    "latitude": 48.10837,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chaumont",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.27755,
+    "latitude": 49.86246,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dury les Amiens",
+    "description": "McDo"
+  },
+  {
+    "longitude": 7.00875,
+    "latitude": 43.64258,
+    "name": "WiFi (free/gratuit)",
+    "city": "Valbonne",
+    "description": "Player s Cafe"
+  },
+  {
+    "longitude": 2.70547,
+    "latitude": 48.83248,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bussy Saint Georges hotel Premi�re Classe",
+    "description": ""
+  },
+  {
+    "longitude": 1.07758,
+    "latitude": 49.91082,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dieppe",
+    "description": "Quick CC Belvedere"
+  },
+  {
+    "longitude": 5.33173,
+    "latitude": 47.84445,
+    "name": "WiFi (free/gratuit)",
+    "city": "Langres",
+    "description": "McDo"
+  },
+  {
+    "longitude": -0.59621,
+    "latitude": 44.82963,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bordeaux",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.28581,
+    "latitude": 48.84945,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Beaugrenelle"
+  },
+  {
+    "longitude": 2.34412,
+    "latitude": 48.87599,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Cadet"
+  },
+  {
+    "longitude": 6.12404,
+    "latitude": 45.9257,
+    "name": "WiFi (free/gratuit)",
+    "city": "Annecy",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.7737,
+    "latitude": 45.7347,
+    "name": "WiFi (free/gratuit)",
+    "city": "Francheville",
+    "description": "McDo CC Taffignon"
+  },
+  {
+    "longitude": -1.93394,
+    "latitude": 46.69576,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Gilles Croix de Vie",
+    "description": "Cafe du port"
+  },
+  {
+    "longitude": 4.22623,
+    "latitude": 45.7197,
+    "name": "WiFi (free/gratuit)",
+    "city": "Feurs",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.33368,
+    "latitude": 48.86321,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo rue de Rivoli"
+  },
+  {
+    "longitude": 2.28538,
+    "latitude": 48.84691,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo 48 rue de Linois"
+  },
+  {
+    "longitude": 1.49426,
+    "latitude": 43.57329,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montaudran",
+    "description": "McDo Toulouse Montaudran"
+  },
+  {
+    "longitude": -0.61701,
+    "latitude": 49.33887,
+    "name": "WiFi (free/gratuit)",
+    "city": "Arromanche",
+    "description": "Arromanche 360"
+  },
+  {
+    "longitude": -3.94639,
+    "latitude": 48.52099,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Thegonnec",
+    "description": "auberge"
+  },
+  {
+    "longitude": 2.38722,
+    "latitude": 48.8704,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque des Couronnes"
+  },
+  {
+    "longitude": -0.36219,
+    "latitude": 49.21002,
+    "name": "WiFi (free/gratuit)",
+    "city": "Caen",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.34648,
+    "latitude": 48.87618,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Anjou Lafayette"
+  },
+  {
+    "longitude": 5.81611,
+    "latitude": 43.10528,
+    "name": "WiFi (free/gratuit)",
+    "city": "Six Fours les plages",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.38293,
+    "latitude": 48.83501,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Parc de Bercy"
+  },
+  {
+    "longitude": -1.49308,
+    "latitude": 46.24916,
+    "name": "WiFi (free/gratuit)",
+    "city": "Les Portes en Re",
+    "description": "Office de tourisme"
+  },
+  {
+    "longitude": -2.39766,
+    "latitude": 47.29375,
+    "name": "WiFi (free/gratuit)",
+    "city": "Guerande",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.31827,
+    "latitude": 48.87317,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Paix Madeleine"
+  },
+  {
+    "longitude": -1.69017,
+    "latitude": 48.13208,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rennes",
+    "description": "McDo Saint Gregoire"
+  },
+  {
+    "longitude": 2.24301,
+    "latitude": 48.83412,
+    "name": "WiFi (free/gratuit)",
+    "city": "Boulogne-Billancourt",
+    "description": "McDo"
+  },
+  {
+    "longitude": 3.51534,
+    "latitude": 47.96398,
+    "name": "WiFi (free/gratuit)",
+    "city": "Migennes",
+    "description": "MicroStar 53 avenue Jean Jaures"
+  },
+  {
+    "longitude": 1.95316,
+    "latitude": 48.94201,
+    "name": "WiFi (free/gratuit)",
+    "city": "Morainvilliers",
+    "description": "Autogrill Aire de Service de Morainvilliers Nord"
+  },
+  {
+    "longitude": 1.48181,
+    "latitude": 45.14665,
+    "name": "WiFi (free/gratuit)",
+    "city": "Brive la Gaillarde",
+    "description": "McDo"
+  },
+  {
+    "longitude": 6.00449,
+    "latitude": 43.13701,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Valette du Var",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.72901,
+    "latitude": 45.15857,
+    "name": "WiFi (free/gratuit)",
+    "city": "Echirolles",
+    "description": "Quick CC Grand Place"
+  },
+  {
+    "longitude": 1.07917,
+    "latitude": 49.91111,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dieppe",
+    "description": "McDo CC Belvedere"
+  },
+  {
+    "longitude": 7.18752,
+    "latitude": 43.72091,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nice",
+    "description": "McDo Lingostiere"
+  },
+  {
+    "longitude": 5.40725,
+    "latitude": 49.146,
+    "name": "WiFi (free/gratuit)",
+    "city": "Verdun",
+    "description": "McDo"
+  },
+  {
+    "longitude": -0.4803,
+    "latitude": 43.9028,
+    "name": "WiFi (free/gratuit)",
+    "city": "Mont de Marsan",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.78248,
+    "latitude": 48.85494,
+    "name": "WiFi (free/gratuit)",
+    "city": "Serris",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.50234,
+    "latitude": 48.22488,
+    "name": "WiFi (free/gratuit)",
+    "city": "Liffre",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.8051,
+    "latitude": 45.34,
+    "name": "WiFi (free/gratuit)",
+    "city": "Salaise sur Sanne",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.86594,
+    "latitude": 46.41958,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Albain",
+    "description": "Quick A6 Aire de Macon Saint Albain (2 sens)"
+  },
+  {
+    "longitude": 2.35193,
+    "latitude": 43.2163,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "McDo Gare"
+  },
+  {
+    "longitude": 3.26389,
+    "latitude": 43.34078,
+    "name": "WiFi (free/gratuit)",
+    "city": "Beziers",
+    "description": "Quick CC Montimaran"
+  },
+  {
+    "longitude": 1.82764,
+    "latitude": 48.62813,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rambouillet",
+    "description": "Flunch"
+  },
+  {
+    "longitude": 3.09606,
+    "latitude": 43.10589,
+    "name": "WiFi (free/gratuit)",
+    "city": "Gruissan",
+    "description": "Hotel du Port"
+  },
+  {
+    "longitude": 4.78519,
+    "latitude": 45.80206,
+    "name": "WiFi (free/gratuit)",
+    "city": "Champagne au Mont d Or",
+    "description": "McDo"
+  },
+  {
+    "longitude": -4.48838,
+    "latitude": 48.38091,
+    "name": "WiFi (free/gratuit)",
+    "city": "Brest",
+    "description": "restaurant Viromania"
+  },
+  {
+    "longitude": 0.17886,
+    "latitude": 44.84468,
+    "name": "WiFi (free/gratuit)",
+    "city": "Port Sainte Foy et Ponchapt",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.09979,
+    "latitude": 44.05705,
+    "name": "WiFi (free/gratuit)",
+    "city": "Castelsarrasin",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.85613,
+    "latitude": 45.76228,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "McDo CC La Part-Dieu niv.1"
+  },
+  {
+    "longitude": 4.39993,
+    "latitude": 45.46441,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Etienne",
+    "description": "McDo Le stade"
+  },
+  {
+    "longitude": 2.07192,
+    "latitude": 49.04219,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cergy",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.39975,
+    "latitude": 43.32974,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "Quick CC Le Merlan"
+  },
+  {
+    "longitude": 0.6929,
+    "latitude": 47.3895,
+    "name": "WiFi (free/gratuit)",
+    "city": "Tours",
+    "description": "McDo Centre ville"
+  },
+  {
+    "longitude": -0.57084,
+    "latitude": 44.77799,
+    "name": "WiFi (free/gratuit)",
+    "city": "Villenave d Ornon",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.44191,
+    "latitude": 45.48177,
+    "name": "WiFi (free/gratuit)",
+    "city": "Sorbiers",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.32781,
+    "latitude": 48.88246,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Aurore Montmartre"
+  },
+  {
+    "longitude": -0.57417,
+    "latitude": 44.84083,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bordeaux",
+    "description": "McDo Sainte Catherine"
+  },
+  {
+    "longitude": 2.33641,
+    "latitude": 48.86485,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Louvre Piemont"
+  },
+  {
+    "longitude": 2.4553,
+    "latitude": 48.78291,
+    "name": "WiFi (free/gratuit)",
+    "city": "Creteil",
+    "description": "Quick avenue de la Breche"
+  },
+  {
+    "longitude": 0.44885,
+    "latitude": 44.83523,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bergerac",
+    "description": "McDo La Cavaille"
+  },
+  {
+    "longitude": 2.15512,
+    "latitude": 43.95481,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lescure d Albigeois",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.08829,
+    "latitude": 48.40543,
+    "name": "WiFi (free/gratuit)",
+    "city": "Alencon",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.49648,
+    "latitude": 48.70759,
+    "name": "WiFi (free/gratuit)",
+    "city": "Yerres",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.70331,
+    "latitude": 45.85595,
+    "name": "WiFi (free/gratuit)",
+    "city": "Civrieux d Azergues",
+    "description": "McDo"
+  },
+  {
+    "longitude": 6.50654,
+    "latitude": 43.96454,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Andre les Alpes",
+    "description": "Hotel Lac et Foret"
+  },
+  {
+    "longitude": 1.90467,
+    "latitude": 47.907,
+    "name": "WiFi (free/gratuit)",
+    "city": "Orleans",
+    "description": "Quick CC Place d Arc"
+  },
+  {
+    "longitude": 2.36016,
+    "latitude": 48.87313,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Eden Magenta"
+  },
+  {
+    "longitude": 2.296,
+    "latitude": 48.8421,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Square saint lambert"
+  },
+  {
+    "longitude": 2.34317,
+    "latitude": 48.87306,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Madrid"
+  },
+  {
+    "longitude": 2.35837,
+    "latitude": 48.82828,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Parc de Choisy"
+  },
+  {
+    "longitude": 4.87995,
+    "latitude": 45.71271,
+    "name": "WiFi (free/gratuit)",
+    "city": "Venissieux",
+    "description": "McDo Curie"
+  },
+  {
+    "longitude": 7.40402,
+    "latitude": 48.23244,
+    "name": "WiFi (free/gratuit)",
+    "city": "Orschwiller",
+    "description": "Leclerc Station sur A35"
+  },
+  {
+    "longitude": 2.39999,
+    "latitude": 48.87213,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Saint Fargeau"
+  },
+  {
+    "longitude": 2.35635,
+    "latitude": 48.83076,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Place d Italie"
+  },
+  {
+    "longitude": 0.10659,
+    "latitude": 49.49103,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Havre",
+    "description": "Hotel de Bordeaux"
+  },
+  {
+    "longitude": 5.9919,
+    "latitude": 46.2272,
+    "name": "WiFi (free/gratuit)",
+    "city": "Thoiry",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.0543,
+    "latitude": 43.4217,
+    "name": "WiFi (free/gratuit)",
+    "city": "Martigues",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.61361,
+    "latitude": 44.19,
+    "name": "WiFi (free/gratuit)",
+    "city": "Agen",
+    "description": "McDo"
+  },
+  {
+    "longitude": 6.95606,
+    "latitude": 43.55178,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cannes",
+    "description": "McDo La Bocca"
+  },
+  {
+    "longitude": 7.76154,
+    "latitude": 48.58567,
+    "name": "WiFi (free/gratuit)",
+    "city": "Strasbourg",
+    "description": "Cafe Brant"
+  },
+  {
+    "longitude": 2.51572,
+    "latitude": 48.99814,
+    "name": "WiFi (free/gratuit)",
+    "city": "Roissy",
+    "description": "Hotel 1ere Classe"
+  },
+  {
+    "longitude": 3.13225,
+    "latitude": 45.75083,
+    "name": "WiFi (free/gratuit)",
+    "city": "Aubiere",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.00619,
+    "latitude": 44.93752,
+    "name": "WiFi (free/gratuit)",
+    "city": "Les Eyzies",
+    "description": "Camping La Riviere"
+  },
+  {
+    "longitude": 2.35616,
+    "latitude": 48.82991,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo CC Italie 2"
+  },
+  {
+    "longitude": 5.36026,
+    "latitude": 43.34117,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "Quick Saint Louis"
+  },
+  {
+    "longitude": 2.35739,
+    "latitude": 43.2116,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Ibis Carcassonne Centre"
+  },
+  {
+    "longitude": 4.4047,
+    "latitude": 44.6163,
+    "name": "WiFi (free/gratuit)",
+    "city": "Aubenas",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.14153,
+    "latitude": 44.50937,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marmande",
+    "description": "McDo"
+  },
+  {
+    "longitude": 7.26498,
+    "latitude": 43.69667,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nice",
+    "description": "Quick Halevy"
+  },
+  {
+    "longitude": 4.80972,
+    "latitude": 45.31583,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chanas",
+    "description": "Campanile"
+  },
+  {
+    "longitude": 2.29827,
+    "latitude": 48.88152,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Flaubert"
+  },
+  {
+    "longitude": 4.73429,
+    "latitude": 45.99844,
+    "name": "WiFi (free/gratuit)",
+    "city": "Villefranche sur Saone",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.36649,
+    "latitude": 48.82678,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Jean-Pierre Melville"
+  },
+  {
+    "longitude": -1.20962,
+    "latitude": 48.12041,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vitre",
+    "description": "McDo"
+  },
+  {
+    "longitude": 7.74871,
+    "latitude": 48.57992,
+    "name": "WiFi (free/gratuit)",
+    "city": "Strasbourg",
+    "description": "Bar L Exils"
+  },
+  {
+    "longitude": 2.26348,
+    "latitude": 48.84214,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Musset"
+  },
+  {
+    "longitude": 1.61294,
+    "latitude": 47.76691,
+    "name": "WiFi (free/gratuit)",
+    "city": "Beaugency",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.38333,
+    "latitude": 43.28694,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "McDo rue de Rome"
+  },
+  {
+    "longitude": 1.95239,
+    "latitude": 48.94179,
+    "name": "WiFi (free/gratuit)",
+    "city": "Moraiwilliers",
+    "description": "Total (both sides)"
+  },
+  {
+    "longitude": 9.52976,
+    "latitude": 42.37409,
+    "name": "WiFi (free/gratuit)",
+    "city": "Mariani Plage",
+    "description": "Office du Tourisme : ticket a prendre"
+  },
+  {
+    "longitude": -1.61937,
+    "latitude": 48.06322,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vern sur Seiche",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.15325,
+    "latitude": 46.14818,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Rochelle",
+    "description": "McDo Aquarium-Les Minimes"
+  },
+  {
+    "longitude": 5.37599,
+    "latitude": 43.25505,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "Quick Borely"
+  },
+  {
+    "longitude": 3.41883,
+    "latitude": 50.38309,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lille",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.91273,
+    "latitude": 47.86794,
+    "name": "WiFi (free/gratuit)",
+    "city": "Olivet",
+    "description": "Quick"
+  },
+  {
+    "longitude": 0.22462,
+    "latitude": 47.99743,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Mans",
+    "description": "Kyriad"
+  },
+  {
+    "longitude": 2.32584,
+    "latitude": 48.87185,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Massena"
+  },
+  {
+    "longitude": -1.09856,
+    "latitude": 49.31112,
+    "name": "WiFi (free/gratuit)",
+    "city": "Isigny sur Mer",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.35639,
+    "latitude": 48.87608,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Gare de l Est"
+  },
+  {
+    "longitude": 5.13133,
+    "latitude": 43.39413,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chateauneuf les Martigues",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.35315,
+    "latitude": 43.81878,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nimes",
+    "description": "Quick DI"
+  },
+  {
+    "longitude": 5.0556,
+    "latitude": 45.038,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bourg de Peage",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.28229,
+    "latitude": 47.09756,
+    "name": "WiFi (free/gratuit)",
+    "city": "Clisson",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.36438,
+    "latitude": 48.82049,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Porte de Choisy"
+  },
+  {
+    "longitude": 2.29912,
+    "latitude": 48.7159,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chilly Mazarin",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.25771,
+    "latitude": 48.83802,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Porte de Saint Cloud"
+  },
+  {
+    "longitude": 2.30303,
+    "latitude": 48.87766,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Courcelles et  Bibliotheque Europe"
+  },
+  {
+    "longitude": 1.62429,
+    "latitude": 42.94893,
+    "name": "WiFi (free/gratuit)",
+    "city": "Foix",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.84819,
+    "latitude": 46.1824,
+    "name": "WiFi (free/gratuit)",
+    "city": "Gueret",
+    "description": "Aire des Monts de Gueret"
+  },
+  {
+    "longitude": -1.18065,
+    "latitude": 48.34562,
+    "name": "WiFi (free/gratuit)",
+    "city": "Fougeres",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.12461,
+    "latitude": 45.63484,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Michel",
+    "description": "Quick Angouleme"
+  },
+  {
+    "longitude": 4.6362,
+    "latitude": 43.66663,
+    "name": "WiFi (free/gratuit)",
+    "city": "Arles",
+    "description": "McDo CC Fourchon"
+  },
+  {
+    "longitude": 2.38611,
+    "latitude": 43.49861,
+    "name": "WiFi (free/gratuit)",
+    "city": "Mazamet",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.2998,
+    "latitude": 48.84165,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mairie du 15eme"
+  },
+  {
+    "longitude": 2.09147,
+    "latitude": 47.23936,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vierzon",
+    "description": "McDo CC Carrefour"
+  },
+  {
+    "longitude": 3.89032,
+    "latitude": 43.58809,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montpellier",
+    "description": "Quick pres d Arenes"
+  },
+  {
+    "longitude": 2.33903,
+    "latitude": 48.87095,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Opera Comique"
+  },
+  {
+    "longitude": 2.32039,
+    "latitude": 48.87373,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Lavoiser Malesherbes"
+  },
+  {
+    "longitude": 2.31951,
+    "latitude": 48.82345,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Square Serment de Koufra"
+  },
+  {
+    "longitude": 5.85522,
+    "latitude": 43.10893,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Seyne sur Mer",
+    "description": "McDo"
+  },
+  {
+    "longitude": 6.73112,
+    "latitude": 43.42358,
+    "name": "WiFi (free/gratuit)",
+    "city": "Frejus",
+    "description": "Quick CC Frejus-Sud"
+  },
+  {
+    "longitude": 2.3645,
+    "latitude": 43.20748,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Terre d Emeraude"
+  },
+  {
+    "longitude": 2.29541,
+    "latitude": 48.87805,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Empire Elysee"
+  },
+  {
+    "longitude": 6.03352,
+    "latitude": 43.10826,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Pradet",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.76083,
+    "latitude": 45.25361,
+    "name": "WiFi (free/gratuit)",
+    "city": "Tulle",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.20799,
+    "latitude": 47.97938,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Mans",
+    "description": "Atlantic Residence"
+  },
+  {
+    "longitude": 2.09702,
+    "latitude": 48.89635,
+    "name": "WiFi (free/gratuit)",
+    "city": "aint ermain en aye",
+    "description": "Mail avenue saint Fiacre"
+  },
+  {
+    "longitude": 2.09702,
+    "latitude": 48.89635,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Germain en Laye",
+    "description": "Bibliotheque"
+  },
+  {
+    "longitude": -0.96658,
+    "latitude": 45.93873,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rochefort",
+    "description": "La Boucherie"
+  },
+  {
+    "longitude": 2.22071,
+    "latitude": 49.01569,
+    "name": "WiFi (free/gratuit)",
+    "city": "Taverny",
+    "description": "Mc Do"
+  },
+  {
+    "longitude": 3.93204,
+    "latitude": 50.25612,
+    "name": "WiFi (free/gratuit)",
+    "city": "Hautmont",
+    "description": "Quick CC Auchan Louvroil"
+  },
+  {
+    "longitude": 6.43919,
+    "latitude": 46.35264,
+    "name": "WiFi (free/gratuit)",
+    "city": "Anthy sur Leman",
+    "description": "Quick"
+  },
+  {
+    "longitude": -4.07395,
+    "latitude": 48.50425,
+    "name": "WiFi (free/gratuit)",
+    "city": "Landivisiau",
+    "description": "CC Leclerc"
+  },
+  {
+    "longitude": 5.7176,
+    "latitude": 45.18322,
+    "name": "WiFi (free/gratuit)",
+    "city": "Grenoble",
+    "description": "McDo L Aigle"
+  },
+  {
+    "longitude": 5.72864,
+    "latitude": 45.15815,
+    "name": "WiFi (free/gratuit)",
+    "city": "Grenoble",
+    "description": "McDo CC Grand Place"
+  },
+  {
+    "longitude": 7.75877,
+    "latitude": 48.57339,
+    "name": "WiFi (free/gratuit)",
+    "city": "Strasbourg",
+    "description": "McDo CC Rive Etoile"
+  },
+  {
+    "longitude": 2.07359,
+    "latitude": 48.98861,
+    "name": "WiFi (free/gratuit)",
+    "city": "Conflans Sainte Honorine",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.01198,
+    "latitude": 44.36025,
+    "name": "WiFi (free/gratuit)",
+    "city": "Villefranche de Rouergue",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.69331,
+    "latitude": 44.36852,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pierrelatte",
+    "description": "McDo"
+  },
+  {
+    "longitude": 8.75525,
+    "latitude": 41.94425,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ajaccio",
+    "description": "Quick"
+  },
+  {
+    "longitude": 5.69613,
+    "latitude": 43.181,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Cyr sur Mer",
+    "description": "McDo"
+  },
+  {
+    "longitude": -0.5487,
+    "latitude": 47.4699,
+    "name": "WiFi (free/gratuit)",
+    "city": "Angers",
+    "description": "McDo Centre-Ville"
+  },
+  {
+    "longitude": 4.89088,
+    "latitude": 44.92955,
+    "name": "WiFi (free/gratuit)",
+    "city": "Valence",
+    "description": "McDo Victor Hugo"
+  },
+  {
+    "longitude": 2.2208,
+    "latitude": 48.78099,
+    "name": "WiFi (free/gratuit)",
+    "city": "Velizy-Villacoublay",
+    "description": "CC Velizy 2"
+  },
+  {
+    "longitude": 4.9643,
+    "latitude": 43.5195,
+    "name": "WiFi (free/gratuit)",
+    "city": "Istres",
+    "description": "McDo Les Craux"
+  },
+  {
+    "longitude": 4.83038,
+    "latitude": 45.75061,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "Restaurant Pasta-Cafe"
+  },
+  {
+    "longitude": 2.34183,
+    "latitude": 48.82677,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Glaciere"
+  },
+  {
+    "longitude": 4.83409,
+    "latitude": 45.76444,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "McDo Herriot"
+  },
+  {
+    "longitude": 2.23882,
+    "latitude": 48.88157,
+    "name": "WiFi (free/gratuit)",
+    "city": "Puteaux",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.33452,
+    "latitude": 48.08918,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chateaudun",
+    "description": "Mcdo"
+  },
+  {
+    "longitude": -1.43056,
+    "latitude": 46.70139,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Roche sur Yon",
+    "description": "Cafeteria La Toquenelle ZC Carrefour"
+  },
+  {
+    "longitude": 2.40778,
+    "latitude": 48.85269,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo rue du Volga"
+  },
+  {
+    "longitude": 2.21611,
+    "latitude": 49.11627,
+    "name": "WiFi (free/gratuit)",
+    "city": "L Isle Adam",
+    "description": "MIA Maison de l Isle Adam"
+  },
+  {
+    "longitude": -2.06861,
+    "latitude": 47.66972,
+    "name": "WiFi (free/gratuit)",
+    "city": "Redon",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.19313,
+    "latitude": 47.9958,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Mans",
+    "description": "Galaxie"
+  },
+  {
+    "longitude": 5.72461,
+    "latitude": 45.18895,
+    "name": "WiFi (free/gratuit)",
+    "city": "Grenoble",
+    "description": "Place Victor Hugo (id:grenoble-mdp:wifi)"
+  },
+  {
+    "longitude": 3.57331,
+    "latitude": 47.79968,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auxerre",
+    "description": "L Eau Vive 1 rue du Docteur Labosse"
+  },
+  {
+    "longitude": 2.29898,
+    "latitude": 48.86838,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Marceau Champ Elysee"
+  },
+  {
+    "longitude": -3.34233,
+    "latitude": 47.77764,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lanester",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.33135,
+    "latitude": 48.83322,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Denfert Rochereau"
+  },
+  {
+    "longitude": -0.60662,
+    "latitude": 47.51743,
+    "name": "WiFi (free/gratuit)",
+    "city": "Avrille",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.38892,
+    "latitude": 43.8373,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nimes",
+    "description": "Quick Beaucaire"
+  },
+  {
+    "longitude": 5.23637,
+    "latitude": 46.20724,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bourg en Bresse",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.87477,
+    "latitude": 45.01794,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pont de l Isere",
+    "description": "McDo A7"
+  },
+  {
+    "longitude": 4.87333,
+    "latitude": 45.53396,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vienne",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.9325,
+    "latitude": 45.74806,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vaulx en Velin",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.70506,
+    "latitude": 47.33857,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chambray les Tours",
+    "description": "Quick"
+  },
+  {
+    "longitude": 2.09493,
+    "latitude": 48.89736,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Germain en Laye",
+    "description": "place du chateau"
+  },
+  {
+    "longitude": 2.35144,
+    "latitude": 48.84657,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque des litteratures policeres"
+  },
+  {
+    "longitude": 2.29764,
+    "latitude": 48.75471,
+    "name": "WiFi (free/gratuit)",
+    "city": "Antony",
+    "description": "Bibliotheque"
+  },
+  {
+    "longitude": 5.5637,
+    "latitude": 43.2933,
+    "name": "WiFi (free/gratuit)",
+    "city": "Aubagne",
+    "description": "McDo Centre"
+  },
+  {
+    "longitude": 4.83406,
+    "latitude": 45.75864,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "McDo Republique"
+  },
+  {
+    "longitude": 1.88515,
+    "latitude": 46.16816,
+    "name": "WiFi (free/gratuit)",
+    "city": "Gueret",
+    "description": "McDo CC Carrefour"
+  },
+  {
+    "longitude": 4.8276,
+    "latitude": 45.74882,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "Normandie"
+  },
+  {
+    "longitude": 4.78213,
+    "latitude": 44.51256,
+    "name": "WiFi (free/gratuit)",
+    "city": "Allan",
+    "description": "A7(N) Aire de Montelimar (Station Shell)"
+  },
+  {
+    "longitude": 2.35248,
+    "latitude": 48.86296,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Ambassade d Auvergne"
+  },
+  {
+    "longitude": 2.32319,
+    "latitude": 48.84247,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Waldorf Montparnasse"
+  },
+  {
+    "longitude": 4.85083,
+    "latitude": 45.79806,
+    "name": "WiFi (free/gratuit)",
+    "city": "Caluire et Cuire",
+    "description": "McDo Montee des Soldats"
+  },
+  {
+    "longitude": 5.7245,
+    "latitude": 45.18968,
+    "name": "WiFi (free/gratuit)",
+    "city": "Grenoble",
+    "description": "Quick Victor Hugo"
+  },
+  {
+    "longitude": 2.4848,
+    "latitude": 48.76744,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bonneuil sur Marne",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.35033,
+    "latitude": 48.85804,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Andrea Rivoli"
+  },
+  {
+    "longitude": 2.3868,
+    "latitude": 43.20862,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Ibis Berriac"
+  },
+  {
+    "longitude": 6.69416,
+    "latitude": 45.45546,
+    "name": "WiFi (free/gratuit)",
+    "city": "Champagny en Vanoise",
+    "description": "Pub La timbale"
+  },
+  {
+    "longitude": 0.71594,
+    "latitude": 47.37976,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Pierre des Corps",
+    "description": "Quick"
+  },
+  {
+    "longitude": 3.57111,
+    "latitude": 47.79675,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auxerre",
+    "description": "Pizzeria Frascati 6 rue Fourier"
+  },
+  {
+    "longitude": -0.63655,
+    "latitude": 44.78628,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pessac",
+    "description": "McDo"
+  },
+  {
+    "longitude": 6.18314,
+    "latitude": 48.68992,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nancy",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.8933,
+    "latitude": 47.93837,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saran",
+    "description": "Quick"
+  },
+  {
+    "longitude": 2.36853,
+    "latitude": 48.85863,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bastille de Laumay"
+  },
+  {
+    "longitude": 5.02832,
+    "latitude": 47.32313,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dijon",
+    "description": "Quick Gare"
+  },
+  {
+    "longitude": 4.07339,
+    "latitude": 48.29728,
+    "name": "WiFi (free/gratuit)",
+    "city": "Troyes",
+    "description": "Cafe le Foy"
+  },
+  {
+    "longitude": 2.00648,
+    "latitude": 46.95267,
+    "name": "WiFi (free/gratuit)",
+    "city": "Issoudun",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.67176,
+    "latitude": 45.61973,
+    "name": "WiFi (free/gratuit)",
+    "city": "Mornant",
+    "description": "Hotel-Resto De la Poste"
+  },
+  {
+    "longitude": 5.35002,
+    "latitude": 43.36444,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "McDo CC Grand Littoral"
+  },
+  {
+    "longitude": 4.85278,
+    "latitude": 46.78417,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chalon sur Saone",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.30275,
+    "latitude": 48.84132,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Delos Vaugirard"
+  },
+  {
+    "longitude": 1.69739,
+    "latitude": 48.97994,
+    "name": "WiFi (free/gratuit)",
+    "city": "Mantes la Ville",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.96721,
+    "latitude": 50.63449,
+    "name": "WiFi (free/gratuit)",
+    "city": "Englos",
+    "description": "RecreaKid"
+  },
+  {
+    "longitude": 2.33474,
+    "latitude": 43.192,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Domaine d Auriac (hotel)"
+  },
+  {
+    "longitude": 4.04299,
+    "latitude": 48.27911,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Andre les Vergers",
+    "description": "McDo"
+  },
+  {
+    "longitude": 3.1169,
+    "latitude": 45.87553,
+    "name": "WiFi (free/gratuit)",
+    "city": "Riom",
+    "description": "Quick"
+  },
+  {
+    "longitude": 4.97731,
+    "latitude": 45.77222,
+    "name": "WiFi (free/gratuit)",
+    "city": "Decines-Charpieu",
+    "description": "McDo"
+  },
+  {
+    "longitude": -3.43765,
+    "latitude": 48.73423,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lannion",
+    "description": "Quick"
+  },
+  {
+    "longitude": 6.56645,
+    "latitude": 45.39688,
+    "name": "WiFi (free/gratuit)",
+    "city": "Meribel",
+    "description": "La Taverne"
+  },
+  {
+    "longitude": 5.73578,
+    "latitude": 45.18756,
+    "name": "WiFi (free/gratuit)",
+    "city": "Grenoble",
+    "description": "Jardin des Plantes (id:grenoble-mdp:wifi)"
+  },
+  {
+    "longitude": 2.0337,
+    "latitude": 44.36159,
+    "name": "WiFi (free/gratuit)",
+    "city": "Villefranche de Rouergue",
+    "description": "Flunch avenue de Toulouse"
+  },
+  {
+    "longitude": 2.32693,
+    "latitude": 48.81033,
+    "name": "WiFi (free/gratuit)",
+    "city": "Arcueil",
+    "description": "McDo CC de la Vache Noire"
+  },
+  {
+    "longitude": 5.33466,
+    "latitude": 45.35435,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Etienne de Saint Geoirs",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.34067,
+    "latitude": 48.84697,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Saint Michel"
+  },
+  {
+    "longitude": 2.33341,
+    "latitude": 48.86891,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Horset Opera"
+  },
+  {
+    "longitude": 2.36991,
+    "latitude": 48.79199,
+    "name": "WiFi (free/gratuit)",
+    "city": "Villejuif",
+    "description": "McDo Maxime Gorki"
+  },
+  {
+    "longitude": -0.65333,
+    "latitude": 44.85639,
+    "name": "WiFi (free/gratuit)",
+    "city": "Merignac",
+    "description": "McDo avenue de Magudas"
+  },
+  {
+    "longitude": -2.41028,
+    "latitude": 47.3275,
+    "name": "WiFi (free/gratuit)",
+    "city": "Guerande",
+    "description": "Cafeteria Leclerc"
+  },
+  {
+    "longitude": 5.55054,
+    "latitude": 46.66867,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lons le Saunier",
+    "description": "McDo"
+  },
+  {
+    "longitude": 7.83481,
+    "latitude": 48.8004,
+    "name": "WiFi (free/gratuit)",
+    "city": "Haguenau",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.57334,
+    "latitude": 48.36147,
+    "name": "WiFi (free/gratuit)",
+    "city": "Acheres la Foret",
+    "description": "Leclerc"
+  },
+  {
+    "longitude": 4.74895,
+    "latitude": 46.10293,
+    "name": "WiFi (free/gratuit)",
+    "city": "Belleville",
+    "description": "Hotel & Resto Balladins"
+  },
+  {
+    "longitude": 2.33367,
+    "latitude": 48.85204,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "La Perie"
+  },
+  {
+    "longitude": 6.55552,
+    "latitude": 46.06717,
+    "name": "WiFi (free/gratuit)",
+    "city": "Scionzier",
+    "description": "McDo"
+  },
+  {
+    "longitude": 3.41318,
+    "latitude": 50.38111,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lille",
+    "description": "Gare Flandre"
+  },
+  {
+    "longitude": 2.3088,
+    "latitude": 48.8723,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Le A"
+  },
+  {
+    "longitude": 5.69444,
+    "latitude": 45.14944,
+    "name": "WiFi (free/gratuit)",
+    "city": "Echirolles",
+    "description": "McDo CC de Comboires"
+  },
+  {
+    "longitude": 0.33996,
+    "latitude": 46.57998,
+    "name": "WiFi (free/gratuit)",
+    "city": "Poitiers",
+    "description": "Quick Centre-Ville"
+  },
+  {
+    "longitude": 2.36251,
+    "latitude": 48.8676,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Republique"
+  },
+  {
+    "longitude": 2.2962,
+    "latitude": 48.87534,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Wagram"
+  },
+  {
+    "longitude": -1.55831,
+    "latitude": 47.21534,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nantes",
+    "description": "Passion Gourmande"
+  },
+  {
+    "longitude": -0.04311,
+    "latitude": 43.09988,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lourdes",
+    "description": "Beausejour"
+  },
+  {
+    "longitude": 7.67194,
+    "latitude": 48.59145,
+    "name": "WiFi (free/gratuit)",
+    "city": "Wolfisheim",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.33952,
+    "latitude": 49.04264,
+    "name": "WiFi (free/gratuit)",
+    "city": "Moisselles",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.83429,
+    "latitude": 45.76425,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "Herriot"
+  },
+  {
+    "longitude": -2.26453,
+    "latitude": 47.25917,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Nazaire",
+    "description": "McDo CC Oceanis"
+  },
+  {
+    "longitude": 3.56942,
+    "latitude": 47.79668,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auxerre",
+    "description": "La Poste"
+  },
+  {
+    "longitude": -1.56002,
+    "latitude": 47.21252,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nantes",
+    "description": "Grand Hotel de Nantes"
+  },
+  {
+    "longitude": 5.96652,
+    "latitude": 44.14197,
+    "name": "WiFi (free/gratuit)",
+    "city": "Peipin",
+    "description": ""
+  },
+  {
+    "longitude": 6.1989,
+    "latitude": 48.67921,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nancy",
+    "description": "McDo Lobau"
+  },
+  {
+    "longitude": 2.34451,
+    "latitude": 48.84621,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mairie du 5eme"
+  },
+  {
+    "longitude": -1.55256,
+    "latitude": 48.83805,
+    "name": "WiFi (free/gratuit)",
+    "city": "Granville",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.27323,
+    "latitude": 48.65098,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montlhery",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.35774,
+    "latitude": 48.8513,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque isle Saint Louis"
+  },
+  {
+    "longitude": 4.49484,
+    "latitude": 45.46275,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Chamond",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.53447,
+    "latitude": 48.68362,
+    "name": "WiFi (free/gratuit)",
+    "city": "Boussy Saint Antoine",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.32261,
+    "latitude": 48.83855,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Arcadie Montparnasse"
+  },
+  {
+    "longitude": 2.38284,
+    "latitude": 48.88483,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Crime"
+  },
+  {
+    "longitude": 2.49989,
+    "latitude": 49.28922,
+    "name": "WiFi (free/gratuit)",
+    "city": "Villers Saint Paul",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.899,
+    "latitude": 45.59404,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chambery",
+    "description": "Quick CC Chamnord"
+  },
+  {
+    "longitude": 2.37337,
+    "latitude": 43.20789,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Hotel Les Oliviers"
+  },
+  {
+    "longitude": 2.34956,
+    "latitude": 43.21579,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Hotel de La Bastide"
+  },
+  {
+    "longitude": 4.91988,
+    "latitude": 45.72174,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bron",
+    "description": "McDo CC Portes des Alpes"
+  },
+  {
+    "longitude": 1.16884,
+    "latitude": 49.01135,
+    "name": "WiFi (free/gratuit)",
+    "city": "Evreux",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.19523,
+    "latitude": 47.37256,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Gereon",
+    "description": "McDo"
+  },
+  {
+    "longitude": -0.29676,
+    "latitude": 49.16377,
+    "name": "WiFi (free/gratuit)",
+    "city": "Mondeville",
+    "description": "McDo CC Mondeville 2"
+  },
+  {
+    "longitude": 2.63735,
+    "latitude": 48.55711,
+    "name": "WiFi (free/gratuit)",
+    "city": "Melun",
+    "description": "McDo place de Champ de Foire"
+  },
+  {
+    "longitude": 2.38184,
+    "latitude": 48.88265,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mairie du 19eme"
+  },
+  {
+    "longitude": -0.65306,
+    "latitude": 44.83028,
+    "name": "WiFi (free/gratuit)",
+    "city": "Merignac",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.09875,
+    "latitude": 44.10879,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ales",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.65911,
+    "latitude": 46.2886,
+    "name": "WiFi (free/gratuit)",
+    "city": "Neris les bains",
+    "description": "Bar du mini golf"
+  },
+  {
+    "longitude": 2.32999,
+    "latitude": 48.84353,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Danemark"
+  },
+  {
+    "longitude": -1.71311,
+    "latitude": 48.10435,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rennes",
+    "description": "McDo CC Cleunay"
+  },
+  {
+    "longitude": 6.39002,
+    "latitude": 45.66471,
+    "name": "WiFi (free/gratuit)",
+    "city": "Albertville",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.65836,
+    "latitude": 47.3759,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Riche",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.34601,
+    "latitude": 48.87719,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Square Montholon"
+  },
+  {
+    "longitude": 5.42824,
+    "latitude": 43.27823,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "Quick Saint Loup"
+  },
+  {
+    "longitude": 1.70336,
+    "latitude": 46.85202,
+    "name": "WiFi (free/gratuit)",
+    "city": "Deols",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.37268,
+    "latitude": 48.75606,
+    "name": "WiFi (free/gratuit)",
+    "city": "Thiais",
+    "description": "McDo CC Belle Epine"
+  },
+  {
+    "longitude": -0.66235,
+    "latitude": 45.7401,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saintes",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.3665,
+    "latitude": 48.82702,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo rue Nationale"
+  },
+  {
+    "longitude": 6.16553,
+    "latitude": 48.66631,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vandoeuvre les Nancy",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.59162,
+    "latitude": 49.03788,
+    "name": "WiFi (free/gratuit)",
+    "city": "Freneuse",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.43103,
+    "latitude": 49.06899,
+    "name": "WiFi (free/gratuit)",
+    "city": "Coutances",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.27248,
+    "latitude": 46.15892,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rivedoux-Plage",
+    "description": "Office de tourisme"
+  },
+  {
+    "longitude": 2.34768,
+    "latitude": 48.83174,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Square Rene Legall"
+  },
+  {
+    "longitude": -1.58432,
+    "latitude": 48.36218,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Malo",
+    "description": "CC Cora"
+  },
+  {
+    "longitude": 3.55286,
+    "latitude": 47.84493,
+    "name": "WiFi (free/gratuit)",
+    "city": "Moneteau",
+    "description": "Cafeteria Cora"
+  },
+  {
+    "longitude": 2.35728,
+    "latitude": 48.85717,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Columbus Cafe"
+  },
+  {
+    "longitude": 3.28993,
+    "latitude": 43.32185,
+    "name": "WiFi (free/gratuit)",
+    "city": "Villeneuve les Beziers",
+    "description": "Quick"
+  },
+  {
+    "longitude": 4.84634,
+    "latitude": 45.75948,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "MvDo Guichard"
+  },
+  {
+    "longitude": 4.87802,
+    "latitude": 45.74318,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "McDo Grange Blanche"
+  },
+  {
+    "longitude": 2.29451,
+    "latitude": 48.88328,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Etoile Pereire"
+  },
+  {
+    "longitude": 3.94238,
+    "latitude": 43.57287,
+    "name": "WiFi (free/gratuit)",
+    "city": "Perols",
+    "description": "CC Auchan (Pizzeria Le Pub)"
+  },
+  {
+    "longitude": 5.4651,
+    "latitude": 43.4654,
+    "name": "WiFi (free/gratuit)",
+    "city": "Gardanne",
+    "description": "McDo CC Champion"
+  },
+  {
+    "longitude": 4.36442,
+    "latitude": 43.81104,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nimes",
+    "description": "McDo Cap Costieres"
+  },
+  {
+    "longitude": 2.35554,
+    "latitude": 48.83236,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mairie du 13eme"
+  },
+  {
+    "longitude": 2.33981,
+    "latitude": 48.82451,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Parc Montsouris"
+  },
+  {
+    "longitude": -3.58929,
+    "latitude": 47.86875,
+    "name": "WiFi (free/gratuit)",
+    "city": "Quimperle",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.62952,
+    "latitude": 45.29546,
+    "name": "WiFi (free/gratuit)",
+    "city": "Voreppe",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.01334,
+    "latitude": 45.69793,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Bonnet de Mure",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.23427,
+    "latitude": 46.20864,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bourg en Bresse",
+    "description": "Resto Lizarran"
+  },
+  {
+    "longitude": 2.34478,
+    "latitude": 48.89235,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mairie du 18eme"
+  },
+  {
+    "longitude": 2.2977,
+    "latitude": 48.84887,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo La Motte Picquet"
+  },
+  {
+    "longitude": 3.84172,
+    "latitude": 43.64803,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Clement de Riviere",
+    "description": "Quick"
+  },
+  {
+    "longitude": 5.72712,
+    "latitude": 45.19233,
+    "name": "WiFi (free/gratuit)",
+    "city": "Grenoble",
+    "description": "Jardin de Ville (id:grenoble-mdp:wifi)"
+  },
+  {
+    "longitude": 6.92851,
+    "latitude": 46.0301,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vallorcine",
+    "description": "Ferme-Auberge des 3 ours"
+  },
+  {
+    "longitude": 0.59406,
+    "latitude": 43.65027,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auch",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.17009,
+    "latitude": 46.17514,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lagord",
+    "description": "McDo CC Leclerc"
+  },
+  {
+    "longitude": 2.01627,
+    "latitude": 44.60829,
+    "name": "WiFi (free/gratuit)",
+    "city": "Figeac",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.13608,
+    "latitude": 44.61635,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Teste",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.73678,
+    "latitude": 45.18584,
+    "name": "WiFi (free/gratuit)",
+    "city": "Grenoble",
+    "description": "Parc Paul Mistral (id:grenoble-mdp:wifi)"
+  },
+  {
+    "longitude": 4.34273,
+    "latitude": 45.47669,
+    "name": "WiFi (free/gratuit)",
+    "city": "Villars",
+    "description": "Quick"
+  },
+  {
+    "longitude": 4.81019,
+    "latitude": 46.28751,
+    "name": "WiFi (free/gratuit)",
+    "city": "Macon",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.76334,
+    "latitude": 45.20332,
+    "name": "WiFi (free/gratuit)",
+    "city": "Meylan",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.85585,
+    "latitude": 45.76148,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "CC La Part-Dieu"
+  },
+  {
+    "longitude": 5.43381,
+    "latitude": 43.51808,
+    "name": "WiFi (free/gratuit)",
+    "city": "Aix en Provence",
+    "description": "McDo Centre"
+  },
+  {
+    "longitude": 9.49152,
+    "latitude": 42.33085,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cervione",
+    "description": "Office du Tourisme : ticket a prendre"
+  },
+  {
+    "longitude": 4.79367,
+    "latitude": 45.68037,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Genis Laval",
+    "description": "McDo CC Auchan"
+  },
+  {
+    "longitude": 2.24093,
+    "latitude": 48.72998,
+    "name": "WiFi (free/gratuit)",
+    "city": "Massy",
+    "description": ""
+  },
+  {
+    "longitude": 2.3677,
+    "latitude": 48.86588,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Nord et de l Est"
+  },
+  {
+    "longitude": 5.13307,
+    "latitude": 45.64357,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Verpilliere",
+    "description": "McDo"
+  },
+  {
+    "longitude": 6.1867,
+    "latitude": 44.0773,
+    "name": "WiFi (free/gratuit)",
+    "city": "Digne les Bains",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.42078,
+    "latitude": 45.44161,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Etienne",
+    "description": "Galerie Geant CC Monthieu"
+  },
+  {
+    "longitude": 2.36742,
+    "latitude": 48.76276,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chevilly",
+    "description": "McDo Larue Freephonie OK"
+  },
+  {
+    "longitude": 2.34307,
+    "latitude": 48.83494,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Square Henri Cadiou"
+  },
+  {
+    "longitude": -1.7308,
+    "latitude": 48.2026,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Meziere",
+    "description": "McDo Cap Malo"
+  },
+  {
+    "longitude": 2.19483,
+    "latitude": 48.88523,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nanterre",
+    "description": "McDo RN 13"
+  },
+  {
+    "longitude": 5.30501,
+    "latitude": 45.14396,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chatte",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.27052,
+    "latitude": 48.89718,
+    "name": "WiFi (free/gratuit)",
+    "city": "Neuilly sur Seine",
+    "description": "Cafe La Jatte"
+  },
+  {
+    "longitude": 4.97888,
+    "latitude": 43.498,
+    "name": "WiFi (free/gratuit)",
+    "city": "Istres",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.83627,
+    "latitude": 45.05337,
+    "name": "WiFi (free/gratuit)",
+    "city": "Tournon sur Rhone",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.34509,
+    "latitude": 48.85216,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Heure Joyeuse"
+  },
+  {
+    "longitude": 2.04328,
+    "latitude": 48.78164,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montigny le Bretonneux",
+    "description": "Brasserie Marina"
+  },
+  {
+    "longitude": 4.36199,
+    "latitude": 46.68234,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montceau les Mines",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.35679,
+    "latitude": 48.83013,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Weha"
+  },
+  {
+    "longitude": 2.34113,
+    "latitude": 48.8601,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mairie du 1er arrondissement"
+  },
+  {
+    "longitude": 2.34113,
+    "latitude": 48.8601,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Blibliotheque du Louvre"
+  },
+  {
+    "longitude": 2.33802,
+    "latitude": 48.69306,
+    "name": "WiFi (free/gratuit)",
+    "city": "Morangis",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.33883,
+    "latitude": 48.89272,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Square Leon Serpollet"
+  },
+  {
+    "longitude": 6.64715,
+    "latitude": 43.30811,
+    "name": "WiFi (free/gratuit)",
+    "city": "Sainte Maxime",
+    "description": "Montfleuri"
+  },
+  {
+    "longitude": 2.34782,
+    "latitude": 48.8707,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Bonne Nouvelle"
+  },
+  {
+    "longitude": 3.56926,
+    "latitude": 47.79487,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auxerre",
+    "description": "Le Schaeffer 14 place Charles Lepere"
+  },
+  {
+    "longitude": 2.34451,
+    "latitude": 48.86038,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Ducs de Bourgogne"
+  },
+  {
+    "longitude": 2.33233,
+    "latitude": 48.87972,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Kadrance"
+  },
+  {
+    "longitude": 2.31237,
+    "latitude": 48.84284,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Avia"
+  },
+  {
+    "longitude": 5.02229,
+    "latitude": 47.28296,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chenove",
+    "description": "CC Geant Casino"
+  },
+  {
+    "longitude": 2.48596,
+    "latitude": 48.85434,
+    "name": "WiFi (free/gratuit)",
+    "city": "Fontenay sous Bois",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.32209,
+    "latitude": 48.83854,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Vandamme"
+  },
+  {
+    "longitude": 2.33738,
+    "latitude": 48.66894,
+    "name": "WiFi (free/gratuit)",
+    "city": "Epinay sur Orge",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.7027,
+    "latitude": 47.4257,
+    "name": "WiFi (free/gratuit)",
+    "city": "Tours",
+    "description": "McDo Nord"
+  },
+  {
+    "longitude": 2.35343,
+    "latitude": 48.85661,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Administrative de la ville de Paris"
+  },
+  {
+    "longitude": 0.92015,
+    "latitude": 48.73233,
+    "name": "WiFi (free/gratuit)",
+    "city": "Verneuil sur Arvre",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.68463,
+    "latitude": 48.10939,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rennes",
+    "description": "Taverne de la Marine"
+  },
+  {
+    "longitude": 2.34845,
+    "latitude": 48.87338,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Windsor Opera"
+  },
+  {
+    "longitude": 0.09672,
+    "latitude": 49.347,
+    "name": "WiFi (free/gratuit)",
+    "city": "Touques",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.35398,
+    "latitude": 48.86874,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "France Europe"
+  },
+  {
+    "longitude": 4.30234,
+    "latitude": 45.06116,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chambon sur Lignon",
+    "description": "Le Kachelofen-Pub"
+  },
+  {
+    "longitude": 2.07188,
+    "latitude": 48.8937,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Germain en Laye",
+    "description": "Bel air"
+  },
+  {
+    "longitude": 0.6682,
+    "latitude": 45.19277,
+    "name": "WiFi (free/gratuit)",
+    "city": "Perigueux",
+    "description": "Fasthotel"
+  },
+  {
+    "longitude": 6.48286,
+    "latitude": 44.5475,
+    "name": "WiFi (free/gratuit)",
+    "city": "Embrun",
+    "description": "McDo Baratier"
+  },
+  {
+    "longitude": 2.32355,
+    "latitude": 48.87162,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Opera Newton"
+  },
+  {
+    "longitude": 2.35619,
+    "latitude": 43.21032,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Jdidom Cafe"
+  },
+  {
+    "longitude": 4.99098,
+    "latitude": 45.82109,
+    "name": "WiFi (free/gratuit)",
+    "city": "Beynost",
+    "description": "McDo"
+  },
+  {
+    "longitude": 6.14249,
+    "latitude": 45.85803,
+    "name": "WiFi (free/gratuit)",
+    "city": "Sevrier",
+    "description": "McDo"
+  },
+  {
+    "longitude": -3.34201,
+    "latitude": 47.77558,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lanester",
+    "description": "CC Geant"
+  },
+  {
+    "longitude": 1.33494,
+    "latitude": 43.98789,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montauban",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.19272,
+    "latitude": 48.99558,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montigny les Cormeilles",
+    "description": "Mc Do"
+  },
+  {
+    "longitude": 5.02928,
+    "latitude": 45.76029,
+    "name": "WiFi (free/gratuit)",
+    "city": "Meyzieu",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.27644,
+    "latitude": 48.72361,
+    "name": "WiFi (free/gratuit)",
+    "city": "Massy",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.01257,
+    "latitude": 49.24027,
+    "name": "WiFi (free/gratuit)",
+    "city": "Reims",
+    "description": "McDo Hippodrome"
+  },
+  {
+    "longitude": -4.17397,
+    "latitude": 47.97346,
+    "name": "WiFi (free/gratuit)",
+    "city": "Quimper",
+    "description": "Aeroport"
+  },
+  {
+    "longitude": 2.31249,
+    "latitude": 43.2067,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Hotel 1ere classe"
+  },
+  {
+    "longitude": 5.59187,
+    "latitude": 45.35944,
+    "name": "WiFi (free/gratuit)",
+    "city": "Voiron",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.31778,
+    "latitude": 48.86528,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Promenade des Champs Elysees"
+  },
+  {
+    "longitude": 5.37455,
+    "latitude": 43.29424,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "McDo Vieux Port"
+  },
+  {
+    "longitude": 2.34477,
+    "latitude": 48.85171,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Parc Saint Severin"
+  },
+  {
+    "longitude": -2.08375,
+    "latitude": 47.43186,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pont Chateau",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.38278,
+    "latitude": 43.17424,
+    "name": "WiFi (free/gratuit)",
+    "city": "Palaja",
+    "description": "O Copains D Abord (Cafe-Restaurant)"
+  },
+  {
+    "longitude": 4.83791,
+    "latitude": 46.9619,
+    "name": "WiFi (free/gratuit)",
+    "city": "Merceuil",
+    "description": "A6 Aire de Beaume Merceuil (Autogrill)"
+  },
+  {
+    "longitude": 2.38851,
+    "latitude": 48.84113,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mairie du 12eme"
+  },
+  {
+    "longitude": 2.35423,
+    "latitude": 48.8843,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Montmartre"
+  },
+  {
+    "longitude": 2.33475,
+    "latitude": 48.86808,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Louvre Marsollier"
+  },
+  {
+    "longitude": 2.34982,
+    "latitude": 48.84195,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Mouftar"
+  },
+  {
+    "longitude": 2.38849,
+    "latitude": 48.84533,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Saint Eloi"
+  },
+  {
+    "longitude": -2.39592,
+    "latitude": 47.93114,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ploermel",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.61873,
+    "latitude": 44.17694,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bagnols sur Ceze",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.06386,
+    "latitude": 47.31529,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dijon",
+    "description": "Facultes"
+  },
+  {
+    "longitude": 2.29523,
+    "latitude": 48.86465,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Musee d Art Moderne"
+  },
+  {
+    "longitude": 7.20587,
+    "latitude": 43.66008,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nice",
+    "description": "Aeroport 2"
+  },
+  {
+    "longitude": 2.28533,
+    "latitude": 48.84003,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mon R�ve Amadeus"
+  },
+  {
+    "longitude": 2.0836,
+    "latitude": 48.89972,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Germain en Laye",
+    "description": "Centre Administratif"
+  },
+  {
+    "longitude": 6.4319,
+    "latitude": 46.349,
+    "name": "WiFi (free/gratuit)",
+    "city": "Anthy sur Leman",
+    "description": "McDo"
+  },
+  {
+    "longitude": -4.09352,
+    "latitude": 47.97493,
+    "name": "WiFi (free/gratuit)",
+    "city": "Quimper",
+    "description": "galeries du CC Geant"
+  },
+  {
+    "longitude": 3.93286,
+    "latitude": 43.5787,
+    "name": "WiFi (free/gratuit)",
+    "city": "Perols",
+    "description": "Quick"
+  },
+  {
+    "longitude": -0.59366,
+    "latitude": 44.85366,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Bouscat",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.56164,
+    "latitude": 48.83487,
+    "name": "WiFi (free/gratuit)",
+    "city": "Noisy le Grand",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.5837,
+    "latitude": 50.24569,
+    "name": "WiFi (free/gratuit)",
+    "city": "Noyelles-Godault",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.29063,
+    "latitude": 48.87192,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Du Bois"
+  },
+  {
+    "longitude": 2.38521,
+    "latitude": 48.87388,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Pyrenees"
+  },
+  {
+    "longitude": 2.17335,
+    "latitude": 48.54458,
+    "name": "WiFi (free/gratuit)",
+    "city": "Asnieres",
+    "description": "Square Joffre"
+  },
+  {
+    "longitude": 1.01769,
+    "latitude": 47.40368,
+    "name": "WiFi (free/gratuit)",
+    "city": "Amboise",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.3444,
+    "latitude": 43.20942,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Necmo"
+  },
+  {
+    "longitude": 2.77917,
+    "latitude": 50.28599,
+    "name": "WiFi (free/gratuit)",
+    "city": "Arras",
+    "description": "Express By Holiday Inn"
+  },
+  {
+    "longitude": -1.10075,
+    "latitude": 48.09022,
+    "name": "WiFi (free/gratuit)",
+    "city": "Erbree",
+    "description": "Cafeteria Relais Vert"
+  },
+  {
+    "longitude": 5.76014,
+    "latitude": 45.20028,
+    "name": "WiFi (free/gratuit)",
+    "city": "Meylan",
+    "description": "Quick"
+  },
+  {
+    "longitude": 4.83676,
+    "latitude": 44.75931,
+    "name": "WiFi (free/gratuit)",
+    "city": "Loriol sur Drome",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.19615,
+    "latitude": 48.12859,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vitre",
+    "description": "Hotel restaurant La Grenouillere"
+  },
+  {
+    "longitude": 0.14344,
+    "latitude": 48.01678,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rouillon",
+    "description": "Auberge de La Foresterie"
+  },
+  {
+    "longitude": 1.90812,
+    "latitude": 47.87967,
+    "name": "WiFi (free/gratuit)",
+    "city": "Orleans",
+    "description": "McDo Basse Mouillere"
+  },
+  {
+    "longitude": 2.46605,
+    "latitude": 49.02068,
+    "name": "WiFi (free/gratuit)",
+    "city": "Goussainville",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.73961,
+    "latitude": 49.47788,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ferrieres en Bray",
+    "description": "McDo"
+  },
+  {
+    "longitude": 3.25095,
+    "latitude": 50.18354,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cambrai",
+    "description": "Quick"
+  },
+  {
+    "longitude": 2.43961,
+    "latitude": 48.84455,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vincennes",
+    "description": "Au Bureau"
+  },
+  {
+    "longitude": 7.11069,
+    "latitude": 43.72075,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vence",
+    "description": "Hotel Mas de Vence"
+  },
+  {
+    "longitude": 1.86606,
+    "latitude": 47.90574,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Jean de la Ruelle",
+    "description": "McDo"
+  },
+  {
+    "longitude": 6.1788,
+    "latitude": 49.34922,
+    "name": "WiFi (free/gratuit)",
+    "city": "Yutz",
+    "description": "McDo"
+  },
+  {
+    "longitude": -0.50983,
+    "latitude": 47.45649,
+    "name": "WiFi (free/gratuit)",
+    "city": "Trelaze",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.25416,
+    "latitude": 48.83635,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Jardins porte de saint-cloud"
+  },
+  {
+    "longitude": 2.56333,
+    "latitude": 48.62306,
+    "name": "WiFi (free/gratuit)",
+    "city": "Moissy Cramayel",
+    "description": "McDo"
+  },
+  {
+    "longitude": 3.89234,
+    "latitude": 45.04829,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Puy en Velay",
+    "description": "Quick"
+  },
+  {
+    "longitude": 3.41556,
+    "latitude": 46.1425,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vichy",
+    "description": "McDo Les Ailes"
+  },
+  {
+    "longitude": 2.34688,
+    "latitude": 48.87399,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Aida Opera"
+  },
+  {
+    "longitude": 2.38833,
+    "latitude": 48.87631,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Fessart"
+  },
+  {
+    "longitude": 3.08257,
+    "latitude": 44.09137,
+    "name": "WiFi (free/gratuit)",
+    "city": "Millau",
+    "description": "McDo"
+  },
+  {
+    "longitude": -4.09537,
+    "latitude": 47.97875,
+    "name": "WiFi (free/gratuit)",
+    "city": "Quimper",
+    "description": "McDo Kerustum"
+  },
+  {
+    "longitude": 6.56625,
+    "latitude": 45.39629,
+    "name": "WiFi (free/gratuit)",
+    "city": "Meribel",
+    "description": "Le Barometer"
+  },
+  {
+    "longitude": 1.58325,
+    "latitude": 50.52031,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Touquet Paris-Plage",
+    "description": "Nouveau Cady"
+  },
+  {
+    "longitude": -4.21814,
+    "latitude": 47.88237,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pont l Abbe",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.60374,
+    "latitude": 43.18914,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Ciotat",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.3283,
+    "latitude": 48.8812,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Opera Blackston"
+  },
+  {
+    "longitude": 6.95416,
+    "latitude": 43.54694,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cannes",
+    "description": "Aeroport Mandelieu"
+  },
+  {
+    "longitude": 5.95176,
+    "latitude": 45.57266,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Alban Leysse",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.5477,
+    "latitude": 48.84054,
+    "name": "WiFi (free/gratuit)",
+    "city": "Noisy le Grand",
+    "description": "McDo Arcades"
+  },
+  {
+    "longitude": 1.4967,
+    "latitude": 43.5202,
+    "name": "WiFi (free/gratuit)",
+    "city": "Castanet Tolosan",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.29426,
+    "latitude": 48.8654,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Club Iena Arts et Metiers"
+  },
+  {
+    "longitude": 2.33077,
+    "latitude": 48.85002,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Abbaye Saint Germain"
+  },
+  {
+    "longitude": 1.96406,
+    "latitude": 48.82648,
+    "name": "WiFi (free/gratuit)",
+    "city": "Plaisir",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.36266,
+    "latitude": 48.87421,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Belta"
+  },
+  {
+    "longitude": 2.2766,
+    "latitude": 48.88185,
+    "name": "WiFi (free/gratuit)",
+    "city": "Neuilly sur Seine",
+    "description": "Neuilly Park Hotel"
+  },
+  {
+    "longitude": 6.13843,
+    "latitude": 47.63199,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vesoul",
+    "description": "McDo Cinema"
+  },
+  {
+    "longitude": 2.3089,
+    "latitude": 48.88038,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Parc Monceau"
+  },
+  {
+    "longitude": 6.52043,
+    "latitude": 48.04045,
+    "name": "WiFi (free/gratuit)",
+    "city": "Gerardmer",
+    "description": "La Geromoise"
+  },
+  {
+    "longitude": 5.34948,
+    "latitude": 43.36424,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "Quick CC Grand Littoral"
+  },
+  {
+    "longitude": -0.4287,
+    "latitude": 44.87455,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montussan",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.34698,
+    "latitude": 43.21056,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Valmary"
+  },
+  {
+    "longitude": 2.55265,
+    "latitude": 48.79458,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ormesson sur Marne",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.29542,
+    "latitude": 45.81764,
+    "name": "WiFi (free/gratuit)",
+    "city": "Feytiat",
+    "description": "Quick ZI du Ponteix"
+  },
+  {
+    "longitude": 2.2965,
+    "latitude": 48.87588,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Elysee Paris"
+  },
+  {
+    "longitude": 6.79037,
+    "latitude": 43.4571,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Raphael",
+    "description": "Golf de Valescure"
+  },
+  {
+    "longitude": 2.27598,
+    "latitude": 48.84208,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Parc Andre Citroen"
+  },
+  {
+    "longitude": 1.37029,
+    "latitude": 47.57142,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vineuil",
+    "description": "McDo CC Auchan"
+  },
+  {
+    "longitude": 2.44944,
+    "latitude": 48.96194,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Bourget",
+    "description": "Aeroport (Kyriad)"
+  },
+  {
+    "longitude": 4.86333,
+    "latitude": 45.7704,
+    "name": "WiFi (free/gratuit)",
+    "city": "Villeurbanne",
+    "description": "McDo Charpennes"
+  },
+  {
+    "longitude": 1.39297,
+    "latitude": 43.56936,
+    "name": "WiFi (free/gratuit)",
+    "city": "Toulouse",
+    "description": "Quick Mirail"
+  },
+  {
+    "longitude": 1.26568,
+    "latitude": 45.86883,
+    "name": "WiFi (free/gratuit)",
+    "city": "Limoges",
+    "description": "Quick Nord"
+  },
+  {
+    "longitude": 4.76655,
+    "latitude": 45.82251,
+    "name": "WiFi (free/gratuit)",
+    "city": "Limonest",
+    "description": "Quick"
+  },
+  {
+    "longitude": 5.7281,
+    "latitude": 45.19151,
+    "name": "WiFi (free/gratuit)",
+    "city": "Grenoble",
+    "description": "Europe"
+  },
+  {
+    "longitude": 2.36614,
+    "latitude": 48.87461,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Hopital Saint Louis"
+  },
+  {
+    "longitude": 2.28823,
+    "latitude": 48.86111,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Jardin du Trocadero"
+  },
+  {
+    "longitude": 5.43336,
+    "latitude": 43.33588,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "Quick Chateau Gombert"
+  },
+  {
+    "longitude": 3.48529,
+    "latitude": 43.3038,
+    "name": "WiFi (free/gratuit)",
+    "city": "Agde",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.15965,
+    "latitude": 45.64827,
+    "name": "WiFi (free/gratuit)",
+    "city": "Angouleme",
+    "description": "McDo"
+  },
+  {
+    "longitude": 3.55043,
+    "latitude": 47.84898,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auxerre",
+    "description": "Hotel Campanile rue d Athenes"
+  },
+  {
+    "longitude": 2.44136,
+    "latitude": 44.91366,
+    "name": "WiFi (free/gratuit)",
+    "city": "Aurillac",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.33748,
+    "latitude": 48.85145,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Odeon"
+  },
+  {
+    "longitude": 5.37843,
+    "latitude": 43.4871,
+    "name": "WiFi (free/gratuit)",
+    "city": "Les Milles",
+    "description": "McDo Aix Ampere"
+  },
+  {
+    "longitude": 5.50108,
+    "latitude": 43.6822,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pertuis",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.57744,
+    "latitude": 48.84896,
+    "name": "WiFi (free/gratuit)",
+    "city": "Champs sur Marne",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.24184,
+    "latitude": 46.19983,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bourg en Bresse",
+    "description": "Quick CC Carrefour"
+  },
+  {
+    "longitude": 5.3878,
+    "latitude": 43.3153,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "Quick Burel"
+  },
+  {
+    "longitude": 2.89207,
+    "latitude": 42.69883,
+    "name": "WiFi (free/gratuit)",
+    "city": "Perpignan",
+    "description": "Quick Centre-Ville"
+  },
+  {
+    "longitude": 5.03715,
+    "latitude": 47.32233,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dijon",
+    "description": "McDo Centre"
+  },
+  {
+    "longitude": 0.28272,
+    "latitude": 46.52894,
+    "name": "WiFi (free/gratuit)",
+    "city": "Liguge",
+    "description": "Bois de la Marche"
+  },
+  {
+    "longitude": 6.12926,
+    "latitude": 46.35866,
+    "name": "WiFi (free/gratuit)",
+    "city": "Divonne les Bains",
+    "description": "Chateau de Divonne"
+  },
+  {
+    "longitude": 2.26686,
+    "latitude": 48.89425,
+    "name": "WiFi (free/gratuit)",
+    "city": "Neuilly sur Seine",
+    "description": "Guinguette de Neuilly"
+  },
+  {
+    "longitude": 2.39383,
+    "latitude": 51.0324,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dunkerque",
+    "description": "Quick"
+  },
+  {
+    "longitude": 5.70634,
+    "latitude": 45.75774,
+    "name": "WiFi (free/gratuit)",
+    "city": "Belley",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.27691,
+    "latitude": 48.72073,
+    "name": "WiFi (free/gratuit)",
+    "city": "Massy",
+    "description": "Leroy-Merlin"
+  },
+  {
+    "longitude": 7.26574,
+    "latitude": 43.70396,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nice",
+    "description": "Quick Medecin"
+  },
+  {
+    "longitude": 5.42877,
+    "latitude": 45.56828,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Jean de Soudain",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.67477,
+    "latitude": 45.19653,
+    "name": "WiFi (free/gratuit)",
+    "city": "Fontaine",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.31879,
+    "latitude": 49.90735,
+    "name": "WiFi (free/gratuit)",
+    "city": "Amiens",
+    "description": "McDo Nord"
+  },
+  {
+    "longitude": -0.66682,
+    "latitude": 44.83396,
+    "name": "WiFi (free/gratuit)",
+    "city": "Merignac",
+    "description": "Quick Drive"
+  },
+  {
+    "longitude": 5.0009,
+    "latitude": 43.4122,
+    "name": "WiFi (free/gratuit)",
+    "city": "Port de Bouc",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.31957,
+    "latitude": 48.88984,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Brochant"
+  },
+  {
+    "longitude": 2.57056,
+    "latitude": 44.36063,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rodez",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.05522,
+    "latitude": 46.0662,
+    "name": "WiFi (free/gratuit)",
+    "city": "Mably",
+    "description": "McDo Mably Roanne"
+  },
+  {
+    "longitude": 0.13472,
+    "latitude": 44.51138,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marmande",
+    "description": "Campanile"
+  },
+  {
+    "longitude": 4.93575,
+    "latitude": 45.72393,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Priest",
+    "description": "McDo Bron Aviation"
+  },
+  {
+    "longitude": 0.34586,
+    "latitude": 46.61705,
+    "name": "WiFi (free/gratuit)",
+    "city": "Poitiers",
+    "description": "MacBed"
+  },
+  {
+    "longitude": 7.26934,
+    "latitude": 43.70037,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nice",
+    "description": "McDo Medecin"
+  },
+  {
+    "longitude": 2.49483,
+    "latitude": 48.83822,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Perreux",
+    "description": "Au Bureau"
+  },
+  {
+    "longitude": 4.07937,
+    "latitude": 44.12725,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ales",
+    "description": "McDo Centre"
+  },
+  {
+    "longitude": 2.09517,
+    "latitude": 49.01877,
+    "name": "WiFi (free/gratuit)",
+    "city": "Eragny",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.65596,
+    "latitude": 47.34764,
+    "name": "WiFi (free/gratuit)",
+    "city": "Joue les Tours",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.14202,
+    "latitude": 49.02295,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pierrelaye",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.69293,
+    "latitude": 48.1346,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Gregoire",
+    "description": "Quick"
+  },
+  {
+    "longitude": 2.26089,
+    "latitude": 48.88599,
+    "name": "WiFi (free/gratuit)",
+    "city": "Neuilly sur Seine",
+    "description": "Chateau"
+  },
+  {
+    "longitude": 5.33382,
+    "latitude": 45.35411,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Etienne de Saint Geoirs",
+    "description": ""
+  },
+  {
+    "longitude": 7.0599,
+    "latitude": 43.60058,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vallauris",
+    "description": "Coyote Club Cafe"
+  },
+  {
+    "longitude": 2.3538,
+    "latitude": 48.87998,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Gare du Nord"
+  },
+  {
+    "longitude": 2.34247,
+    "latitude": 48.86252,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "C.C.I.P."
+  },
+  {
+    "longitude": 3.5731,
+    "latitude": 47.7994,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auxerre",
+    "description": "AG Informatique 16 Rue Cochois"
+  },
+  {
+    "longitude": 1.91789,
+    "latitude": 47.8455,
+    "name": "WiFi (free/gratuit)",
+    "city": "Olivet la Source",
+    "description": "McDo BK"
+  },
+  {
+    "longitude": 7.08644,
+    "latitude": 43.5997,
+    "name": "WiFi (free/gratuit)",
+    "city": "Antibes",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.37075,
+    "latitude": 48.70907,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paray Vieille Poste",
+    "description": "Quick"
+  },
+  {
+    "longitude": 2.31937,
+    "latitude": 48.81838,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montrouge",
+    "description": "Rubeo Monte"
+  },
+  {
+    "longitude": 2.0301,
+    "latitude": 47.90452,
+    "name": "WiFi (free/gratuit)",
+    "city": "Checy",
+    "description": "McDO"
+  },
+  {
+    "longitude": 2.73462,
+    "latitude": 47.97829,
+    "name": "WiFi (free/gratuit)",
+    "city": "Amilly",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.5146,
+    "latitude": 43.56468,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Orens de Gameville",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.32954,
+    "latitude": 48.87413,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Provence"
+  },
+  {
+    "longitude": 2.6528,
+    "latitude": 48.52272,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dammarie",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.34238,
+    "latitude": 48.84083,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Henri IV"
+  },
+  {
+    "longitude": 5.66479,
+    "latitude": 45.23995,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Egreve",
+    "description": "Quick"
+  },
+  {
+    "longitude": 0.18113,
+    "latitude": 45.69385,
+    "name": "WiFi (free/gratuit)",
+    "city": "Champniers",
+    "description": "McDo CC Geant"
+  },
+  {
+    "longitude": 2.36805,
+    "latitude": 48.84901,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Jardin de l'Arsenal"
+  },
+  {
+    "longitude": 2.39881,
+    "latitude": 48.865,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mairie du 20eme"
+  },
+  {
+    "longitude": 1.91879,
+    "latitude": 48.76016,
+    "name": "WiFi (free/gratuit)",
+    "city": "Maurepas",
+    "description": "McDo Pariwest"
+  },
+  {
+    "longitude": 4.80097,
+    "latitude": 45.77588,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "McDo Vaise"
+  },
+  {
+    "longitude": 6.16107,
+    "latitude": 49.149,
+    "name": "WiFi (free/gratuit)",
+    "city": "Woippy",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.36616,
+    "latitude": 48.85611,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Square Louis XIII"
+  },
+  {
+    "longitude": 0.75984,
+    "latitude": 43.11364,
+    "name": "WiFi (free/gratuit)",
+    "city": "Estancarbon",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.36442,
+    "latitude": 43.822,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nimes",
+    "description": "McDo Carbonnel"
+  },
+  {
+    "longitude": 7.65952,
+    "latitude": 48.42852,
+    "name": "WiFi (free/gratuit)",
+    "city": "Erstein",
+    "description": "McDo"
+  },
+  {
+    "longitude": 7.19917,
+    "latitude": 43.76637,
+    "name": "WiFi (free/gratuit)",
+    "city": "Gattieres",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.47171,
+    "latitude": 43.64432,
+    "name": "WiFi (free/gratuit)",
+    "city": "L Union",
+    "description": "Balladins"
+  },
+  {
+    "longitude": 7.3175,
+    "latitude": 47.73389,
+    "name": "WiFi (free/gratuit)",
+    "city": "Mulhouse",
+    "description": "McDo Piscine"
+  },
+  {
+    "longitude": 5.85667,
+    "latitude": 43.10861,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Seyne sur mer",
+    "description": "Quick"
+  },
+  {
+    "longitude": 0.49123,
+    "latitude": 49.55114,
+    "name": "WiFi (free/gratuit)",
+    "city": "Gruchet le Valasse",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.92318,
+    "latitude": 47.39054,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cosne sur Loire",
+    "description": "McDo CC Champion"
+  },
+  {
+    "longitude": 6.40813,
+    "latitude": 46.07323,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bonneville",
+    "description": "McDo"
+  },
+  {
+    "longitude": -3.43665,
+    "latitude": 48.73614,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lannion",
+    "description": "Bowling l Eclipse"
+  },
+  {
+    "longitude": 2.24904,
+    "latitude": 49.12514,
+    "name": "WiFi (free/gratuit)",
+    "city": "L Isle Adam",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.24943,
+    "latitude": 48.18783,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pithiviers",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.87477,
+    "latitude": 43.12445,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ollioules",
+    "description": "Quick CC Continent"
+  },
+  {
+    "longitude": 7.26457,
+    "latitude": 43.69503,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nice",
+    "description": "Florida Beach"
+  },
+  {
+    "longitude": 2.55426,
+    "latitude": 49.08849,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Witz",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.4089,
+    "latitude": 48.4278,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lesmont",
+    "description": "Domaine des Lacs"
+  },
+  {
+    "longitude": 7.295,
+    "latitude": 47.75833,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lutterbach",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.54667,
+    "latitude": 47.16028,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nantes",
+    "description": "Bistro oceane"
+  },
+  {
+    "longitude": 1.09658,
+    "latitude": 49.43748,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rouen",
+    "description": "Hotel de Bordeaux"
+  },
+  {
+    "longitude": 5.36586,
+    "latitude": 43.41965,
+    "name": "WiFi (free/gratuit)",
+    "city": "Les Pennes-Mirabeau",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.76803,
+    "latitude": 45.76423,
+    "name": "WiFi (free/gratuit)",
+    "city": "Tassin la Demi-Lune",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.0712,
+    "latitude": 46.0357,
+    "name": "WiFi (free/gratuit)",
+    "city": "Roanne",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.94028,
+    "latitude": 44.91583,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Bugue",
+    "description": "Les Cybeles"
+  },
+  {
+    "longitude": 2.33249,
+    "latitude": 48.85382,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Manoir Saint Germain des Pres"
+  },
+  {
+    "longitude": 7.71336,
+    "latitude": 48.54356,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ostwald",
+    "description": "Chateau de l Ile"
+  },
+  {
+    "longitude": 2.13891,
+    "latitude": 49.22079,
+    "name": "WiFi (free/gratuit)",
+    "city": "Meru",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.76503,
+    "latitude": 45.18494,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint-Martin d Heres",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.64133,
+    "latitude": 48.83391,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lognes",
+    "description": "McDo"
+  },
+  {
+    "longitude": -3.58738,
+    "latitude": 47.87032,
+    "name": "WiFi (free/gratuit)",
+    "city": "Mellac",
+    "description": "CC Intermarche"
+  },
+  {
+    "longitude": -0.3273,
+    "latitude": 49.2063,
+    "name": "WiFi (free/gratuit)",
+    "city": "Herouville Saint Clair",
+    "description": "McDo CC Saint Clair"
+  },
+  {
+    "longitude": 1.95209,
+    "latitude": 48.94151,
+    "name": "WiFi (free/gratuit)",
+    "city": "Morainvilliers",
+    "description": "Autogrill Aire de Service de Morainvilliers Sud"
+  },
+  {
+    "longitude": 4.98453,
+    "latitude": 45.7307,
+    "name": "WiFi (free/gratuit)",
+    "city": "Genas",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.03349,
+    "latitude": 47.33682,
+    "name": "WiFi (free/gratuit)",
+    "city": "Fontaine les Dijon",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.50183,
+    "latitude": 43.55023,
+    "name": "WiFi (free/gratuit)",
+    "city": "Labege",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.7005,
+    "latitude": 48.40421,
+    "name": "WiFi (free/gratuit)",
+    "city": "Fontainebleau",
+    "description": "Napoleon"
+  },
+  {
+    "longitude": 2.29326,
+    "latitude": 48.88526,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Cheverny"
+  },
+  {
+    "longitude": 2.3368,
+    "latitude": 48.8678,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Restaurant ZENZOO"
+  },
+  {
+    "longitude": 5.9925,
+    "latitude": 47.27639,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ecole Valentin",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.8663,
+    "latitude": 46.78772,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chalon sur Saone",
+    "description": "McDo Bowling"
+  },
+  {
+    "longitude": 3.4732,
+    "latitude": 50.37727,
+    "name": "WiFi (free/gratuit)",
+    "city": "Petite Foret",
+    "description": "Quick"
+  },
+  {
+    "longitude": 2.30119,
+    "latitude": 48.75416,
+    "name": "WiFi (free/gratuit)",
+    "city": "Antony",
+    "description": "McDo"
+  },
+  {
+    "longitude": -2.73263,
+    "latitude": 48.18072,
+    "name": "WiFi (free/gratuit)",
+    "city": "Loudeac",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.31741,
+    "latitude": 48.85656,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Palais Bourbon"
+  },
+  {
+    "longitude": 6.17661,
+    "latitude": 48.61933,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ludres",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.36735,
+    "latitude": 48.88498,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Herge"
+  },
+  {
+    "longitude": 6.23047,
+    "latitude": 46.18156,
+    "name": "WiFi (free/gratuit)",
+    "city": "Etrembiere",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.59191,
+    "latitude": 44.37247,
+    "name": "WiFi (free/gratuit)",
+    "city": "Onet le Chateau",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.3714,
+    "latitude": 48.85737,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Marais Bastille"
+  },
+  {
+    "longitude": 6.55677,
+    "latitude": 45.43195,
+    "name": "WiFi (free/gratuit)",
+    "city": "Les Allues",
+    "description": "La Tsaretta"
+  },
+  {
+    "longitude": -2.50059,
+    "latitude": 48.44981,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lamballe",
+    "description": "McDo"
+  },
+  {
+    "longitude": -0.57779,
+    "latitude": 44.84121,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bordeaux",
+    "description": "Grand Hotel Francais"
+  },
+  {
+    "longitude": 7.28445,
+    "latitude": 43.70547,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nice",
+    "description": "McDo CC TNL"
+  },
+  {
+    "longitude": 5.94574,
+    "latitude": 47.21573,
+    "name": "WiFi (free/gratuit)",
+    "city": "Besancon Chateaufarine",
+    "description": "Galerie marchande Geant casino"
+  },
+  {
+    "longitude": 5.0369,
+    "latitude": 47.3228,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dijon",
+    "description": "Hotel B&B (rue du Chateau)"
+  },
+  {
+    "longitude": -0.9774,
+    "latitude": 45.9588,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rochefort",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.33216,
+    "latitude": 48.86927,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Daunou"
+  },
+  {
+    "longitude": 5.48245,
+    "latitude": 43.29415,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "McDo La Valentine"
+  },
+  {
+    "longitude": 1.12662,
+    "latitude": 43.00592,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Lizier",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.32418,
+    "latitude": 46.18814,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Flotte",
+    "description": "Office de tourisme"
+  },
+  {
+    "longitude": 5.26434,
+    "latitude": 43.43274,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vitrolles",
+    "description": "Quick avenue de Marseille"
+  },
+  {
+    "longitude": 2.34988,
+    "latitude": 48.84825,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Square Paul Langevin"
+  },
+  {
+    "longitude": 5.0925,
+    "latitude": 47.31306,
+    "name": "WiFi (free/gratuit)",
+    "city": "Quetigny",
+    "description": ""
+  },
+  {
+    "longitude": 2.35129,
+    "latitude": 48.8574,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Parvis de l Hotel de Ville"
+  },
+  {
+    "longitude": 0.22238,
+    "latitude": 47.99758,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Mans",
+    "description": "Quick Bollee"
+  },
+  {
+    "longitude": 2.34463,
+    "latitude": 48.85253,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Europe"
+  },
+  {
+    "longitude": 2.32075,
+    "latitude": 48.83532,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bretagne Montparnasse"
+  },
+  {
+    "longitude": 2.25828,
+    "latitude": 48.83737,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Murat"
+  },
+  {
+    "longitude": 3.11561,
+    "latitude": 45.80322,
+    "name": "WiFi (free/gratuit)",
+    "city": "Clermont-Ferrand",
+    "description": "1ere Classe Nord"
+  },
+  {
+    "longitude": 6.04929,
+    "latitude": 43.40834,
+    "name": "WiFi (free/gratuit)",
+    "city": "Brignoles",
+    "description": "McDo"
+  },
+  {
+    "longitude": 3.2503,
+    "latitude": 43.34847,
+    "name": "WiFi (free/gratuit)",
+    "city": "Beziers",
+    "description": "McDo Frigoulas"
+  },
+  {
+    "longitude": -0.58451,
+    "latitude": 44.83866,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bordeaux",
+    "description": "CC Auchan Meriadeck"
+  },
+  {
+    "longitude": 5.21399,
+    "latitude": 46.21527,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bourg en Bresse",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.36231,
+    "latitude": 43.83598,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nimes",
+    "description": "Quick Arenes"
+  },
+  {
+    "longitude": 2.34817,
+    "latitude": 48.86233,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Blibliotheque de la fontaine"
+  },
+  {
+    "longitude": -0.59585,
+    "latitude": 44.80018,
+    "name": "WiFi (free/gratuit)",
+    "city": "Talence",
+    "description": "McDo Universite"
+  },
+  {
+    "longitude": -0.52878,
+    "latitude": 47.39624,
+    "name": "WiFi (free/gratuit)",
+    "city": "Murs Erigne",
+    "description": "McDo CC Hyper U"
+  },
+  {
+    "longitude": 4.84313,
+    "latitude": 46.33411,
+    "name": "WiFi (free/gratuit)",
+    "city": "Sance",
+    "description": "Best Hotel"
+  },
+  {
+    "longitude": 4.34844,
+    "latitude": 43.81546,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nimes",
+    "description": "McDo Ville Active"
+  },
+  {
+    "longitude": 1.52572,
+    "latitude": 44.15044,
+    "name": "WiFi (free/gratuit)",
+    "city": "Caussade",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.18652,
+    "latitude": 45.74966,
+    "name": "WiFi (free/gratuit)",
+    "city": "Tignieu",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.366,
+    "latitude": 43.83263,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nimes",
+    "description": "Gare"
+  },
+  {
+    "longitude": 2.3436,
+    "latitude": 48.85127,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Saint Germain"
+  },
+  {
+    "longitude": 2.40854,
+    "latitude": 48.87181,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Saint Blaise"
+  },
+  {
+    "longitude": 2.2979,
+    "latitude": 48.87111,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Galileo"
+  },
+  {
+    "longitude": 0.68306,
+    "latitude": 44.4038,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bias",
+    "description": "McDo"
+  },
+  {
+    "longitude": 6.06394,
+    "latitude": 48.90085,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pont � Mousson",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.80418,
+    "latitude": 45.77179,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "46-60 rue Saint Pierre de Vaise (Kebab Resto Lys)"
+  },
+  {
+    "longitude": 2.46732,
+    "latitude": 49.23335,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Maximin",
+    "description": "McDo CC Cora"
+  },
+  {
+    "longitude": 4.93246,
+    "latitude": 44.95368,
+    "name": "WiFi (free/gratuit)",
+    "city": "Valence",
+    "description": "Quick Couleures"
+  },
+  {
+    "longitude": 2.33398,
+    "latitude": 48.86937,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "France d Antin"
+  },
+  {
+    "longitude": 2.96692,
+    "latitude": 50.62912,
+    "name": "WiFi (free/gratuit)",
+    "city": "Englos",
+    "description": "Quick"
+  },
+  {
+    "longitude": 2.30553,
+    "latitude": 48.84661,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Baldi Eiffel"
+  },
+  {
+    "longitude": 5.36066,
+    "latitude": 43.41335,
+    "name": "WiFi (free/gratuit)",
+    "city": "Plan de Campagne",
+    "description": "McDo Cabries"
+  },
+  {
+    "longitude": 2.35416,
+    "latitude": 48.82692,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Jardin Moulinet Vandrezan"
+  },
+  {
+    "longitude": 2.387,
+    "latitude": 48.84398,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Square Saint Eloi"
+  },
+  {
+    "longitude": 2.32392,
+    "latitude": 48.85427,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Nevers"
+  },
+  {
+    "longitude": 2.28479,
+    "latitude": 51.00552,
+    "name": "WiFi (free/gratuit)",
+    "city": "Grande Synthe",
+    "description": "Quick CC Auchan"
+  },
+  {
+    "longitude": -1.11917,
+    "latitude": 45.83028,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marennes",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.73553,
+    "latitude": 45.97923,
+    "name": "WiFi (free/gratuit)",
+    "city": "Villefranche sur Saone",
+    "description": "McDo Ferry"
+  },
+  {
+    "longitude": 2.29929,
+    "latitude": 48.87244,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Champs Elysees"
+  },
+  {
+    "longitude": 2.3232,
+    "latitude": 48.88077,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Cervantes"
+  },
+  {
+    "longitude": 1.48305,
+    "latitude": 43.60628,
+    "name": "WiFi (free/gratuit)",
+    "city": "Toulouse",
+    "description": "McDo Jean Chaubet"
+  },
+  {
+    "longitude": 2.41173,
+    "latitude": 48.84179,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Centre d Hebergement Maurice-Ravel"
+  },
+  {
+    "longitude": 0.65657,
+    "latitude": 47.37784,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Riche",
+    "description": "Centre commercial"
+  },
+  {
+    "longitude": -3.05689,
+    "latitude": 47.57324,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carnac",
+    "description": "Celtique"
+  },
+  {
+    "longitude": 4.80583,
+    "latitude": 45.75444,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "McDo Charcot"
+  },
+  {
+    "longitude": 7.08991,
+    "latitude": 43.57427,
+    "name": "WiFi (free/gratuit)",
+    "city": "Juan les Pins",
+    "description": "McDo"
+  },
+  {
+    "longitude": 3.58516,
+    "latitude": 47.79773,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auxerre",
+    "description": "Le Dupleix Rue Paul Doumer"
+  },
+  {
+    "longitude": 5.38903,
+    "latitude": 43.33083,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "McDo Saint Barthelemy"
+  },
+  {
+    "longitude": 2.3552,
+    "latitude": 48.83778,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Au petit bar (Bar-Resto)"
+  },
+  {
+    "longitude": 4.75145,
+    "latitude": 44.28895,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bollene",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.88063,
+    "latitude": 43.1223,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ollioules",
+    "description": "McDo"
+  },
+  {
+    "longitude": 6.20178,
+    "latitude": 46.58459,
+    "name": "WiFi (free/gratuit)",
+    "city": "Goux les Usiers",
+    "description": ""
+  },
+  {
+    "longitude": 3.28339,
+    "latitude": 43.26957,
+    "name": "WiFi (free/gratuit)",
+    "city": "Serignan",
+    "description": "McDo"
+  },
+  {
+    "longitude": -2.79112,
+    "latitude": 47.66044,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vannes",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.34468,
+    "latitude": 48.85242,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Albe"
+  },
+  {
+    "longitude": 2.35125,
+    "latitude": 48.83963,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Hotel de France"
+  },
+  {
+    "longitude": 2.30373,
+    "latitude": 48.87103,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Champs Elysees"
+  },
+  {
+    "longitude": 5.59325,
+    "latitude": 43.29182,
+    "name": "WiFi (free/gratuit)",
+    "city": "Aubagne",
+    "description": "Quick Les Paluds"
+  },
+  {
+    "longitude": -2.95994,
+    "latitude": 48.05406,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pontivy",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.37853,
+    "latitude": 43.29312,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "McDo Saint Ferreol"
+  },
+  {
+    "longitude": -1.10278,
+    "latitude": 46.11194,
+    "name": "WiFi (free/gratuit)",
+    "city": "Angoulins sur Mer",
+    "description": "McDo CC Carrefour"
+  },
+  {
+    "longitude": 4.84294,
+    "latitude": 46.33124,
+    "name": "WiFi (free/gratuit)",
+    "city": "Sance",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.39318,
+    "latitude": 45.44857,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Etienne",
+    "description": "Quick Plaine Achille"
+  },
+  {
+    "longitude": 1.73694,
+    "latitude": 47.37806,
+    "name": "WiFi (free/gratuit)",
+    "city": "Romorantin Lanthenay",
+    "description": "McDo CC Leclerc"
+  },
+  {
+    "longitude": 0.46938,
+    "latitude": 47.65064,
+    "name": "WiFi (free/gratuit)",
+    "city": "Dissay sous Courcillon",
+    "description": "A28 station Shell"
+  },
+  {
+    "longitude": 4.80414,
+    "latitude": 43.94436,
+    "name": "WiFi (free/gratuit)",
+    "city": "Avignon",
+    "description": "Flunch"
+  },
+  {
+    "longitude": 4.86158,
+    "latitude": 45.74876,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "McDo Universite Jean Moulin"
+  },
+  {
+    "longitude": 3.47703,
+    "latitude": 43.29846,
+    "name": "WiFi (free/gratuit)",
+    "city": "Agde",
+    "description": "McDo CC Le Grand Cap"
+  },
+  {
+    "longitude": 2.27769,
+    "latitude": 48.85688,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo rue Duban"
+  },
+  {
+    "longitude": 4.83205,
+    "latitude": 45.7266,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "McDo Gerland"
+  },
+  {
+    "longitude": 2.68472,
+    "latitude": 48.27719,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Pierre les Nemours",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.90472,
+    "latitude": 47.90639,
+    "name": "WiFi (free/gratuit)",
+    "city": "Orleans",
+    "description": "McDo Verdun"
+  },
+  {
+    "longitude": 2.34715,
+    "latitude": 48.82575,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Acrobates et Funambules (Bar-Brasserie)"
+  },
+  {
+    "longitude": 2.30042,
+    "latitude": 48.8771,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Gest-In"
+  },
+  {
+    "longitude": 3.11612,
+    "latitude": 45.77005,
+    "name": "WiFi (free/gratuit)",
+    "city": "Clermont-Ferrand",
+    "description": "McDo La Pardieu"
+  },
+  {
+    "longitude": 7.11044,
+    "latitude": 43.57021,
+    "name": "WiFi (free/gratuit)",
+    "city": "Juan les Pins",
+    "description": "Hotel Saint Charles"
+  },
+  {
+    "longitude": -0.95778,
+    "latitude": 44.63694,
+    "name": "WiFi (free/gratuit)",
+    "city": "Biganos",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.35837,
+    "latitude": 48.85821,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Espace des blancs manteaux"
+  },
+  {
+    "longitude": 6.71024,
+    "latitude": 45.88905,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Gervais Les Bains",
+    "description": "Hotel Liberty Mont Blanc"
+  },
+  {
+    "longitude": 7.08554,
+    "latitude": 43.59906,
+    "name": "WiFi (free/gratuit)",
+    "city": "Antibes",
+    "description": "Quick"
+  },
+  {
+    "longitude": 2.14159,
+    "latitude": 49.04384,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Ouen L'aumone",
+    "description": "Balladins"
+  },
+  {
+    "longitude": 0.11082,
+    "latitude": 45.62455,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Couronne",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.22809,
+    "latitude": 43.44346,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "Aeroport"
+  },
+  {
+    "longitude": 1.82553,
+    "latitude": 50.67197,
+    "name": "WiFi (free/gratuit)",
+    "city": "Desvres",
+    "description": "La Ferme du Moulin aux Draps"
+  },
+  {
+    "longitude": 6.17004,
+    "latitude": 47.62794,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vesoul",
+    "description": "McDo Centre"
+  },
+  {
+    "longitude": 6.57638,
+    "latitude": 43.26176,
+    "name": "WiFi (free/gratuit)",
+    "city": "Gassin",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.4055,
+    "latitude": 48.77132,
+    "name": "WiFi (free/gratuit)",
+    "city": "Choisy le Roi",
+    "description": "Tsunami"
+  },
+  {
+    "longitude": 4.63494,
+    "latitude": 43.667,
+    "name": "WiFi (free/gratuit)",
+    "city": "Arles",
+    "description": "Quick CC Fourchon"
+  },
+  {
+    "longitude": 2.34014,
+    "latitude": 48.87194,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Richelieu"
+  },
+  {
+    "longitude": 2.34337,
+    "latitude": 50.29422,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bruay la Bussiere",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.32529,
+    "latitude": 48.87296,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Madeleine Opera"
+  },
+  {
+    "longitude": -4.2325,
+    "latitude": 48.18111,
+    "name": "WiFi (free/gratuit)",
+    "city": "Plomodiern",
+    "description": "public"
+  },
+  {
+    "longitude": 2.35507,
+    "latitude": 48.85234,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Deux Iles"
+  },
+  {
+    "longitude": -0.42378,
+    "latitude": 49.16392,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bretteville sur Odon",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.96757,
+    "latitude": 46.32512,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montmarault",
+    "description": "Maison du Tourisme de l Allier"
+  },
+  {
+    "longitude": 6.0183,
+    "latitude": 43.1385,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Garde",
+    "description": "Quick"
+  },
+  {
+    "longitude": 2.29686,
+    "latitude": 48.8583,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Parc du Champs de Mars"
+  },
+  {
+    "longitude": -2.02524,
+    "latitude": 48.64728,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Malo",
+    "description": "Ajoncs d Or"
+  },
+  {
+    "longitude": 2.31998,
+    "latitude": 48.85691,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Saint Simon et Mairie du 7eme"
+  },
+  {
+    "longitude": 1.36703,
+    "latitude": 43.64496,
+    "name": "WiFi (free/gratuit)",
+    "city": "Blagnac",
+    "description": "Quick"
+  },
+  {
+    "longitude": 6.05979,
+    "latitude": 48.90581,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pont � Mousson",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.70871,
+    "latitude": 48.11597,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rennes",
+    "description": "McDo Champeaux"
+  },
+  {
+    "longitude": 2.34501,
+    "latitude": 48.87803,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Valeyre"
+  },
+  {
+    "longitude": 2.27724,
+    "latitude": 48.86391,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mairie du 16eme"
+  },
+  {
+    "longitude": 6.17215,
+    "latitude": 49.11368,
+    "name": "WiFi (free/gratuit)",
+    "city": "Metz",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.49376,
+    "latitude": 50.27468,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lens",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.66552,
+    "latitude": 49.32937,
+    "name": "WiFi (free/gratuit)",
+    "city": "Spincourt",
+    "description": "Codecom"
+  },
+  {
+    "longitude": 5.72625,
+    "latitude": 45.1903,
+    "name": "WiFi (free/gratuit)",
+    "city": "Grenoble",
+    "description": "McDoGrenette"
+  },
+  {
+    "longitude": 2.32071,
+    "latitude": 48.79237,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cachan",
+    "description": "McDo Freephonie OK"
+  },
+  {
+    "longitude": 6.0772,
+    "latitude": 46.294,
+    "name": "WiFi (free/gratuit)",
+    "city": "Segny",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.62026,
+    "latitude": 48.11355,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cesson Sevigne",
+    "description": "McDo Rennes Cesson"
+  },
+  {
+    "longitude": 2.99243,
+    "latitude": 43.1751,
+    "name": "WiFi (free/gratuit)",
+    "city": "Narbonne",
+    "description": "McDo Espace Liberte"
+  },
+  {
+    "longitude": 4.91471,
+    "latitude": 44.94052,
+    "name": "WiFi (free/gratuit)",
+    "city": "Valence",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.30295,
+    "latitude": 48.8321,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Cafe aux 100 kilos"
+  },
+  {
+    "longitude": 2.31892,
+    "latitude": 48.87437,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Waldorf Rochambeau"
+  },
+  {
+    "longitude": 2.33762,
+    "latitude": 48.88111,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Frochot"
+  },
+  {
+    "longitude": 5.89621,
+    "latitude": 45.69367,
+    "name": "WiFi (free/gratuit)",
+    "city": "Aix les Bains",
+    "description": "McDo"
+  },
+  {
+    "longitude": -2.72478,
+    "latitude": 47.65141,
+    "name": "WiFi (free/gratuit)",
+    "city": "Sene",
+    "description": "McDo"
+  },
+  {
+    "longitude": 7.26123,
+    "latitude": 43.69479,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nice",
+    "description": "Le Queenie Restaurant"
+  },
+  {
+    "longitude": -4.10245,
+    "latitude": 47.99458,
+    "name": "WiFi (free/gratuit)",
+    "city": "Quimper",
+    "description": "cafe des Arts"
+  },
+  {
+    "longitude": 2.59739,
+    "latitude": 48.58606,
+    "name": "WiFi (free/gratuit)",
+    "city": "Melun Senart",
+    "description": "McDo"
+  },
+  {
+    "longitude": -2.2093,
+    "latitude": 47.2934,
+    "name": "WiFi (free/gratuit)",
+    "city": "Trignac",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.34322,
+    "latitude": 48.85143,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Cluny Square"
+  },
+  {
+    "longitude": -3.3952,
+    "latitude": 47.76304,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lorient",
+    "description": "McDo Keryado"
+  },
+  {
+    "longitude": 0.67573,
+    "latitude": 47.36505,
+    "name": "WiFi (free/gratuit)",
+    "city": "Tours",
+    "description": "McDo Les deux Lions"
+  },
+  {
+    "longitude": 2.28768,
+    "latitude": 48.86715,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Waldorf Trocadero"
+  },
+  {
+    "longitude": 2.3217,
+    "latitude": 48.85446,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Maison de la Recherche"
+  },
+  {
+    "longitude": -0.36483,
+    "latitude": 49.20982,
+    "name": "WiFi (free/gratuit)",
+    "city": "Caen",
+    "description": "McDo CC Cote de Nacre"
+  },
+  {
+    "longitude": 2.34155,
+    "latitude": 48.87457,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Monte Carlo"
+  },
+  {
+    "longitude": 2.3245,
+    "latitude": 48.84453,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Montparnasse"
+  },
+  {
+    "longitude": -4.10265,
+    "latitude": 47.9941,
+    "name": "WiFi (free/gratuit)",
+    "city": "Quimper",
+    "description": "Pub Le Grenier"
+  },
+  {
+    "longitude": -1.62694,
+    "latitude": 47.22111,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Herblain",
+    "description": "City suites CC Atlantis"
+  },
+  {
+    "longitude": 2.58317,
+    "latitude": 50.24189,
+    "name": "WiFi (free/gratuit)",
+    "city": "Henin Beaumont",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.36414,
+    "latitude": 48.8207,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Choisy"
+  },
+  {
+    "longitude": 5.81115,
+    "latitude": 46.12768,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chatillon en Michaille",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.47989,
+    "latitude": 43.29002,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "Quick La Valentine"
+  },
+  {
+    "longitude": 2.26625,
+    "latitude": 48.89399,
+    "name": "WiFi (free/gratuit)",
+    "city": "Neuilly sur Seine",
+    "description": "Hotel La Jatte"
+  },
+  {
+    "longitude": 4.83223,
+    "latitude": 45.77591,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "Quick Croix-Rousse"
+  },
+  {
+    "longitude": 2.35726,
+    "latitude": 48.82604,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Tolbiac"
+  },
+  {
+    "longitude": 2.28677,
+    "latitude": 48.87507,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Chalet des Iles"
+  },
+  {
+    "longitude": 4.29278,
+    "latitude": 45.52306,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Fouillouse",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.03684,
+    "latitude": 43.22191,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ibos",
+    "description": "Zygoland"
+  },
+  {
+    "longitude": 2.35095,
+    "latitude": 48.87525,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "L Hirondelle"
+  },
+  {
+    "longitude": 4.42907,
+    "latitude": 46.80859,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Creusot",
+    "description": "McDo"
+  },
+  {
+    "longitude": -0.11634,
+    "latitude": 49.29357,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cabourg",
+    "description": "Bar du Casino"
+  },
+  {
+    "longitude": -1.6293,
+    "latitude": 47.22444,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Herblain",
+    "description": "McDo CC Atlantis"
+  },
+  {
+    "longitude": 2.33625,
+    "latitude": 48.85246,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Clement"
+  },
+  {
+    "longitude": 0.52145,
+    "latitude": 49.34923,
+    "name": "WiFi (free/gratuit)",
+    "city": "Pont Audemer",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.42152,
+    "latitude": 47.09259,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bourges",
+    "description": "McDo CC Carrefour"
+  },
+  {
+    "longitude": 6.95575,
+    "latitude": 43.54878,
+    "name": "WiFi (free/gratuit)",
+    "city": "La Bocca",
+    "description": "Campanile"
+  },
+  {
+    "longitude": 2.36983,
+    "latitude": 43.20727,
+    "name": "WiFi (free/gratuit)",
+    "city": "Carcassonne",
+    "description": "Hotel Mercure"
+  },
+  {
+    "longitude": 1.47152,
+    "latitude": 43.64578,
+    "name": "WiFi (free/gratuit)",
+    "city": "L Union",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.70611,
+    "latitude": 47.33139,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chambray les Tours",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.13761,
+    "latitude": 48.44108,
+    "name": "WiFi (free/gratuit)",
+    "city": "Etampes",
+    "description": "Quick"
+  },
+  {
+    "longitude": 5.25659,
+    "latitude": 45.58936,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bourgoin-Jallieu",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.88223,
+    "latitude": 44.96101,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bourg les Valence",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.29453,
+    "latitude": 48.87549,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mac Mahon"
+  },
+  {
+    "longitude": 4.83443,
+    "latitude": 45.75832,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "Fnac rue de la Republique"
+  },
+  {
+    "longitude": -4.17417,
+    "latitude": 47.83232,
+    "name": "WiFi (free/gratuit)",
+    "city": "Loctudy",
+    "description": "office du tourisme"
+  },
+  {
+    "longitude": 7.45295,
+    "latitude": 48.25729,
+    "name": "WiFi (free/gratuit)",
+    "city": "Selestat",
+    "description": "Bar le Tigre"
+  },
+  {
+    "longitude": 0.66068,
+    "latitude": 45.19486,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marsac sur l Isle",
+    "description": "McDo CC Auchan"
+  },
+  {
+    "longitude": 4.88993,
+    "latitude": 45.81736,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rilleux la Pape",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.34299,
+    "latitude": 48.8499,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Central Saint Germain"
+  },
+  {
+    "longitude": 4.8647,
+    "latitude": 44.93933,
+    "name": "WiFi (free/gratuit)",
+    "city": "Granges les Valence",
+    "description": "McDo"
+  },
+  {
+    "longitude": -2.5042,
+    "latitude": 47.55976,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ambon",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.75111,
+    "latitude": 46.10583,
+    "name": "WiFi (free/gratuit)",
+    "city": "Belleville",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.28676,
+    "latitude": 48.8931,
+    "name": "WiFi (free/gratuit)",
+    "city": "Levallois-Perret",
+    "description": "Le Balto"
+  },
+  {
+    "longitude": 4.14741,
+    "latitude": 43.682,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lunel",
+    "description": "Hotel Ambre"
+  },
+  {
+    "longitude": -1.59847,
+    "latitude": 49.60616,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cherbourg",
+    "description": "Quick La Glacerie"
+  },
+  {
+    "longitude": 2.36226,
+    "latitude": 48.86463,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mairie"
+  },
+  {
+    "longitude": 5.37606,
+    "latitude": 43.29921,
+    "name": "WiFi (free/gratuit)",
+    "city": "Marseille",
+    "description": "McDo Sainte Barbe"
+  },
+  {
+    "longitude": 2.34388,
+    "latitude": 48.87342,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Geoffroy Marie Opera"
+  },
+  {
+    "longitude": 3.26965,
+    "latitude": 49.84906,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Quentin",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.34487,
+    "latitude": 45.47319,
+    "name": "WiFi (free/gratuit)",
+    "city": "Villars",
+    "description": "Comptoir Casino"
+  },
+  {
+    "longitude": 4.08379,
+    "latitude": 46.46216,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paray le Monial",
+    "description": "McDo"
+  },
+  {
+    "longitude": 3.68978,
+    "latitude": 47.682,
+    "name": "WiFi (free/gratuit)",
+    "city": "Cravant",
+    "description": "Hotel St Pierre 5 rue de l'Eglise"
+  },
+  {
+    "longitude": 2.30285,
+    "latitude": 48.88827,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Rostand"
+  },
+  {
+    "longitude": 2.34654,
+    "latitude": 48.85847,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Louvre Rivoli"
+  },
+  {
+    "longitude": 2.35114,
+    "latitude": 49.00805,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Brice sous Foret",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.35551,
+    "latitude": 48.85619,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Baudoyer et Mairie du 4eme"
+  },
+  {
+    "longitude": 5.24201,
+    "latitude": 46.19999,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bourg en Bresse",
+    "description": "Cafe-Tabac-Journaux CC Carrefour"
+  },
+  {
+    "longitude": 2.33636,
+    "latitude": 48.87511,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Imperial"
+  },
+  {
+    "longitude": 0.21248,
+    "latitude": 45.63294,
+    "name": "WiFi (free/gratuit)",
+    "city": "Soyaux",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.33563,
+    "latitude": 48.86664,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Louvre Saint Anne"
+  },
+  {
+    "longitude": 2.30007,
+    "latitude": 48.75467,
+    "name": "WiFi (free/gratuit)",
+    "city": "Antony",
+    "description": "BIJ"
+  },
+  {
+    "longitude": 7.69352,
+    "latitude": 48.52218,
+    "name": "WiFi (free/gratuit)",
+    "city": "Geispolsheim",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.3404,
+    "latitude": 48.87331,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Drouot"
+  },
+  {
+    "longitude": -1.88051,
+    "latitude": 48.05909,
+    "name": "WiFi (free/gratuit)",
+    "city": "Breal sous Monfort",
+    "description": "McDo"
+  },
+  {
+    "longitude": -1.61584,
+    "latitude": 47.1981,
+    "name": "WiFi (free/gratuit)",
+    "city": "Nantes",
+    "description": "McDo Pont Chevire"
+  },
+  {
+    "longitude": 2.64056,
+    "latitude": 47.70806,
+    "name": "WiFi (free/gratuit)",
+    "city": "Gien",
+    "description": "McDo"
+  },
+  {
+    "longitude": -0.70307,
+    "latitude": 44.95472,
+    "name": "WiFi (free/gratuit)",
+    "city": "Le Pian Medoc",
+    "description": "Hotel logis de france"
+  },
+  {
+    "longitude": 2.35694,
+    "latitude": 48.83086,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Bibliotheque Italie"
+  },
+  {
+    "longitude": 7.73153,
+    "latitude": 48.52918,
+    "name": "WiFi (free/gratuit)",
+    "city": "Illkirch-Graffenstaden",
+    "description": "McDo Campus"
+  },
+  {
+    "longitude": -1.6798,
+    "latitude": 48.0829,
+    "name": "WiFi (free/gratuit)",
+    "city": "Rennes",
+    "description": "McDo Alma"
+  },
+  {
+    "longitude": 4.91339,
+    "latitude": 45.76268,
+    "name": "WiFi (free/gratuit)",
+    "city": "Villeurbanne",
+    "description": "McDo La Soie"
+  },
+  {
+    "longitude": -0.09185,
+    "latitude": 47.26542,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saumur",
+    "description": "McDo"
+  },
+  {
+    "longitude": 5.69611,
+    "latitude": 45.15056,
+    "name": "WiFi (free/gratuit)",
+    "city": "Echirolles",
+    "description": "KFC CC de Comboires"
+  },
+  {
+    "longitude": 0.60384,
+    "latitude": 49.08905,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bernay",
+    "description": "McDo"
+  },
+  {
+    "longitude": 4.84366,
+    "latitude": 45.74658,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "2 rue Domer (Bibliotheque)"
+  },
+  {
+    "longitude": 2.34639,
+    "latitude": 48.84993,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Home Latin"
+  },
+  {
+    "longitude": 5.7979,
+    "latitude": 43.8183,
+    "name": "WiFi (free/gratuit)",
+    "city": "Manosque",
+    "description": "Flunch"
+  },
+  {
+    "longitude": 2.28144,
+    "latitude": 48.86799,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "McDo Victor Hugo"
+  },
+  {
+    "longitude": -0.58547,
+    "latitude": 44.83314,
+    "name": "WiFi (free/gratuit)",
+    "city": "Bordeaux",
+    "description": "Hotel Citea"
+  },
+  {
+    "longitude": 2.37556,
+    "latitude": 48.66052,
+    "name": "WiFi (free/gratuit)",
+    "city": "Viry Chatillon",
+    "description": "Quick"
+  },
+  {
+    "longitude": 2.29397,
+    "latitude": 48.88536,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Champerret Elysee"
+  },
+  {
+    "longitude": 1.69757,
+    "latitude": 46.80501,
+    "name": "WiFi (free/gratuit)",
+    "city": "Chateauroux",
+    "description": "McDo"
+  },
+  {
+    "longitude": 6.13581,
+    "latitude": 49.24633,
+    "name": "WiFi (free/gratuit)",
+    "city": "Amneville",
+    "description": "McDo"
+  },
+  {
+    "longitude": -3.25939,
+    "latitude": 47.80042,
+    "name": "WiFi (free/gratuit)",
+    "city": "Hennebont",
+    "description": "McDo"
+  },
+  {
+    "longitude": 3.56696,
+    "latitude": 47.80032,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auxerre",
+    "description": "Normandie"
+  },
+  {
+    "longitude": 6.51748,
+    "latitude": 48.57887,
+    "name": "WiFi (free/gratuit)",
+    "city": "Luneville",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.34603,
+    "latitude": 48.86316,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Mediatheque musicale de paris(Discotheque des halles)"
+  },
+  {
+    "longitude": 2.3959,
+    "latitude": 48.81906,
+    "name": "WiFi (free/gratuit)",
+    "city": "Ivry sur Seine",
+    "description": "McDo CC Grand Ciel"
+  },
+  {
+    "longitude": 4.83806,
+    "latitude": 45.72639,
+    "name": "WiFi (free/gratuit)",
+    "city": "Lyon",
+    "description": "McDo Gerland"
+  },
+  {
+    "longitude": -1.94346,
+    "latitude": 46.69715,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Gilles Croix de Vie",
+    "description": "Cafe Le Galion"
+  },
+  {
+    "longitude": 2.32967,
+    "latitude": 48.88525,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Flunch"
+  },
+  {
+    "longitude": 4.74468,
+    "latitude": 44.53158,
+    "name": "WiFi (free/gratuit)",
+    "city": "Montelimar",
+    "description": "McDo"
+  },
+  {
+    "longitude": 3.5627,
+    "latitude": 47.79603,
+    "name": "WiFi (free/gratuit)",
+    "city": "Auxerre",
+    "description": "Parc des Marechaux"
+  },
+  {
+    "longitude": 2.49265,
+    "latitude": 46.73469,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Amand Montrond",
+    "description": "McDo parking Intermarche"
+  },
+  {
+    "longitude": -1.46637,
+    "latitude": 48.1031,
+    "name": "WiFi (free/gratuit)",
+    "city": "Servon sur Vilaine",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.33895,
+    "latitude": 48.84385,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Observatoire Luxembourg"
+  },
+  {
+    "longitude": 2.0612,
+    "latitude": 48.76976,
+    "name": "WiFi (free/gratuit)",
+    "city": "Guyancourt",
+    "description": "McDo"
+  },
+  {
+    "longitude": 0.06072,
+    "latitude": 43.22166,
+    "name": "WiFi (free/gratuit)",
+    "city": "Tarbes",
+    "description": "McDo"
+  },
+  {
+    "longitude": 2.33151,
+    "latitude": 48.84696,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Avenir"
+  },
+  {
+    "longitude": 2.29943,
+    "latitude": 48.84072,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Modern Val Girard"
+  },
+  {
+    "longitude": 5.609,
+    "latitude": 43.4643,
+    "name": "WiFi (free/gratuit)",
+    "city": "Fuveau",
+    "description": "McDo"
+  },
+  {
+    "longitude": 1.22021,
+    "latitude": 49.21134,
+    "name": "WiFi (free/gratuit)",
+    "city": "Vironvay",
+    "description": "Aire Autoroute de Normandie"
+  },
+  {
+    "longitude": 2.34449,
+    "latitude": 48.87376,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Lausanne"
+  },
+  {
+    "longitude": 2.36877,
+    "latitude": 48.85474,
+    "name": "WiFi (free/gratuit)",
+    "city": "Paris",
+    "description": "Lyon Mulhouse"
+  },
+  {
+    "longitude": 5.97311,
+    "latitude": 45.52672,
+    "name": "WiFi (free/gratuit)",
+    "city": "Saint Baldoph",
+    "description": "Aire d'Autoroute du Granier"
+  }
+]

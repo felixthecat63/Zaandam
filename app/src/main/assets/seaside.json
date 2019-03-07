@@ -1,0 +1,8500 @@
+[
+  {
+    "longitude": -1.17025,
+    "latitude": 44.52633,
+    "name": "Beach",
+    "city": "La Teste de Buch",
+    "description": "plage de Cazaux-Lac"
+  },
+  {
+    "longitude": 6.4668,
+    "latitude": 43.15747,
+    "name": "Beach",
+    "city": "Plage du Canadel",
+    "description": ""
+  },
+  {
+    "longitude": -2.12354,
+    "latitude": 47.11141,
+    "name": "Beach",
+    "city": "Pornic",
+    "description": "plage Les Grandes Vallees"
+  },
+  {
+    "longitude": -3.98139,
+    "latitude": 47.88861,
+    "name": "Beach",
+    "city": "Fouesnant",
+    "description": "plage Cap Coz"
+  },
+  {
+    "longitude": 8.57956,
+    "latitude": 42.20764,
+    "name": "Beach",
+    "city": "Arone",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.55328,
+    "latitude": 48.21112,
+    "name": "Beach",
+    "city": "Crozon",
+    "description": "plage de Lostmarc h"
+  },
+  {
+    "longitude": -1.33295,
+    "latitude": 46.33013,
+    "name": "Beach",
+    "city": "La Faute sur Mer",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": -4.75951,
+    "latitude": 48.36779,
+    "name": "Beach",
+    "city": "Le Conquet",
+    "description": "plage des Sablons"
+  },
+  {
+    "longitude": -4.95403,
+    "latitude": 48.39489,
+    "name": "Beach",
+    "city": "Le Conquet",
+    "description": "plage de Penn An Era"
+  },
+  {
+    "longitude": 9.22085,
+    "latitude": 41.3709,
+    "name": "Beach",
+    "city": "Sperono",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.35145,
+    "latitude": 48.10218,
+    "name": "Beach",
+    "city": "Douarnenez",
+    "description": "plage Sables-Blancs"
+  },
+  {
+    "longitude": 8.76849,
+    "latitude": 42.55615,
+    "name": "Beach",
+    "city": "Calvi",
+    "description": "plage"
+  },
+  {
+    "longitude": 3.51974,
+    "latitude": 43.28087,
+    "name": "Beach",
+    "city": "Cap d'Agde",
+    "description": "plage du Mole"
+  },
+  {
+    "longitude": -3.85989,
+    "latitude": 47.80865,
+    "name": "Beach",
+    "city": "Tregunc",
+    "description": "plage de Pen Loc h"
+  },
+  {
+    "longitude": -3.88467,
+    "latitude": 47.8267,
+    "name": "Beach",
+    "city": "Regunc",
+    "description": "plage de Kerlaeren"
+  },
+  {
+    "longitude": 4.1409,
+    "latitude": 43.52648,
+    "name": "Beach",
+    "city": "Port Camargue",
+    "description": "plage Ouest"
+  },
+  {
+    "longitude": -1.3258,
+    "latitude": 44.09278,
+    "name": "Beach",
+    "city": "Saint Julien en Born",
+    "description": "plage de Contis"
+  },
+  {
+    "longitude": 3.03506,
+    "latitude": 42.62923,
+    "name": "Beach",
+    "city": "Saint Cyprien",
+    "description": "plage (le village)"
+  },
+  {
+    "longitude": 6.94127,
+    "latitude": 43.52143,
+    "name": "Beach",
+    "city": "Mandelieu La Napoule",
+    "description": "plage de la Raguette"
+  },
+  {
+    "longitude": -2.27194,
+    "latitude": 48.63894,
+    "name": "Beach",
+    "city": "Saint Cast le Guildo",
+    "description": "plage de la Fresnaye"
+  },
+  {
+    "longitude": -1.87326,
+    "latitude": 48.69581,
+    "name": "Beach",
+    "city": "Plage du Verger",
+    "description": ""
+  },
+  {
+    "longitude": -2.82662,
+    "latitude": 48.65043,
+    "name": "Beach",
+    "city": "Saint Quay-Portrieux",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.60641,
+    "latitude": 49.1973,
+    "name": "Beach",
+    "city": "Creance",
+    "description": "Printania Plage"
+  },
+  {
+    "longitude": 9.26776,
+    "latitude": 41.46614,
+    "name": "Beach",
+    "city": "Rondinara",
+    "description": "plage"
+  },
+  {
+    "longitude": 4.87898,
+    "latitude": 43.35298,
+    "name": "Beach",
+    "city": "Port Saint Louis du Rhone",
+    "description": "plage Napoleon"
+  },
+  {
+    "longitude": -3.24638,
+    "latitude": 47.37108,
+    "name": "Beach",
+    "city": "Sauzon",
+    "description": "plage de Port de Ster Vraz"
+  },
+  {
+    "longitude": -3.09914,
+    "latitude": 47.31588,
+    "name": "Beach",
+    "city": "Locmaria",
+    "description": "plage des Grands Sables"
+  },
+  {
+    "longitude": 6.5912,
+    "latitude": 43.26277,
+    "name": "Beach",
+    "city": "Cogolin",
+    "description": "plage Les Marines de Cogolin"
+  },
+  {
+    "longitude": 6.36842,
+    "latitude": 43.13677,
+    "name": "Beach",
+    "city": "Le Lavandou",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.4756,
+    "latitude": 43.15599,
+    "name": "Beach",
+    "city": "Le Rayol",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.03874,
+    "latitude": 46.76098,
+    "name": "Beach",
+    "city": "Saint Hilaire de Riez",
+    "description": "plage des Salins"
+  },
+  {
+    "longitude": -4.16143,
+    "latitude": 47.82929,
+    "name": "Beach",
+    "city": "Loctudy",
+    "description": "plage Langoz"
+  },
+  {
+    "longitude": -4.48601,
+    "latitude": 48.08634,
+    "name": "Beach",
+    "city": "Beuzec Cap Sizun",
+    "description": "plage Pors Peron"
+  },
+  {
+    "longitude": -2.55271,
+    "latitude": 47.51428,
+    "name": "Beach",
+    "city": "Damgan",
+    "description": "Petite Plage de Kervoyal"
+  },
+  {
+    "longitude": -4.41181,
+    "latitude": 47.94881,
+    "name": "Beach",
+    "city": "Plozevet",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.85612,
+    "latitude": 43.42531,
+    "name": "Beach",
+    "city": "Le Dramont",
+    "description": "plage Pourrousset"
+  },
+  {
+    "longitude": -3.99769,
+    "latitude": 47.85264,
+    "name": "Beach",
+    "city": "Fouesnant",
+    "description": "plage de Kermil"
+  },
+  {
+    "longitude": -3.83874,
+    "latitude": 47.79759,
+    "name": "Beach",
+    "city": "Tregunc",
+    "description": "plage Trez Cao"
+  },
+  {
+    "longitude": -3.20087,
+    "latitude": 47.30035,
+    "name": "Beach",
+    "city": "Bangor",
+    "description": "plage de Porh Kerel"
+  },
+  {
+    "longitude": 8.78717,
+    "latitude": 41.92005,
+    "name": "Beach",
+    "city": "Ricanto",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.16465,
+    "latitude": 47.11887,
+    "name": "Beach",
+    "city": "Pornic",
+    "description": "plage Le Portmain"
+  },
+  {
+    "longitude": -3.91681,
+    "latitude": 48.67324,
+    "name": "Beach",
+    "city": "Carantec",
+    "description": "plage de la Chaise du Cure"
+  },
+  {
+    "longitude": -4.40958,
+    "latitude": 48.22574,
+    "name": "Beach",
+    "city": "Plage du Poul",
+    "description": ""
+  },
+  {
+    "longitude": -4.22649,
+    "latitude": 47.79364,
+    "name": "Beach",
+    "city": "Plobannalec",
+    "description": "plage Kersauz"
+  },
+  {
+    "longitude": -4.59755,
+    "latitude": 48.01483,
+    "name": "Beach",
+    "city": "Esquibien",
+    "description": "plage Cabestan"
+  },
+  {
+    "longitude": -4.46403,
+    "latitude": 48.23933,
+    "name": "Beach",
+    "city": "Crozon",
+    "description": "plage Postolonnec"
+  },
+  {
+    "longitude": -1.24648,
+    "latitude": 44.63411,
+    "name": "Beach",
+    "city": "Le Cap Ferret",
+    "description": "plage du Minbeau"
+  },
+  {
+    "longitude": -2.68792,
+    "latitude": 47.49825,
+    "name": "Beach",
+    "city": "Sarzeau",
+    "description": "plage de Penvins"
+  },
+  {
+    "longitude": -1.62886,
+    "latitude": 43.41333,
+    "name": "Beach",
+    "city": "Saint Jean de Luz",
+    "description": "plage de Lafitenia"
+  },
+  {
+    "longitude": -3.93089,
+    "latitude": 47.87969,
+    "name": "Beach",
+    "city": "Plage des Sables Blancs",
+    "description": ""
+  },
+  {
+    "longitude": -1.42401,
+    "latitude": 43.75197,
+    "name": "Beach",
+    "city": "Soustons",
+    "description": "plage de Chaulet"
+  },
+  {
+    "longitude": -1.15934,
+    "latitude": 46.02225,
+    "name": "Beach",
+    "city": "Bois Joly",
+    "description": "Baby-Plage"
+  },
+  {
+    "longitude": 5.13453,
+    "latitude": 43.32984,
+    "name": "Beach",
+    "city": "Carry le Rouet",
+    "description": "plage calanque du cap Rousset"
+  },
+  {
+    "longitude": 5.13453,
+    "latitude": 43.32984,
+    "name": "Beach",
+    "city": "Sausset les Pins",
+    "description": "plage la Tuillerie"
+  },
+  {
+    "longitude": -2.48591,
+    "latitude": 47.51618,
+    "name": "Beach",
+    "city": "Plage des Granges",
+    "description": ""
+  },
+  {
+    "longitude": -3.95853,
+    "latitude": 47.71623,
+    "name": "Beach",
+    "city": "Glenans-Penfret",
+    "description": "plage"
+  },
+  {
+    "longitude": 3.12277,
+    "latitude": 42.5054,
+    "name": "Beach",
+    "city": "Port-Vendres",
+    "description": "plage de Bernardi"
+  },
+  {
+    "longitude": -4.48594,
+    "latitude": 48.23542,
+    "name": "Beach",
+    "city": "Plage du Porzic",
+    "description": ""
+  },
+  {
+    "longitude": -2.22029,
+    "latitude": 47.00981,
+    "name": "Beach",
+    "city": "Noirmoutier en l'Ile",
+    "description": "plage des Dames"
+  },
+  {
+    "longitude": 8.85783,
+    "latitude": 41.53581,
+    "name": "Beach",
+    "city": "Tizzano",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.26458,
+    "latitude": 46.16099,
+    "name": "Beach",
+    "city": "Rivedoux-Plage",
+    "description": "plage Nord"
+  },
+  {
+    "longitude": -3.55875,
+    "latitude": 48.72826,
+    "name": "Beach",
+    "city": "Tredrez Locquemeau",
+    "description": "plage Saint Quiriou"
+  },
+  {
+    "longitude": -3.85339,
+    "latitude": 47.80269,
+    "name": "Beach",
+    "city": "Tregunc",
+    "description": "plage Pen Loc h"
+  },
+  {
+    "longitude": -1.53879,
+    "latitude": 43.50474,
+    "name": "Beach",
+    "city": "Anglet",
+    "description": "plage Marinella"
+  },
+  {
+    "longitude": 8.646,
+    "latitude": 42.41328,
+    "name": "Beach",
+    "city": "Galeria",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.90591,
+    "latitude": 48.65967,
+    "name": "Beach",
+    "city": "Plage du Clouet",
+    "description": ""
+  },
+  {
+    "longitude": 8.63606,
+    "latitude": 42.12347,
+    "name": "Beach",
+    "city": "Stagnoli",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.49331,
+    "latitude": 47.46208,
+    "name": "Beach",
+    "city": "Plage du Marescle",
+    "description": ""
+  },
+  {
+    "longitude": -2.1463,
+    "latitude": 46.86272,
+    "name": "Beach",
+    "city": "La Barre de Monts",
+    "description": "plage de la Bergere"
+  },
+  {
+    "longitude": 6.29746,
+    "latitude": 43.1127,
+    "name": "Beach",
+    "city": "Bormes les Mimosas",
+    "description": "plage de L Estagnol"
+  },
+  {
+    "longitude": -1.5418,
+    "latitude": 43.50224,
+    "name": "Beach",
+    "city": "Anglet",
+    "description": "plage Les Sables d'Or"
+  },
+  {
+    "longitude": -5.0936,
+    "latitude": 48.4519,
+    "name": "Beach",
+    "city": "Ouessant",
+    "description": "plage de Corz"
+  },
+  {
+    "longitude": 2.49722,
+    "latitude": 47.48395,
+    "name": "Beach",
+    "city": "Penestin",
+    "description": "plage de la Source (Le Lomer)"
+  },
+  {
+    "longitude": 9.3871,
+    "latitude": 41.69059,
+    "name": "Beach",
+    "city": "Plage de Vardiola",
+    "description": ""
+  },
+  {
+    "longitude": -3.89266,
+    "latitude": 48.67093,
+    "name": "Beach",
+    "city": "Plage de Tahiti",
+    "description": ""
+  },
+  {
+    "longitude": -1.17019,
+    "latitude": 44.6643,
+    "name": "Beach",
+    "city": "Arcachon",
+    "description": "plage Centrale"
+  },
+  {
+    "longitude": 5.37529,
+    "latitude": 43.25642,
+    "name": "Beach",
+    "city": "Marseille",
+    "description": "plage Borely"
+  },
+  {
+    "longitude": -4.54943,
+    "latitude": 48.20924,
+    "name": "Beach",
+    "city": "Crozon",
+    "description": "plage de Lostmarc h"
+  },
+  {
+    "longitude": 4.78544,
+    "latitude": 43.34769,
+    "name": "Beach",
+    "city": "Arles",
+    "description": "plage d'Arles Ou de Piemanson"
+  },
+  {
+    "longitude": 6.71401,
+    "latitude": 43.37227,
+    "name": "Beach",
+    "city": "Plage du Grand Boucharel",
+    "description": ""
+  },
+  {
+    "longitude": -3.7194,
+    "latitude": 47.79728,
+    "name": "Beach",
+    "city": "Plage Grise",
+    "description": ""
+  },
+  {
+    "longitude": -3.45592,
+    "latitude": 47.64478,
+    "name": "Beach",
+    "city": "Plage du Rolaz",
+    "description": ""
+  },
+  {
+    "longitude": 9.07122,
+    "latitude": 41.46737,
+    "name": "Beach",
+    "city": "Figari",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.6628,
+    "latitude": 43.22937,
+    "name": "Beach",
+    "city": "Ramatuelle",
+    "description": "plage de Pampelonne"
+  },
+  {
+    "longitude": 8.77219,
+    "latitude": 41.81194,
+    "name": "Beach",
+    "city": "Vergia",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.96374,
+    "latitude": 48.689,
+    "name": "Beach",
+    "city": "Saint Pol de Leon",
+    "description": "plage Sainte Anne"
+  },
+  {
+    "longitude": 9.35311,
+    "latitude": 41.6409,
+    "name": "Beach",
+    "city": "Ciprianu",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.79525,
+    "latitude": 47.60134,
+    "name": "Beach",
+    "city": "Ile d'Arz",
+    "description": "plage de la Falaise"
+  },
+  {
+    "longitude": -1.10347,
+    "latitude": 45.5379,
+    "name": "Beach",
+    "city": "Soulac sur Mer",
+    "description": "plage Les Cantines"
+  },
+  {
+    "longitude": 6.35939,
+    "latitude": 43.12235,
+    "name": "Beach",
+    "city": "Bormes les Mimosas",
+    "description": "plage La Faviere"
+  },
+  {
+    "longitude": -2.42124,
+    "latitude": 48.64689,
+    "name": "Beach",
+    "city": "Erquy",
+    "description": "plage des Hopitaux"
+  },
+  {
+    "longitude": -0.22531,
+    "latitude": 49.28073,
+    "name": "Beach",
+    "city": "Merville Franceville",
+    "description": "plage de la Redoute"
+  },
+  {
+    "longitude": -2.42133,
+    "latitude": 47.27584,
+    "name": "Beach",
+    "city": "La Baule-Escoublac",
+    "description": "plage Benoit"
+  },
+  {
+    "longitude": 9.20038,
+    "latitude": 42.72495,
+    "name": "Beach",
+    "city": "Saleccia",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.19098,
+    "latitude": 48.60693,
+    "name": "Beach",
+    "city": "Plage du Rougeret",
+    "description": ""
+  },
+  {
+    "longitude": -0.892,
+    "latitude": 49.37529,
+    "name": "Beach",
+    "city": "Vierville sur Mer",
+    "description": "Omaha Beach"
+  },
+  {
+    "longitude": 9.4088,
+    "latitude": 43.00537,
+    "name": "Beach",
+    "city": "Ersa",
+    "description": "plage de la Cala"
+  },
+  {
+    "longitude": 4.05666,
+    "latitude": 43.55837,
+    "name": "Beach",
+    "city": "La Grande Motte",
+    "description": "plage Motte du Couchant"
+  },
+  {
+    "longitude": -2.26836,
+    "latitude": 48.64074,
+    "name": "Beach",
+    "city": "Saint Cast le Guildo",
+    "description": "plage Pissotte"
+  },
+  {
+    "longitude": -1.25146,
+    "latitude": 44.62683,
+    "name": "Beach",
+    "city": "Cap Ferret",
+    "description": "plage des Puits de Petrole"
+  },
+  {
+    "longitude": -1.52333,
+    "latitude": 49.65632,
+    "name": "Beach",
+    "city": "Bretteville",
+    "description": "plage de Bretteville"
+  },
+  {
+    "longitude": 2.3926,
+    "latitude": 51.05045,
+    "name": "Beach",
+    "city": "Malo les Bains",
+    "description": "plage"
+  },
+  {
+    "longitude": 4.40289,
+    "latitude": 43.44875,
+    "name": "Beach",
+    "city": "Saintes Maries de la Mer",
+    "description": "plage Simbeou Ouest"
+  },
+  {
+    "longitude": 3.03563,
+    "latitude": 42.73389,
+    "name": "Beach",
+    "city": "Sainte Marie",
+    "description": "plage (le village)"
+  },
+  {
+    "longitude": 8.83164,
+    "latitude": 41.70579,
+    "name": "Beach",
+    "city": "Plage de Tenutella",
+    "description": ""
+  },
+  {
+    "longitude": -3.98056,
+    "latitude": 47.85461,
+    "name": "Beach",
+    "city": "Beg-Mail",
+    "description": "plage des Dunes"
+  },
+  {
+    "longitude": -3.7203,
+    "latitude": 47.80185,
+    "name": "Beach",
+    "city": "Moelan sur Mer",
+    "description": "plage Kerfany"
+  },
+  {
+    "longitude": -1.60031,
+    "latitude": 43.43153,
+    "name": "Beach",
+    "city": "Bidart",
+    "description": "plage de l'Uhabia (Polluted)"
+  },
+  {
+    "longitude": -1.41356,
+    "latitude": 46.22728,
+    "name": "Beach",
+    "city": "Loix",
+    "description": "plage Grouin"
+  },
+  {
+    "longitude": -3.92414,
+    "latitude": 48.69113,
+    "name": "Beach",
+    "city": "Carantec",
+    "description": "plage de Park An Iliz"
+  },
+  {
+    "longitude": -3.98556,
+    "latitude": 47.8722,
+    "name": "Beach",
+    "city": "Fouesnant",
+    "description": "plage Lantecost"
+  },
+  {
+    "longitude": 5.59869,
+    "latitude": 43.16731,
+    "name": "Beach",
+    "city": "La Ciotat",
+    "description": "anse de Figuerolle"
+  },
+  {
+    "longitude": -3.00133,
+    "latitude": 47.5678,
+    "name": "Beach",
+    "city": "Saint Philibert",
+    "description": "plage de Kernevest"
+  },
+  {
+    "longitude": -3.16728,
+    "latitude": 47.30177,
+    "name": "Beach",
+    "city": "Bangor",
+    "description": "plage Herlin"
+  },
+  {
+    "longitude": 8.81619,
+    "latitude": 41.71341,
+    "name": "Beach",
+    "city": "Taravo",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.61838,
+    "latitude": 48.27692,
+    "name": "Beach",
+    "city": "Camaret",
+    "description": "anse de Pen Hat"
+  },
+  {
+    "longitude": -1.59619,
+    "latitude": 49.1284,
+    "name": "Beach",
+    "city": "Anneville sur Mer",
+    "description": "La Plage"
+  },
+  {
+    "longitude": 5.81834,
+    "latitude": 43.06296,
+    "name": "Beach",
+    "city": "Plage du Trou de l'Or",
+    "description": ""
+  },
+  {
+    "longitude": -4.27259,
+    "latitude": 48.1476,
+    "name": "Beach",
+    "city": "Plonevez Porzay",
+    "description": "plage Ty an Quer"
+  },
+  {
+    "longitude": -2.49909,
+    "latitude": 47.49105,
+    "name": "Beach",
+    "city": "Plage du Loguy",
+    "description": ""
+  },
+  {
+    "longitude": 6.18526,
+    "latitude": 43.00538,
+    "name": "Beach",
+    "city": "Porquerolles",
+    "description": "plage d'Argent"
+  },
+  {
+    "longitude": 6.12001,
+    "latitude": 43.08099,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage du Port Helene"
+  },
+  {
+    "longitude": -2.20366,
+    "latitude": 47.12525,
+    "name": "Beach",
+    "city": "Prefailles",
+    "description": "plage La Source"
+  },
+  {
+    "longitude": -4.35082,
+    "latitude": 48.67622,
+    "name": "Beach",
+    "city": "Plage du Phare",
+    "description": ""
+  },
+  {
+    "longitude": -1.91894,
+    "latitude": 46.67206,
+    "name": "Beach",
+    "city": "Saint Gilles Croix de Vie",
+    "description": "plage Jaunay"
+  },
+  {
+    "longitude": -2.56029,
+    "latitude": 47.51413,
+    "name": "Beach",
+    "city": "Damgan",
+    "description": "Grande plage de Kervoyal"
+  },
+  {
+    "longitude": 0.20205,
+    "latitude": 49.7088,
+    "name": "Beach",
+    "city": "Etretat",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.0217,
+    "latitude": 48.65259,
+    "name": "Beach",
+    "city": "Saint Malo",
+    "description": "plage"
+  },
+  {
+    "longitude": 8.58779,
+    "latitude": 42.15036,
+    "name": "Beach",
+    "city": "Cargese",
+    "description": "plage du Club Med"
+  },
+  {
+    "longitude": -1.52337,
+    "latitude": 43.52802,
+    "name": "Beach",
+    "city": "Anglet",
+    "description": "plage La Barre"
+  },
+  {
+    "longitude": -2.59144,
+    "latitude": 47.51775,
+    "name": "Beach",
+    "city": "Damgan",
+    "description": "plage de Damgan"
+  },
+  {
+    "longitude": -4.18101,
+    "latitude": 47.80293,
+    "name": "Beach",
+    "city": "Loctudy",
+    "description": "plage Poulluen"
+  },
+  {
+    "longitude": 5.35668,
+    "latitude": 43.23267,
+    "name": "Beach",
+    "city": "Marseille",
+    "description": "plage de la Madrague"
+  },
+  {
+    "longitude": 6.66826,
+    "latitude": 43.24519,
+    "name": "Beach",
+    "city": "Plage de Tahiti",
+    "description": ""
+  },
+  {
+    "longitude": -3.83223,
+    "latitude": 47.79686,
+    "name": "Beach",
+    "city": "Tregunc",
+    "description": "plage Don"
+  },
+  {
+    "longitude": -4.61395,
+    "latitude": 48.26173,
+    "name": "Beach",
+    "city": "Camaret",
+    "description": "plage Veryac h"
+  },
+  {
+    "longitude": -1.01423,
+    "latitude": 45.61708,
+    "name": "Beach",
+    "city": "Royan",
+    "description": "plage La Grande Conche"
+  },
+  {
+    "longitude": -2.19891,
+    "latitude": 48.585,
+    "name": "Beach",
+    "city": "Saint Jacut de la Mer",
+    "description": "plage du Ruet"
+  },
+  {
+    "longitude": -3.86808,
+    "latitude": 47.81208,
+    "name": "Beach",
+    "city": "Tregunc",
+    "description": "plage Kerouiny"
+  },
+  {
+    "longitude": 9.37349,
+    "latitude": 41.67422,
+    "name": "Beach",
+    "city": "Pinarellu",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.20971,
+    "latitude": 46.95932,
+    "name": "Beach",
+    "city": "La Gueriniere",
+    "description": "plage Sables d'Or"
+  },
+  {
+    "longitude": 3.33547,
+    "latitude": 43.26558,
+    "name": "Beach",
+    "city": "Serignan",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.36671,
+    "latitude": 47.27634,
+    "name": "Beach",
+    "city": "La Baule",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.17086,
+    "latitude": 45.22325,
+    "name": "Beach",
+    "city": "Hourtin",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.87489,
+    "latitude": 46.62631,
+    "name": "Beach",
+    "city": "Bretignolles sur Mer",
+    "description": "plage Paree"
+  },
+  {
+    "longitude": 6.84497,
+    "latitude": 43.4164,
+    "name": "Beach",
+    "city": "Le Dramont",
+    "description": "plage du Debarquement"
+  },
+  {
+    "longitude": 4.97447,
+    "latitude": 43.41244,
+    "name": "Beach",
+    "city": "Port de Bouc",
+    "description": "plage des Ours"
+  },
+  {
+    "longitude": 6.12648,
+    "latitude": 43.07921,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage de L Almanarre"
+  },
+  {
+    "longitude": -1.51544,
+    "latitude": 43.54061,
+    "name": "Beach",
+    "city": "Plage du Metro",
+    "description": ""
+  },
+  {
+    "longitude": -2.09456,
+    "latitude": 48.63378,
+    "name": "Beach",
+    "city": "Saint Lunaire",
+    "description": "plage Fourberie"
+  },
+  {
+    "longitude": -2.22619,
+    "latitude": 47.1308,
+    "name": "Beach",
+    "city": "Prefailles",
+    "description": "plage Les Chatelets"
+  },
+  {
+    "longitude": -3.71868,
+    "latitude": 48.70113,
+    "name": "Beach",
+    "city": "Guimaec",
+    "description": "plage Vilin Izella"
+  },
+  {
+    "longitude": 6.15244,
+    "latitude": 43.02792,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage du Pradeau"
+  },
+  {
+    "longitude": -1.32266,
+    "latitude": 46.32324,
+    "name": "Beach",
+    "city": "La Faute sur Mer",
+    "description": "plage des Chardons"
+  },
+  {
+    "longitude": -1.65253,
+    "latitude": 49.23994,
+    "name": "Beach",
+    "city": "Rochemont Plage",
+    "description": ""
+  },
+  {
+    "longitude": 3.08626,
+    "latitude": 42.52371,
+    "name": "Beach",
+    "city": "Collioure",
+    "description": "plage (village)"
+  },
+  {
+    "longitude": 8.609,
+    "latitude": 42.38683,
+    "name": "Beach",
+    "city": "Focolara",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.47617,
+    "latitude": 48.64539,
+    "name": "Beach",
+    "city": "Erquy",
+    "description": "plage Lourtouais"
+  },
+  {
+    "longitude": -4.328,
+    "latitude": 48.67448,
+    "name": "Beach",
+    "city": "Brignogan-Plage",
+    "description": "plage du Bilou"
+  },
+  {
+    "longitude": -1.45533,
+    "latitude": 49.6911,
+    "name": "Beach",
+    "city": "Fermanville",
+    "description": "plage Mondrie"
+  },
+  {
+    "longitude": -2.83654,
+    "latitude": 48.6553,
+    "name": "Beach",
+    "city": "Saint Quay-Portrieux",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.5448,
+    "latitude": 47.36741,
+    "name": "Beach",
+    "city": "Plage du Grand Laroue",
+    "description": ""
+  },
+  {
+    "longitude": -4.66698,
+    "latitude": 48.35284,
+    "name": "Beach",
+    "city": "Locmaria Plouzane",
+    "description": "plage Tregana"
+  },
+  {
+    "longitude": 8.78475,
+    "latitude": 41.83194,
+    "name": "Beach",
+    "city": "Plage du Ruppione",
+    "description": ""
+  },
+  {
+    "longitude": -1.47991,
+    "latitude": 46.24121,
+    "name": "Beach",
+    "city": "Les Portes en Re",
+    "description": "plage Loge"
+  },
+  {
+    "longitude": 3.09919,
+    "latitude": 42.52356,
+    "name": "Beach",
+    "city": "Port-Vendres",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.8608,
+    "latitude": 46.61333,
+    "name": "Beach",
+    "city": "Bretignolles sur Mer",
+    "description": "plage (Dunes)"
+  },
+  {
+    "longitude": -3.82115,
+    "latitude": 47.79695,
+    "name": "Beach",
+    "city": "Tregunc",
+    "description": "plage Kersidan"
+  },
+  {
+    "longitude": -2.42977,
+    "latitude": 47.25973,
+    "name": "Beach",
+    "city": "Plage des Maures",
+    "description": ""
+  },
+  {
+    "longitude": 9.4619,
+    "latitude": 42.98452,
+    "name": "Beach",
+    "city": "Finocchiarola",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.02497,
+    "latitude": 43.34588,
+    "name": "Beach",
+    "city": "Martigues",
+    "description": "plage de la Pointe de Bonnieu"
+  },
+  {
+    "longitude": 4.97151,
+    "latitude": 43.41583,
+    "name": "Beach",
+    "city": "Port de Bouc",
+    "description": "plage la Baumasse"
+  },
+  {
+    "longitude": 9.10903,
+    "latitude": 41.4213,
+    "name": "Beach",
+    "city": "Stagnolu",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.23045,
+    "latitude": 46.27803,
+    "name": "Beach",
+    "city": "L'Aiguillon sur Mer",
+    "description": "plage de l'Eperon"
+  },
+  {
+    "longitude": 9.15068,
+    "latitude": 42.73168,
+    "name": "Beach",
+    "city": "Di Trave",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.61943,
+    "latitude": 43.18438,
+    "name": "Beach",
+    "city": "La Ciotat",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": 9.22127,
+    "latitude": 41.37342,
+    "name": "Beach",
+    "city": "Piantarella",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.41961,
+    "latitude": 46.18695,
+    "name": "Beach",
+    "city": "La Couarde sur Mer",
+    "description": "plage des Aneries"
+  },
+  {
+    "longitude": 6.93735,
+    "latitude": 43.50949,
+    "name": "Beach",
+    "city": "Plage du Suveret",
+    "description": ""
+  },
+  {
+    "longitude": -4.77722,
+    "latitude": 48.40697,
+    "name": "Beach",
+    "city": "Plouarzel",
+    "description": "plage Porsmoguer"
+  },
+  {
+    "longitude": -3.70331,
+    "latitude": 47.78841,
+    "name": "Beach",
+    "city": "Moelan sur Mer",
+    "description": "plage Trenez"
+  },
+  {
+    "longitude": -4.61073,
+    "latitude": 48.26153,
+    "name": "Beach",
+    "city": "Plage de Veryac h",
+    "description": ""
+  },
+  {
+    "longitude": -1.12722,
+    "latitude": 45.51623,
+    "name": "Beach",
+    "city": "Soulac sur Mer",
+    "description": "plage Centrale"
+  },
+  {
+    "longitude": 2.29623,
+    "latitude": 45.39595,
+    "name": "Beach",
+    "city": "Ligignac",
+    "description": "plage Chabrat - Lac de la Triouzoune"
+  },
+  {
+    "longitude": -1.37097,
+    "latitude": 45.94124,
+    "name": "Beach",
+    "city": "Saint Pierre",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.99352,
+    "latitude": 47.85361,
+    "name": "Beach",
+    "city": "Fouesnant",
+    "description": "Kermil"
+  },
+  {
+    "longitude": -2.54115,
+    "latitude": 47.36631,
+    "name": "Beach",
+    "city": "Plage du Petit Lanroue",
+    "description": ""
+  },
+  {
+    "longitude": -1.2357,
+    "latitude": 45.97533,
+    "name": "Beach",
+    "city": "Boyardville",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.27288,
+    "latitude": 47.68082,
+    "name": "Beach",
+    "city": "Plage du Magouero",
+    "description": ""
+  },
+  {
+    "longitude": -4.56686,
+    "latitude": 48.35453,
+    "name": "Beach",
+    "city": "Plouzane",
+    "description": "plage Dellec"
+  },
+  {
+    "longitude": -2.91368,
+    "latitude": 47.54583,
+    "name": "Beach",
+    "city": "Arzon",
+    "description": "plage Port Navalo"
+  },
+  {
+    "longitude": -1.43196,
+    "latitude": 43.7231,
+    "name": "Beach",
+    "city": "Seignosse",
+    "description": "plage des Casernes"
+  },
+  {
+    "longitude": -1.61925,
+    "latitude": 43.42286,
+    "name": "Beach",
+    "city": "Plage de Senix",
+    "description": ""
+  },
+  {
+    "longitude": -2.18345,
+    "latitude": 48.59852,
+    "name": "Beach",
+    "city": "Saint Jacut de la Mer",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.1891,
+    "latitude": 43.76133,
+    "name": "Beach",
+    "city": "Les Salles sur Verdon",
+    "description": "plage Lac St Croix"
+  },
+  {
+    "longitude": -2.8272,
+    "latitude": 48.63667,
+    "name": "Beach",
+    "city": "Etables sur Mer",
+    "description": "plage du Moulin"
+  },
+  {
+    "longitude": -2.48896,
+    "latitude": 47.40682,
+    "name": "Beach",
+    "city": "Mesquer",
+    "description": "plage de Lanseria"
+  },
+  {
+    "longitude": -3.39696,
+    "latitude": 47.70275,
+    "name": "Beach",
+    "city": "Larmor-Plage",
+    "description": "anse de Kerguelen"
+  },
+  {
+    "longitude": -4.16218,
+    "latitude": 47.84979,
+    "name": "Beach",
+    "city": "Ile Tudy",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": -1.25804,
+    "latitude": 44.62386,
+    "name": "Beach",
+    "city": "Le Cap Ferret",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.48127,
+    "latitude": 47.99269,
+    "name": "Beach",
+    "city": "Plouhinec",
+    "description": "plage de Guendrez"
+  },
+  {
+    "longitude": -4.19973,
+    "latitude": 47.7989,
+    "name": "Beach",
+    "city": "Loctudy",
+    "description": "plage des Sables Blancs"
+  },
+  {
+    "longitude": 4.43283,
+    "latitude": 43.45176,
+    "name": "Beach",
+    "city": "Saintes Maries de la Mer",
+    "description": "plage avenue Gilbert Leroy"
+  },
+  {
+    "longitude": 6.8577,
+    "latitude": 43.42007,
+    "name": "Beach",
+    "city": "Le Dramont",
+    "description": "plage Camp long"
+  },
+  {
+    "longitude": -1.45115,
+    "latitude": 49.69122,
+    "name": "Beach",
+    "city": "Fermanville",
+    "description": "anse de la Mondree"
+  },
+  {
+    "longitude": 5.04913,
+    "latitude": 43.33347,
+    "name": "Beach",
+    "city": "Carro",
+    "description": "anse du Verdon"
+  },
+  {
+    "longitude": 7.0575,
+    "latitude": 43.5509,
+    "name": "Beach",
+    "city": "Cannes",
+    "description": "plage de la Batterie"
+  },
+  {
+    "longitude": 8.88192,
+    "latitude": 41.66464,
+    "name": "Beach",
+    "city": "Laurosu",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.66772,
+    "latitude": 43.20868,
+    "name": "Beach",
+    "city": "Ramatuelle",
+    "description": "plage Bonne Terrasse"
+  },
+  {
+    "longitude": -2.26905,
+    "latitude": 46.96735,
+    "name": "Beach",
+    "city": "L Epine",
+    "description": "plage Elous"
+  },
+  {
+    "longitude": 6.63692,
+    "latitude": 43.30759,
+    "name": "Beach",
+    "city": "Plage du Casino",
+    "description": ""
+  },
+  {
+    "longitude": 3.03447,
+    "latitude": 42.75795,
+    "name": "Beach",
+    "city": "Toreille",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.30765,
+    "latitude": 44.16402,
+    "name": "Beach",
+    "city": "Saint Julien en Born",
+    "description": "plage de Lespecier"
+  },
+  {
+    "longitude": -1.89841,
+    "latitude": 48.69153,
+    "name": "Beach",
+    "city": "Saint Coulomb",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.4954,
+    "latitude": 47.45384,
+    "name": "Beach",
+    "city": "Penestin",
+    "description": "plage de Loscolo"
+  },
+  {
+    "longitude": 9.49013,
+    "latitude": 42.81209,
+    "name": "Beach",
+    "city": "Marine Sisco",
+    "description": ""
+  },
+  {
+    "longitude": -4.29812,
+    "latitude": 48.09157,
+    "name": "Beach",
+    "city": "Douarnenez",
+    "description": "plage Ry"
+  },
+  {
+    "longitude": -1.20298,
+    "latitude": 44.99643,
+    "name": "Beach",
+    "city": "Lacanau",
+    "description": "plage Sud"
+  },
+  {
+    "longitude": 4.419,
+    "latitude": 43.44967,
+    "name": "Beach",
+    "city": "Saintes Maries de la Mer",
+    "description": "plage de la Capitainerie"
+  },
+  {
+    "longitude": 2.30378,
+    "latitude": 45.38986,
+    "name": "Beach",
+    "city": "Ligignac",
+    "description": "plage Le Maury - Lac de la Triouzoune"
+  },
+  {
+    "longitude": -2.46171,
+    "latitude": 48.64805,
+    "name": "Beach",
+    "city": "Erquy",
+    "description": "plage Le Portuais"
+  },
+  {
+    "longitude": -1.44579,
+    "latitude": 43.65269,
+    "name": "Beach",
+    "city": "Capbreton",
+    "description": "plage Centrale"
+  },
+  {
+    "longitude": 8.74454,
+    "latitude": 42.04358,
+    "name": "Beach",
+    "city": "Liscia",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.13618,
+    "latitude": 45.50353,
+    "name": "Beach",
+    "city": "Soulac sur Mer",
+    "description": "L Amelie plage + char a voile"
+  },
+  {
+    "longitude": 3.03503,
+    "latitude": 42.68783,
+    "name": "Beach",
+    "city": "Le Canet",
+    "description": "plage (le village)"
+  },
+  {
+    "longitude": -2.29176,
+    "latitude": 47.01109,
+    "name": "Beach",
+    "city": "Noirmoutier en l'Ile",
+    "description": "plage Luzeronde"
+  },
+  {
+    "longitude": 6.80673,
+    "latitude": 43.4145,
+    "name": "Beach",
+    "city": "Saint Raphael",
+    "description": "plage d'Arene Grosse"
+  },
+  {
+    "longitude": 9.1185,
+    "latitude": 42.72377,
+    "name": "Beach",
+    "city": "Malfalcu",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.88407,
+    "latitude": 48.67699,
+    "name": "Beach",
+    "city": "Plouha",
+    "description": "plage Palus"
+  },
+  {
+    "longitude": -2.28353,
+    "latitude": 46.98139,
+    "name": "Beach",
+    "city": "L Epine",
+    "description": "plage la Bosse"
+  },
+  {
+    "longitude": -1.53689,
+    "latitude": 43.5081,
+    "name": "Beach",
+    "city": "Anglet",
+    "description": "plage Les Corsaires"
+  },
+  {
+    "longitude": -1.55695,
+    "latitude": 46.23264,
+    "name": "Beach",
+    "city": "Saint Clement des Baleines",
+    "description": "plage Canot de Sauvetage"
+  },
+  {
+    "longitude": 3.28341,
+    "latitude": 43.24129,
+    "name": "Beach",
+    "city": "Valras",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.858,
+    "latitude": 46.61281,
+    "name": "Beach",
+    "city": "Beg-Mail",
+    "description": "plage des Dunes"
+  },
+  {
+    "longitude": -2.37741,
+    "latitude": 46.73232,
+    "name": "Beach",
+    "city": "L Ile d'Yeu",
+    "description": "plage de la Gournaise"
+  },
+  {
+    "longitude": -2.15281,
+    "latitude": 46.88024,
+    "name": "Beach",
+    "city": "La Barre de Monts",
+    "description": "plage Bergere"
+  },
+  {
+    "longitude": 5.49808,
+    "latitude": 43.20262,
+    "name": "Beach",
+    "city": "Cassis",
+    "description": "plage calanque d'en Vau"
+  },
+  {
+    "longitude": -2.16551,
+    "latitude": 47.17141,
+    "name": "Beach",
+    "city": "Saint Michel Chef-Chef",
+    "description": "Tharon-Plage"
+  },
+  {
+    "longitude": -4.31079,
+    "latitude": 47.80051,
+    "name": "Beach",
+    "city": "Penmarch",
+    "description": "plage Ster"
+  },
+  {
+    "longitude": 6.78951,
+    "latitude": 43.40859,
+    "name": "Beach",
+    "city": "Plage des Fournas",
+    "description": ""
+  },
+  {
+    "longitude": 4.12454,
+    "latitude": 43.51469,
+    "name": "Beach",
+    "city": "Port Camargue",
+    "description": "plage les Marines"
+  },
+  {
+    "longitude": -1.58928,
+    "latitude": 43.44677,
+    "name": "Beach",
+    "city": "Bidart",
+    "description": "plage d'Erretegia"
+  },
+  {
+    "longitude": -2.29306,
+    "latitude": 46.70034,
+    "name": "Beach",
+    "city": "Plage des Ovaires",
+    "description": ""
+  },
+  {
+    "longitude": 6.23414,
+    "latitude": 43.01107,
+    "name": "Beach",
+    "city": "Porquerolles",
+    "description": "plage Notre Dame"
+  },
+  {
+    "longitude": 8.66105,
+    "latitude": 41.97599,
+    "name": "Beach",
+    "city": "Lava",
+    "description": "plage"
+  },
+  {
+    "longitude": 9.28413,
+    "latitude": 42.67662,
+    "name": "Beach",
+    "city": "Saint. Florent",
+    "description": "plage"
+  },
+  {
+    "longitude": 3.04723,
+    "latitude": 42.99054,
+    "name": "Beach",
+    "city": "Port la Nouvelle",
+    "description": "plage des Montilles"
+  },
+  {
+    "longitude": -4.11776,
+    "latitude": 48.69333,
+    "name": "Beach",
+    "city": "Cleder",
+    "description": "plage de Kervaliou"
+  },
+  {
+    "longitude": -3.04925,
+    "latitude": 47.5788,
+    "name": "Beach",
+    "city": "Plage du Men Du",
+    "description": ""
+  },
+  {
+    "longitude": -1.29891,
+    "latitude": 44.21918,
+    "name": "Beach",
+    "city": "Plage Rememder",
+    "description": ""
+  },
+  {
+    "longitude": -2.19107,
+    "latitude": 48.60281,
+    "name": "Beach",
+    "city": "Plage des Haas",
+    "description": ""
+  },
+  {
+    "longitude": -1.17276,
+    "latitude": 44.52381,
+    "name": "Beach",
+    "city": "La Teste de Buch",
+    "description": "plage de Cazaux-Laouga"
+  },
+  {
+    "longitude": -3.90608,
+    "latitude": 47.85588,
+    "name": "Beach",
+    "city": "Concarneau",
+    "description": "plage Cabellou"
+  },
+  {
+    "longitude": -1.66193,
+    "latitude": 43.39126,
+    "name": "Beach",
+    "city": "Saint Jean de Luz",
+    "description": "Grande Plage"
+  },
+  {
+    "longitude": -3.40378,
+    "latitude": 47.70284,
+    "name": "Beach",
+    "city": "Larmor-Plage",
+    "description": "plage de Kerquelen"
+  },
+  {
+    "longitude": -4.24264,
+    "latitude": 47.79256,
+    "name": "Beach",
+    "city": "Treffiagat",
+    "description": "Skividen"
+  },
+  {
+    "longitude": -1.21168,
+    "latitude": 44.60108,
+    "name": "Beach",
+    "city": "La Teste de Buch",
+    "description": "plage de la Corniche"
+  },
+  {
+    "longitude": -4.35412,
+    "latitude": 48.10297,
+    "name": "Beach",
+    "city": "Plage des Sables Blancs",
+    "description": ""
+  },
+  {
+    "longitude": 6.4288,
+    "latitude": 43.15169,
+    "name": "Beach",
+    "city": "Cavaliere",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.96521,
+    "latitude": 43.54323,
+    "name": "Beach",
+    "city": "Cannes",
+    "description": "plage de la Bocca"
+  },
+  {
+    "longitude": -1.41709,
+    "latitude": 49.70135,
+    "name": "Beach",
+    "city": "Cosqueville",
+    "description": "plage Sablon"
+  },
+  {
+    "longitude": -0.99559,
+    "latitude": 45.60003,
+    "name": "Beach",
+    "city": "Saint Georges de Didonne",
+    "description": "plage"
+  },
+  {
+    "longitude": 9.33718,
+    "latitude": 41.55908,
+    "name": "Beach",
+    "city": "Palombaggia - Porto Vecchio",
+    "description": "plage"
+  },
+  {
+    "longitude": 9.3478,
+    "latitude": 42.96447,
+    "name": "Beach",
+    "city": "Centuri Port",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.77008,
+    "latitude": 48.36519,
+    "name": "Beach",
+    "city": "Plage des Blancs Sablons",
+    "description": ""
+  },
+  {
+    "longitude": -4.5538,
+    "latitude": 48.36172,
+    "name": "Beach",
+    "city": "Brest",
+    "description": "plage Sainte Anne"
+  },
+  {
+    "longitude": 9.23352,
+    "latitude": 42.71991,
+    "name": "Beach",
+    "city": "Loto",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.6831,
+    "latitude": 43.39014,
+    "name": "Beach",
+    "city": "Ciboure",
+    "description": "plage de Ciboure"
+  },
+  {
+    "longitude": -2.48881,
+    "latitude": 47.46732,
+    "name": "Beach",
+    "city": "Penestin",
+    "description": "plage de Poudrantais"
+  },
+  {
+    "longitude": -2.29201,
+    "latitude": 47.0076,
+    "name": "Beach",
+    "city": "Noirmoutier en l'Ile",
+    "description": "plage de Luzeronde"
+  },
+  {
+    "longitude": -2.49746,
+    "latitude": 48.60763,
+    "name": "Beach",
+    "city": "Pleneuf Val Andre",
+    "description": "plage de la Ville Berneuf"
+  },
+  {
+    "longitude": -1.98335,
+    "latitude": 48.66999,
+    "name": "Beach",
+    "city": "Plage du Mihinic",
+    "description": ""
+  },
+  {
+    "longitude": 7.42836,
+    "latitude": 43.73813,
+    "name": "Beach",
+    "city": "Plage du Larvotto",
+    "description": ""
+  },
+  {
+    "longitude": 9.2224,
+    "latitude": 41.43954,
+    "name": "Beach",
+    "city": "Balistra",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.51244,
+    "latitude": 46.25788,
+    "name": "Beach",
+    "city": "Les Portes en Re",
+    "description": "plage Lizay"
+  },
+  {
+    "longitude": -3.13738,
+    "latitude": 47.32837,
+    "name": "Beach",
+    "city": "Le Palais",
+    "description": "plage de Port Yorc h"
+  },
+  {
+    "longitude": 6.59503,
+    "latitude": 43.28453,
+    "name": "Beach",
+    "city": "Port Grimaud",
+    "description": "plage de l'Europe"
+  },
+  {
+    "longitude": 6.55661,
+    "latitude": 43.18849,
+    "name": "Beach",
+    "city": "La Croix Valmer",
+    "description": "plage Le Debarquement"
+  },
+  {
+    "longitude": -1.71472,
+    "latitude": 46.45898,
+    "name": "Beach",
+    "city": "Chateau d'Olonne",
+    "description": "plage Cayola"
+  },
+  {
+    "longitude": -4.46165,
+    "latitude": 48.62748,
+    "name": "Beach",
+    "city": "Plage du Vougo",
+    "description": ""
+  },
+  {
+    "longitude": 7.02435,
+    "latitude": 43.54968,
+    "name": "Beach",
+    "city": "Cannes",
+    "description": "plage de la Croisette"
+  },
+  {
+    "longitude": 7.11042,
+    "latitude": 43.56825,
+    "name": "Beach",
+    "city": "Juan les Pins",
+    "description": "plage La Juanita"
+  },
+  {
+    "longitude": -1.43846,
+    "latitude": 43.70139,
+    "name": "Beach",
+    "city": "Plage des Bourdaines",
+    "description": ""
+  },
+  {
+    "longitude": 9.47308,
+    "latitude": 42.87726,
+    "name": "Beach",
+    "city": "Porticciolo",
+    "description": "plage"
+  },
+  {
+    "longitude": 4.42721,
+    "latitude": 43.44951,
+    "name": "Beach",
+    "city": "Saintes Maries de la Mer",
+    "description": "plage des Arenes"
+  },
+  {
+    "longitude": -1.05793,
+    "latitude": 44.70938,
+    "name": "Beach",
+    "city": "Cassy",
+    "description": "plage"
+  },
+  {
+    "longitude": 3.15594,
+    "latitude": 42.46054,
+    "name": "Beach",
+    "city": "Cerbere",
+    "description": "petite plage"
+  },
+  {
+    "longitude": -3.18253,
+    "latitude": 47.2995,
+    "name": "Beach",
+    "city": "Bangor",
+    "description": "plage de Dodchaul"
+  },
+  {
+    "longitude": -4.42385,
+    "latitude": 47.96299,
+    "name": "Beach",
+    "city": "Plozevet",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.52319,
+    "latitude": 43.34677,
+    "name": "Beach",
+    "city": "Saint Pee sur Nivelle",
+    "description": "plage Aintzira-Le Lac"
+  },
+  {
+    "longitude": 6.52091,
+    "latitude": 43.16511,
+    "name": "Beach",
+    "city": "Cavalaire sur Mer",
+    "description": "plage de Bonporteau"
+  },
+  {
+    "longitude": 9.40132,
+    "latitude": 41.70664,
+    "name": "Beach",
+    "city": "Conca",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.57851,
+    "latitude": 48.78249,
+    "name": "Beach",
+    "city": "Trebeurden",
+    "description": "plage Gooz Trez"
+  },
+  {
+    "longitude": 3.76052,
+    "latitude": 43.42821,
+    "name": "Beach",
+    "city": "Frontignan",
+    "description": "plage"
+  },
+  {
+    "longitude": 9.38127,
+    "latitude": 41.66309,
+    "name": "Beach",
+    "city": "Cirendinu",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.12501,
+    "latitude": 47.56795,
+    "name": "Beach",
+    "city": "Plage des Sables Blancs",
+    "description": ""
+  },
+  {
+    "longitude": -1.19948,
+    "latitude": 44.64599,
+    "name": "Beach",
+    "city": "Les Abatilles",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.55908,
+    "latitude": 43.48469,
+    "name": "Beach",
+    "city": "Biarritz",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": -2.92435,
+    "latitude": 48.70751,
+    "name": "Beach",
+    "city": "Plouha",
+    "description": "plage Bonaparte"
+  },
+  {
+    "longitude": 3.36792,
+    "latitude": 43.27861,
+    "name": "Beach",
+    "city": "Vias",
+    "description": "plage de la Redoute"
+  },
+  {
+    "longitude": -2.85487,
+    "latitude": 47.58349,
+    "name": "Beach",
+    "city": "Plage du Gored",
+    "description": ""
+  },
+  {
+    "longitude": 3.51122,
+    "latitude": 43.27462,
+    "name": "Beach",
+    "city": "Cap d'Agde",
+    "description": "plagette"
+  },
+  {
+    "longitude": -4.16477,
+    "latitude": 47.82121,
+    "name": "Beach",
+    "city": "Loctudy",
+    "description": "plage Kervilzic"
+  },
+  {
+    "longitude": -5.09952,
+    "latitude": 48.44473,
+    "name": "Beach",
+    "city": "Plage du Prat",
+    "description": ""
+  },
+  {
+    "longitude": -2.75613,
+    "latitude": 48.56415,
+    "name": "Beach",
+    "city": "Plerin",
+    "description": "plage des Rosaires"
+  },
+  {
+    "longitude": -1.49923,
+    "latitude": 46.25799,
+    "name": "Beach",
+    "city": "Les Portes en Re",
+    "description": "plage Marchais"
+  },
+  {
+    "longitude": 3.51374,
+    "latitude": 43.27585,
+    "name": "Beach",
+    "city": "Cap d'Agde",
+    "description": "plage la Conque"
+  },
+  {
+    "longitude": -3.97958,
+    "latitude": 47.85749,
+    "name": "Beach",
+    "city": "Beg-Meil",
+    "description": "plage des Oiseaux"
+  },
+  {
+    "longitude": -3.45335,
+    "latitude": 48.8159,
+    "name": "Beach",
+    "city": "Perros-Guirec",
+    "description": "plage de Trestraou"
+  },
+  {
+    "longitude": 3.44574,
+    "latitude": 43.283,
+    "name": "Beach",
+    "city": "Cap d'Agde",
+    "description": "plage du Grau d'Agde"
+  },
+  {
+    "longitude": -1.9,
+    "latitude": 48.6833,
+    "name": "Beach",
+    "city": "Saint Coulomb",
+    "description": "plage des Chevrets"
+  },
+  {
+    "longitude": -4.2031,
+    "latitude": 47.79987,
+    "name": "Beach",
+    "city": "Plage des Sables Blancs",
+    "description": ""
+  },
+  {
+    "longitude": 5.11452,
+    "latitude": 43.32931,
+    "name": "Beach",
+    "city": "Sausset les Pins",
+    "description": "plage du Village"
+  },
+  {
+    "longitude": -1.38004,
+    "latitude": 46.17201,
+    "name": "Beach",
+    "city": "Le Bois-Plage en Re",
+    "description": "plage du Gros Jonc"
+  },
+  {
+    "longitude": 6.01746,
+    "latitude": 43.09907,
+    "name": "Beach",
+    "city": "Le Pradet",
+    "description": "plage les Bonnettes"
+  },
+  {
+    "longitude": -3.57914,
+    "latitude": 48.76601,
+    "name": "Beach",
+    "city": "Plage de Tresmeur",
+    "description": ""
+  },
+  {
+    "longitude": -2.21632,
+    "latitude": 47.1249,
+    "name": "Beach",
+    "city": "Prefailles",
+    "description": "plage Margareth"
+  },
+  {
+    "longitude": -1.64252,
+    "latitude": 49.2239,
+    "name": "Beach",
+    "city": "Saint Germain sur Ay",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.4371,
+    "latitude": 48.81062,
+    "name": "Beach",
+    "city": "Perros-Guirec",
+    "description": "plage des Arcades"
+  },
+  {
+    "longitude": 6.69222,
+    "latitude": 43.25939,
+    "name": "Beach",
+    "city": "Saint Tropez",
+    "description": "plage Les Salins"
+  },
+  {
+    "longitude": 6.44038,
+    "latitude": 43.14571,
+    "name": "Beach",
+    "city": "Plage du Cap Negre",
+    "description": ""
+  },
+  {
+    "longitude": -2.66317,
+    "latitude": 48.53118,
+    "name": "Beach",
+    "city": "Hillion",
+    "description": "plage Lermot"
+  },
+  {
+    "longitude": 8.77136,
+    "latitude": 41.92803,
+    "name": "Beach",
+    "city": "Plage du Ricanto",
+    "description": ""
+  },
+  {
+    "longitude": 7.38978,
+    "latitude": 43.72302,
+    "name": "Beach",
+    "city": "Cap d'Ail",
+    "description": "plage Mala"
+  },
+  {
+    "longitude": 3.033,
+    "latitude": 42.93959,
+    "name": "Beach",
+    "city": "La Franqui",
+    "description": "plage du village 2"
+  },
+  {
+    "longitude": -4.47835,
+    "latitude": 47.99039,
+    "name": "Beach",
+    "city": "Plouhinec",
+    "description": "plage Guendrez"
+  },
+  {
+    "longitude": -1.24587,
+    "latitude": 44.70797,
+    "name": "Beach",
+    "city": "Le Canon",
+    "description": "plage Truc vert - Le Canon"
+  },
+  {
+    "longitude": -2.86468,
+    "latitude": 48.67203,
+    "name": "Beach",
+    "city": "Treveneuc",
+    "description": "plage de Port Goret"
+  },
+  {
+    "longitude": -4.13464,
+    "latitude": 47.86161,
+    "name": "Beach",
+    "city": "Combrit",
+    "description": "plage Kermor"
+  },
+  {
+    "longitude": -1.6104,
+    "latitude": 49.08259,
+    "name": "Beach",
+    "city": "Blainville sur Mer",
+    "description": "plage de Gonneville"
+  },
+  {
+    "longitude": -2.1786,
+    "latitude": 47.12196,
+    "name": "Beach",
+    "city": "Pornic",
+    "description": "plage L Etang"
+  },
+  {
+    "longitude": -1.20418,
+    "latitude": 44.64168,
+    "name": "Beach",
+    "city": "Le Pyla",
+    "description": "plage Le Mouleau"
+  },
+  {
+    "longitude": -4.33674,
+    "latitude": 48.67582,
+    "name": "Beach",
+    "city": "Brignogan-Plage",
+    "description": "plage des Chardons Bleus"
+  },
+  {
+    "longitude": 4.12451,
+    "latitude": 43.54652,
+    "name": "Beach",
+    "city": "Le Boucanet",
+    "description": "plage"
+  },
+  {
+    "longitude": 9.45197,
+    "latitude": 42.96448,
+    "name": "Beach",
+    "city": "Rogliano",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.58342,
+    "latitude": 48.77392,
+    "name": "Beach",
+    "city": "Trebeurden",
+    "description": "plage Porz Termenl"
+  },
+  {
+    "longitude": -1.36185,
+    "latitude": 46.16132,
+    "name": "Beach",
+    "city": "Le Bois-Plage en Re",
+    "description": "plage des Grenettes"
+  },
+  {
+    "longitude": 8.62335,
+    "latitude": 41.93591,
+    "name": "Beach",
+    "city": "Minaccia",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.36074,
+    "latitude": 43.23586,
+    "name": "Beach",
+    "city": "Marseille",
+    "description": "plage de la Verrerie"
+  },
+  {
+    "longitude": -4.34523,
+    "latitude": 48.10092,
+    "name": "Beach",
+    "city": "Douarnenez",
+    "description": "plage Saint Jean"
+  },
+  {
+    "longitude": -1.2213,
+    "latitude": 46.27415,
+    "name": "Beach",
+    "city": "L Aiguillon sur Mer",
+    "description": "plage de la Batterie"
+  },
+  {
+    "longitude": 5.92852,
+    "latitude": 43.07214,
+    "name": "Beach",
+    "city": "Saint Mandrier sur Mer",
+    "description": "plage de la Coudouliere"
+  },
+  {
+    "longitude": -4.69709,
+    "latitude": 48.35207,
+    "name": "Beach",
+    "city": "Plage Sainte-Anne",
+    "description": ""
+  },
+  {
+    "longitude": -1.46751,
+    "latitude": 46.20293,
+    "name": "Beach",
+    "city": "La Couarde sur Mer",
+    "description": "plage du Moulin Brule"
+  },
+  {
+    "longitude": -1.62844,
+    "latitude": 46.41721,
+    "name": "Beach",
+    "city": "Jard sur Mer",
+    "description": "plage de la Mine"
+  },
+  {
+    "longitude": 8.87861,
+    "latitude": 41.65307,
+    "name": "Beach",
+    "city": "Propriano",
+    "description": "plage de Portigliolo"
+  },
+  {
+    "longitude": -4.30492,
+    "latitude": 48.66582,
+    "name": "Beach",
+    "city": "Plouneour Trez",
+    "description": "plage de Lividic"
+  },
+  {
+    "longitude": -4.5625,
+    "latitude": 48.62088,
+    "name": "Beach",
+    "city": "Plouguerneau",
+    "description": "plage de Kervenni"
+  },
+  {
+    "longitude": -2.6058,
+    "latitude": 48.55082,
+    "name": "Beach",
+    "city": "Planguenoual",
+    "description": "plage de Jospinet"
+  },
+  {
+    "longitude": -3.96504,
+    "latitude": 47.89659,
+    "name": "Beach",
+    "city": "La Foret Fouesnant",
+    "description": "plage de Kerleven"
+  },
+  {
+    "longitude": 3.15993,
+    "latitude": 42.45899,
+    "name": "Beach",
+    "city": "Platja de Perafita",
+    "description": ""
+  },
+  {
+    "longitude": -1.57396,
+    "latitude": 43.46421,
+    "name": "Beach",
+    "city": "Biarritz",
+    "description": "plage La Milady"
+  },
+  {
+    "longitude": -4.34913,
+    "latitude": 47.85248,
+    "name": "Beach",
+    "city": "Saint Jean Trolimon",
+    "description": "plage Tronoen"
+  },
+  {
+    "longitude": 7.10618,
+    "latitude": 43.56982,
+    "name": "Beach",
+    "city": "Juan les Pins",
+    "description": "plage Le Lido"
+  },
+  {
+    "longitude": -3.9232,
+    "latitude": 48.67192,
+    "name": "Beach",
+    "city": "Carantec",
+    "description": "plage du Port"
+  },
+  {
+    "longitude": -1.09207,
+    "latitude": 45.98375,
+    "name": "Beach",
+    "city": "Fouras",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.44853,
+    "latitude": 46.34086,
+    "name": "Beach",
+    "city": "Plage des Generelles",
+    "description": ""
+  },
+  {
+    "longitude": 5.37055,
+    "latitude": 43.24403,
+    "name": "Beach",
+    "city": "Marseille",
+    "description": "plage de la Pointe Rouge"
+  },
+  {
+    "longitude": -2.14379,
+    "latitude": 48.62519,
+    "name": "Beach",
+    "city": "Saint Briac sur Mer",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.54932,
+    "latitude": 48.0114,
+    "name": "Beach",
+    "city": "Audierne",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.40637,
+    "latitude": 48.6413,
+    "name": "Beach",
+    "city": "Frehel",
+    "description": "plage des Sables d'Or les Pins"
+  },
+  {
+    "longitude": 9.32493,
+    "latitude": 41.55785,
+    "name": "Beach",
+    "city": "Palombaggia",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.31815,
+    "latitude": 46.31825,
+    "name": "Beach",
+    "city": "La Faute sur Mer",
+    "description": "plage Barrique"
+  },
+  {
+    "longitude": -3.54939,
+    "latitude": 48.7458,
+    "name": "Beach",
+    "city": "Trebeurden",
+    "description": "plage Gwel a Gorn"
+  },
+  {
+    "longitude": -2.47825,
+    "latitude": 48.61873,
+    "name": "Beach",
+    "city": "Erquy",
+    "description": "plage de Caroual"
+  },
+  {
+    "longitude": 6.74417,
+    "latitude": 43.4175,
+    "name": "Beach",
+    "city": "Frejus",
+    "description": "plage Base Nature"
+  },
+  {
+    "longitude": 6.53476,
+    "latitude": 43.17581,
+    "name": "Beach",
+    "city": "Cavalaire",
+    "description": "plage du Centre Ville"
+  },
+  {
+    "longitude": -4.59815,
+    "latitude": 48.28172,
+    "name": "Beach",
+    "city": "Camaret",
+    "description": "plage Correjout"
+  },
+  {
+    "longitude": -1.45286,
+    "latitude": 46.19876,
+    "name": "Beach",
+    "city": "La Couarde sur Mer",
+    "description": "plage des Prises"
+  },
+  {
+    "longitude": -3.89576,
+    "latitude": 48.67154,
+    "name": "Beach",
+    "city": "Plage de Roc g Gored",
+    "description": ""
+  },
+  {
+    "longitude": 8.71566,
+    "latitude": 42.08342,
+    "name": "Beach",
+    "city": "Plage de San Giuseppe",
+    "description": ""
+  },
+  {
+    "longitude": 6.63414,
+    "latitude": 43.17271,
+    "name": "Beach",
+    "city": "Ramatuelle",
+    "description": "plage La Briande"
+  },
+  {
+    "longitude": 8.90249,
+    "latitude": 41.50809,
+    "name": "Beach",
+    "city": "Sartene",
+    "description": "plage d'Erbaju"
+  },
+  {
+    "longitude": -0.57843,
+    "latitude": 44.87845,
+    "name": "Beach",
+    "city": "Bordeaux",
+    "description": "plage de Bordeaux - Lac"
+  },
+  {
+    "longitude": -1.47656,
+    "latitude": 46.23183,
+    "name": "Beach",
+    "city": "Les Portes en Re",
+    "description": "plage Trousse Chemise"
+  },
+  {
+    "longitude": -1.64167,
+    "latitude": 43.40704,
+    "name": "Beach",
+    "city": "Saint Jean de Luz",
+    "description": "plage d'Erromardie"
+  },
+  {
+    "longitude": -4.42567,
+    "latitude": 48.22942,
+    "name": "Beach",
+    "city": "Raguenes",
+    "description": "plage de la Source"
+  },
+  {
+    "longitude": -2.22147,
+    "latitude": 47.12799,
+    "name": "Beach",
+    "city": "Prefailles",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": -1.16087,
+    "latitude": 46.15535,
+    "name": "Beach",
+    "city": "La Rochelle",
+    "description": "plage Concurrence"
+  },
+  {
+    "longitude": -2.20216,
+    "latitude": 47.15755,
+    "name": "Beach",
+    "city": "La Plaine sur Mer",
+    "description": "plage de Mouton (La Gravette)"
+  },
+  {
+    "longitude": 4.94458,
+    "latitude": 43.43003,
+    "name": "Beach",
+    "city": "Fos sur Mer",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": -1.10309,
+    "latitude": 44.34588,
+    "name": "Beach",
+    "city": "Parentis en Born",
+    "description": "plage"
+  },
+  {
+    "longitude": 9.10472,
+    "latitude": 41.42635,
+    "name": "Beach",
+    "city": "Tonnara",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.5486,
+    "latitude": 47.76617,
+    "name": "Beach",
+    "city": "Clohars-Carnoet",
+    "description": "plage des Grands Sables"
+  },
+  {
+    "longitude": 9.0369,
+    "latitude": 41.47064,
+    "name": "Beach",
+    "city": "Chevanu",
+    "description": "plage"
+  },
+  {
+    "longitude": 1.18316,
+    "latitude": 47.3409,
+    "name": "Beach",
+    "city": "Montrichard",
+    "description": "plage Le Cher - Fleuve"
+  },
+  {
+    "longitude": -1.30159,
+    "latitude": 44.20734,
+    "name": "Beach",
+    "city": "Plage-Sud",
+    "description": ""
+  },
+  {
+    "longitude": 6.01991,
+    "latitude": 43.09849,
+    "name": "Beach",
+    "city": "Plage des Bonnettes",
+    "description": ""
+  },
+  {
+    "longitude": 6.20207,
+    "latitude": 43.11677,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage des Salins"
+  },
+  {
+    "longitude": 8.61601,
+    "latitude": 42.1333,
+    "name": "Beach",
+    "city": "Menasina",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.11484,
+    "latitude": 46.80243,
+    "name": "Beach",
+    "city": "Saint Jean de Monts",
+    "description": "plage Paree du Jonc"
+  },
+  {
+    "longitude": -2.08309,
+    "latitude": 47.1034,
+    "name": "Beach",
+    "city": "Pornic",
+    "description": "plage La Joseliere"
+  },
+  {
+    "longitude": -2.27068,
+    "latitude": 47.2398,
+    "name": "Beach",
+    "city": "Saint Nazaire",
+    "description": "plage de la Courance"
+  },
+  {
+    "longitude": -2.28649,
+    "latitude": 48.6307,
+    "name": "Beach",
+    "city": "Saint Cast le Guildo",
+    "description": "plage Fosse"
+  },
+  {
+    "longitude": 9.41386,
+    "latitude": 41.95981,
+    "name": "Beach",
+    "city": "Quercioni",
+    "description": "plage"
+  },
+  {
+    "longitude": 8.62335,
+    "latitude": 41.92676,
+    "name": "Beach",
+    "city": "Plage Saint-Antoine",
+    "description": ""
+  },
+  {
+    "longitude": -1.21879,
+    "latitude": 44.5863,
+    "name": "Beach",
+    "city": "Plage du Petit Nice",
+    "description": ""
+  },
+  {
+    "longitude": -2.09708,
+    "latitude": 47.10701,
+    "name": "Beach",
+    "city": "Pornic",
+    "description": "plage La Source (Thalassotherapie)"
+  },
+  {
+    "longitude": -3.17287,
+    "latitude": 47.35976,
+    "name": "Beach",
+    "city": "Le Palais",
+    "description": "plage de Porh Fouquet"
+  },
+  {
+    "longitude": -1.20834,
+    "latitude": 44.9175,
+    "name": "Beach",
+    "city": "Le Porge",
+    "description": "plage sauvage"
+  },
+  {
+    "longitude": -2.86256,
+    "latitude": 47.52643,
+    "name": "Beach",
+    "city": "Saint Gildas de Rhuys",
+    "description": "plage de Kervert"
+  },
+  {
+    "longitude": -4.41715,
+    "latitude": 48.2271,
+    "name": "Beach",
+    "city": "Crozon",
+    "description": "plage Poul"
+  },
+  {
+    "longitude": -2.24366,
+    "latitude": 46.96477,
+    "name": "Beach",
+    "city": "La Gueriniere",
+    "description": "plage Cantine"
+  },
+  {
+    "longitude": 6.59775,
+    "latitude": 43.18425,
+    "name": "Beach",
+    "city": "La Croix Valmer",
+    "description": "plage Gigaro"
+  },
+  {
+    "longitude": -4.16952,
+    "latitude": 47.81387,
+    "name": "Beach",
+    "city": "Loctudy",
+    "description": "plage Ezer"
+  },
+  {
+    "longitude": 5.3532,
+    "latitude": 43.21259,
+    "name": "Beach",
+    "city": "Marseille",
+    "description": "plage de Callelongue"
+  },
+  {
+    "longitude": -5.10609,
+    "latitude": 48.47008,
+    "name": "Beach",
+    "city": "Plage du Yuzin",
+    "description": ""
+  },
+  {
+    "longitude": -2.54516,
+    "latitude": 47.52168,
+    "name": "Beach",
+    "city": "Plage de Treherve",
+    "description": ""
+  },
+  {
+    "longitude": -2.06858,
+    "latitude": 46.78097,
+    "name": "Beach",
+    "city": "Saint Jean de Monts",
+    "description": "plage des Demoiselles"
+  },
+  {
+    "longitude": -4.26314,
+    "latitude": 48.64974,
+    "name": "Beach",
+    "city": "Treflez",
+    "description": "plage Ker Emma"
+  },
+  {
+    "longitude": -3.58187,
+    "latitude": 48.76789,
+    "name": "Beach",
+    "city": "Trebeurden",
+    "description": "plage de Tresmeur"
+  },
+  {
+    "longitude": 7.50816,
+    "latitude": 43.77881,
+    "name": "Beach",
+    "city": "Menton",
+    "description": "plage des Sablettes"
+  },
+  {
+    "longitude": 9.40336,
+    "latitude": 41.74859,
+    "name": "Beach",
+    "city": "Conca",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.72557,
+    "latitude": 49.32897,
+    "name": "Beach",
+    "city": "Portbail",
+    "description": "La Plage"
+  },
+  {
+    "longitude": 9.33227,
+    "latitude": 42.7208,
+    "name": "Beach",
+    "city": "Farinole",
+    "description": "plage"
+  },
+  {
+    "longitude": 3.11963,
+    "latitude": 42.52097,
+    "name": "Beach",
+    "city": "Port-Vendre",
+    "description": "plage (village)"
+  },
+  {
+    "longitude": 6.93113,
+    "latitude": 43.48388,
+    "name": "Beach",
+    "city": "Theoule sur mer",
+    "description": "plage de la Figueirette"
+  },
+  {
+    "longitude": 5.54432,
+    "latitude": 43.21104,
+    "name": "Beach",
+    "city": "Cassis",
+    "description": "plage du Carton"
+  },
+  {
+    "longitude": -2.83588,
+    "latitude": 47.49396,
+    "name": "Beach",
+    "city": "Port Maria Plage",
+    "description": ""
+  },
+  {
+    "longitude": -1.18776,
+    "latitude": 45.08532,
+    "name": "Beach",
+    "city": "Carcans",
+    "description": "plage - ocean"
+  },
+  {
+    "longitude": -0.27009,
+    "latitude": 49.29185,
+    "name": "Beach",
+    "city": "Sword Beach",
+    "description": ""
+  },
+  {
+    "longitude": -4.56079,
+    "latitude": 48.25861,
+    "name": "Beach",
+    "city": "Camaret",
+    "description": "plage Kerloc h"
+  },
+  {
+    "longitude": 5.53809,
+    "latitude": 43.21343,
+    "name": "Beach",
+    "city": "Cassis",
+    "description": "plage de la Grande Mer"
+  },
+  {
+    "longitude": -1.62506,
+    "latitude": 43.41828,
+    "name": "Beach",
+    "city": "Saint Jean de Luz",
+    "description": "plage de Maiarko"
+  },
+  {
+    "longitude": -1.24392,
+    "latitude": 44.71425,
+    "name": "Beach",
+    "city": "Le Canon",
+    "description": "plage du Truc Vert"
+  },
+  {
+    "longitude": -2.22247,
+    "latitude": 47.26637,
+    "name": "Beach",
+    "city": "Plage du Grand Traict",
+    "description": ""
+  },
+  {
+    "longitude": -1.32975,
+    "latitude": 46.1499,
+    "name": "Beach",
+    "city": "Sainte Marie de Re",
+    "description": "plage de la Salee"
+  },
+  {
+    "longitude": 9.55294,
+    "latitude": 42.12014,
+    "name": "Beach",
+    "city": "Padulone",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.07708,
+    "latitude": 47.28862,
+    "name": "Beach",
+    "city": "Locmaria",
+    "description": "plage de Port Blanc"
+  },
+  {
+    "longitude": 9.5248,
+    "latitude": 42.56686,
+    "name": "Beach",
+    "city": "Marana",
+    "description": "plage"
+  },
+  {
+    "longitude": 8.68754,
+    "latitude": 42.28208,
+    "name": "Beach",
+    "city": "Bussaglia",
+    "description": "plage"
+  },
+  {
+    "longitude": -0.57934,
+    "latitude": 49.34236,
+    "name": "Beach",
+    "city": "Roseau Plage",
+    "description": ""
+  },
+  {
+    "longitude": 5.26072,
+    "latitude": 43.34191,
+    "name": "Beach",
+    "city": "La Vanesse",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.77208,
+    "latitude": 43.41903,
+    "name": "Beach",
+    "city": "Saint Raphael",
+    "description": "plage de la Pointe de l'Aiguille"
+  },
+  {
+    "longitude": -1.2325,
+    "latitude": 44.69016,
+    "name": "Beach",
+    "city": "L Herbe",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.51682,
+    "latitude": 48.59987,
+    "name": "Beach",
+    "city": "Plage du Nantois",
+    "description": ""
+  },
+  {
+    "longitude": -3.14888,
+    "latitude": 47.34377,
+    "name": "Beach",
+    "city": "Plage de Ramonette",
+    "description": ""
+  },
+  {
+    "longitude": -2.28408,
+    "latitude": 46.69318,
+    "name": "Beach",
+    "city": "L Ile d'Yeu",
+    "description": "plage de la Grande Conche"
+  },
+  {
+    "longitude": -3.84027,
+    "latitude": 48.69683,
+    "name": "Beach",
+    "city": "Plougasnou",
+    "description": "plage Guerzit"
+  },
+  {
+    "longitude": 8.59133,
+    "latitude": 42.17073,
+    "name": "Beach",
+    "city": "Chiuni",
+    "description": "plage"
+  },
+  {
+    "longitude": 9.52558,
+    "latitude": 42.56742,
+    "name": "Beach",
+    "city": "Biguglia",
+    "description": "plage"
+  },
+  {
+    "longitude": 8.70628,
+    "latitude": 41.73868,
+    "name": "Beach",
+    "city": "Biancu",
+    "description": "plage ce Cupabia"
+  },
+  {
+    "longitude": -2.24826,
+    "latitude": 48.62606,
+    "name": "Beach",
+    "city": "Saint Cast le Guildo",
+    "description": "La Grande Plage"
+  },
+  {
+    "longitude": 5.07028,
+    "latitude": 43.33217,
+    "name": "Beach",
+    "city": "La Couronne",
+    "description": "anse de Ste Croix"
+  },
+  {
+    "longitude": -2.2447,
+    "latitude": 48.61417,
+    "name": "Beach",
+    "city": "Saint Cast le Guildo",
+    "description": "plage de Pen-Guen"
+  },
+  {
+    "longitude": 3.0466,
+    "latitude": 42.55743,
+    "name": "Beach",
+    "city": "Argeles sur Mer",
+    "description": "plage (le village)"
+  },
+  {
+    "longitude": -1.37252,
+    "latitude": 46.03943,
+    "name": "Beach",
+    "city": "Saint Denis",
+    "description": "plage Soubregeon"
+  },
+  {
+    "longitude": -4.6719,
+    "latitude": 48.06057,
+    "name": "Beach",
+    "city": "Cleden Cap Sizun",
+    "description": "plage Theolen"
+  },
+  {
+    "longitude": -1.43762,
+    "latitude": 46.34052,
+    "name": "Beach",
+    "city": "La Tranche sur Mer",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": -2.82417,
+    "latitude": 48.59954,
+    "name": "Beach",
+    "city": "Binic",
+    "description": "plage centre"
+  },
+  {
+    "longitude": 3.36111,
+    "latitude": 43.27666,
+    "name": "Beach",
+    "city": "Portiragne",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.14701,
+    "latitude": 46.86266,
+    "name": "Beach",
+    "city": "La Barre de Monts",
+    "description": "plage Lays"
+  },
+  {
+    "longitude": -3.25607,
+    "latitude": 47.36868,
+    "name": "Beach",
+    "city": "Sauzon",
+    "description": "plage de Koh Kastell"
+  },
+  {
+    "longitude": 5.82075,
+    "latitude": 43.0598,
+    "name": "Beach",
+    "city": "Six Fours les Plages",
+    "description": "plage de la Fosse"
+  },
+  {
+    "longitude": -4.16992,
+    "latitude": 47.81391,
+    "name": "Beach",
+    "city": "Loctudy",
+    "description": "plage de Lodonnec"
+  },
+  {
+    "longitude": -1.97325,
+    "latitude": 48.68326,
+    "name": "Beach",
+    "city": "Saint Malo",
+    "description": "plage Val"
+  },
+  {
+    "longitude": -4.35997,
+    "latitude": 47.82676,
+    "name": "Beach",
+    "city": "Penmarch",
+    "description": "plage Porz Carn"
+  },
+  {
+    "longitude": 6.15022,
+    "latitude": 43.06387,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage de Port de La Capte"
+  },
+  {
+    "longitude": -2.16781,
+    "latitude": 48.59795,
+    "name": "Beach",
+    "city": "Lancieux",
+    "description": "plage Briantais"
+  },
+  {
+    "longitude": 6.44857,
+    "latitude": 43.15272,
+    "name": "Beach",
+    "city": "Plage de Pramousquier",
+    "description": ""
+  },
+  {
+    "longitude": -2.14182,
+    "latitude": 48.6328,
+    "name": "Beach",
+    "city": "Saint Briac sur Mer",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.17304,
+    "latitude": 47.1605,
+    "name": "Beach",
+    "city": "La Plaine sur Mer",
+    "description": "plage Le Cormier"
+  },
+  {
+    "longitude": -3.43145,
+    "latitude": 48.81901,
+    "name": "Beach",
+    "city": "Perros-Guirec",
+    "description": "plage de Trestrignel"
+  },
+  {
+    "longitude": 4.97363,
+    "latitude": 43.41689,
+    "name": "Beach",
+    "city": "Port de Bouc",
+    "description": "plage Bottai"
+  },
+  {
+    "longitude": -1.5781,
+    "latitude": 43.46061,
+    "name": "Beach",
+    "city": "Biarritz",
+    "description": "plage d'Ilbaritz"
+  },
+  {
+    "longitude": 2.37845,
+    "latitude": 47.59339,
+    "name": "Beach",
+    "city": "Cerdon",
+    "description": "plage (Etang du Puits - D765)"
+  },
+  {
+    "longitude": -2.30925,
+    "latitude": 48.64144,
+    "name": "Beach",
+    "city": "Frehel",
+    "description": "plage de Chateau Serein"
+  },
+  {
+    "longitude": 7.49518,
+    "latitude": 43.77042,
+    "name": "Beach",
+    "city": "Menton",
+    "description": "plage Borrigo"
+  },
+  {
+    "longitude": 8.70169,
+    "latitude": 42.11258,
+    "name": "Beach",
+    "city": "Sagone",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.20131,
+    "latitude": 45.0056,
+    "name": "Beach",
+    "city": "Lacanau",
+    "description": "plage Nord"
+  },
+  {
+    "longitude": -1.53242,
+    "latitude": 46.20227,
+    "name": "Beach",
+    "city": "Ars en Re",
+    "description": "plage Grange"
+  },
+  {
+    "longitude": -2.24297,
+    "latitude": 48.61266,
+    "name": "Beach",
+    "city": "Saint Cast le Guildo",
+    "description": "plage de Pen-Guen"
+  },
+  {
+    "longitude": -3.89938,
+    "latitude": 48.67086,
+    "name": "Beach",
+    "city": "Carantec",
+    "description": "plage Cosmeur"
+  },
+  {
+    "longitude": -1.51008,
+    "latitude": 46.40186,
+    "name": "Beach",
+    "city": "Plage du Petit Rocher",
+    "description": ""
+  },
+  {
+    "longitude": -1.09642,
+    "latitude": 44.97978,
+    "name": "Beach",
+    "city": "Lacanau",
+    "description": "plage - ville"
+  },
+  {
+    "longitude": -4.34699,
+    "latitude": 48.67674,
+    "name": "Beach",
+    "city": "Brignogan-Plage",
+    "description": "plage du Phare"
+  },
+  {
+    "longitude": 6.17504,
+    "latitude": 43.10208,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.79088,
+    "latitude": 43.07626,
+    "name": "Beach",
+    "city": "Plage du Grand Gaou",
+    "description": ""
+  },
+  {
+    "longitude": 5.37511,
+    "latitude": 43.24982,
+    "name": "Beach",
+    "city": "Marseille",
+    "description": "plage de la vieille Chapelle"
+  },
+  {
+    "longitude": -4.04587,
+    "latitude": 48.70407,
+    "name": "Beach",
+    "city": "Plage de Trevenn",
+    "description": ""
+  },
+  {
+    "longitude": -2.31397,
+    "latitude": 46.71503,
+    "name": "Beach",
+    "city": "Plage des Sapins",
+    "description": ""
+  },
+  {
+    "longitude": 4.78253,
+    "latitude": 43.35133,
+    "name": "Beach",
+    "city": "Salins de Giraud",
+    "description": "plage d'Arles"
+  },
+  {
+    "longitude": -1.05194,
+    "latitude": 45.62652,
+    "name": "Beach",
+    "city": "Pontaillac",
+    "description": ""
+  },
+  {
+    "longitude": -2.65425,
+    "latitude": 48.52547,
+    "name": "Beach",
+    "city": "Hillion",
+    "description": "plage du Bon Abri"
+  },
+  {
+    "longitude": -3.35445,
+    "latitude": 48.82015,
+    "name": "Beach",
+    "city": "Trevou-Treguignec",
+    "description": "plage du Trestel"
+  },
+  {
+    "longitude": -1.14055,
+    "latitude": 45.06998,
+    "name": "Beach",
+    "city": "Maubuisson",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.48446,
+    "latitude": 46.20022,
+    "name": "Beach",
+    "city": "Ars en Re",
+    "description": "plage Martray"
+  },
+  {
+    "longitude": -4.79153,
+    "latitude": 48.41268,
+    "name": "Beach",
+    "city": "Plouarzel",
+    "description": "plage pres de la Pointe de Corsen"
+  },
+  {
+    "longitude": 7.03946,
+    "latitude": 43.53927,
+    "name": "Beach",
+    "city": "Plage Gazagnaire",
+    "description": ""
+  },
+  {
+    "longitude": 8.80554,
+    "latitude": 42.57662,
+    "name": "Beach",
+    "city": "Lumio",
+    "description": "plage Arinella"
+  },
+  {
+    "longitude": 5.53079,
+    "latitude": 43.21304,
+    "name": "Beach",
+    "city": "Cassis",
+    "description": "plage du Bestouan"
+  },
+  {
+    "longitude": -1.49425,
+    "latitude": 46.38937,
+    "name": "Beach",
+    "city": "Longeville sur Mer",
+    "description": "plage Conches"
+  },
+  {
+    "longitude": -2.45191,
+    "latitude": 47.44496,
+    "name": "Beach",
+    "city": "Asserac",
+    "description": "plage de Pont Mahe"
+  },
+  {
+    "longitude": 9.05762,
+    "latitude": 42.65888,
+    "name": "Beach",
+    "city": "Ostriconi",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.0884,
+    "latitude": 43.33289,
+    "name": "Beach",
+    "city": "Sausset les Pins",
+    "description": "anse de Boumandariel"
+  },
+  {
+    "longitude": 7.03476,
+    "latitude": 43.53899,
+    "name": "Beach",
+    "city": "Cannes",
+    "description": "Bijou Plage"
+  },
+  {
+    "longitude": 8.75748,
+    "latitude": 41.92904,
+    "name": "Beach",
+    "city": "Ajaccio",
+    "description": "plage"
+  },
+  {
+    "longitude": 3.26394,
+    "latitude": 43.22983,
+    "name": "Beach",
+    "city": "Vendres",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.60121,
+    "latitude": 49.18507,
+    "name": "Beach",
+    "city": "Armanville Plage",
+    "description": "plage"
+  },
+  {
+    "longitude": 8.99461,
+    "latitude": 41.48586,
+    "name": "Beach",
+    "city": "Caniscione",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.35945,
+    "latitude": 43.11857,
+    "name": "Beach",
+    "city": "Bormes les Mimosas",
+    "description": "plage de la Faviere"
+  },
+  {
+    "longitude": -2.12961,
+    "latitude": 47.112,
+    "name": "Beach",
+    "city": "Pornic",
+    "description": "plage Montbeau"
+  },
+  {
+    "longitude": -4.49906,
+    "latitude": 48.00134,
+    "name": "Beach",
+    "city": "Plouhinec",
+    "description": "plage Mesperleuc"
+  },
+  {
+    "longitude": -2.87604,
+    "latitude": 47.53479,
+    "name": "Beach",
+    "city": "Arzon",
+    "description": "plage de Kerjouanno"
+  },
+  {
+    "longitude": 6.79811,
+    "latitude": 43.41388,
+    "name": "Beach",
+    "city": "Saint Raphael",
+    "description": "plage de la Peguiere"
+  },
+  {
+    "longitude": 6.93698,
+    "latitude": 43.51359,
+    "name": "Beach",
+    "city": "Plage du Maurin",
+    "description": ""
+  },
+  {
+    "longitude": 6.58387,
+    "latitude": 43.27619,
+    "name": "Beach",
+    "city": "Port Grimaud",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.25645,
+    "latitude": 44.66373,
+    "name": "Beach",
+    "city": "Cap Ferret",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.40518,
+    "latitude": 43.81604,
+    "name": "Beach",
+    "city": "Plage des Mesanges",
+    "description": ""
+  },
+  {
+    "longitude": -2.1549,
+    "latitude": 46.88502,
+    "name": "Beach",
+    "city": "La Barre de Monts",
+    "description": "plage de la Grande Cote"
+  },
+  {
+    "longitude": -2.63094,
+    "latitude": 48.52808,
+    "name": "Beach",
+    "city": "Plage de Saint-Maurice",
+    "description": ""
+  },
+  {
+    "longitude": -1.09884,
+    "latitude": 45.98956,
+    "name": "Beach",
+    "city": "Fouras",
+    "description": "plage"
+  },
+  {
+    "longitude": 7.52443,
+    "latitude": 43.78489,
+    "name": "Beach",
+    "city": "Menton",
+    "description": "plage du Hawa�"
+  },
+  {
+    "longitude": -2.19454,
+    "latitude": 47.15708,
+    "name": "Beach",
+    "city": "La Plaine sur Mer",
+    "description": "plage du Port Giraud"
+  },
+  {
+    "longitude": 8.87871,
+    "latitude": 41.5239,
+    "name": "Beach",
+    "city": "Sarene",
+    "description": "plage d'Argent"
+  },
+  {
+    "longitude": 4.0878,
+    "latitude": 43.55635,
+    "name": "Beach",
+    "city": "La Grande Motte",
+    "description": "plage du Levant Casino"
+  },
+  {
+    "longitude": 9.36224,
+    "latitude": 42.92486,
+    "name": "Beach",
+    "city": "Alisu",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.72087,
+    "latitude": 43.37681,
+    "name": "Beach",
+    "city": "Plage du Pebrier",
+    "description": ""
+  },
+  {
+    "longitude": -2.19282,
+    "latitude": 48.60141,
+    "name": "Beach",
+    "city": "Saint Jacut de la Mer",
+    "description": "plage d'Haas"
+  },
+  {
+    "longitude": -1.13415,
+    "latitude": 45.0023,
+    "name": "Beach",
+    "city": "Le Moutchic",
+    "description": "plage"
+  },
+  {
+    "longitude": 3.41551,
+    "latitude": 43.28995,
+    "name": "Beach",
+    "city": "Vias",
+    "description": "vias plage"
+  },
+  {
+    "longitude": 6.10584,
+    "latitude": 43.03111,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage du Pontillon"
+  },
+  {
+    "longitude": 6.10584,
+    "latitude": 43.03111,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage d'Escampo-Barriou"
+  },
+  {
+    "longitude": -1.19476,
+    "latitude": 44.6529,
+    "name": "Beach",
+    "city": "Les Abatilles",
+    "description": "plage Pereire"
+  },
+  {
+    "longitude": -2.33917,
+    "latitude": 46.71931,
+    "name": "Beach",
+    "city": "Ile d'Yeu",
+    "description": "plage de la Tourette"
+  },
+  {
+    "longitude": 6.64181,
+    "latitude": 43.2738,
+    "name": "Beach",
+    "city": "Saint Tropez",
+    "description": "plage Centre"
+  },
+  {
+    "longitude": -2.8217,
+    "latitude": 48.62272,
+    "name": "Beach",
+    "city": "Etables sur Mer",
+    "description": "plage"
+  },
+  {
+    "longitude": 9.39777,
+    "latitude": 41.90534,
+    "name": "Beach",
+    "city": "Nerucciu",
+    "description": "plage Cote des Nacres"
+  },
+  {
+    "longitude": -1.58334,
+    "latitude": 43.4534,
+    "name": "Beach",
+    "city": "Bidart",
+    "description": "plage du Pavillon Royal"
+  },
+  {
+    "longitude": 8.66212,
+    "latitude": 42.3022,
+    "name": "Beach",
+    "city": "Partinello",
+    "description": "plage"
+  },
+  {
+    "longitude": 1.45502,
+    "latitude": 50.11171,
+    "name": "Beach",
+    "city": "Woignarue",
+    "description": "plage d'Onival"
+  },
+  {
+    "longitude": -1.41226,
+    "latitude": 49.70064,
+    "name": "Beach",
+    "city": "Plage du Sablon",
+    "description": ""
+  },
+  {
+    "longitude": -2.13695,
+    "latitude": 47.11187,
+    "name": "Beach",
+    "city": "Pornic",
+    "description": "plage Les Sablons"
+  },
+  {
+    "longitude": 8.89172,
+    "latitude": 41.66509,
+    "name": "Beach",
+    "city": "Propriano",
+    "description": "plage"
+  },
+  {
+    "longitude": 9.30621,
+    "latitude": 41.54603,
+    "name": "Beach",
+    "city": "Palombaggia",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.00673,
+    "latitude": 46.73891,
+    "name": "Beach",
+    "city": "Saint Hilaire de Riez",
+    "description": "plage de la Pege"
+  },
+  {
+    "longitude": 9.2488,
+    "latitude": 41.40643,
+    "name": "Beach",
+    "city": "Gavetti",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.37573,
+    "latitude": 43.25916,
+    "name": "Beach",
+    "city": "Marseille",
+    "description": "plage Borely"
+  },
+  {
+    "longitude": 4.4553,
+    "latitude": 43.447,
+    "name": "Beach",
+    "city": "Saintes Maries de la Mer",
+    "description": "plage de la Goule"
+  },
+  {
+    "longitude": -1.54623,
+    "latitude": 46.22258,
+    "name": "Beach",
+    "city": "Saint Clement des Baleines",
+    "description": "plage Cote Sauvage"
+  },
+  {
+    "longitude": -1.51875,
+    "latitude": 46.25577,
+    "name": "Beach",
+    "city": "Les Portes en Re",
+    "description": "plage Petit Bec"
+  },
+  {
+    "longitude": -2.14519,
+    "latitude": 46.83166,
+    "name": "Beach",
+    "city": "Notre Dame de Monts",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.57236,
+    "latitude": 43.4696,
+    "name": "Beach",
+    "city": "Plage Marbella",
+    "description": ""
+  },
+  {
+    "longitude": 8.73885,
+    "latitude": 42.06561,
+    "name": "Beach",
+    "city": "Tiuccia - Sagone",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.75556,
+    "latitude": 43.42333,
+    "name": "Beach",
+    "city": "Frejus",
+    "description": "Frejus plage"
+  },
+  {
+    "longitude": -1.99157,
+    "latitude": 48.55307,
+    "name": "Beach",
+    "city": "Plage du Roue",
+    "description": ""
+  },
+  {
+    "longitude": 5.81097,
+    "latitude": 43.11284,
+    "name": "Beach",
+    "city": "Six Fours les Plages",
+    "description": "plage de Bonne Grace"
+  },
+  {
+    "longitude": -1.32963,
+    "latitude": 46.33218,
+    "name": "Beach",
+    "city": "La Faute sur Mer",
+    "description": "La Grand-Plage"
+  },
+  {
+    "longitude": -2.21248,
+    "latitude": 47.15548,
+    "name": "Beach",
+    "city": "La Plaine sur Mer",
+    "description": "plage La Gravette"
+  },
+  {
+    "longitude": -1.24301,
+    "latitude": 44.65193,
+    "name": "Beach",
+    "city": "Cap Ferret",
+    "description": "plage"
+  },
+  {
+    "longitude": 3.93489,
+    "latitude": 43.52895,
+    "name": "Beach",
+    "city": "Palavas les Flots",
+    "description": "plage Jetee rive gauche"
+  },
+  {
+    "longitude": -3.77691,
+    "latitude": 48.70278,
+    "name": "Beach",
+    "city": "Saint Jean du Doigt",
+    "description": "plage de Plougasnou"
+  },
+  {
+    "longitude": -4.67944,
+    "latitude": 48.35585,
+    "name": "Beach",
+    "city": "Locmaria Plouzane",
+    "description": "plage Porsmilin"
+  },
+  {
+    "longitude": -3.89825,
+    "latitude": 47.84253,
+    "name": "Beach",
+    "city": "Plage de Pouldohan",
+    "description": ""
+  },
+  {
+    "longitude": -4.70372,
+    "latitude": 48.34665,
+    "name": "Beach",
+    "city": "Plage du Trez Hir",
+    "description": ""
+  },
+  {
+    "longitude": -1.65517,
+    "latitude": 49.65744,
+    "name": "Beach",
+    "city": "Plage des Salines",
+    "description": ""
+  },
+  {
+    "longitude": 8.6913,
+    "latitude": 42.26542,
+    "name": "Beach",
+    "city": "Porto",
+    "description": "plage"
+  },
+  {
+    "longitude": 8.87964,
+    "latitude": 41.65056,
+    "name": "Beach",
+    "city": "Portigliolo",
+    "description": "plage"
+  },
+  {
+    "longitude": 9.21759,
+    "latitude": 41.40589,
+    "name": "Beach",
+    "city": "Bpnifacio",
+    "description": "plage de Maora"
+  },
+  {
+    "longitude": -4.45913,
+    "latitude": 48.23878,
+    "name": "Beach",
+    "city": "Crozon",
+    "description": "plage de Postolonnec"
+  },
+  {
+    "longitude": -1.54386,
+    "latitude": 43.49939,
+    "name": "Beach",
+    "city": "Anglet",
+    "description": "plage du Club"
+  },
+  {
+    "longitude": -4.31056,
+    "latitude": 48.6677,
+    "name": "Beach",
+    "city": "Plouneour-Trez",
+    "description": "plage Lividic"
+  },
+  {
+    "longitude": -4.32039,
+    "latitude": 48.20347,
+    "name": "Beach",
+    "city": "Saint Nic",
+    "description": "plage Cameros"
+  },
+  {
+    "longitude": -4.50312,
+    "latitude": 48.08818,
+    "name": "Beach",
+    "city": "Beuzec Cap Sizun",
+    "description": "plage l� Trenaouret"
+  },
+  {
+    "longitude": -1.25525,
+    "latitude": 44.44456,
+    "name": "Beach",
+    "city": "Biscarosse",
+    "description": "plage de Biscarosse"
+  },
+  {
+    "longitude": -1.40935,
+    "latitude": 46.18271,
+    "name": "Beach",
+    "city": "Le Bois-Plage en Re",
+    "description": "plage du Petit Sergent"
+  },
+  {
+    "longitude": -3.09661,
+    "latitude": 47.48311,
+    "name": "Beach",
+    "city": "Plage du Porigo",
+    "description": ""
+  },
+  {
+    "longitude": -2.57982,
+    "latitude": 48.57059,
+    "name": "Beach",
+    "city": "Planguenoual",
+    "description": "plage du Port Morvan"
+  },
+  {
+    "longitude": -1.41264,
+    "latitude": 46.34524,
+    "name": "Beach",
+    "city": "La Tranche sur Mer",
+    "description": "plage Griere"
+  },
+  {
+    "longitude": -1.40979,
+    "latitude": 43.80252,
+    "name": "Beach",
+    "city": "Mesanges",
+    "description": "La Plage Sud"
+  },
+  {
+    "longitude": 3.05137,
+    "latitude": 42.88868,
+    "name": "Beach",
+    "city": "Leucate",
+    "description": "plage le Grau de Leucate"
+  },
+  {
+    "longitude": 5.70971,
+    "latitude": 43.14776,
+    "name": "Beach",
+    "city": "Port d'Alon",
+    "description": "petite crique"
+  },
+  {
+    "longitude": 8.66113,
+    "latitude": 42.42348,
+    "name": "Beach",
+    "city": "Galeria",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.9151,
+    "latitude": 47.85739,
+    "name": "Beach",
+    "city": "Plage du Fort",
+    "description": ""
+  },
+  {
+    "longitude": -3.85425,
+    "latitude": 47.80362,
+    "name": "Beach",
+    "city": "Treginc",
+    "description": "plage de Trevignon"
+  },
+  {
+    "longitude": 8.73969,
+    "latitude": 41.79705,
+    "name": "Beach",
+    "city": "Coti Chiavari",
+    "description": "plage de Portigliolo"
+  },
+  {
+    "longitude": 9.39777,
+    "latitude": 41.80401,
+    "name": "Beach",
+    "city": "Canella",
+    "description": "plage Cote des Nacres"
+  },
+  {
+    "longitude": -1.83821,
+    "latitude": 46.56596,
+    "name": "Beach",
+    "city": "Olonne sur Mer",
+    "description": "plage de Sauveterre"
+  },
+  {
+    "longitude": 9.34748,
+    "latitude": 41.63764,
+    "name": "Beach",
+    "city": "San Ciprianu",
+    "description": "plage"
+  },
+  {
+    "longitude": 2.37566,
+    "latitude": 47.5853,
+    "name": "Beach",
+    "city": "Argent sur Sauldre",
+    "description": "plage Lac les Foucheres"
+  },
+  {
+    "longitude": 9.46301,
+    "latitude": 42.7443,
+    "name": "Beach",
+    "city": "Miomo",
+    "description": ""
+  },
+  {
+    "longitude": -1.40534,
+    "latitude": 49.70232,
+    "name": "Beach",
+    "city": "Cosqueville",
+    "description": "plage Vicq"
+  },
+  {
+    "longitude": -3.64632,
+    "latitude": 48.6908,
+    "name": "Beach",
+    "city": "Locquirec",
+    "description": "plage du Port"
+  },
+  {
+    "longitude": -2.50491,
+    "latitude": 48.60498,
+    "name": "Beach",
+    "city": "Pleneuf",
+    "description": "plage Ville Berneuf"
+  },
+  {
+    "longitude": -4.04149,
+    "latitude": 48.70328,
+    "name": "Beach",
+    "city": "Santec",
+    "description": "plage Tevenn"
+  },
+  {
+    "longitude": -3.10494,
+    "latitude": 47.4737,
+    "name": "Beach",
+    "city": "Quiberon",
+    "description": "plage de Gaviro"
+  },
+  {
+    "longitude": 8.80022,
+    "latitude": 41.88873,
+    "name": "Beach",
+    "city": "Porticcio",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.59589,
+    "latitude": 43.43743,
+    "name": "Beach",
+    "city": "Bidart",
+    "description": "plage du Centre"
+  },
+  {
+    "longitude": -1.38868,
+    "latitude": 46.17546,
+    "name": "Beach",
+    "city": "Le Bois-Plage en Re",
+    "description": "plage des Gollandieres"
+  },
+  {
+    "longitude": -0.98354,
+    "latitude": 45.57727,
+    "name": "Beach",
+    "city": "Meschers sur Gironde",
+    "description": "plage de Suzac"
+  },
+  {
+    "longitude": 8.79092,
+    "latitude": 41.86523,
+    "name": "Beach",
+    "city": "Agosta",
+    "description": "plage"
+  },
+  {
+    "longitude": 9.45483,
+    "latitude": 42.97566,
+    "name": "Beach",
+    "city": "Tamarone",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.37324,
+    "latitude": 43.26513,
+    "name": "Beach",
+    "city": "Marseille",
+    "description": "plage du Roucas blanc"
+  },
+  {
+    "longitude": -4.5119,
+    "latitude": 48.00539,
+    "name": "Beach",
+    "city": "Plouhinec",
+    "description": "plage Kersiny"
+  },
+  {
+    "longitude": 4.40936,
+    "latitude": 43.44941,
+    "name": "Beach",
+    "city": "Saintes Maries de la Mer",
+    "description": "plage Simbeou Est"
+  },
+  {
+    "longitude": -1.2651,
+    "latitude": 45.87567,
+    "name": "Beach",
+    "city": "Vert-Bois",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.35871,
+    "latitude": 43.23423,
+    "name": "Beach",
+    "city": "Plagede la Verrerie",
+    "description": ""
+  },
+  {
+    "longitude": -3.67954,
+    "latitude": 48.68651,
+    "name": "Beach",
+    "city": "Plage du Moulin de la Rive",
+    "description": ""
+  },
+  {
+    "longitude": 8.8814,
+    "latitude": 41.66708,
+    "name": "Beach",
+    "city": "Propriano",
+    "description": "plage de Capu Laurosu"
+  },
+  {
+    "longitude": 5.1735,
+    "latitude": 43.33514,
+    "name": "Beach",
+    "city": "Le Rouet",
+    "description": "plage du Port du Rouet"
+  },
+  {
+    "longitude": -4.05287,
+    "latitude": 47.85402,
+    "name": "Beach",
+    "city": "Fouesnant",
+    "description": "plage Kerler"
+  },
+  {
+    "longitude": -4.27007,
+    "latitude": 48.13425,
+    "name": "Beach",
+    "city": "Plonevez Porzay",
+    "description": "plage Sainte Anne"
+  },
+  {
+    "longitude": 5.37604,
+    "latitude": 43.25447,
+    "name": "Beach",
+    "city": "Marseille",
+    "description": "plage Bonneveine"
+  },
+  {
+    "longitude": -1.32551,
+    "latitude": 46.33006,
+    "name": "Beach",
+    "city": "Plage des Bellugas",
+    "description": ""
+  },
+  {
+    "longitude": 3.23668,
+    "latitude": 43.21402,
+    "name": "Beach",
+    "city": "Les Cabanes de Fleury",
+    "description": "plage"
+  },
+  {
+    "longitude": 1.57906,
+    "latitude": 50.5668,
+    "name": "Beach",
+    "city": "Plage Saint-Gabriel",
+    "description": ""
+  },
+  {
+    "longitude": -2.1848,
+    "latitude": 48.59593,
+    "name": "Beach",
+    "city": "Saint Jacut de la Mer",
+    "description": "plage de la Pissotte"
+  },
+  {
+    "longitude": -4.30448,
+    "latitude": 48.19567,
+    "name": "Beach",
+    "city": "Saint Nic",
+    "description": "plage Pentrez"
+  },
+  {
+    "longitude": 3.64991,
+    "latitude": 43.38764,
+    "name": "Beach",
+    "city": "Sete",
+    "description": "plage de la Corniche"
+  },
+  {
+    "longitude": 8.74765,
+    "latitude": 42.04645,
+    "name": "Beach",
+    "city": "Plage du Stagnone",
+    "description": ""
+  },
+  {
+    "longitude": -1.21736,
+    "latitude": 44.89315,
+    "name": "Beach",
+    "city": "Le Porge",
+    "description": "plage centrale"
+  },
+  {
+    "longitude": -4.13708,
+    "latitude": 48.69313,
+    "name": "Beach",
+    "city": "Cleder",
+    "description": "plage de Kervallou"
+  },
+  {
+    "longitude": -3.76606,
+    "latitude": 47.79245,
+    "name": "Beach",
+    "city": "Plage de Rospico",
+    "description": ""
+  },
+  {
+    "longitude": -3.20914,
+    "latitude": 47.64222,
+    "name": "Beach",
+    "city": "Etel",
+    "description": "plage de Kerminihy"
+  },
+  {
+    "longitude": 6.60971,
+    "latitude": 43.1727,
+    "name": "Beach",
+    "city": "La Croix Valmer",
+    "description": "plage du Brouis"
+  },
+  {
+    "longitude": 9.55276,
+    "latitude": 42.14826,
+    "name": "Beach",
+    "city": "Plage de Tallone",
+    "description": ""
+  },
+  {
+    "longitude": -2.9988,
+    "latitude": 48.83835,
+    "name": "Beach",
+    "city": "Ile de Brehat",
+    "description": "plage de Kerzido"
+  },
+  {
+    "longitude": -2.31019,
+    "latitude": 47.24097,
+    "name": "Beach",
+    "city": "Plage de Sainte-Marguerite",
+    "description": ""
+  },
+  {
+    "longitude": -2.37437,
+    "latitude": 48.65364,
+    "name": "Beach",
+    "city": "Frehel",
+    "description": "plage des Fosses"
+  },
+  {
+    "longitude": -3.88693,
+    "latitude": 47.84811,
+    "name": "Beach",
+    "city": "Plage de Ster Greich",
+    "description": ""
+  },
+  {
+    "longitude": -1.11565,
+    "latitude": 44.64428,
+    "name": "Beach",
+    "city": "Gujan Mestras",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.69334,
+    "latitude": 43.17472,
+    "name": "Beach",
+    "city": "Saint Cyr sur Mer",
+    "description": "plage Les Lecques"
+  },
+  {
+    "longitude": -1.24745,
+    "latitude": 44.69626,
+    "name": "Beach",
+    "city": "Le Canon",
+    "description": "plage La Garonne"
+  },
+  {
+    "longitude": -3.74115,
+    "latitude": 47.8046,
+    "name": "Beach",
+    "city": "Nevez",
+    "description": "plage de Port-Manec h"
+  },
+  {
+    "longitude": -3.38695,
+    "latitude": 48.81231,
+    "name": "Beach",
+    "city": "Trelevern",
+    "description": "plage Pors Garo"
+  },
+  {
+    "longitude": 5.35597,
+    "latitude": 43.29072,
+    "name": "Beach",
+    "city": "Marseille",
+    "description": "plage les Catalans"
+  },
+  {
+    "longitude": -2.49847,
+    "latitude": 47.4861,
+    "name": "Beach",
+    "city": "Plage du Lomer",
+    "description": ""
+  },
+  {
+    "longitude": 9.47897,
+    "latitude": 42.83758,
+    "name": "Beach",
+    "city": "Marine Pietracorbara",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.6161,
+    "latitude": 43.18221,
+    "name": "Beach",
+    "city": "Plage Lumiere",
+    "description": ""
+  },
+  {
+    "longitude": -1.95415,
+    "latitude": 46.6952,
+    "name": "Beach",
+    "city": "Saint Gilles Croix de Vie",
+    "description": "plage Boivinet"
+  },
+  {
+    "longitude": -2.04126,
+    "latitude": 47.081,
+    "name": "Beach",
+    "city": "La Bernerie en Retz",
+    "description": "La Grande Plage"
+  },
+  {
+    "longitude": 9.13664,
+    "latitude": 41.39345,
+    "name": "Beach",
+    "city": "Stragonato",
+    "description": "plage"
+  },
+  {
+    "longitude": 8.87694,
+    "latitude": 41.52504,
+    "name": "Beach",
+    "city": "Tralicetu",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.40282,
+    "latitude": 43.1494,
+    "name": "Beach",
+    "city": "Le Lavandou",
+    "description": "plage d'Aiguebelle"
+  },
+  {
+    "longitude": -1.23453,
+    "latitude": 46.28103,
+    "name": "Beach",
+    "city": "L Aiguillon sur Mer",
+    "description": "plage de l'Oasis"
+  },
+  {
+    "longitude": 3.92609,
+    "latitude": 43.52535,
+    "name": "Beach",
+    "city": "Palavas les Flots",
+    "description": "plage rive droite"
+  },
+  {
+    "longitude": -3.89344,
+    "latitude": 47.83228,
+    "name": "Beach",
+    "city": "Tregunc",
+    "description": "plage de Pendruc"
+  },
+  {
+    "longitude": -3.02953,
+    "latitude": 47.5735,
+    "name": "Beach",
+    "city": "La Trinite sur Mer",
+    "description": "plage de Kerbihan"
+  },
+  {
+    "longitude": 3.14159,
+    "latitude": 42.48016,
+    "name": "Beach",
+    "city": "Plage du Troc",
+    "description": ""
+  },
+  {
+    "longitude": -0.97258,
+    "latitude": 45.56819,
+    "name": "Beach",
+    "city": "Meschers sur Gironde",
+    "description": "plage de l'Arneche"
+  },
+  {
+    "longitude": 5.37422,
+    "latitude": 43.26227,
+    "name": "Beach",
+    "city": "Marseille",
+    "description": "plage de David"
+  },
+  {
+    "longitude": -3.90466,
+    "latitude": 48.67006,
+    "name": "Beach",
+    "city": "Carantec",
+    "description": "plage Penquer"
+  },
+  {
+    "longitude": 3.29172,
+    "latitude": 43.24347,
+    "name": "Beach",
+    "city": "Valras-Plage",
+    "description": "plage"
+  },
+  {
+    "longitude": 4.03332,
+    "latitude": 43.55705,
+    "name": "Beach",
+    "city": "Carnon",
+    "description": "plage de 6 kms"
+  },
+  {
+    "longitude": -4.42297,
+    "latitude": 48.39719,
+    "name": "Beach",
+    "city": "Brest",
+    "description": "plage du Moulin Blanc"
+  },
+  {
+    "longitude": -3.56823,
+    "latitude": 48.68398,
+    "name": "Beach",
+    "city": "Saint Michel en Greve",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.49561,
+    "latitude": 47.51735,
+    "name": "Beach",
+    "city": "Plage des Barges",
+    "description": ""
+  },
+  {
+    "longitude": -2.27573,
+    "latitude": 46.97369,
+    "name": "Beach",
+    "city": "L Epine",
+    "description": "plage de L Epine"
+  },
+  {
+    "longitude": -2.12139,
+    "latitude": 48.63654,
+    "name": "Beach",
+    "city": "Saint Lunaire",
+    "description": "plage Lonchamp"
+  },
+  {
+    "longitude": -2.22516,
+    "latitude": 48.59455,
+    "name": "Beach",
+    "city": "Saint Cast le Guildo",
+    "description": "plage des Quatre Vaux"
+  },
+  {
+    "longitude": 6.36507,
+    "latitude": 43.13147,
+    "name": "Beach",
+    "city": "Plage du Lavandou",
+    "description": ""
+  },
+  {
+    "longitude": 8.71726,
+    "latitude": 42.07799,
+    "name": "Beach",
+    "city": "San Guiseppe",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.17683,
+    "latitude": 46.01774,
+    "name": "Beach",
+    "city": "Bois Joly",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": -1.44199,
+    "latitude": 43.66952,
+    "name": "Beach",
+    "city": "Soorts-Hossegor",
+    "description": "plage de la Graviere"
+  },
+  {
+    "longitude": 8.90576,
+    "latitude": 42.62731,
+    "name": "Beach",
+    "city": "Botre",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.44776,
+    "latitude": 43.6414,
+    "name": "Beach",
+    "city": "Capbreton",
+    "description": "plage de la Piste"
+  },
+  {
+    "longitude": -2.23649,
+    "latitude": 47.13953,
+    "name": "Beach",
+    "city": "Prefailles",
+    "description": "plage du Port Aux �nes"
+  },
+  {
+    "longitude": -3.85095,
+    "latitude": 47.79786,
+    "name": "Beach",
+    "city": "Tregunc",
+    "description": "plage Feunteunodou"
+  },
+  {
+    "longitude": -2.4248,
+    "latitude": 47.25999,
+    "name": "Beach",
+    "city": "Plage Labego",
+    "description": ""
+  },
+  {
+    "longitude": -1.46334,
+    "latitude": 46.34263,
+    "name": "Beach",
+    "city": "La Tranche sur Mer",
+    "description": "plage de la Cote Sauvage"
+  },
+  {
+    "longitude": -1.60636,
+    "latitude": 43.4283,
+    "name": "Beach",
+    "city": "Bidart",
+    "description": "plage de Parlementia"
+  },
+  {
+    "longitude": -4.39415,
+    "latitude": 48.22151,
+    "name": "Beach",
+    "city": "Trez Bihan Plage",
+    "description": ""
+  },
+  {
+    "longitude": 3.57998,
+    "latitude": 43.3382,
+    "name": "Beach",
+    "city": "Marseillan - Sete",
+    "description": "10 kms de plages"
+  },
+  {
+    "longitude": -1.40662,
+    "latitude": 46.34277,
+    "name": "Beach",
+    "city": "La Tranche sur Mer",
+    "description": "plage de la Griere"
+  },
+  {
+    "longitude": 5.51805,
+    "latitude": 43.2054,
+    "name": "Beach",
+    "city": "Cassis",
+    "description": "plage Bleue"
+  },
+  {
+    "longitude": -3.05813,
+    "latitude": 47.31087,
+    "name": "Beach",
+    "city": "Plage des Galeres",
+    "description": ""
+  },
+  {
+    "longitude": 9.40836,
+    "latitude": 41.90736,
+    "name": "Beach",
+    "city": "Travo",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.60434,
+    "latitude": 49.06124,
+    "name": "Beach",
+    "city": "Blainville sur Mer",
+    "description": "La Plage"
+  },
+  {
+    "longitude": 8.70827,
+    "latitude": 42.10041,
+    "name": "Beach",
+    "city": "Sagone",
+    "description": "plage du Santana"
+  },
+  {
+    "longitude": 6.66593,
+    "latitude": 43.24401,
+    "name": "Beach",
+    "city": "Ramatuelle",
+    "description": "plage Pampelonne 1"
+  },
+  {
+    "longitude": 3.03913,
+    "latitude": 42.93058,
+    "name": "Beach",
+    "city": "La Franqui",
+    "description": "plage du village 1"
+  },
+  {
+    "longitude": -1.93836,
+    "latitude": 46.6886,
+    "name": "Beach",
+    "city": "Saint Gilles Croix de Vie",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": 5.29026,
+    "latitude": 43.35789,
+    "name": "Beach",
+    "city": "L Estaque",
+    "description": "plage du Port de Corbiere"
+  },
+  {
+    "longitude": 9.23389,
+    "latitude": 42.71798,
+    "name": "Beach",
+    "city": "Santo Pietro di Tenda",
+    "description": "plage de Loto"
+  },
+  {
+    "longitude": -1.09324,
+    "latitude": 46.07156,
+    "name": "Beach",
+    "city": "Chatelaillon-Plage",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.38115,
+    "latitude": 43.14128,
+    "name": "Beach",
+    "city": "Saint Clair",
+    "description": "plage"
+  },
+  {
+    "longitude": 4.07954,
+    "latitude": 43.55747,
+    "name": "Beach",
+    "city": "La Grande Motte",
+    "description": "plage du Centre"
+  },
+  {
+    "longitude": 4.13398,
+    "latitude": 43.5368,
+    "name": "Beach",
+    "city": "Le Grau du Roi",
+    "description": "plage rive droite jetee"
+  },
+  {
+    "longitude": -2.90777,
+    "latitude": 47.55003,
+    "name": "Beach",
+    "city": "Arzon",
+    "description": "plage Port Glenn"
+  },
+  {
+    "longitude": 9.27142,
+    "latitude": 41.526,
+    "name": "Beach",
+    "city": "Santa Giulia",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.09269,
+    "latitude": 47.31568,
+    "name": "Beach",
+    "city": "Plage de Samzun",
+    "description": ""
+  },
+  {
+    "longitude": 6.10362,
+    "latitude": 43.03986,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage de l'Ayguade"
+  },
+  {
+    "longitude": -3.93353,
+    "latitude": 47.88199,
+    "name": "Beach",
+    "city": "Concarneau",
+    "description": "plage des Sables Blancs"
+  },
+  {
+    "longitude": -2.53739,
+    "latitude": 48.59656,
+    "name": "Beach",
+    "city": "Pleneuf-Val Andre",
+    "description": "plage des Vallees"
+  },
+  {
+    "longitude": 9.10028,
+    "latitude": 42.71489,
+    "name": "Beach",
+    "city": "DeAlga",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.9044,
+    "latitude": 48.6639,
+    "name": "Beach",
+    "city": "Carantec",
+    "description": "plage Clouet"
+  },
+  {
+    "longitude": 8.86782,
+    "latitude": 42.60783,
+    "name": "Beach",
+    "city": "Algajola",
+    "description": "plage Aregno"
+  },
+  {
+    "longitude": -3.96093,
+    "latitude": 48.68833,
+    "name": "Beach",
+    "city": "Plage Sainte-Anne",
+    "description": ""
+  },
+  {
+    "longitude": -2.00418,
+    "latitude": 47.06207,
+    "name": "Beach",
+    "city": "Plage du Pre Vincent",
+    "description": ""
+  },
+  {
+    "longitude": 4.13256,
+    "latitude": 43.54018,
+    "name": "Beach",
+    "city": "Le Grau du Roi",
+    "description": "plage rive droite"
+  },
+  {
+    "longitude": 9.40092,
+    "latitude": 41.89106,
+    "name": "Beach",
+    "city": "Solaro",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.44036,
+    "latitude": 46.19424,
+    "name": "Beach",
+    "city": "La Couarde sur Mer",
+    "description": "plage du Peu Ragot"
+  },
+  {
+    "longitude": 3.47982,
+    "latitude": 43.27535,
+    "name": "Beach",
+    "city": "Cap d'Agde",
+    "description": "plage Rochelongue"
+  },
+  {
+    "longitude": 6.15644,
+    "latitude": 43.03403,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage la Baume"
+  },
+  {
+    "longitude": 3.12854,
+    "latitude": 42.49971,
+    "name": "Beach",
+    "city": "Paulilles",
+    "description": "plage (crique)"
+  },
+  {
+    "longitude": -1.56662,
+    "latitude": 43.47864,
+    "name": "Beach",
+    "city": "Biarritz",
+    "description": "Cote des Basques - Surf"
+  },
+  {
+    "longitude": -1.09291,
+    "latitude": 44.73409,
+    "name": "Beach",
+    "city": "Andernos",
+    "description": "plage de Betey"
+  },
+  {
+    "longitude": -1.5779,
+    "latitude": 46.40923,
+    "name": "Beach",
+    "city": "Jard sur Mer",
+    "description": "plage Morpoigne"
+  },
+  {
+    "longitude": -2.18808,
+    "latitude": 48.60675,
+    "name": "Beach",
+    "city": "Saint Jacut de la Mer",
+    "description": "plage Rougeret"
+  },
+  {
+    "longitude": 9.5285,
+    "latitude": 42.49097,
+    "name": "Beach",
+    "city": "Sorbo",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.97915,
+    "latitude": 47.85432,
+    "name": "Beach",
+    "city": "Beg-Meil",
+    "description": "plage Principale"
+  },
+  {
+    "longitude": 8.91621,
+    "latitude": 41.68683,
+    "name": "Beach",
+    "city": "Baraci",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.34319,
+    "latitude": 48.82709,
+    "name": "Beach",
+    "city": "Trevou-Treguignec",
+    "description": "plage Royau"
+  },
+  {
+    "longitude": -1.20463,
+    "latitude": 44.63225,
+    "name": "Beach",
+    "city": "Le Pyla",
+    "description": "plage Maloune"
+  },
+  {
+    "longitude": 6.01094,
+    "latitude": 43.10211,
+    "name": "Beach",
+    "city": "Le Pradet",
+    "description": "plage de Monaco"
+  },
+  {
+    "longitude": -4.43164,
+    "latitude": 48.22797,
+    "name": "Beach",
+    "city": "Crozon",
+    "description": "plage de la Source"
+  },
+  {
+    "longitude": 9.53261,
+    "latitude": 42.54568,
+    "name": "Beach",
+    "city": "Pineto",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.29611,
+    "latitude": 46.14461,
+    "name": "Beach",
+    "city": "Sainte Marie de Re",
+    "description": "plage Ste Marie"
+  },
+  {
+    "longitude": 9.54158,
+    "latitude": 42.44964,
+    "name": "Beach",
+    "city": "San Pellegrino",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.04304,
+    "latitude": 43.33202,
+    "name": "Beach",
+    "city": "Carro",
+    "description": "plage du Port"
+  },
+  {
+    "longitude": -1.84615,
+    "latitude": 46.58142,
+    "name": "Beach",
+    "city": "Olonne sur Mer",
+    "description": "plage des Granges"
+  },
+  {
+    "longitude": -2.44798,
+    "latitude": 48.64913,
+    "name": "Beach",
+    "city": "Erquy",
+    "description": "plage Lanruen"
+  },
+  {
+    "longitude": -2.41017,
+    "latitude": 47.27881,
+    "name": "Beach",
+    "city": "La Baule-Escoublac",
+    "description": "plage de la Baule"
+  },
+  {
+    "longitude": 9.34717,
+    "latitude": 41.57504,
+    "name": "Beach",
+    "city": "Farina",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.56974,
+    "latitude": 48.77577,
+    "name": "Beach",
+    "city": "Jullouville",
+    "description": "plage"
+  },
+  {
+    "longitude": 4.978,
+    "latitude": 43.4067,
+    "name": "Beach",
+    "city": "Port de Bouc",
+    "description": "plage des Galets"
+  },
+  {
+    "longitude": -1.77263,
+    "latitude": 43.37344,
+    "name": "Beach",
+    "city": "Hendaye",
+    "description": "Hendaye plage"
+  },
+  {
+    "longitude": 9.55522,
+    "latitude": 42.25544,
+    "name": "Beach",
+    "city": "Stella Maria",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.34638,
+    "latitude": 43.21691,
+    "name": "Beach",
+    "city": "Marseille",
+    "description": "plage du Port de Goudes"
+  },
+  {
+    "longitude": -4.76246,
+    "latitude": 48.3829,
+    "name": "Beach",
+    "city": "Ploumoguer",
+    "description": "plage Illien"
+  },
+  {
+    "longitude": -4.12564,
+    "latitude": 47.86393,
+    "name": "Beach",
+    "city": "Combrit",
+    "description": "plage de Kermor"
+  },
+  {
+    "longitude": 3.82089,
+    "latitude": 43.46216,
+    "name": "Beach",
+    "city": "Vic la Guardiole",
+    "description": "plage des Aresquiers"
+  },
+  {
+    "longitude": 8.88633,
+    "latitude": 41.69067,
+    "name": "Beach",
+    "city": "Calanca",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.95829,
+    "latitude": 46.69448,
+    "name": "Beach",
+    "city": "Saint Gilles Croix de Vie",
+    "description": "plage de Boisvinet"
+  },
+  {
+    "longitude": -2.05298,
+    "latitude": 47.09473,
+    "name": "Beach",
+    "city": "Pornic",
+    "description": "plage La Boutinardiere"
+  },
+  {
+    "longitude": -2.23383,
+    "latitude": 47.13205,
+    "name": "Beach",
+    "city": "Prefailles",
+    "description": "plage La Raize"
+  },
+  {
+    "longitude": -1.41217,
+    "latitude": 43.79542,
+    "name": "Beach",
+    "city": "Vieux Boucau les Bains",
+    "description": "La Plage Nord"
+  },
+  {
+    "longitude": 9.04775,
+    "latitude": 41.4614,
+    "name": "Beach",
+    "city": "Capineru",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.73015,
+    "latitude": 43.13554,
+    "name": "Beach",
+    "city": "Bandol",
+    "description": "plage Le vallon des graviers"
+  },
+  {
+    "longitude": -1.42145,
+    "latitude": 46.34753,
+    "name": "Beach",
+    "city": "La Tranche sur Mer",
+    "description": "plage Clemenceau"
+  },
+  {
+    "longitude": 5.36278,
+    "latitude": 43.24027,
+    "name": "Beach",
+    "city": "Marseille",
+    "description": "plage de Montredon"
+  },
+  {
+    "longitude": -4.44334,
+    "latitude": 48.23039,
+    "name": "Beach",
+    "city": "Crozon",
+    "description": "plage de l'Aber"
+  },
+  {
+    "longitude": -4.55214,
+    "latitude": 48.07594,
+    "name": "Beach",
+    "city": "Beuzec Cap Sizun",
+    "description": "plage de Lesven"
+  },
+  {
+    "longitude": -1.52571,
+    "latitude": 43.52251,
+    "name": "Beach",
+    "city": "Anglet",
+    "description": "plage Les Dunes"
+  },
+  {
+    "longitude": -1.24147,
+    "latitude": 44.55827,
+    "name": "Beach",
+    "city": "Pyla sur Mer",
+    "description": "plage Le petit Nice"
+  },
+  {
+    "longitude": -2.49409,
+    "latitude": 48.60945,
+    "name": "Beach",
+    "city": "Erquy",
+    "description": "plage de Saint Pabu"
+  },
+  {
+    "longitude": 9.55864,
+    "latitude": 42.27461,
+    "name": "Beach",
+    "city": "Fiorentino",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.12776,
+    "latitude": 44.95757,
+    "name": "Beach",
+    "city": "Le Tedey",
+    "description": "plage de la Pointe du Tedey"
+  },
+  {
+    "longitude": -2.5998,
+    "latitude": 48.55752,
+    "name": "Beach",
+    "city": "Planguenoual",
+    "description": "pllage du Cotentin"
+  },
+  {
+    "longitude": 5.64326,
+    "latitude": 43.18915,
+    "name": "Beach",
+    "city": "La Ciotat",
+    "description": "plage de Fontsainte"
+  },
+  {
+    "longitude": -1.56923,
+    "latitude": 46.40764,
+    "name": "Beach",
+    "city": "Jard sur Mer",
+    "description": "plage Boisvinet"
+  },
+  {
+    "longitude": -1.44918,
+    "latitude": 43.63863,
+    "name": "Beach",
+    "city": "Plage des Oceanides",
+    "description": ""
+  },
+  {
+    "longitude": 5.08344,
+    "latitude": 43.329,
+    "name": "Beach",
+    "city": "La Couronne",
+    "description": "plage Les Tamaris"
+  },
+  {
+    "longitude": -0.4069,
+    "latitude": 49.33494,
+    "name": "Beach",
+    "city": "Bernieres sur Mer",
+    "description": "La Rive Plage"
+  },
+  {
+    "longitude": 3.03818,
+    "latitude": 42.81365,
+    "name": "Beach",
+    "city": "Le Barcares",
+    "description": "plage du Lido"
+  },
+  {
+    "longitude": 6.14846,
+    "latitude": 43.04772,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage La Bergerie"
+  },
+  {
+    "longitude": -9.06144,
+    "latitude": 42.66241,
+    "name": "Beach",
+    "city": "Palasca",
+    "description": "plage d'Ostriconi"
+  },
+  {
+    "longitude": 6.62616,
+    "latitude": 43.30118,
+    "name": "Beach",
+    "city": "Sainte Maxime",
+    "description": "plage de la Croisette"
+  },
+  {
+    "longitude": -2.09152,
+    "latitude": 47.10517,
+    "name": "Beach",
+    "city": "Pornic",
+    "description": "plage La Birochere"
+  },
+  {
+    "longitude": 3.12712,
+    "latitude": 42.48799,
+    "name": "Beach",
+    "city": "Banyuls sur Mer",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.53155,
+    "latitude": 43.51443,
+    "name": "Beach",
+    "city": "Anglet",
+    "description": "plage La Madrague (surf)"
+  },
+  {
+    "longitude": -2.11639,
+    "latitude": 47.11056,
+    "name": "Beach",
+    "city": "Pornic",
+    "description": "plage La No�veillard"
+  },
+  {
+    "longitude": 8.62886,
+    "latitude": 42.34053,
+    "name": "Beach",
+    "city": "Tuara",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.49155,
+    "latitude": 47.27847,
+    "name": "Beach",
+    "city": "Plage Valentin",
+    "description": ""
+  },
+  {
+    "longitude": -2.5471,
+    "latitude": 47.36894,
+    "name": "Beach",
+    "city": "Piriac sur Mer",
+    "description": "plage de Port-Lorec"
+  },
+  {
+    "longitude": -3.1542,
+    "latitude": 47.35173,
+    "name": "Beach",
+    "city": "Plage des Soldats",
+    "description": ""
+  },
+  {
+    "longitude": -1.20498,
+    "latitude": -46.27116,
+    "name": "Beach",
+    "city": "L Aiguillon sur Mer",
+    "description": "plage de la Pointe"
+  },
+  {
+    "longitude": 8.67941,
+    "latitude": 41.90754,
+    "name": "Beach",
+    "city": "Ariadne",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.37418,
+    "latitude": 46.70351,
+    "name": "Beach",
+    "city": "Plage des Sabias",
+    "description": ""
+  },
+  {
+    "longitude": -4.56371,
+    "latitude": 48.35721,
+    "name": "Beach",
+    "city": "Plage du Dellec",
+    "description": ""
+  },
+  {
+    "longitude": 9.44812,
+    "latitude": 42.99162,
+    "name": "Beach",
+    "city": "Santa Maria",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.04539,
+    "latitude": 47.84906,
+    "name": "Beach",
+    "city": "Fouesnant",
+    "description": "plage Mousterlin"
+  },
+  {
+    "longitude": 7.50599,
+    "latitude": 43.77426,
+    "name": "Beach",
+    "city": "Menton",
+    "description": "plage du Marche"
+  },
+  {
+    "longitude": 7.11498,
+    "latitude": 43.56585,
+    "name": "Beach",
+    "city": "Juan les Pins",
+    "description": "plage Belles Rives"
+  },
+  {
+    "longitude": 8.88404,
+    "latitude": 41.6934,
+    "name": "Beach",
+    "city": "Olmeto",
+    "description": "plage de Campitellu"
+  },
+  {
+    "longitude": 9.23975,
+    "latitude": 41.39752,
+    "name": "Beach",
+    "city": "Cala Longa",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.56246,
+    "latitude": 47.76821,
+    "name": "Beach",
+    "city": "Clohars-Carnoet",
+    "description": "plage de Kerrou"
+  },
+  {
+    "longitude": 6.81402,
+    "latitude": 43.41556,
+    "name": "Beach",
+    "city": "Boulouris",
+    "description": "plage de l'Homme Mort"
+  },
+  {
+    "longitude": -2.77421,
+    "latitude": 48.57098,
+    "name": "Beach",
+    "city": "Plage de Tournemine",
+    "description": ""
+  },
+  {
+    "longitude": -1.21643,
+    "latitude": 44.59135,
+    "name": "Beach",
+    "city": "La Teste de Buch",
+    "description": "dune du Pyla"
+  },
+  {
+    "longitude": -1.4399,
+    "latitude": 43.69356,
+    "name": "Beach",
+    "city": "Plage des Estagnots",
+    "description": ""
+  },
+  {
+    "longitude": 4.08726,
+    "latitude": 43.55682,
+    "name": "Beach",
+    "city": "La Grande Motte",
+    "description": "plage de l'Est"
+  },
+  {
+    "longitude": -2.94468,
+    "latitude": 47.55658,
+    "name": "Beach",
+    "city": "Locmariaquer",
+    "description": "plage de Locmariaquer"
+  },
+  {
+    "longitude": -2.89035,
+    "latitude": 47.53827,
+    "name": "Beach",
+    "city": "Plage du Fogeo",
+    "description": ""
+  },
+  {
+    "longitude": -3.48866,
+    "latitude": 47.72365,
+    "name": "Beach",
+    "city": "Ploemeur",
+    "description": "plage de Kaolins"
+  },
+  {
+    "longitude": -1.37188,
+    "latitude": 46.03432,
+    "name": "Beach",
+    "city": "Saint Denis",
+    "description": "plage La Boirie"
+  },
+  {
+    "longitude": -3.07725,
+    "latitude": 47.56997,
+    "name": "Beach",
+    "city": "Carnac",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": -3.8844,
+    "latitude": 47.82504,
+    "name": "Beach",
+    "city": "Tregunc",
+    "description": "Pendruc"
+  },
+  {
+    "longitude": 8.59466,
+    "latitude": 42.1433,
+    "name": "Beach",
+    "city": "Cargese",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.79185,
+    "latitude": 48.41977,
+    "name": "Beach",
+    "city": "Plouarzel",
+    "description": "plage pres de Ruscumunoc"
+  },
+  {
+    "longitude": -1.23254,
+    "latitude": 44.57058,
+    "name": "Beach",
+    "city": "La Teste de Buch",
+    "description": "plage de la Lagune"
+  },
+  {
+    "longitude": -1.61121,
+    "latitude": 46.41342,
+    "name": "Beach",
+    "city": "Jard sur Mer",
+    "description": "plage Ragounite"
+  },
+  {
+    "longitude": 8.78194,
+    "latitude": 41.73861,
+    "name": "Beach",
+    "city": "Cupabia",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.30321,
+    "latitude": 46.30698,
+    "name": "Beach",
+    "city": "L Aiguillon sur Mer",
+    "description": "plage de la Pointe d'Arcay"
+  },
+  {
+    "longitude": -2.45224,
+    "latitude": 47.49001,
+    "name": "Beach",
+    "city": "Plage du Logo",
+    "description": ""
+  },
+  {
+    "longitude": -4.01176,
+    "latitude": 48.71569,
+    "name": "Beach",
+    "city": "Roscoff",
+    "description": "plage Pouldu"
+  },
+  {
+    "longitude": 9.01664,
+    "latitude": 41.47893,
+    "name": "Beach",
+    "city": "DeArbitru",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.7425,
+    "latitude": 43.1351,
+    "name": "Beach",
+    "city": "Bandol",
+    "description": "petite plage"
+  },
+  {
+    "longitude": 8.93429,
+    "latitude": 41.49615,
+    "name": "Beach",
+    "city": "Rocacapina",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.65114,
+    "latitude": 48.69376,
+    "name": "Beach",
+    "city": "Locquirec",
+    "description": "plage Porz Biliec"
+  },
+  {
+    "longitude": 6.8293,
+    "latitude": 43.41858,
+    "name": "Beach",
+    "city": "Boulouris",
+    "description": "plage d'Aigue Bonne"
+  },
+  {
+    "longitude": 2.5226,
+    "latitude": 51.08239,
+    "name": "Beach",
+    "city": "Bray-Dunes",
+    "description": "plage (centre)"
+  },
+  {
+    "longitude": -4.49024,
+    "latitude": 48.23591,
+    "name": "Beach",
+    "city": "Crozon",
+    "description": "plage Porzic"
+  },
+  {
+    "longitude": -3.98361,
+    "latitude": 47.88738,
+    "name": "Beach",
+    "city": "Fouesnant",
+    "description": "plage Cap Coz"
+  },
+  {
+    "longitude": -3.7009,
+    "latitude": 48.69006,
+    "name": "Beach",
+    "city": "Guimaec",
+    "description": "plage Poul Rodou"
+  },
+  {
+    "longitude": -1.24429,
+    "latitude": 44.64909,
+    "name": "Beach",
+    "city": "Le Cap Ferret",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.36914,
+    "latitude": 48.2097,
+    "name": "Beach",
+    "city": "Telgruc sur Mer",
+    "description": "plage Trez Bellec"
+  },
+  {
+    "longitude": 4.13531,
+    "latitude": 43.53544,
+    "name": "Beach",
+    "city": "Le Grau du Roi",
+    "description": "plage rive gauche jetee"
+  },
+  {
+    "longitude": 9.38853,
+    "latitude": 43.00713,
+    "name": "Beach",
+    "city": "Tollare",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.42092,
+    "latitude": 43.14803,
+    "name": "Beach",
+    "city": "Plage du Layet",
+    "description": ""
+  },
+  {
+    "longitude": 6.02037,
+    "latitude": 43.08521,
+    "name": "Beach",
+    "city": "Le Pradet",
+    "description": "plage les Oursineres"
+  },
+  {
+    "longitude": -3.83629,
+    "latitude": 48.70632,
+    "name": "Beach",
+    "city": "Plougasnou",
+    "description": "plage de Port Blanc"
+  },
+  {
+    "longitude": -4.01685,
+    "latitude": 48.71177,
+    "name": "Beach",
+    "city": "Plage de Pouldu",
+    "description": ""
+  },
+  {
+    "longitude": 9.26663,
+    "latitude": 41.46855,
+    "name": "Beach",
+    "city": "Rondinara",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.64867,
+    "latitude": 43.18835,
+    "name": "Beach",
+    "city": "La Ciotat",
+    "description": "plage d'Arsene Cros"
+  },
+  {
+    "longitude": 9.34397,
+    "latitude": 42.79182,
+    "name": "Beach",
+    "city": "Nonza",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.42226,
+    "latitude": 47.63639,
+    "name": "Beach",
+    "city": "Plage du Trec h",
+    "description": ""
+  },
+  {
+    "longitude": -1.99738,
+    "latitude": 48.65935,
+    "name": "Beach",
+    "city": "Saint Malo",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": -3.2538,
+    "latitude": 47.37076,
+    "name": "Beach",
+    "city": "Plage de Ster Ouen",
+    "description": ""
+  },
+  {
+    "longitude": 9.22502,
+    "latitude": 41.43057,
+    "name": "Beach",
+    "city": "Canettu",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.41803,
+    "latitude": 47.27715,
+    "name": "Beach",
+    "city": "La Baule",
+    "description": "plage Beno�t"
+  },
+  {
+    "longitude": -2.47434,
+    "latitude": 48.6436,
+    "name": "Beach",
+    "city": "Erquy",
+    "description": "plage de Lourtuais"
+  },
+  {
+    "longitude": 3.05319,
+    "latitude": 42.53851,
+    "name": "Beach",
+    "city": "Argeles sur Mer",
+    "description": "plage Racou lage"
+  },
+  {
+    "longitude": 3.98439,
+    "latitude": 43.5456,
+    "name": "Beach",
+    "city": "Mauguio",
+    "description": "Carnon plage"
+  },
+  {
+    "longitude": -2.82382,
+    "latitude": 48.59718,
+    "name": "Beach",
+    "city": "Binic",
+    "description": "plage de la Banche"
+  },
+  {
+    "longitude": 8.72024,
+    "latitude": 42.52526,
+    "name": "Beach",
+    "city": "Nichiareto",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.34223,
+    "latitude": 48.67678,
+    "name": "Beach",
+    "city": "Brignogan-Plage",
+    "description": "plage Porspol"
+  },
+  {
+    "longitude": -0.96578,
+    "latitude": 45.56091,
+    "name": "Beach",
+    "city": "Meschers sur Gironde",
+    "description": "plage des Nonnes"
+  },
+  {
+    "longitude": 6.60789,
+    "latitude": 43.17307,
+    "name": "Beach",
+    "city": "La Croix Valmer",
+    "description": "pllage Les Louis"
+  },
+  {
+    "longitude": 6.76806,
+    "latitude": 43.42139,
+    "name": "Beach",
+    "city": "Saint Raphael",
+    "description": "plage Veillat"
+  },
+  {
+    "longitude": 3.04256,
+    "latitude": 42.84278,
+    "name": "Beach",
+    "city": "Leucate",
+    "description": "plage Leucate Barcares"
+  },
+  {
+    "longitude": 8.66851,
+    "latitude": 41.99271,
+    "name": "Beach",
+    "city": "Lava",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.10835,
+    "latitude": 48.63835,
+    "name": "Beach",
+    "city": "Saint Lunaire",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": 4.85273,
+    "latitude": 43.39044,
+    "name": "Beach",
+    "city": "Port Saint Louis du Rhone",
+    "description": "plage Olga"
+  },
+  {
+    "longitude": 7.11032,
+    "latitude": 43.56824,
+    "name": "Beach",
+    "city": "Juan les Pins",
+    "description": "plage Helios"
+  },
+  {
+    "longitude": 8.72058,
+    "latitude": 42.07401,
+    "name": "Beach",
+    "city": "Plage du Liamone",
+    "description": ""
+  },
+  {
+    "longitude": -4.28506,
+    "latitude": 48.10646,
+    "name": "Beach",
+    "city": "Kerlaz",
+    "description": "plage Tremalaouen"
+  },
+  {
+    "longitude": 6.8225,
+    "latitude": 43.41761,
+    "name": "Beach",
+    "city": "Boulouris",
+    "description": "plage de Boulouris"
+  },
+  {
+    "longitude": -4.0565,
+    "latitude": 48.69943,
+    "name": "Beach",
+    "city": "Santec",
+    "description": "plage de Dossen"
+  },
+  {
+    "longitude": 3.17108,
+    "latitude": 42.44043,
+    "name": "Beach",
+    "city": "Platja del Sorell",
+    "description": ""
+  },
+  {
+    "longitude": -1.55513,
+    "latitude": 43.48819,
+    "name": "Beach",
+    "city": "Biarritz",
+    "description": "plage du Miramar"
+  },
+  {
+    "longitude": 6.71985,
+    "latitude": 43.37583,
+    "name": "Beach",
+    "city": "Plage du Petit Boucharel",
+    "description": ""
+  },
+  {
+    "longitude": 3.05437,
+    "latitude": 42.90082,
+    "name": "Beach",
+    "city": "Leucate",
+    "description": "Leucate plage"
+  },
+  {
+    "longitude": 3.17238,
+    "latitude": 42.44123,
+    "name": "Beach",
+    "city": "Platja del Cano",
+    "description": ""
+  },
+  {
+    "longitude": -2.50025,
+    "latitude": 47.31951,
+    "name": "Beach",
+    "city": "La Turballe",
+    "description": "plage Pen Bron"
+  },
+  {
+    "longitude": -2.81903,
+    "latitude": 48.60318,
+    "name": "Beach",
+    "city": "Binic",
+    "description": "plage Quai Surcouf"
+  },
+  {
+    "longitude": -1.83068,
+    "latitude": 46.54944,
+    "name": "Beach",
+    "city": "Plage de Sauveterre",
+    "description": ""
+  },
+  {
+    "longitude": -3.92778,
+    "latitude": 47.87051,
+    "name": "Beach",
+    "city": "Concarneau",
+    "description": "plage des Dames"
+  },
+  {
+    "longitude": 9.2162,
+    "latitude": 41.40863,
+    "name": "Beach",
+    "city": "Amanza",
+    "description": "plage"
+  },
+  {
+    "longitude": 1.07702,
+    "latitude": 49.92925,
+    "name": "Beach",
+    "city": "Dieppe",
+    "description": "plage de la piscine"
+  },
+  {
+    "longitude": -3.67686,
+    "latitude": 48.68709,
+    "name": "Beach",
+    "city": "Locquirec",
+    "description": "plage Moulin de la Rive"
+  },
+  {
+    "longitude": -4.32757,
+    "latitude": 48.6729,
+    "name": "Beach",
+    "city": "Brignogan-Plage",
+    "description": "plage des Crapauds"
+  },
+  {
+    "longitude": -2.22303,
+    "latitude": 47.01487,
+    "name": "Beach",
+    "city": "Noirmoutier en l'Ile",
+    "description": "plage des Souzeaux"
+  },
+  {
+    "longitude": -4.70066,
+    "latitude": 48.33973,
+    "name": "Beach",
+    "city": "Plage du Perzel",
+    "description": ""
+  },
+  {
+    "longitude": 7.00289,
+    "latitude": 43.54879,
+    "name": "Beach",
+    "city": "Plage du Midi",
+    "description": ""
+  },
+  {
+    "longitude": -1.41751,
+    "latitude": 43.77649,
+    "name": "Beach",
+    "city": "Plage de Souston",
+    "description": ""
+  },
+  {
+    "longitude": -3.92933,
+    "latitude": 47.87437,
+    "name": "Beach",
+    "city": "Concarneau",
+    "description": "plage de Cornouaille"
+  },
+  {
+    "longitude": 4.9776,
+    "latitude": 43.4006,
+    "name": "Beach",
+    "city": "Port de Bouc",
+    "description": "plage la Leque"
+  },
+  {
+    "longitude": 6.39591,
+    "latitude": 43.14512,
+    "name": "Beach",
+    "city": "Le Lavandou",
+    "description": "plage de la Fossette"
+  },
+  {
+    "longitude": -1.3255,
+    "latitude": 46.32706,
+    "name": "Beach",
+    "city": "La Faute sur Mer",
+    "description": "plage des Belugas"
+  },
+  {
+    "longitude": -4.39194,
+    "latitude": 48.21924,
+    "name": "Beach",
+    "city": "Telgruc sur Mer",
+    "description": "plage Trez Bihan"
+  },
+  {
+    "longitude": 8.80397,
+    "latitude": 41.89437,
+    "name": "Beach",
+    "city": "Porticcio",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.22898,
+    "latitude": 47.14493,
+    "name": "Beach",
+    "city": "Prefailles",
+    "description": "plage La Pree"
+  },
+  {
+    "longitude": 6.17123,
+    "latitude": 43.00624,
+    "name": "Beach",
+    "city": "Porquerolles",
+    "description": "plage des Maures"
+  },
+  {
+    "longitude": -1.27042,
+    "latitude": 46.15325,
+    "name": "Beach",
+    "city": "Rivedoux-Plage",
+    "description": "plage Sud"
+  },
+  {
+    "longitude": -1.52086,
+    "latitude": 43.53287,
+    "name": "Beach",
+    "city": "Tarnos",
+    "description": "plage de la Digue"
+  },
+  {
+    "longitude": -2.81591,
+    "latitude": 48.61403,
+    "name": "Beach",
+    "city": "Binic",
+    "description": "plage Base nautique"
+  },
+  {
+    "longitude": -1.68413,
+    "latitude": 43.39355,
+    "name": "Beach",
+    "city": "Socoa",
+    "description": "Baie d'Untxin"
+  },
+  {
+    "longitude": 5.73846,
+    "latitude": 43.13577,
+    "name": "Beach",
+    "city": "Bandol",
+    "description": "plage de la presqu ile du Capelan"
+  },
+  {
+    "longitude": 6.62531,
+    "latitude": 43.26668,
+    "name": "Beach",
+    "city": "Saint Tropez",
+    "description": "plage La Bouillabaisse"
+  },
+  {
+    "longitude": 6.66522,
+    "latitude": 43.32037,
+    "name": "Beach",
+    "city": "Sainte maxime",
+    "description": "plage de la Nartelle"
+  },
+  {
+    "longitude": -3.5669,
+    "latitude": 48.7262,
+    "name": "Beach",
+    "city": "Tredrez Locquemeau",
+    "description": "plage du Notigou"
+  },
+  {
+    "longitude": -2.14388,
+    "latitude": 46.82468,
+    "name": "Beach",
+    "city": "Notre Dame de Monts",
+    "description": "plage Merrier"
+  },
+  {
+    "longitude": 9.47289,
+    "latitude": 42.87688,
+    "name": "Beach",
+    "city": "Cagnano",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.07131,
+    "latitude": 47.09961,
+    "name": "Beach",
+    "city": "Pornic",
+    "description": "plage La Fontaine aux Bretons"
+  },
+  {
+    "longitude": -1.44405,
+    "latitude": 43.66146,
+    "name": "Beach",
+    "city": "Soorts-Hossegor",
+    "description": "plage Centrale"
+  },
+  {
+    "longitude": -1.56976,
+    "latitude": 49.65671,
+    "name": "Beach",
+    "city": "Tourlaville",
+    "description": "plage de Collignon"
+  },
+  {
+    "longitude": -2.23721,
+    "latitude": 47.01736,
+    "name": "Beach",
+    "city": "Noirmoutier en l'Ile",
+    "description": "plage la Clere"
+  },
+  {
+    "longitude": -4.5026,
+    "latitude": 48.2286,
+    "name": "Beach",
+    "city": "Crozon",
+    "description": "plage Morgat"
+  },
+  {
+    "longitude": -4.67371,
+    "latitude": 48.35436,
+    "name": "Beach",
+    "city": "Locmaria Plouzane",
+    "description": "plage Portez"
+  },
+  {
+    "longitude": 7.11017,
+    "latitude": 43.5684,
+    "name": "Beach",
+    "city": "Juan les Pins",
+    "description": "plage Le Ruban Bleu"
+  },
+  {
+    "longitude": 6.41201,
+    "latitude": 43.14957,
+    "name": "Beach",
+    "city": "Le Lavandou",
+    "description": "plage de Jean Blanc"
+  },
+  {
+    "longitude": -2.64698,
+    "latitude": 47.51777,
+    "name": "Beach",
+    "city": "Plage de Rouvran",
+    "description": ""
+  },
+  {
+    "longitude": -3.0358,
+    "latitude": 48.78305,
+    "name": "Beach",
+    "city": "Paimpol",
+    "description": "plage de la Tossen"
+  },
+  {
+    "longitude": -4.10562,
+    "latitude": 47.8712,
+    "name": "Beach",
+    "city": "Benodet",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.54549,
+    "latitude": 46.24349,
+    "name": "Beach",
+    "city": "Saint Clement des Baleines",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.20245,
+    "latitude": 48.5805,
+    "name": "Beach",
+    "city": "Saint Jacut de la Mer",
+    "description": "plage Vauver"
+  },
+  {
+    "longitude": 3.08608,
+    "latitude": 42.52822,
+    "name": "Beach",
+    "city": "Collioure",
+    "description": "plage de l'Ouille"
+  },
+  {
+    "longitude": -4.26298,
+    "latitude": 47.79092,
+    "name": "Beach",
+    "city": "Treffiagat",
+    "description": "plage Lehan"
+  },
+  {
+    "longitude": -2.72584,
+    "latitude": 48.55674,
+    "name": "Beach",
+    "city": "Plerin",
+    "description": "plage Martin"
+  },
+  {
+    "longitude": 7.11422,
+    "latitude": 43.56664,
+    "name": "Beach",
+    "city": "Juan les Pins",
+    "description": "plage Richelieu"
+  },
+  {
+    "longitude": -1.57217,
+    "latitude": 48.75848,
+    "name": "Beach",
+    "city": "Carolles",
+    "description": ""
+  },
+  {
+    "longitude": 3.18793,
+    "latitude": 43.17666,
+    "name": "Beach",
+    "city": "Saint Pierre la Mer",
+    "description": "plage du Village"
+  },
+  {
+    "longitude": 8.79486,
+    "latitude": 41.7093,
+    "name": "Beach",
+    "city": "Porto Polo",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.52381,
+    "latitude": 48.82408,
+    "name": "Beach",
+    "city": "Plage de Toull Bihon",
+    "description": ""
+  },
+  {
+    "longitude": -1.73173,
+    "latitude": 49.67741,
+    "name": "Beach",
+    "city": "Urville-Nacqueville",
+    "description": "La Plage"
+  },
+  {
+    "longitude": 6.73295,
+    "latitude": 43.40535,
+    "name": "Beach",
+    "city": "Saint Aygulf",
+    "description": "plage Esclamandes"
+  },
+  {
+    "longitude": -1.31826,
+    "latitude": 46.18712,
+    "name": "Beach",
+    "city": "La Flotte",
+    "description": "plage de l'Arnerault"
+  },
+  {
+    "longitude": -3.07616,
+    "latitude": 47.2939,
+    "name": "Beach",
+    "city": "Locmaria",
+    "description": "plage de Port Maria"
+  },
+  {
+    "longitude": -4.63268,
+    "latitude": 48.02901,
+    "name": "Beach",
+    "city": "Primelin",
+    "description": "plage Loc h"
+  },
+  {
+    "longitude": -1.87117,
+    "latitude": 46.61813,
+    "name": "Beach",
+    "city": "Bretignolles sur Mer",
+    "description": "plage (Marais)"
+  },
+  {
+    "longitude": 4.93927,
+    "latitude": 43.43184,
+    "name": "Beach",
+    "city": "Fos sur Mer",
+    "description": "plage Point de St Gervais"
+  },
+  {
+    "longitude": -4.15137,
+    "latitude": 48.69187,
+    "name": "Beach",
+    "city": "Kerfissien",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.37234,
+    "latitude": 43.26343,
+    "name": "Beach",
+    "city": "Plage du Roucas Blanc",
+    "description": ""
+  },
+  {
+    "longitude": -1.87857,
+    "latitude": 48.69555,
+    "name": "Beach",
+    "city": "Cancale",
+    "description": "plage du Verger"
+  },
+  {
+    "longitude": -4.55232,
+    "latitude": 48.20309,
+    "name": "Beach",
+    "city": "Crozon",
+    "description": "plage Palu"
+  },
+  {
+    "longitude": -4.05671,
+    "latitude": 48.69369,
+    "name": "Beach",
+    "city": "Santec",
+    "description": "plage Dossen"
+  },
+  {
+    "longitude": -1.9923,
+    "latitude": 46.72817,
+    "name": "Beach",
+    "city": "Saint Hilaire de Riez",
+    "description": "plage Paree Preneau"
+  },
+  {
+    "longitude": -1.07713,
+    "latitude": 44.48713,
+    "name": "Beach",
+    "city": "Sanguinet",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.25546,
+    "latitude": 48.63394,
+    "name": "Beach",
+    "city": "Saint Cast le Guildo",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": -4.01093,
+    "latitude": 47.85135,
+    "name": "Beach",
+    "city": "Fouesnant",
+    "description": "plage Maner"
+  },
+  {
+    "longitude": 5.41977,
+    "latitude": 43.21017,
+    "name": "Beach",
+    "city": "Cassis",
+    "description": "plage calanque de Sormiou"
+  },
+  {
+    "longitude": -1.96891,
+    "latitude": 48.52337,
+    "name": "Beach",
+    "city": "Pleudihen sur Rance",
+    "description": "plage de la Ville Ger"
+  },
+  {
+    "longitude": -3.54456,
+    "latitude": 47.76593,
+    "name": "Beach",
+    "city": "Plage des Grands Sables",
+    "description": ""
+  },
+  {
+    "longitude": -1.50527,
+    "latitude": 46.19377,
+    "name": "Beach",
+    "city": "Ars en Re",
+    "description": "plage Marielle"
+  },
+  {
+    "longitude": 3.50454,
+    "latitude": 43.27417,
+    "name": "Beach",
+    "city": "Cap d'Agde",
+    "description": "plage Richelieu"
+  },
+  {
+    "longitude": -4.55568,
+    "latitude": 48.25791,
+    "name": "Beach",
+    "city": "Crozon",
+    "description": "plage Kersiguenou"
+  },
+  {
+    "longitude": -3.66534,
+    "latitude": 48.69176,
+    "name": "Beach",
+    "city": "Locquirec",
+    "description": "plage des Sables Blancs"
+  },
+  {
+    "longitude": 8.61495,
+    "latitude": 41.89919,
+    "name": "Beach",
+    "city": "Marinella",
+    "description": "plage"
+  },
+  {
+    "longitude": 9.55799,
+    "latitude": 42.28638,
+    "name": "Beach",
+    "city": "San Giuliano",
+    "description": "plage de Fiorentine"
+  },
+  {
+    "longitude": 3.51917,
+    "latitude": 43.28213,
+    "name": "Beach",
+    "city": "Cap d'Agde",
+    "description": "plage la Roquille"
+  },
+  {
+    "longitude": -1.49191,
+    "latitude": 46.25432,
+    "name": "Beach",
+    "city": "Les Portes en Re",
+    "description": "plage Gros Jonc"
+  },
+  {
+    "longitude": 6.66864,
+    "latitude": 43.32905,
+    "name": "Beach",
+    "city": "Plage des Elephants",
+    "description": ""
+  },
+  {
+    "longitude": 6.21508,
+    "latitude": 43.00413,
+    "name": "Beach",
+    "city": "Porquerolles",
+    "description": "plage de la Courtade"
+  },
+  {
+    "longitude": -4.51153,
+    "latitude": 48.62515,
+    "name": "Beach",
+    "city": "Plouguerneau",
+    "description": "plage de Korejou"
+  },
+  {
+    "longitude": -4.33273,
+    "latitude": 48.09703,
+    "name": "Beach",
+    "city": "Douarnenez",
+    "description": "plage de la Pointe de Deuzec"
+  },
+  {
+    "longitude": -3.09245,
+    "latitude": 47.56516,
+    "name": "Beach",
+    "city": "Carnac",
+    "description": "plage Ty Bihan"
+  },
+  {
+    "longitude": -4.25139,
+    "latitude": 47.79213,
+    "name": "Beach",
+    "city": "Plage de Squividan",
+    "description": ""
+  },
+  {
+    "longitude": -2.94667,
+    "latitude": 47.39203,
+    "name": "Beach",
+    "city": "Plage Tal Er Han",
+    "description": ""
+  },
+  {
+    "longitude": -2.63221,
+    "latitude": 48.53595,
+    "name": "Beach",
+    "city": "Morieux",
+    "description": "plage Beliard"
+  },
+  {
+    "longitude": -2.38043,
+    "latitude": 46.7051,
+    "name": "Beach",
+    "city": "Plage des Sables Rouis",
+    "description": ""
+  },
+  {
+    "longitude": -1.25793,
+    "latitude": 44.65492,
+    "name": "Beach",
+    "city": "Lege Cap Ferret",
+    "description": "plage de l'Horizon - ocean"
+  },
+  {
+    "longitude": 9.1334,
+    "latitude": 41.39952,
+    "name": "Beach",
+    "city": "Paraguano",
+    "description": "plage"
+  },
+  {
+    "longitude": 5.78566,
+    "latitude": 43.07927,
+    "name": "Beach",
+    "city": "Plage des Salins",
+    "description": ""
+  },
+  {
+    "longitude": -3.1172,
+    "latitude": 47.47876,
+    "name": "Beach",
+    "city": "Quiberon",
+    "description": "La Grande Plage"
+  },
+  {
+    "longitude": -2.43233,
+    "latitude": 47.25903,
+    "name": "Beach",
+    "city": "Plage du Guec",
+    "description": ""
+  },
+  {
+    "longitude": 3.5437,
+    "latitude": 43.30627,
+    "name": "Beach",
+    "city": "Marseillan",
+    "description": "La Plage"
+  },
+  {
+    "longitude": -2.633,
+    "latitude": 48.52945,
+    "name": "Beach",
+    "city": "Morieux",
+    "description": "plage Saint Maurice"
+  },
+  {
+    "longitude": -1.94045,
+    "latitude": 46.69052,
+    "name": "Beach",
+    "city": "Saint Gilles Croix de Vie",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": -1.49184,
+    "latitude": 46.38824,
+    "name": "Beach",
+    "city": "Plage des Conches",
+    "description": ""
+  },
+  {
+    "longitude": 9.13692,
+    "latitude": 42.72923,
+    "name": "Beach",
+    "city": "Guignu",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.47885,
+    "latitude": 48.62353,
+    "name": "Beach",
+    "city": "Plage du Zorn",
+    "description": ""
+  },
+  {
+    "longitude": -2.196,
+    "latitude": 47.12423,
+    "name": "Beach",
+    "city": "Prefailles",
+    "description": "plage du Port Meleu"
+  },
+  {
+    "longitude": -0.4463,
+    "latitude": 49.3356,
+    "name": "Beach",
+    "city": "Courseulles sur Mer",
+    "description": "Juno Beach"
+  },
+  {
+    "longitude": -1.53565,
+    "latitude": 46.20491,
+    "name": "Beach",
+    "city": "Ars en Re",
+    "description": "plage Radia"
+  },
+  {
+    "longitude": 6.68211,
+    "latitude": 43.3411,
+    "name": "Beach",
+    "city": "Sainte Maxime",
+    "description": "plage de la Garonette"
+  },
+  {
+    "longitude": -3.65182,
+    "latitude": 48.67984,
+    "name": "Beach",
+    "city": "Locquirec",
+    "description": "plage Fond de la Baie"
+  },
+  {
+    "longitude": 9.01586,
+    "latitude": 42.64071,
+    "name": "Beach",
+    "city": "Lozari-Belgodere",
+    "description": "plage Lorazi"
+  },
+  {
+    "longitude": -1.10393,
+    "latitude": 44.74142,
+    "name": "Beach",
+    "city": "Andernos",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.16702,
+    "latitude": 47.84518,
+    "name": "Beach",
+    "city": "Ile Tudy",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": 8.67718,
+    "latitude": 41.90666,
+    "name": "Beach",
+    "city": "Ajaccio",
+    "description": "plage de l'Ariadne"
+  },
+  {
+    "longitude": -2.30939,
+    "latitude": 48.64091,
+    "name": "Beach",
+    "city": "Plevenon",
+    "description": "plage du Chateau Serein"
+  },
+  {
+    "longitude": -1.43374,
+    "latitude": 46.34309,
+    "name": "Beach",
+    "city": "La Tranche sur Mer",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": -3.41208,
+    "latitude": 48.79956,
+    "name": "Beach",
+    "city": "Louannec",
+    "description": "plage de Penn an Hent Nevez"
+  },
+  {
+    "longitude": -2.76963,
+    "latitude": 48.56939,
+    "name": "Beach",
+    "city": "Plerin",
+    "description": "plage Tournemire"
+  },
+  {
+    "longitude": 5.3624,
+    "latitude": 43.27367,
+    "name": "Beach",
+    "city": "Marseille",
+    "description": "plage du Port du Prophete"
+  },
+  {
+    "longitude": -3.81706,
+    "latitude": 48.71197,
+    "name": "Beach",
+    "city": "Plougasnou",
+    "description": "plage de Tregastel"
+  },
+  {
+    "longitude": -2.72422,
+    "latitude": 48.5456,
+    "name": "Beach",
+    "city": "Plerin",
+    "description": "plage Saint Laurent"
+  },
+  {
+    "longitude": 3.09955,
+    "latitude": 42.52336,
+    "name": "Beach",
+    "city": "Port-Vendres",
+    "description": "plage de l'Huile"
+  },
+  {
+    "longitude": -1.65837,
+    "latitude": 46.43434,
+    "name": "Beach",
+    "city": "Talmont-Saint Hilaire",
+    "description": "plage du Veillon"
+  },
+  {
+    "longitude": -3.5561,
+    "latitude": 47.76615,
+    "name": "Beach",
+    "city": "Clohars-Carnoet",
+    "description": "plage Bellangenet Kerrou"
+  },
+  {
+    "longitude": -1.43553,
+    "latitude": 43.71124,
+    "name": "Beach",
+    "city": "Plage du Penon",
+    "description": ""
+  },
+  {
+    "longitude": -2.21881,
+    "latitude": 47.15346,
+    "name": "Beach",
+    "city": "Prefailles",
+    "description": "plage La Tara"
+  },
+  {
+    "longitude": -3.87956,
+    "latitude": 47.82205,
+    "name": "Beach",
+    "city": "Tregunc",
+    "description": "plage Kerdale"
+  },
+  {
+    "longitude": 7.10559,
+    "latitude": 43.57001,
+    "name": "Beach",
+    "city": "Juan les Pins",
+    "description": "plage publique"
+  },
+  {
+    "longitude": -4.32618,
+    "latitude": 48.66629,
+    "name": "Beach",
+    "city": "Brignogan-Plage",
+    "description": "Grande plage"
+  },
+  {
+    "longitude": -3.85091,
+    "latitude": 48.69074,
+    "name": "Beach",
+    "city": "Plougasnou",
+    "description": "plage Saint Samson"
+  },
+  {
+    "longitude": 1.57892,
+    "latitude": 50.58163,
+    "name": "Beach",
+    "city": "Sainte-Cecile Plage",
+    "description": ""
+  },
+  {
+    "longitude": -2.96648,
+    "latitude": 47.55765,
+    "name": "Beach",
+    "city": "Plage de Saint-Pierre",
+    "description": ""
+  },
+  {
+    "longitude": 5.54765,
+    "latitude": 43.20932,
+    "name": "Beach",
+    "city": "Cassis",
+    "description": "anse de l'Arene"
+  },
+  {
+    "longitude": -1.25647,
+    "latitude": 44.52888,
+    "name": "Beach",
+    "city": "La Teste de Buch",
+    "description": "plage de la Salie-Nord"
+  },
+  {
+    "longitude": -2.63916,
+    "latitude": 48.52361,
+    "name": "Beach",
+    "city": "Hillion",
+    "description": "plage de Grandville"
+  },
+  {
+    "longitude": 6.6634,
+    "latitude": 43.23856,
+    "name": "Beach",
+    "city": "Ramatuelle",
+    "description": "plage Pampelonne 2"
+  },
+  {
+    "longitude": -2.25722,
+    "latitude": 48.64361,
+    "name": "Beach",
+    "city": "Saint Cast le Guildo",
+    "description": "plage Mare"
+  },
+  {
+    "longitude": -1.44665,
+    "latitude": 43.64598,
+    "name": "Beach",
+    "city": "Plage du Prevent",
+    "description": ""
+  },
+  {
+    "longitude": 7.13648,
+    "latitude": 43.55423,
+    "name": "Beach",
+    "city": "Antibes",
+    "description": "plage de la Garoupe"
+  },
+  {
+    "longitude": -3.14532,
+    "latitude": 47.59207,
+    "name": "Beach",
+    "city": "Plouharnel",
+    "description": "La Grande Plage"
+  },
+  {
+    "longitude": -3.19103,
+    "latitude": 47.36343,
+    "name": "Beach",
+    "city": "Le Palais",
+    "description": "plage de Porh Jean"
+  },
+  {
+    "longitude": 7.10736,
+    "latitude": 43.56933,
+    "name": "Beach",
+    "city": "Juan les Pins",
+    "description": "plage La Star"
+  },
+  {
+    "longitude": 6.15156,
+    "latitude": 43.03802,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage de La Badine"
+  },
+  {
+    "longitude": -2.99435,
+    "latitude": 47.57181,
+    "name": "Beach",
+    "city": "Saint Philibert",
+    "description": "plage de Men Er Bellec"
+  },
+  {
+    "longitude": -2.47381,
+    "latitude": 48.62275,
+    "name": "Beach",
+    "city": "Erquy",
+    "description": "plage Caroual"
+  },
+  {
+    "longitude": -3.54865,
+    "latitude": 47.76609,
+    "name": "Beach",
+    "city": "Clohars-Carnoet",
+    "description": "plage de Bellangenet"
+  },
+  {
+    "longitude": 6.38335,
+    "latitude": 43.14341,
+    "name": "Beach",
+    "city": "Plage de Saint-Clair",
+    "description": ""
+  },
+  {
+    "longitude": 3.90491,
+    "latitude": 43.51742,
+    "name": "Beach",
+    "city": "Palavas les Flots",
+    "description": "base de fun board"
+  },
+  {
+    "longitude": 9.55077,
+    "latitude": 42.11131,
+    "name": "Beach",
+    "city": "Padulone - Aleria",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.3896,
+    "latitude": 46.00205,
+    "name": "Beach",
+    "city": "Les Huttes",
+    "description": "plage"
+  },
+  {
+    "longitude": 9.19798,
+    "latitude": 41.36799,
+    "name": "Beach",
+    "city": "Ciappili",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.1563,
+    "latitude": 47.85197,
+    "name": "Beach",
+    "city": "Ile Tudy",
+    "description": "plage Teven"
+  },
+  {
+    "longitude": 3.04081,
+    "latitude": 42.82838,
+    "name": "Beach",
+    "city": "Le Barcares",
+    "description": "plage Lydia"
+  },
+  {
+    "longitude": -4.5445,
+    "latitude": 48.24204,
+    "name": "Beach",
+    "city": "Crozon",
+    "description": "plage Goulien"
+  },
+  {
+    "longitude": -3.23449,
+    "latitude": 47.32482,
+    "name": "Beach",
+    "city": "Bangor",
+    "description": "plage de Porh Donnant"
+  },
+  {
+    "longitude": -1.47412,
+    "latitude": 46.35629,
+    "name": "Beach",
+    "city": "La Tranche sur Mer",
+    "description": "plage de la Terriere"
+  },
+  {
+    "longitude": -4.40133,
+    "latitude": 47.93832,
+    "name": "Beach",
+    "city": "Pouldreuzic",
+    "description": "Penhors"
+  },
+  {
+    "longitude": -4.70656,
+    "latitude": 48.04612,
+    "name": "Beach",
+    "city": "Plogoff",
+    "description": "plage Baie des Trepasses"
+  },
+  {
+    "longitude": -3.81231,
+    "latitude": 48.71311,
+    "name": "Beach",
+    "city": "Plougasnou",
+    "description": "plage Primel"
+  },
+  {
+    "longitude": -3.78536,
+    "latitude": 47.79135,
+    "name": "Beach",
+    "city": "Plage de Tahiti",
+    "description": ""
+  },
+  {
+    "longitude": 8.91416,
+    "latitude": 42.63031,
+    "name": "Beach",
+    "city": "Fogata",
+    "description": "plage de Botre"
+  },
+  {
+    "longitude": 9.45803,
+    "latitude": 42.00428,
+    "name": "Beach",
+    "city": "Ghisonaccia",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.14191,
+    "latitude": 46.81892,
+    "name": "Beach",
+    "city": "Notre Dame de Monts",
+    "description": "plage de Pont d'Yeu"
+  },
+  {
+    "longitude": -3.09867,
+    "latitude": 47.56915,
+    "name": "Beach",
+    "city": "Plage de Saint-Colomban",
+    "description": ""
+  },
+  {
+    "longitude": -4.17533,
+    "latitude": 47.81146,
+    "name": "Beach",
+    "city": "Loctudy",
+    "description": "plage Lodonnec"
+  },
+  {
+    "longitude": -4.66309,
+    "latitude": 48.57148,
+    "name": "Beach",
+    "city": "Lampaul Ploudalmezeau",
+    "description": "plage des Trois Moutons"
+  },
+  {
+    "longitude": 8.64484,
+    "latitude": 41.91008,
+    "name": "Beach",
+    "city": "Vignola",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.6091,
+    "latitude": 49.10053,
+    "name": "Beach",
+    "city": "Gouville sur Mer",
+    "description": "La Plage"
+  },
+  {
+    "longitude": -3.98573,
+    "latitude": 47.88619,
+    "name": "Beach",
+    "city": "Fouesnant",
+    "description": "plage de Cap Coz"
+  },
+  {
+    "longitude": -4.07352,
+    "latitude": 47.86079,
+    "name": "Beach",
+    "city": "Fouesnant",
+    "description": "plage Kerler - Kerouanen"
+  },
+  {
+    "longitude": 2.54415,
+    "latitude": 51.08794,
+    "name": "Beach",
+    "city": "Bray Dunes",
+    "description": "plage de Leffrinckouke"
+  },
+  {
+    "longitude": 4.00116,
+    "latitude": 43.55066,
+    "name": "Beach",
+    "city": "Carnon",
+    "description": "plage du village"
+  },
+  {
+    "longitude": 7.11433,
+    "latitude": 43.56712,
+    "name": "Beach",
+    "city": "Juan les Pins",
+    "description": "plage Les Pirates"
+  },
+  {
+    "longitude": 5.66755,
+    "latitude": 43.18199,
+    "name": "Beach",
+    "city": "Plage du Liouquet",
+    "description": ""
+  },
+  {
+    "longitude": 3.97108,
+    "latitude": 43.54177,
+    "name": "Beach",
+    "city": "Palavas les Flots",
+    "description": "plage La Roquille"
+  },
+  {
+    "longitude": -1.90086,
+    "latitude": 46.64454,
+    "name": "Beach",
+    "city": "Bretignolles sur Mer",
+    "description": "plage Sauzaie"
+  },
+  {
+    "longitude": 9.34078,
+    "latitude": 42.86597,
+    "name": "Beach",
+    "city": "Giottani",
+    "description": "plage"
+  },
+  {
+    "longitude": 8.87195,
+    "latitude": 42.61047,
+    "name": "Beach",
+    "city": "Algajola",
+    "description": "plage"
+  },
+  {
+    "longitude": 7.49933,
+    "latitude": 43.77252,
+    "name": "Beach",
+    "city": "Menton",
+    "description": "plage du Casino"
+  },
+  {
+    "longitude": -2.06917,
+    "latitude": 48.63855,
+    "name": "Beach",
+    "city": "Dinard",
+    "description": "plage Saint Enogat"
+  },
+  {
+    "longitude": -2.77977,
+    "latitude": 47.62928,
+    "name": "Beach",
+    "city": "Vannes",
+    "description": "plage Conleau"
+  },
+  {
+    "longitude": 6.21773,
+    "latitude": 43.00896,
+    "name": "Beach",
+    "city": "Porquerolles",
+    "description": "plage du Lequin"
+  },
+  {
+    "longitude": -1.29832,
+    "latitude": 44.22303,
+    "name": "Beach",
+    "city": "Plage du Camping",
+    "description": ""
+  },
+  {
+    "longitude": 6.26303,
+    "latitude": 43.12156,
+    "name": "Beach",
+    "city": "La Londe les Maures",
+    "description": "plage de l'Argentiere"
+  },
+  {
+    "longitude": 9.22522,
+    "latitude": 41.42312,
+    "name": "Beach",
+    "city": "Ricetti",
+    "description": "plage"
+  },
+  {
+    "longitude": 8.7657,
+    "latitude": 41.84383,
+    "name": "Beach",
+    "city": "Mare e Sole",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.03418,
+    "latitude": 47.07603,
+    "name": "Beach",
+    "city": "Plage des Carres",
+    "description": ""
+  },
+  {
+    "longitude": -0.20267,
+    "latitude": 49.28606,
+    "name": "Beach",
+    "city": "Merville Franceville",
+    "description": "plage"
+  },
+  {
+    "longitude": 9.53116,
+    "latitude": 42.37392,
+    "name": "Beach",
+    "city": "Moriani",
+    "description": "plage"
+  },
+  {
+    "longitude": 3.9551,
+    "latitude": 43.53562,
+    "name": "Beach",
+    "city": "Palavas les Flots",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.09084,
+    "latitude": 44.73314,
+    "name": "Beach",
+    "city": "Andernos",
+    "description": "plage (snack et jeux enfants)"
+  },
+  {
+    "longitude": 8.73458,
+    "latitude": 41.91699,
+    "name": "Beach",
+    "city": "Plage Saint-Francois",
+    "description": ""
+  },
+  {
+    "longitude": -1.57169,
+    "latitude": 43.46722,
+    "name": "Beach",
+    "city": "Biarritz",
+    "description": "plage Marbella"
+  },
+  {
+    "longitude": -1.34068,
+    "latitude": 44.03899,
+    "name": "Beach",
+    "city": "Plage du Cap de l'Homy",
+    "description": ""
+  },
+  {
+    "longitude": -3.51162,
+    "latitude": 47.75216,
+    "name": "Beach",
+    "city": "Plage du Loch",
+    "description": ""
+  },
+  {
+    "longitude": -2.1881,
+    "latitude": 46.94391,
+    "name": "Beach",
+    "city": "La Gueriniere",
+    "description": "plage du Midi"
+  },
+  {
+    "longitude": -3.50362,
+    "latitude": 47.74224,
+    "name": "Beach",
+    "city": "Guidel",
+    "description": "plage de Fort Bloque"
+  },
+  {
+    "longitude": 3.0639,
+    "latitude": 43.014,
+    "name": "Beach",
+    "city": "Port la Nouvelle",
+    "description": "plage la Jetee"
+  },
+  {
+    "longitude": -3.38292,
+    "latitude": 47.7046,
+    "name": "Beach",
+    "city": "Larmor Plage",
+    "description": "plage de Port Maria"
+  },
+  {
+    "longitude": 5.69489,
+    "latitude": 43.16744,
+    "name": "Beach",
+    "city": "Saint Cyr sur Mer",
+    "description": "plage de La Madrague"
+  },
+  {
+    "longitude": 6.15184,
+    "latitude": 43.07182,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage du Pesquier - La capte"
+  },
+  {
+    "longitude": 9.41495,
+    "latitude": 43.00701,
+    "name": "Beach",
+    "city": "Barcaggio",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.7787,
+    "latitude": 48.3565,
+    "name": "Beach",
+    "city": "Le Conquet",
+    "description": "plage de Portez"
+  },
+  {
+    "longitude": -1.56729,
+    "latitude": 43.48237,
+    "name": "Beach",
+    "city": "Biarritz",
+    "description": "plage du Port-Vieux"
+  },
+  {
+    "longitude": -1.20787,
+    "latitude": 44.60872,
+    "name": "Beach",
+    "city": "La Teste de Buch",
+    "description": "Le Pilat Plage"
+  },
+  {
+    "longitude": -2.48992,
+    "latitude": 47.49581,
+    "name": "Beach",
+    "city": "Penestin",
+    "description": "plage de Camaret"
+  },
+  {
+    "longitude": 3.44249,
+    "latitude": 43.28584,
+    "name": "Beach",
+    "city": "Cap d'Agde",
+    "description": "plage la Tamarissiere"
+  },
+  {
+    "longitude": -2.02899,
+    "latitude": 48.64899,
+    "name": "Beach",
+    "city": "Saint Malo",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.788,
+    "latitude": 46.4943,
+    "name": "Beach",
+    "city": "Les Sables d'Olonne",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.0545,
+    "latitude": 48.63597,
+    "name": "Beach",
+    "city": "Dinard",
+    "description": "plage Ecluse"
+  },
+  {
+    "longitude": 9.05474,
+    "latitude": 41.46242,
+    "name": "Beach",
+    "city": "Caldarello",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.24518,
+    "latitude": 47.13591,
+    "name": "Beach",
+    "city": "Prefailles",
+    "description": "plage de la Pointe Saint Gildas (surf)"
+  },
+  {
+    "longitude": 3.10974,
+    "latitude": 43.09584,
+    "name": "Beach",
+    "city": "Gruissan",
+    "description": "Gruissan plage"
+  },
+  {
+    "longitude": -2.0322,
+    "latitude": 46.75645,
+    "name": "Beach",
+    "city": "Saint Hilaire de Riez",
+    "description": "plage des Becs"
+  },
+  {
+    "longitude": 5.68927,
+    "latitude": 43.1784,
+    "name": "Beach",
+    "city": "Plage des Lecques",
+    "description": ""
+  },
+  {
+    "longitude": 5.74997,
+    "latitude": 43.133,
+    "name": "Beach",
+    "city": "Bandol",
+    "description": "plage de Renecros"
+  },
+  {
+    "longitude": 6.2501,
+    "latitude": 43.0019,
+    "name": "Beach",
+    "city": "Porquerolle",
+    "description": "plage de la Galere"
+  },
+  {
+    "longitude": -2.42485,
+    "latitude": 47.27195,
+    "name": "Beach",
+    "city": "Pornichet",
+    "description": "plage Nau"
+  },
+  {
+    "longitude": -3.97565,
+    "latitude": 48.69905,
+    "name": "Beach",
+    "city": "Saint Pol de Leon",
+    "description": "plage Kersaliou"
+  },
+  {
+    "longitude": 3.45854,
+    "latitude": 43.28093,
+    "name": "Beach",
+    "city": "Cap d'Agde",
+    "description": "plage Saint Vincent"
+  },
+  {
+    "longitude": -1.37431,
+    "latitude": 43.9017,
+    "name": "Beach",
+    "city": "Vielle Saint Giron",
+    "description": "plage La Lettre Blanche"
+  },
+  {
+    "longitude": 6.54965,
+    "latitude": 43.18773,
+    "name": "Beach",
+    "city": "Cavalaire",
+    "description": "plage de Pardigon"
+  },
+  {
+    "longitude": 9.20003,
+    "latitude": 42.72271,
+    "name": "Beach",
+    "city": "Plage de Saleccia",
+    "description": ""
+  },
+  {
+    "longitude": 8.57248,
+    "latitude": 42.37049,
+    "name": "Beach",
+    "city": "Elbo",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.0068,
+    "latitude": 47.85124,
+    "name": "Beach",
+    "city": "Fouesnant",
+    "description": "plage de Maner"
+  },
+  {
+    "longitude": -1.20251,
+    "latitude": 45.0015,
+    "name": "Beach",
+    "city": "Lacanau",
+    "description": "plage centrale"
+  },
+  {
+    "longitude": -1.1746,
+    "latitude": 49.4168,
+    "name": "Beach",
+    "city": "Utah Beach",
+    "description": ""
+  },
+  {
+    "longitude": 6.00581,
+    "latitude": 43.10422,
+    "name": "Beach",
+    "city": "Le Pradet",
+    "description": "plage Le Pin de Galle"
+  },
+  {
+    "longitude": 8.59204,
+    "latitude": 42.14731,
+    "name": "Beach",
+    "city": "Pero",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.94978,
+    "latitude": 43.5061,
+    "name": "Beach",
+    "city": "Theoule sur Mer",
+    "description": "plage de la Petite Fontaine"
+  },
+  {
+    "longitude": -3.15336,
+    "latitude": 47.5274,
+    "name": "Beach",
+    "city": "Plage du Foso",
+    "description": ""
+  },
+  {
+    "longitude": -1.35425,
+    "latitude": 46.20515,
+    "name": "Beach",
+    "city": "Saint Martin de Re",
+    "description": "plage Cible"
+  },
+  {
+    "longitude": -2.19049,
+    "latitude": 47.15761,
+    "name": "Beach",
+    "city": "La Plaine sur Mer",
+    "description": "plage La Govogne"
+  },
+  {
+    "longitude": 8.60708,
+    "latitude": 41.95198,
+    "name": "Beach",
+    "city": "Feno",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.39238,
+    "latitude": 43.85342,
+    "name": "Beach",
+    "city": "Moliets et Maa",
+    "description": "plage de Moliets"
+  },
+  {
+    "longitude": -1.48716,
+    "latitude": 46.24985,
+    "name": "Beach",
+    "city": "Les Portes en Re",
+    "description": "anse du Fourneau"
+  },
+  {
+    "longitude": -2.20849,
+    "latitude": 47.27077,
+    "name": "Beach",
+    "city": "Plage du Petit Traict",
+    "description": ""
+  },
+  {
+    "longitude": 8.88644,
+    "latitude": 41.52147,
+    "name": "Beach",
+    "city": "Plage de Tralicetu",
+    "description": ""
+  },
+  {
+    "longitude": 6.63918,
+    "latitude": 43.1725,
+    "name": "Beach",
+    "city": "Ramatuelle",
+    "description": "plage Cap Taillat"
+  },
+  {
+    "longitude": -2.14675,
+    "latitude": 47.1139,
+    "name": "Beach",
+    "city": "Pornic",
+    "description": "plage Le Porteau"
+  },
+  {
+    "longitude": 6.16922,
+    "latitude": 43.00142,
+    "name": "Beach",
+    "city": "Porquerolles",
+    "description": "plage du Grand Langoustier"
+  },
+  {
+    "longitude": 9.28997,
+    "latitude": 42.67411,
+    "name": "Beach",
+    "city": "Saint Florent",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.33487,
+    "latitude": 46.19526,
+    "name": "Beach",
+    "city": "La Flotte",
+    "description": "plage Clavette"
+  },
+  {
+    "longitude": 8.67995,
+    "latitude": 42.47046,
+    "name": "Beach",
+    "city": "Crovani",
+    "description": "plage"
+  },
+  {
+    "longitude": 3.42475,
+    "latitude": 43.29001,
+    "name": "Beach",
+    "city": "Vias",
+    "description": "Farinette plage"
+  },
+  {
+    "longitude": -3.78996,
+    "latitude": 47.79115,
+    "name": "Beach",
+    "city": "N�vez",
+    "description": "plage Raguenez"
+  },
+  {
+    "longitude": 5.44205,
+    "latitude": 43.21326,
+    "name": "Beach",
+    "city": "Cassis",
+    "description": "plage calanque de Morgiou"
+  },
+  {
+    "longitude": 1.55,
+    "latitude": 50.2715,
+    "name": "Beach",
+    "city": "Quend",
+    "description": "plage des Pins (Domaine de Marquenter)"
+  },
+  {
+    "longitude": -1.33666,
+    "latitude": 46.15158,
+    "name": "Beach",
+    "city": "Sainte Marie de Re",
+    "description": "plage du Montamer"
+  },
+  {
+    "longitude": -4.28156,
+    "latitude": 48.11583,
+    "name": "Beach",
+    "city": "Plonevez Porzay",
+    "description": "plage Kervel"
+  },
+  {
+    "longitude": -3.14786,
+    "latitude": 47.33298,
+    "name": "Beach",
+    "city": "Le Palais",
+    "description": "plage de Porh Guen"
+  },
+  {
+    "longitude": -1.24748,
+    "latitude": 44.62214,
+    "name": "Beach",
+    "city": "Lege Cap Ferret",
+    "description": "plage de la Pointe du Cap - Bassin"
+  },
+  {
+    "longitude": 8.69564,
+    "latitude": 42.11506,
+    "name": "Beach",
+    "city": "Sagone",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.25133,
+    "latitude": 44.67482,
+    "name": "Beach",
+    "city": "Le Canon",
+    "description": "plage la Torchere"
+  },
+  {
+    "longitude": -2.27868,
+    "latitude": 47.23846,
+    "name": "Beach",
+    "city": "Plage Saint-Marc",
+    "description": ""
+  },
+  {
+    "longitude": 4.92694,
+    "latitude": 43.43338,
+    "name": "Beach",
+    "city": "Fos sur Mer",
+    "description": "plage du Cavaou"
+  },
+  {
+    "longitude": -2.45647,
+    "latitude": 47.44821,
+    "name": "Beach",
+    "city": "Penestin",
+    "description": "plage de Pont-Mahe"
+  },
+  {
+    "longitude": 8.64761,
+    "latitude": 42.3035,
+    "name": "Beach",
+    "city": "Gradelle",
+    "description": "plage"
+  },
+  {
+    "longitude": -4.02569,
+    "latitude": 47.85029,
+    "name": "Beach",
+    "city": "Fouesnant",
+    "description": "plage Cleuz Rouz"
+  },
+  {
+    "longitude": 4.13449,
+    "latitude": 43.52196,
+    "name": "Beach",
+    "city": "Port Camargue",
+    "description": "plage Est"
+  },
+  {
+    "longitude": 9.21456,
+    "latitude": 41.36853,
+    "name": "Beach",
+    "city": "Sperono",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.53636,
+    "latitude": 43.5085,
+    "name": "Beach",
+    "city": "Anglet",
+    "description": "plage La Petite Madrague"
+  },
+  {
+    "longitude": 3.15432,
+    "latitude": 42.4771,
+    "name": "Beach",
+    "city": "Platja de Tallalauca",
+    "description": ""
+  },
+  {
+    "longitude": 9.40462,
+    "latitude": 43.00513,
+    "name": "Beach",
+    "city": "Barcaggio",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.27605,
+    "latitude": 43.12135,
+    "name": "Beach",
+    "city": "Plage du Pellegrin",
+    "description": ""
+  },
+  {
+    "longitude": 3.55227,
+    "latitude": 43.31509,
+    "name": "Beach",
+    "city": "Marseillan",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.76753,
+    "latitude": 43.37551,
+    "name": "Beach",
+    "city": "Hendaye",
+    "description": "Hendaye Plage"
+  },
+  {
+    "longitude": -1.43938,
+    "latitude": 43.68106,
+    "name": "Beach",
+    "city": "Plage Nord",
+    "description": ""
+  },
+  {
+    "longitude": -4.77047,
+    "latitude": 48.34757,
+    "name": "Beach",
+    "city": "Le Conquet",
+    "description": "plage de Porz Liogan"
+  },
+  {
+    "longitude": 6.1982,
+    "latitude": 42.9865,
+    "name": "Beach",
+    "city": "Porquerolles",
+    "description": "plage de l'Ours"
+  },
+  {
+    "longitude": -1.29938,
+    "latitude": 44.20986,
+    "name": "Beach",
+    "city": "Mimizan",
+    "description": "plage"
+  },
+  {
+    "longitude": 3.13741,
+    "latitude": 43.13027,
+    "name": "Beach",
+    "city": "Gruissant",
+    "description": "plage des Ayguades"
+  },
+  {
+    "longitude": 9.53117,
+    "latitude": 42.54986,
+    "name": "Beach",
+    "city": "Biguglia",
+    "description": "plage"
+  },
+  {
+    "longitude": 8.80398,
+    "latitude": 41.89963,
+    "name": "Beach",
+    "city": "Grosseto Prugna",
+    "description": "plage de Porticcio"
+  },
+  {
+    "longitude": -4.44639,
+    "latitude": 48.23461,
+    "name": "Beach",
+    "city": "Crozon",
+    "description": "plage Aber"
+  },
+  {
+    "longitude": -2.02037,
+    "latitude": 46.74919,
+    "name": "Beach",
+    "city": "Saint Hilaire de Riez",
+    "description": "plage des Mouettes"
+  },
+  {
+    "longitude": -2.36421,
+    "latitude": 46.73083,
+    "name": "Beach",
+    "city": "Ile d'Yeu",
+    "description": "plage de la Pulante"
+  },
+  {
+    "longitude": 8.93682,
+    "latitude": 41.49598,
+    "name": "Beach",
+    "city": "Roccapina",
+    "description": "plage"
+  },
+  {
+    "longitude": 8.66067,
+    "latitude": 42.42141,
+    "name": "Beach",
+    "city": "Galeria",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.18445,
+    "latitude": 48.59297,
+    "name": "Beach",
+    "city": "Saint Jacut de la Mer",
+    "description": "plage de la Manchette"
+  },
+  {
+    "longitude": 6.02388,
+    "latitude": 43.0943,
+    "name": "Beach",
+    "city": "Le Pradet",
+    "description": "plage la Garonne"
+  },
+  {
+    "longitude": 5.94682,
+    "latitude": 43.10729,
+    "name": "Beach",
+    "city": "Plage du Mourillon",
+    "description": ""
+  },
+  {
+    "longitude": -0.51165,
+    "latitude": 49.34474,
+    "name": "Beach",
+    "city": "Ver sur Mer",
+    "description": "La Plage"
+  },
+  {
+    "longitude": 9.25166,
+    "latitude": 41.34331,
+    "name": "Beach",
+    "city": "Iles Lavezzi",
+    "description": "plage"
+  },
+  {
+    "longitude": 1.5668,
+    "latitude": 50.42957,
+    "name": "Beach",
+    "city": "Berck sur Mer",
+    "description": "plage Les Sables d'Opale"
+  },
+  {
+    "longitude": 9.30772,
+    "latitude": 41.5482,
+    "name": "Beach",
+    "city": "Palombaggia",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.08504,
+    "latitude": 47.56683,
+    "name": "Beach",
+    "city": "Carnac",
+    "description": "plage Legenes"
+  },
+  {
+    "longitude": 5.89868,
+    "latitude": 43.07773,
+    "name": "Beach",
+    "city": "Plage de Saint-Asile",
+    "description": ""
+  },
+  {
+    "longitude": -2.51076,
+    "latitude": 48.60133,
+    "name": "Beach",
+    "city": "Saint Mathurin",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.71298,
+    "latitude": 43.36757,
+    "name": "Beach",
+    "city": "Roquebrune sur Argens",
+    "description": "plage de la Gaillarde"
+  },
+  {
+    "longitude": 6.2973,
+    "latitude": 43.11034,
+    "name": "Beach",
+    "city": "Bormes les Mimosas",
+    "description": "plage de l'Estagnol"
+  },
+  {
+    "longitude": 3.13137,
+    "latitude": 42.48069,
+    "name": "Beach",
+    "city": "Banyuls sur Mer",
+    "description": "plage (village)"
+  },
+  {
+    "longitude": 7.41165,
+    "latitude": 43.72492,
+    "name": "Beach",
+    "city": "Plage Marquet",
+    "description": ""
+  },
+  {
+    "longitude": -2.36454,
+    "latitude": 48.65474,
+    "name": "Beach",
+    "city": "Plevenon",
+    "description": "plage de Preherel"
+  },
+  {
+    "longitude": -3.13763,
+    "latitude": 47.32865,
+    "name": "Beach",
+    "city": "Le Palais",
+    "description": "plage Bordardoue"
+  },
+  {
+    "longitude": -1.41538,
+    "latitude": 43.78848,
+    "name": "Beach",
+    "city": "Vieux Boucau les Bains",
+    "description": "Grand plage"
+  },
+  {
+    "longitude": 9.00815,
+    "latitude": 42.6398,
+    "name": "Beach",
+    "city": "Lozari",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.85096,
+    "latitude": 47.79943,
+    "name": "Beach",
+    "city": "Regunc",
+    "description": "plage de la Baleine"
+  },
+  {
+    "longitude": -1.59879,
+    "latitude": 46.41173,
+    "name": "Beach",
+    "city": "Jard sur Mer",
+    "description": "plage de Morpoigne"
+  },
+  {
+    "longitude": -2.50744,
+    "latitude": 47.34341,
+    "name": "Beach",
+    "city": "Plage des Brebis",
+    "description": ""
+  },
+  {
+    "longitude": -1.52765,
+    "latitude": 43.51918,
+    "name": "Beach",
+    "city": "Anglet",
+    "description": "plage L Ocean"
+  },
+  {
+    "longitude": -2.49578,
+    "latitude": 47.49527,
+    "name": "Beach",
+    "city": "Plage du Halguen",
+    "description": ""
+  },
+  {
+    "longitude": -2.12274,
+    "latitude": 46.80644,
+    "name": "Beach",
+    "city": "Saint Jean de Monts",
+    "description": "plage Tonnelle"
+  },
+  {
+    "longitude": 2.28022,
+    "latitude": 47.9599,
+    "name": "Beach",
+    "city": "Combreux",
+    "description": "plage (Lac)"
+  },
+  {
+    "longitude": -1.25146,
+    "latitude": 44.51679,
+    "name": "Beach",
+    "city": "La Teste de Buch",
+    "description": "plage de la Salie-Sud"
+  },
+  {
+    "longitude": 7.11101,
+    "latitude": 43.56801,
+    "name": "Beach",
+    "city": "Juan les Pins",
+    "description": "plage Le Vieux Colombier"
+  },
+  {
+    "longitude": 8.6499,
+    "latitude": 42.11968,
+    "name": "Beach",
+    "city": "Stagnoli",
+    "description": "plage"
+  },
+  {
+    "longitude": 9.39897,
+    "latitude": 41.88322,
+    "name": "Beach",
+    "city": "Chiola",
+    "description": "plage"
+  },
+  {
+    "longitude": -2.27407,
+    "latitude": 48.6368,
+    "name": "Beach",
+    "city": "Saint Cast le Guildo",
+    "description": "plage de la Fresnaye"
+  },
+  {
+    "longitude": -2.04599,
+    "latitude": 46.7661,
+    "name": "Beach",
+    "city": "Saint Hilaire de Riez",
+    "description": "plage Soixante Bornes"
+  },
+  {
+    "longitude": 9.26847,
+    "latitude": 41.49939,
+    "name": "Beach",
+    "city": "Porto Novo",
+    "description": "plage"
+  },
+  {
+    "longitude": 7.11162,
+    "latitude": 43.56783,
+    "name": "Beach",
+    "city": "Juan les Pins",
+    "description": "plage Douce Plage"
+  },
+  {
+    "longitude": -2.49246,
+    "latitude": 47.4792,
+    "name": "Beach",
+    "city": "Penestin",
+    "description": "plage de la Mine d'Or"
+  },
+  {
+    "longitude": -2.10551,
+    "latitude": 47.11347,
+    "name": "Beach",
+    "city": "Plage du Chat",
+    "description": ""
+  },
+  {
+    "longitude": -2.41954,
+    "latitude": 47.25856,
+    "name": "Beach",
+    "city": "Plage du Pavillon",
+    "description": ""
+  },
+  {
+    "longitude": -3.96899,
+    "latitude": 47.89632,
+    "name": "Beach",
+    "city": "La Foret Fouesnant",
+    "description": "plage de Kerleven"
+  },
+  {
+    "longitude": -3.91108,
+    "latitude": 48.67001,
+    "name": "Beach",
+    "city": "Carantec",
+    "description": "plage Kelenn"
+  },
+  {
+    "longitude": 2.42385,
+    "latitude": 47.27189,
+    "name": "Beach",
+    "city": "Le Pouliguen",
+    "description": "plage Convert"
+  },
+  {
+    "longitude": -2.91071,
+    "latitude": 47.59221,
+    "name": "Beach",
+    "city": "Larmor-Baden",
+    "description": "plage Locmiquel"
+  },
+  {
+    "longitude": 6.64227,
+    "latitude": 43.18675,
+    "name": "Beach",
+    "city": "Ramatuelle",
+    "description": "plage de L Escalet"
+  },
+  {
+    "longitude": -2.47718,
+    "latitude": 47.49262,
+    "name": "Beach",
+    "city": "Penestin",
+    "description": "plage de Men-Armor"
+  },
+  {
+    "longitude": -2.84772,
+    "latitude": 47.51555,
+    "name": "Beach",
+    "city": "Plage des Govelins",
+    "description": ""
+  },
+  {
+    "longitude": -1.68197,
+    "latitude": 43.39619,
+    "name": "Beach",
+    "city": "Socoa",
+    "description": "Fort de Socoa"
+  },
+  {
+    "longitude": -2.55612,
+    "latitude": 48.58978,
+    "name": "Beach",
+    "city": "Pleneuf-Val Andre",
+    "description": "plage"
+  },
+  {
+    "longitude": 3.1321,
+    "latitude": 42.51048,
+    "name": "Beach",
+    "city": "Platja de Valenti",
+    "description": ""
+  },
+  {
+    "longitude": 6.11292,
+    "latitude": 43.03525,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage des Darboussieres"
+  },
+  {
+    "longitude": 3.54568,
+    "latitude": 43.30929,
+    "name": "Beach",
+    "city": "Marseillan",
+    "description": "plage les campings"
+  },
+  {
+    "longitude": 3.03807,
+    "latitude": 42.78633,
+    "name": "Beach",
+    "city": "Le Barcares",
+    "description": "plage (le village)"
+  },
+  {
+    "longitude": 3.17345,
+    "latitude": 42.43679,
+    "name": "Beach",
+    "city": "Plage du Minerai",
+    "description": ""
+  },
+  {
+    "longitude": 6.07136,
+    "latitude": 43.08538,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage Le Pradon"
+  },
+  {
+    "longitude": -4.5525,
+    "latitude": 48.20119,
+    "name": "Beach",
+    "city": "Crozon",
+    "description": "plage de la Palu"
+  },
+  {
+    "longitude": 9.39752,
+    "latitude": 41.77304,
+    "name": "Beach",
+    "city": "Favone",
+    "description": "plage Cote des Nacres"
+  },
+  {
+    "longitude": -3.56544,
+    "latitude": 48.76045,
+    "name": "Beach",
+    "city": "Trebeurden",
+    "description": "plage Pors Mabo"
+  },
+  {
+    "longitude": -2.72005,
+    "latitude": 48.54151,
+    "name": "Beach",
+    "city": "Plerin",
+    "description": "plage des Nouelles"
+  },
+  {
+    "longitude": -4.29188,
+    "latitude": 48.1762,
+    "name": "Beach",
+    "city": "Plomodiern",
+    "description": "plage Lestrevet"
+  },
+  {
+    "longitude": -1.4247,
+    "latitude": 46.20498,
+    "name": "Beach",
+    "city": "La Couarde sur Mer",
+    "description": "plage Goisil"
+  },
+  {
+    "longitude": -2.46682,
+    "latitude": 48.6324,
+    "name": "Beach",
+    "city": "Erquy",
+    "description": "plage Centre"
+  },
+  {
+    "longitude": -2.33346,
+    "latitude": 46.71947,
+    "name": "Beach",
+    "city": "L Ile d'Yeu",
+    "description": "plage de Ker Chalon"
+  },
+  {
+    "longitude": -1.23013,
+    "latitude": 44.79837,
+    "name": "Beach",
+    "city": "Le Grand Crohot",
+    "description": "plage - ocean"
+  },
+  {
+    "longitude": -4.27247,
+    "latitude": 48.14193,
+    "name": "Beach",
+    "city": "Plage de Sainte-Anne",
+    "description": ""
+  },
+  {
+    "longitude": -2.46822,
+    "latitude": 47.44996,
+    "name": "Beach",
+    "city": "Plage du Palandrin",
+    "description": ""
+  },
+  {
+    "longitude": -1.30087,
+    "latitude": 44.21395,
+    "name": "Beach",
+    "city": "Plage des Ailes",
+    "description": ""
+  },
+  {
+    "longitude": 9.33372,
+    "latitude": 42.80855,
+    "name": "Beach",
+    "city": "Albo",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.18762,
+    "latitude": 47.62064,
+    "name": "Beach",
+    "city": "Erdeven",
+    "description": "plage de Kerouriec"
+  },
+  {
+    "longitude": -4.35304,
+    "latitude": 47.82714,
+    "name": "Beach",
+    "city": "Penmarch",
+    "description": "plage de Porns Carn"
+  },
+  {
+    "longitude": 5.51075,
+    "latitude": 43.20418,
+    "name": "Beach",
+    "city": "Cassis",
+    "description": "plage calanque de Port Pin"
+  },
+  {
+    "longitude": -1.52397,
+    "latitude": 43.52606,
+    "name": "Beach",
+    "city": "Anglet",
+    "description": "plage Les Cavaliers"
+  },
+  {
+    "longitude": -0.97152,
+    "latitude": 45.56466,
+    "name": "Beach",
+    "city": "Meschers sur Gironde",
+    "description": "place Les Vergnes"
+  },
+  {
+    "longitude": -3.0547,
+    "latitude": 47.57357,
+    "name": "Beach",
+    "city": "Carnac",
+    "description": "plage de Beaumer"
+  },
+  {
+    "longitude": -1.31612,
+    "latitude": 46.14498,
+    "name": "Beach",
+    "city": "Sainte Marie de Re",
+    "description": "plage de la Basse Benaie"
+  },
+  {
+    "longitude": -2.22655,
+    "latitude": 47.0152,
+    "name": "Beach",
+    "city": "Plage des Souzeaux",
+    "description": ""
+  },
+  {
+    "longitude": 6.13315,
+    "latitude": 43.0507,
+    "name": "Beach",
+    "city": "Hyeres",
+    "description": "plage L Almanarre - Cote Madrague"
+  },
+  {
+    "longitude": -2.23992,
+    "latitude": 47.13278,
+    "name": "Beach",
+    "city": "Prefailles",
+    "description": "anse du Sud"
+  },
+  {
+    "longitude": 3.08613,
+    "latitude": 42.52636,
+    "name": "Beach",
+    "city": "Plage Saint-Vincent",
+    "description": ""
+  },
+  {
+    "longitude": 4.44422,
+    "latitude": 43.45644,
+    "name": "Beach",
+    "city": "Saintes Maries de la Mer",
+    "description": "plage de Piemenson"
+  },
+  {
+    "longitude": 4.44422,
+    "latitude": 43.45644,
+    "name": "Beach",
+    "city": "Saintes Maries de la Mer",
+    "description": "plage Pertuis de la Fourcade"
+  },
+  {
+    "longitude": 2.25204,
+    "latitude": 51.04222,
+    "name": "Beach",
+    "city": "Mardyck",
+    "description": "plage Braek"
+  },
+  {
+    "longitude": -4.46841,
+    "latitude": 48.09554,
+    "name": "Beach",
+    "city": "Beuzec Cap Sizun",
+    "description": "plage vers la Pointe du Millier"
+  },
+  {
+    "longitude": -3.06364,
+    "latitude": 47.30705,
+    "name": "Beach",
+    "city": "Locmaria",
+    "description": "plage de Port Andro"
+  },
+  {
+    "longitude": -4.54512,
+    "latitude": 48.24931,
+    "name": "Beach",
+    "city": "Crozon",
+    "description": "plage de Kersiguenou"
+  },
+  {
+    "longitude": -3.54999,
+    "latitude": 48.73575,
+    "name": "Beach",
+    "city": "Lannion",
+    "description": "plage de Mez an Aod"
+  },
+  {
+    "longitude": -3.16812,
+    "latitude": 47.61223,
+    "name": "Beach",
+    "city": "Erdeven",
+    "description": "plage de Kerhilio"
+  },
+  {
+    "longitude": 6.72893,
+    "latitude": 43.39248,
+    "name": "Beach",
+    "city": "Saint Aygulf",
+    "description": "plage la Galiote"
+  },
+  {
+    "longitude": -1.54566,
+    "latitude": 43.4961,
+    "name": "Beach",
+    "city": "Anglet",
+    "description": "plage du VVF - Chambre d'Amour"
+  },
+  {
+    "longitude": -2.15432,
+    "latitude": 48.60874,
+    "name": "Beach",
+    "city": "Lancieux",
+    "description": "plage de Saint Cieux"
+  },
+  {
+    "longitude": 3.10227,
+    "latitude": 42.52415,
+    "name": "Beach",
+    "city": "Port-Vendres",
+    "description": "plage d'En Baux"
+  },
+  {
+    "longitude": 8.79128,
+    "latitude": 41.86258,
+    "name": "Beach",
+    "city": "Albitreccia",
+    "description": "plage d'Agosta"
+  },
+  {
+    "longitude": 9.01317,
+    "latitude": 42.64031,
+    "name": "Beach",
+    "city": "Lozani",
+    "description": "plage"
+  },
+  {
+    "longitude": 6.9368,
+    "latitude": 48.45123,
+    "name": "Beach",
+    "city": "Pierre-Percee",
+    "description": "plage (Lac de Celles sur Plaine)"
+  },
+  {
+    "longitude": -1.84627,
+    "latitude": 46.58421,
+    "name": "Beach",
+    "city": "Plage des Granges",
+    "description": ""
+  },
+  {
+    "longitude": -1.12575,
+    "latitude": 44.7523,
+    "name": "Beach",
+    "city": "Ares",
+    "description": "mini-plage de Saint Brice"
+  },
+  {
+    "longitude": 2.29226,
+    "latitude": 45.38957,
+    "name": "Beach",
+    "city": "Neuvic",
+    "description": "Neuvic plage - Lac de la Triouzoune"
+  },
+  {
+    "longitude": -4.56376,
+    "latitude": 48.61557,
+    "name": "Beach",
+    "city": "Plage de Saint-Cava",
+    "description": ""
+  },
+  {
+    "longitude": -3.63482,
+    "latitude": 48.68182,
+    "name": "Beach",
+    "city": "Plestin les Greves",
+    "description": "plage Tossenn ar C Hoz"
+  },
+  {
+    "longitude": 6.92906,
+    "latitude": 43.4768,
+    "name": "Beach",
+    "city": "Saint Raphael",
+    "description": "plage Abel Baliff"
+  },
+  {
+    "longitude": -1.3192,
+    "latitude": 46.32484,
+    "name": "Beach",
+    "city": "Plage des Chardons",
+    "description": ""
+  },
+  {
+    "longitude": -3.09203,
+    "latitude": 47.47686,
+    "name": "Beach",
+    "city": "Plage du Conguel",
+    "description": ""
+  },
+  {
+    "longitude": -3.64304,
+    "latitude": 48.69537,
+    "name": "Beach",
+    "city": "Locquirec",
+    "description": "plage Bilou"
+  },
+  {
+    "longitude": -3.15592,
+    "latitude": 47.35712,
+    "name": "Beach",
+    "city": "Le Palais",
+    "description": "plage Castoul"
+  },
+  {
+    "longitude": 8.61394,
+    "latitude": 42.35006,
+    "name": "Beach",
+    "city": "Girolata",
+    "description": "plage"
+  },
+  {
+    "longitude": 8.66125,
+    "latitude": 42.30275,
+    "name": "Beach",
+    "city": "De Caspio",
+    "description": "plage"
+  },
+  {
+    "longitude": -1.04259,
+    "latitude": 45.6201,
+    "name": "Beach",
+    "city": "Royan",
+    "description": "plage Conche du Chay"
+  },
+  {
+    "longitude": 9.40026,
+    "latitude": 41.70473,
+    "name": "Beach",
+    "city": "Zonza",
+    "description": "plage de l'Ovu Santu"
+  },
+  {
+    "longitude": 8.91785,
+    "latitude": 41.507,
+    "name": "Beach",
+    "city": "Erbaju",
+    "description": "plage"
+  },
+  {
+    "longitude": -3.37896,
+    "latitude": 47.7087,
+    "name": "Beach",
+    "city": "Plage de Toulhars",
+    "description": ""
+  },
+  {
+    "longitude": -2.21867,
+    "latitude": 46.99649,
+    "name": "Beach",
+    "city": "Plage des Sableaux",
+    "description": ""
+  },
+  {
+    "longitude": 9.41158,
+    "latitude": 43.00572,
+    "name": "Beach",
+    "city": "Ersa",
+    "description": "plage de Cala"
+  }
+]

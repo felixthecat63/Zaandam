@@ -1,0 +1,1605 @@
+[
+  {
+    "longitude": -4.0724,
+    "latitude": 48.50949,
+    "name": "Spectacle",
+    "city": "29 Landivisiau (francois de tournamine)",
+    "description": ""
+  },
+  {
+    "longitude": 2.33079,
+    "latitude": 48.87226,
+    "name": "Spectacle",
+    "city": "75 Paris (Op�ra Garnier)",
+    "description": ""
+  },
+  {
+    "longitude": 2.33457,
+    "latitude": 48.86936,
+    "name": "Theatre",
+    "city": "75 Paris (La Michodiere)",
+    "description": ""
+  },
+  {
+    "longitude": 2.32434,
+    "latitude": 48.84078,
+    "name": "Theatre",
+    "city": "75 Paris (Rive Gauche",
+    "description": "6 rue de la Gait�)"
+  },
+  {
+    "longitude": 2.26709,
+    "latitude": 49.89613,
+    "name": "Spectacle",
+    "city": "80 Amiens (Z�nith)",
+    "description": ""
+  },
+  {
+    "longitude": 2.32839,
+    "latitude": 48.86996,
+    "name": "Spectacle",
+    "city": "75 Paris (Olympia)",
+    "description": ""
+  },
+  {
+    "longitude": 2.41199,
+    "latitude": 48.6382,
+    "name": "Spectacle",
+    "city": "91 Ris-Orangis (Le Plan)",
+    "description": ""
+  },
+  {
+    "longitude": -4.40437,
+    "latitude": 48.43933,
+    "name": "Concert",
+    "city": "29 Guipavas (Alize)",
+    "description": ""
+  },
+  {
+    "longitude": -1.14821,
+    "latitude": 45.71399,
+    "name": "Concert",
+    "city": "17 Les mathes",
+    "description": ""
+  },
+  {
+    "longitude": 2.28301,
+    "latitude": 48.87862,
+    "name": "Spectacle",
+    "city": "75 Paris (Palais Des Congres)",
+    "description": ""
+  },
+  {
+    "longitude": -4.72012,
+    "latitude": 48.34213,
+    "name": "Concert",
+    "city": "29 Plougonvelin (Espace keraudy)",
+    "description": ""
+  },
+  {
+    "longitude": -4.2286,
+    "latitude": 48.39998,
+    "name": "Spectacle",
+    "city": "29 Saint Urbain (ty kreis ker)",
+    "description": ""
+  },
+  {
+    "longitude": 7.73009,
+    "latitude": 48.57629,
+    "name": "Concert",
+    "city": "67 Strasbourg (La Laiterie)",
+    "description": ""
+  },
+  {
+    "longitude": -3.96282,
+    "latitude": 48.54996,
+    "name": "Spectacle",
+    "city": "29 Guiclan (lE TRISKELL)",
+    "description": ""
+  },
+  {
+    "longitude": 3.14206,
+    "latitude": 50.72673,
+    "name": "Theatre",
+    "city": "59 Tourcoing (Th�atre de l'Id�al)",
+    "description": ""
+  },
+  {
+    "longitude": -3.41427,
+    "latitude": 47.78951,
+    "name": "Concert",
+    "city": "56 Queven (Les Arcs)",
+    "description": ""
+  },
+  {
+    "longitude": 7.75238,
+    "latitude": 48.58351,
+    "name": "Concert",
+    "city": "67 Strasbourg (La Grotte)",
+    "description": ""
+  },
+  {
+    "longitude": 0.70122,
+    "latitude": 47.38437,
+    "name": "Concert",
+    "city": "37 Tours (le Bateau Ivre)",
+    "description": ""
+  },
+  {
+    "longitude": 2.28879,
+    "latitude": 48.83717,
+    "name": "Theatre",
+    "city": "75 Paris (Th�o Theatre)",
+    "description": ""
+  },
+  {
+    "longitude": 2.26729,
+    "latitude": 48.82511,
+    "name": "Theatre",
+    "city": "92 Issy Les Moulineaux (Du Petit Miroir)",
+    "description": ""
+  },
+  {
+    "longitude": 0.7175,
+    "latitude": 45.1847,
+    "name": "Theatre",
+    "city": "24 Perigueux (L'Odyssee)",
+    "description": ""
+  },
+  {
+    "longitude": -1.79553,
+    "latitude": 48.10032,
+    "name": "Theatre",
+    "city": "35 Le Rheu (L' Agora)",
+    "description": ""
+  },
+  {
+    "longitude": -4.31335,
+    "latitude": 48.53692,
+    "name": "Concert",
+    "city": "29 Ploudaniel (espace Broceliande)",
+    "description": ""
+  },
+  {
+    "longitude": 2.29897,
+    "latitude": 48.69555,
+    "name": "Theatre",
+    "city": "91 Longjumeau (Adolphe Adam)",
+    "description": ""
+  },
+  {
+    "longitude": -1.56223,
+    "latitude": 47.21295,
+    "name": "Opera",
+    "city": "44 Nantes",
+    "description": ""
+  },
+  {
+    "longitude": 3.5289,
+    "latitude": 50.36438,
+    "name": "Spectacle",
+    "city": "59 Valenciennes (Le Ph�nix)",
+    "description": ""
+  },
+  {
+    "longitude": 2.35463,
+    "latitude": 48.87036,
+    "name": "Spectacle",
+    "city": "75 Paris (L'Archipel)",
+    "description": ""
+  },
+  {
+    "longitude": -2.74137,
+    "latitude": 47.69144,
+    "name": "Concert",
+    "city": "56 Saint Ave (Le Dome)",
+    "description": ""
+  },
+  {
+    "longitude": 7.72937,
+    "latitude": 48.57568,
+    "name": "Concert",
+    "city": "67 Strasbourg (Molodo�)",
+    "description": ""
+  },
+  {
+    "longitude": -4.37393,
+    "latitude": 48.47092,
+    "name": "Spectacle",
+    "city": "29 Kersaint Plabennec (Espace Kreisker)",
+    "description": ""
+  },
+  {
+    "longitude": 0.12677,
+    "latitude": 45.63953,
+    "name": "Concert",
+    "city": "16 Angouleme (La nef2)",
+    "description": ""
+  },
+  {
+    "longitude": -1.79696,
+    "latitude": 47.96364,
+    "name": "Theatre",
+    "city": "35 Guichen (Espace Galatee)",
+    "description": ""
+  },
+  {
+    "longitude": 2.2578,
+    "latitude": 50.75031,
+    "name": "Concert",
+    "city": "62 Saint-omer (O Pas Sage)",
+    "description": ""
+  },
+  {
+    "longitude": 3.50296,
+    "latitude": 50.37128,
+    "name": "Theatre",
+    "city": "59 Anzin (Th�atre Municipal)",
+    "description": ""
+  },
+  {
+    "longitude": -4.2532,
+    "latitude": 48.48323,
+    "name": "Spectacle",
+    "city": "29 Plouedern (Steredenn)",
+    "description": ""
+  },
+  {
+    "longitude": 3.07675,
+    "latitude": 50.6334,
+    "name": "Concert",
+    "city": "59 Lille (Zenith)",
+    "description": ""
+  },
+  {
+    "longitude": 2.35414,
+    "latitude": 48.85954,
+    "name": "Spectacle",
+    "city": "75 Paris (Caf� de la Gare)",
+    "description": ""
+  },
+  {
+    "longitude": -0.5613,
+    "latitude": 44.83129,
+    "name": "Theatre",
+    "city": "33 Bordeaux (3 Place Pierre Renaudel) TNBA (Th�atre National de Bordeaux en Aquitaine)",
+    "description": ""
+  },
+  {
+    "longitude": -3.35712,
+    "latitude": 47.75055,
+    "name": "Concert",
+    "city": "56 Lorient (Le Manege)",
+    "description": ""
+  },
+  {
+    "longitude": 3.08252,
+    "latitude": 45.77709,
+    "name": "Theatre",
+    "city": "63 Clermont-Ferrand (opera)",
+    "description": ""
+  },
+  {
+    "longitude": 2.33574,
+    "latitude": 48.85766,
+    "name": "Spectacle",
+    "city": "75 Paris (Metamorphosis de novembre � mars)",
+    "description": ""
+  },
+  {
+    "longitude": -4.49376,
+    "latitude": 48.41513,
+    "name": "Theatre",
+    "city": "29 Brest (Le stella)",
+    "description": ""
+  },
+  {
+    "longitude": 3.0912,
+    "latitude": 50.62265,
+    "name": "Concert",
+    "city": "59 Lille (Le Splendid)",
+    "description": ""
+  },
+  {
+    "longitude": -4.56323,
+    "latitude": 48.02446,
+    "name": "Theatre",
+    "city": "29 Esquibien (Georges Madec)",
+    "description": ""
+  },
+  {
+    "longitude": 1.27899,
+    "latitude": 45.86144,
+    "name": "Concert",
+    "city": "87 Limoges Zenith",
+    "description": ""
+  },
+  {
+    "longitude": -0.57725,
+    "latitude": 44.84133,
+    "name": "Theatre",
+    "city": "33 Bordeaux (10 Rue de Grassi) Th�atre Femina",
+    "description": ""
+  },
+  {
+    "longitude": -0.57813,
+    "latitude": 44.84221,
+    "name": "Theatre",
+    "city": "33 Bordeaux (6 Rue Franklin) Th�atre Trianon",
+    "description": ""
+  },
+  {
+    "longitude": 3.15172,
+    "latitude": 45.73971,
+    "name": "Spectacle",
+    "city": "63 Clermont Fd (La Grande Halle d'Auvergne)",
+    "description": ""
+  },
+  {
+    "longitude": 3.15312,
+    "latitude": 50.72051,
+    "name": "Theatre",
+    "city": "59 Tourcoing (Th�atre Municipal)",
+    "description": ""
+  },
+  {
+    "longitude": 1.0822,
+    "latitude": 49.4312,
+    "name": "Theatre",
+    "city": "76 Rouen (Espace duchamp villon)",
+    "description": ""
+  },
+  {
+    "longitude": 3.94748,
+    "latitude": 43.57409,
+    "name": "Concert",
+    "city": "34 Montpellier (Park & Suites Arena)",
+    "description": ""
+  },
+  {
+    "longitude": -1.69191,
+    "latitude": 48.10823,
+    "name": "Theatre",
+    "city": "35 Rennes (Piccalilli theatre)",
+    "description": ""
+  },
+  {
+    "longitude": 2.3007,
+    "latitude": 48.85863,
+    "name": "Theatre",
+    "city": "75 Paris (Th�atre Adyar)",
+    "description": ""
+  },
+  {
+    "longitude": -1.59981,
+    "latitude": 48.11871,
+    "name": "Concert",
+    "city": "35 Cesson-sevigne (Le Carre)",
+    "description": ""
+  },
+  {
+    "longitude": 4.04668,
+    "latitude": 50.01548,
+    "name": "Theatre",
+    "city": "59 Fourmies (grand parking gratuit � 100 m)",
+    "description": ""
+  },
+  {
+    "longitude": -2.74481,
+    "latitude": 48.48461,
+    "name": "Concert",
+    "city": "22 Tregueux (Bleu Pluriel)",
+    "description": ""
+  },
+  {
+    "longitude": 2.3502,
+    "latitude": 48.85152,
+    "name": "Spectacle",
+    "city": "75 Paris (Metamorphosis d'avril � Octobre)",
+    "description": ""
+  },
+  {
+    "longitude": -4.53132,
+    "latitude": 48.40974,
+    "name": "Concert",
+    "city": "29 Guilers (Penfeld)",
+    "description": ""
+  },
+  {
+    "longitude": 2.39316,
+    "latitude": 48.88882,
+    "name": "Spectacle",
+    "city": "75 Paris (Zenith)",
+    "description": ""
+  },
+  {
+    "longitude": -4.00347,
+    "latitude": 48.4481,
+    "name": "Spectacle",
+    "city": "29 Saint sauveur",
+    "description": ""
+  },
+  {
+    "longitude": -0.62439,
+    "latitude": 44.82343,
+    "name": "Concert",
+    "city": "33 M�rignac (5 Avenue Victor Hugo) Le Krakatoa",
+    "description": ""
+  },
+  {
+    "longitude": -3.4041,
+    "latitude": 48.40673,
+    "name": "Concert",
+    "city": "22 Callac (Le Bacardi)",
+    "description": ""
+  },
+  {
+    "longitude": -3.91877,
+    "latitude": 48.30569,
+    "name": "Concert",
+    "city": "29 Brasparts (La ferme de Gwernandour)",
+    "description": ""
+  },
+  {
+    "longitude": 2.35747,
+    "latitude": 48.85876,
+    "name": "Theatre",
+    "city": "75 Paris (Les Blancs Manteaux)",
+    "description": ""
+  },
+  {
+    "longitude": -1.73585,
+    "latitude": 48.10415,
+    "name": "Concert",
+    "city": "35 Rennes (Le Jardin Moderne)",
+    "description": ""
+  },
+  {
+    "longitude": 1.40664,
+    "latitude": 43.59941,
+    "name": "Concert",
+    "city": "31 Toulouse (le z�nith)",
+    "description": ""
+  },
+  {
+    "longitude": -0.56312,
+    "latitude": 44.82728,
+    "name": "Concert",
+    "city": "33 Bordeaux (18 Cours Barbey) Rock School Barbey",
+    "description": ""
+  },
+  {
+    "longitude": -1.67289,
+    "latitude": 48.10771,
+    "name": "Concert",
+    "city": "35 Rennes (Ubu)",
+    "description": ""
+  },
+  {
+    "longitude": -1.67289,
+    "latitude": 48.10771,
+    "name": "Theatre",
+    "city": "35 Rennes (Theatre National de Bretagne)",
+    "description": ""
+  },
+  {
+    "longitude": -0.58731,
+    "latitude": 44.83486,
+    "name": "Concert",
+    "city": "33 Bordeaux (Cours du Mar�chal Juin) Patinoire M�riadeck",
+    "description": ""
+  },
+  {
+    "longitude": -4.10921,
+    "latitude": 47.99506,
+    "name": "Theatre",
+    "city": "29 Quimper (theatre de cornouaille)",
+    "description": ""
+  },
+  {
+    "longitude": -4.21505,
+    "latitude": 48.37014,
+    "name": "Spectacle",
+    "city": "29 Irvillac",
+    "description": ""
+  },
+  {
+    "longitude": -1.99122,
+    "latitude": 48.63332,
+    "name": "Concert",
+    "city": "35 Saint Malo (centre de musiques actuelles)",
+    "description": ""
+  },
+  {
+    "longitude": 2.398,
+    "latitude": 48.86444,
+    "name": "Theatre",
+    "city": "75 Paris (Th�atre National De La Colline)",
+    "description": ""
+  },
+  {
+    "longitude": -0.38293,
+    "latitude": 49.17096,
+    "name": "Concert",
+    "city": "14 Caen (Zenith)",
+    "description": ""
+  },
+  {
+    "longitude": -1.99592,
+    "latitude": 48.62379,
+    "name": "Theatre",
+    "city": "35 Saint Malo (Cultura)",
+    "description": ""
+  },
+  {
+    "longitude": 2.33623,
+    "latitude": 48.86319,
+    "name": "Theatre",
+    "city": "75 Paris (Com�die Francaise - Salle Richelieu)",
+    "description": ""
+  },
+  {
+    "longitude": -4.39372,
+    "latitude": 48.4008,
+    "name": "Concert",
+    "city": "29 Le Relecq Kerhuon (Astrolabe)",
+    "description": ""
+  },
+  {
+    "longitude": -4.48922,
+    "latitude": 48.40553,
+    "name": "Theatre",
+    "city": "29 Brest Theatre de l instant",
+    "description": ""
+  },
+  {
+    "longitude": -1.6755,
+    "latitude": 48.11483,
+    "name": "Theatre",
+    "city": "35 Rennes (Centre choregraphique national)",
+    "description": ""
+  },
+  {
+    "longitude": -3.45438,
+    "latitude": 47.73071,
+    "name": "Theatre",
+    "city": "22 Lannion (Carre magique)",
+    "description": ""
+  },
+  {
+    "longitude": -2.98955,
+    "latitude": 48.19644,
+    "name": "Concert",
+    "city": "22 Mur de Bretagne",
+    "description": ""
+  },
+  {
+    "longitude": 7.76516,
+    "latitude": 48.59947,
+    "name": "Concert",
+    "city": "67 Strasbourg (Hall Rhenus)",
+    "description": ""
+  },
+  {
+    "longitude": -4.45069,
+    "latitude": 48.53106,
+    "name": "Theatre",
+    "city": "29 Plouvien",
+    "description": ""
+  },
+  {
+    "longitude": 2.28955,
+    "latitude": 48.91084,
+    "name": "Theatre",
+    "city": "92 Asni�res-sur-Seine (Rue Hector Gonzalgue Fontaine)",
+    "description": ""
+  },
+  {
+    "longitude": 2.35658,
+    "latitude": 48.87068,
+    "name": "Theatre",
+    "city": "75 Paris (Splendide)",
+    "description": ""
+  },
+  {
+    "longitude": -2.05221,
+    "latitude": 48.63544,
+    "name": "Theatre",
+    "city": "35 Dinard (Palais des arts)",
+    "description": ""
+  },
+  {
+    "longitude": 2.32317,
+    "latitude": 48.83937,
+    "name": "Theatre",
+    "city": "75 Paris 14 (Gait� Montparnasse)",
+    "description": ""
+  },
+  {
+    "longitude": 2.60483,
+    "latitude": 46.34749,
+    "name": "Spectacle",
+    "city": "03 Montlu�on (Athanor)",
+    "description": ""
+  },
+  {
+    "longitude": 2.37754,
+    "latitude": 48.83944,
+    "name": "Spectacle",
+    "city": "75 Paris (POPB Bercy)",
+    "description": ""
+  },
+  {
+    "longitude": 5.97929,
+    "latitude": 47.22392,
+    "name": "Concert",
+    "city": "25 Besan�on (Micropolis)",
+    "description": ""
+  },
+  {
+    "longitude": -1.66024,
+    "latitude": 48.08812,
+    "name": "Theatre",
+    "city": "35 Rennes (Le Triangle)",
+    "description": ""
+  },
+  {
+    "longitude": 2.48453,
+    "latitude": 50.56508,
+    "name": "Concert",
+    "city": "62 Lillers (L'abattoir)",
+    "description": ""
+  },
+  {
+    "longitude": -3.27503,
+    "latitude": 47.80795,
+    "name": "Theatre",
+    "city": "56 Hennebont (Centre Culturel)",
+    "description": ""
+  },
+  {
+    "longitude": 2.31441,
+    "latitude": 48.87358,
+    "name": "Spectacle",
+    "city": "75 Paris (Salle Gaveau)",
+    "description": ""
+  },
+  {
+    "longitude": 2.28719,
+    "latitude": 48.83269,
+    "name": "Spectacle",
+    "city": "75 Paris (Palais Des Sports)",
+    "description": ""
+  },
+  {
+    "longitude": 2.33996,
+    "latitude": 48.88507,
+    "name": "Theatre",
+    "city": "75 Paris (Tremplin Th�atre)",
+    "description": ""
+  },
+  {
+    "longitude": -1.67331,
+    "latitude": 48.12012,
+    "name": "Theatre",
+    "city": "35 Rennes (Le Rallye)",
+    "description": ""
+  },
+  {
+    "longitude": -3.49541,
+    "latitude": 48.82458,
+    "name": "Concert",
+    "city": "22 Tregastel (Toucouleur Cafe)",
+    "description": ""
+  },
+  {
+    "longitude": 0.199,
+    "latitude": 48.00737,
+    "name": "Theatre",
+    "city": "72 Le Mans (Paul Scarron)",
+    "description": ""
+  },
+  {
+    "longitude": 0.199,
+    "latitude": 48.00737,
+    "name": "Theatre",
+    "city": "72 Le Mans (Paul Scarron)",
+    "description": ""
+  },
+  {
+    "longitude": -3.82909,
+    "latitude": 48.57624,
+    "name": "Theatre",
+    "city": "29 Morlaix (Theatre du pays de morlaix)",
+    "description": ""
+  },
+  {
+    "longitude": 2.33628,
+    "latitude": 48.88281,
+    "name": "Theatre",
+    "city": "75 Paris (Dix Heures)",
+    "description": ""
+  },
+  {
+    "longitude": 0.15431,
+    "latitude": 45.64756,
+    "name": "Theatre",
+    "city": "16 Angouleme (th�atre)",
+    "description": ""
+  },
+  {
+    "longitude": 1.08918,
+    "latitude": 49.4391,
+    "name": "Theatre",
+    "city": "76 Rouen (Theatre des arts)",
+    "description": ""
+  },
+  {
+    "longitude": -4.27702,
+    "latitude": 47.7978,
+    "name": "Theatre",
+    "city": "29 Le Guilvinec (Centre Culturel)",
+    "description": ""
+  },
+  {
+    "longitude": -1.68445,
+    "latitude": 48.11524,
+    "name": "Theatre",
+    "city": "35 Rennes (Theatre du vieux saint etienne)",
+    "description": ""
+  },
+  {
+    "longitude": -4.42539,
+    "latitude": 48.50358,
+    "name": "Spectacle",
+    "city": "29 Plabennec (Bouguen)",
+    "description": ""
+  },
+  {
+    "longitude": -1.6861,
+    "latitude": 48.11244,
+    "name": "Concert",
+    "city": "35 Rennes (L Amaryllis)",
+    "description": ""
+  },
+  {
+    "longitude": -3.36022,
+    "latitude": 47.74589,
+    "name": "Concert",
+    "city": "56 Lorient (Palais des Congres)",
+    "description": ""
+  },
+  {
+    "longitude": -4.64415,
+    "latitude": 48.37461,
+    "name": "Theatre",
+    "city": "29 Plouzane (Centre Culturel)",
+    "description": ""
+  },
+  {
+    "longitude": -3.9972,
+    "latitude": 48.09878,
+    "name": "Concert",
+    "city": "29 Briec (arthemuse)",
+    "description": ""
+  },
+  {
+    "longitude": 7.76002,
+    "latitude": 48.58071,
+    "name": "Concert",
+    "city": "67 Strasbourg (La Salamandre)",
+    "description": ""
+  },
+  {
+    "longitude": -1.63972,
+    "latitude": 48.18278,
+    "name": "Theatre",
+    "city": "35 Betton",
+    "description": ""
+  },
+  {
+    "longitude": -4.09923,
+    "latitude": 48.0112,
+    "name": "Concert",
+    "city": "29 Quimper (Le Pavillon)",
+    "description": ""
+  },
+  {
+    "longitude": 2.32205,
+    "latitude": 48.80466,
+    "name": "Theatre",
+    "city": "92 Bagneux (Victor Hugo)",
+    "description": ""
+  },
+  {
+    "longitude": 7.68709,
+    "latitude": 48.59324,
+    "name": "Concert",
+    "city": "67 Strasbourg (Zenith Strasbourg)",
+    "description": ""
+  },
+  {
+    "longitude": -4.35763,
+    "latitude": 48.3697,
+    "name": "Concert",
+    "city": "29 Plougastel daoulas (Avel vor)",
+    "description": ""
+  },
+  {
+    "longitude": 2.13447,
+    "latitude": 48.89397,
+    "name": "Theatre",
+    "city": "78 Le V�sinet",
+    "description": ""
+  },
+  {
+    "longitude": 2.33295,
+    "latitude": 48.88297,
+    "name": "Theatre",
+    "city": "75 Paris (Comedie De Paris)",
+    "description": ""
+  },
+  {
+    "longitude": -1.69783,
+    "latitude": 48.04121,
+    "name": "Theatre",
+    "city": "35 Chartres de Bretagne (centre culturel)",
+    "description": ""
+  },
+  {
+    "longitude": 3.16509,
+    "latitude": 50.69187,
+    "name": "Concert",
+    "city": "59 Roubaix (La Cave aux Po�tes)",
+    "description": ""
+  },
+  {
+    "longitude": -3.56069,
+    "latitude": 48.27502,
+    "name": "Concert",
+    "city": "29 Carhaix (Espace Glenmor)",
+    "description": ""
+  },
+  {
+    "longitude": 2.34793,
+    "latitude": 48.85859,
+    "name": "Theatre",
+    "city": "75 Paris (Com�die Francaise-Studio Th�atre)",
+    "description": ""
+  },
+  {
+    "longitude": 2.27016,
+    "latitude": 48.78939,
+    "name": "Theatre",
+    "city": "92 Le Plessis-Robinson (Coteau)",
+    "description": ""
+  },
+  {
+    "longitude": -3.36573,
+    "latitude": 47.74771,
+    "name": "Theatre",
+    "city": "56 Lorient (Grand theatre)",
+    "description": ""
+  },
+  {
+    "longitude": 7.35653,
+    "latitude": 48.09679,
+    "name": "Concert",
+    "city": "68 Colmar (Parc Expo)",
+    "description": ""
+  },
+  {
+    "longitude": 0.36088,
+    "latitude": 46.5727,
+    "name": "Spectacle",
+    "city": "86 Poitiers (Confort Moderne)",
+    "description": ""
+  },
+  {
+    "longitude": -4.21626,
+    "latitude": 48.51444,
+    "name": "Spectacle",
+    "city": "29 Plouneventer (Sklerijenn)",
+    "description": ""
+  },
+  {
+    "longitude": 3.18854,
+    "latitude": 50.69112,
+    "name": "Theatre",
+    "city": "59 Roubaix (La Condition Publique)",
+    "description": ""
+  },
+  {
+    "longitude": 2.36985,
+    "latitude": 48.85153,
+    "name": "Spectacle",
+    "city": "75 Paris (Op�ra Bastille)",
+    "description": ""
+  },
+  {
+    "longitude": 2.04592,
+    "latitude": 50.49413,
+    "name": "Concert",
+    "city": "62 Torcy (Le Baladin)",
+    "description": ""
+  },
+  {
+    "longitude": -1.64798,
+    "latitude": 48.12081,
+    "name": "Theatre",
+    "city": "35 Rennes (Le Grand Cordel)",
+    "description": ""
+  },
+  {
+    "longitude": 2.09613,
+    "latitude": 48.8968,
+    "name": "Theatre",
+    "city": "78 Saint-Germain-en-Laye (Alexandre Dumas)",
+    "description": ""
+  },
+  {
+    "longitude": 3.52713,
+    "latitude": 50.36116,
+    "name": "Theatre",
+    "city": "59 Valenciennes (Espace Pasolini)",
+    "description": ""
+  },
+  {
+    "longitude": 2.10015,
+    "latitude": 49.45032,
+    "name": "Concert",
+    "city": "60 Beauvais (Elispace)",
+    "description": ""
+  },
+  {
+    "longitude": 0.16468,
+    "latitude": 44.49905,
+    "name": "Theatre/Concert",
+    "city": "47 Marmande (30-38 Rue L�opold Faye) Com�dia",
+    "description": ""
+  },
+  {
+    "longitude": 3.07465,
+    "latitude": 50.63878,
+    "name": "Concert",
+    "city": "59 Lille (L' A�ronef)",
+    "description": ""
+  },
+  {
+    "longitude": 2.10041,
+    "latitude": 49.45016,
+    "name": "Spectacle",
+    "city": "60 Beauvais (Elispace)",
+    "description": ""
+  },
+  {
+    "longitude": 2.3376,
+    "latitude": 48.87078,
+    "name": "Theatre",
+    "city": "75 Paris (Th�atre National de l'Op�ra Comique)",
+    "description": ""
+  },
+  {
+    "longitude": -4.02127,
+    "latitude": 47.93494,
+    "name": "Theatre",
+    "city": "29 Fouesnant (Centre culturel)",
+    "description": ""
+  },
+  {
+    "longitude": 3.06364,
+    "latitude": 50.63635,
+    "name": "Theatre",
+    "city": "59 Lille (Theatre du Nord)",
+    "description": ""
+  },
+  {
+    "longitude": 2.35893,
+    "latitude": 48.88411,
+    "name": "Theatre",
+    "city": "75 Paris 10 (Bouffes du Nord)",
+    "description": ""
+  },
+  {
+    "longitude": 2.34498,
+    "latitude": 48.87397,
+    "name": "Spectacle",
+    "city": "75 Paris (Folies Bergere)",
+    "description": ""
+  },
+  {
+    "longitude": -2.04207,
+    "latitude": 48.45292,
+    "name": "Theatre",
+    "city": "22 Dinan (les Jacobins)",
+    "description": ""
+  },
+  {
+    "longitude": 2.37457,
+    "latitude": 48.86145,
+    "name": "Theatre",
+    "city": "75 Paris (Theatre de l'epouvantail)",
+    "description": ""
+  },
+  {
+    "longitude": -3.78998,
+    "latitude": 48.58439,
+    "name": "Concert",
+    "city": "29 Morlaix (Langolvas)",
+    "description": ""
+  },
+  {
+    "longitude": 1.05809,
+    "latitude": 49.3925,
+    "name": "Concert",
+    "city": "76 Saint etienne du rouvray (Zenith Rouen)",
+    "description": ""
+  },
+  {
+    "longitude": 2.36452,
+    "latitude": 48.86621,
+    "name": "Theatre",
+    "city": "75 Paris 03 (D�jazet)",
+    "description": ""
+  },
+  {
+    "longitude": 2.3189,
+    "latitude": 48.87886,
+    "name": "Theatre",
+    "city": "75 Paris (Tristan Bernard)",
+    "description": ""
+  },
+  {
+    "longitude": 2.32842,
+    "latitude": 48.81525,
+    "name": "Theatre",
+    "city": "92 Montrouge (Instant Theatre)",
+    "description": ""
+  },
+  {
+    "longitude": 5.32992,
+    "latitude": 47.69802,
+    "name": "Concert",
+    "city": "52 Dommarien (La Niche)",
+    "description": ""
+  },
+  {
+    "longitude": -1.5027,
+    "latitude": 48.20259,
+    "name": "Concert",
+    "city": "35 Liffre (Centre Culturel)",
+    "description": ""
+  },
+  {
+    "longitude": -3.82736,
+    "latitude": 47.95748,
+    "name": "Theatre",
+    "city": "29 Rosporden (Centre culturel)",
+    "description": ""
+  },
+  {
+    "longitude": -4.47342,
+    "latitude": 48.39813,
+    "name": "Concert",
+    "city": "29 Brest (La Tete Raide)",
+    "description": ""
+  },
+  {
+    "longitude": -2.75131,
+    "latitude": 48.18021,
+    "name": "Theatre",
+    "city": "22 Loudeac (Palais des congres)",
+    "description": ""
+  },
+  {
+    "longitude": 2.36602,
+    "latitude": 48.86835,
+    "name": "Spectacle",
+    "city": "75 Paris (Le Temple)",
+    "description": ""
+  },
+  {
+    "longitude": -4.06484,
+    "latitude": 48.21316,
+    "name": "Concert",
+    "city": "29 Chateaulin (Le Run ar Puns)",
+    "description": ""
+  },
+  {
+    "longitude": -2.98932,
+    "latitude": 47.66502,
+    "name": "Concert",
+    "city": "56 Auray (Athena)",
+    "description": ""
+  },
+  {
+    "longitude": -4.56436,
+    "latitude": 48.42485,
+    "name": "Theatre",
+    "city": "29 Guilers (L Agora)",
+    "description": ""
+  },
+  {
+    "longitude": -0.06698,
+    "latitude": 45.77586,
+    "name": "Concert",
+    "city": "16 Rouillac (La palene)",
+    "description": ""
+  },
+  {
+    "longitude": -2.7609,
+    "latitude": 47.66132,
+    "name": "Theatre",
+    "city": "56 Vannes (Palais des arts)",
+    "description": ""
+  },
+  {
+    "longitude": -4.48429,
+    "latitude": 48.38918,
+    "name": "Spectacle",
+    "city": "29 Brest (Le Quartz)",
+    "description": ""
+  },
+  {
+    "longitude": 2.31895,
+    "latitude": 48.88205,
+    "name": "Theatre",
+    "city": "75 Paris 17 (H�bertot)",
+    "description": ""
+  },
+  {
+    "longitude": -1.68517,
+    "latitude": 48.12476,
+    "name": "Concert",
+    "city": "35 Rennes (Le Dejazey)",
+    "description": ""
+  },
+  {
+    "longitude": -0.34676,
+    "latitude": 49.18093,
+    "name": "Concert",
+    "city": "14 Caen (Le Cargo)",
+    "description": ""
+  },
+  {
+    "longitude": 2.26608,
+    "latitude": 49.89589,
+    "name": "Spectacle",
+    "city": "80 Amiens (M�gacit�)",
+    "description": ""
+  },
+  {
+    "longitude": -0.56574,
+    "latitude": 44.88775,
+    "name": "Theatre",
+    "city": "33 Bordeaux (Casino de Bordeaux)",
+    "description": ""
+  },
+  {
+    "longitude": 2.04243,
+    "latitude": 48.78352,
+    "name": "Theatre",
+    "city": "78 Montigny-le-Bretonneux",
+    "description": ""
+  },
+  {
+    "longitude": 2.23725,
+    "latitude": 48.83189,
+    "name": "Theatre",
+    "city": "92 Boulogne-Billancourt (Clart�)",
+    "description": ""
+  },
+  {
+    "longitude": -4.48115,
+    "latitude": 48.38467,
+    "name": "Concert",
+    "city": "29 Brest (La Carene)",
+    "description": ""
+  },
+  {
+    "longitude": 2.34778,
+    "latitude": 48.85731,
+    "name": "Theatre",
+    "city": "75 Paris (Sarah Bernard)",
+    "description": ""
+  },
+  {
+    "longitude": -3.40622,
+    "latitude": 47.83566,
+    "name": "Theatre",
+    "city": "56 Pont Scorff (Le strapontin)",
+    "description": ""
+  },
+  {
+    "longitude": -3.3738,
+    "latitude": 47.74431,
+    "name": "Theatre",
+    "city": "56 Lorient (Centre dramatique)",
+    "description": ""
+  },
+  {
+    "longitude": -2.01646,
+    "latitude": 48.63717,
+    "name": "Theatre",
+    "city": "35 Saint Malo (theatre de saint malo)",
+    "description": ""
+  },
+  {
+    "longitude": 3.22965,
+    "latitude": 50.17349,
+    "name": "Theatre",
+    "city": "59 Cambrai (Th�atre Municipal)",
+    "description": ""
+  },
+  {
+    "longitude": 2.33525,
+    "latitude": 48.8684,
+    "name": "Theatre",
+    "city": "75 Paris (Bouffes Parisiennes)",
+    "description": ""
+  },
+  {
+    "longitude": 2.31217,
+    "latitude": 48.89391,
+    "name": "Theatre",
+    "city": "75 Paris (Th�atre de l'Od�on)",
+    "description": ""
+  },
+  {
+    "longitude": 4.82794,
+    "latitude": 45.76493,
+    "name": "Cabaret",
+    "city": "69 Lyon (Au pied dans le plat)",
+    "description": "+33 478271326"
+  },
+  {
+    "longitude": -3.84614,
+    "latitude": 48.57147,
+    "name": "Theatre",
+    "city": "29 Saint martin des champs (Espace du roudour)",
+    "description": ""
+  },
+  {
+    "longitude": -4.48429,
+    "latitude": 48.38928,
+    "name": "Concert",
+    "city": "29 Brest (Le Vauban)",
+    "description": ""
+  },
+  {
+    "longitude": -4.50255,
+    "latitude": 48.38445,
+    "name": "Theatre/Concert",
+    "city": "29 Brest Le Mac Orlan",
+    "description": ""
+  },
+  {
+    "longitude": -4.46842,
+    "latitude": 48.44862,
+    "name": "Theatre",
+    "city": "29 Gouesnou (queffelec)",
+    "description": ""
+  },
+  {
+    "longitude": -4.26401,
+    "latitude": 48.44554,
+    "name": "Concert",
+    "city": "29 Landerneau Espace St Ernel",
+    "description": ""
+  },
+  {
+    "longitude": 4.82664,
+    "latitude": 45.76728,
+    "name": "Cabaret",
+    "city": "69 Lyon (Au 2 pied ds le plat)",
+    "description": "+33 478280833"
+  },
+  {
+    "longitude": -1.675,
+    "latitude": 48.10542,
+    "name": "Theatre",
+    "city": "35 Rennes (Les Champs Libres)",
+    "description": ""
+  },
+  {
+    "longitude": -4.2544,
+    "latitude": 48.44869,
+    "name": "Concert",
+    "city": "29 Landerneau Le Family",
+    "description": ""
+  },
+  {
+    "longitude": 2.34879,
+    "latitude": 48.84443,
+    "name": "Spectacle",
+    "city": "75 Paris (Le Triomphe)",
+    "description": ""
+  },
+  {
+    "longitude": -1.68129,
+    "latitude": 48.10916,
+    "name": "Theatre",
+    "city": "35 Rennes (Theatre de la parcheminerie)",
+    "description": ""
+  },
+  {
+    "longitude": 2.34244,
+    "latitude": 48.87148,
+    "name": "Theatre",
+    "city": "75 Paris (Theatre Des Varietes)",
+    "description": ""
+  },
+  {
+    "longitude": 2.36854,
+    "latitude": 48.8691,
+    "name": "Spectacle",
+    "city": "75 Paris (Palais Des Glaces)",
+    "description": ""
+  },
+  {
+    "longitude": -1.6265,
+    "latitude": 47.22836,
+    "name": "Concert",
+    "city": "44 Saint-Herbelain (Zenith Nantes)",
+    "description": ""
+  },
+  {
+    "longitude": -3.9222,
+    "latitude": 47.87014,
+    "name": "Concert",
+    "city": "29 Concarneau (Cac)",
+    "description": ""
+  },
+  {
+    "longitude": 2.34319,
+    "latitude": 48.88277,
+    "name": "Theatre",
+    "city": "75 Paris (Trianon Th�atre)",
+    "description": ""
+  },
+  {
+    "longitude": -4.09717,
+    "latitude": 47.99506,
+    "name": "Theatre",
+    "city": "29 Quimper",
+    "description": ""
+  },
+  {
+    "longitude": -1.56198,
+    "latitude": 47.21319,
+    "name": "Spectacle",
+    "city": "44 Nantes",
+    "description": ""
+  },
+  {
+    "longitude": -1.21548,
+    "latitude": 48.12135,
+    "name": "Theatre",
+    "city": "35 Vitre (Centre Culturel)",
+    "description": ""
+  },
+  {
+    "longitude": -2.76412,
+    "latitude": 48.50484,
+    "name": "Concert",
+    "city": "22 Saint Brieuc (Salle de Robien)",
+    "description": ""
+  },
+  {
+    "longitude": -4.36891,
+    "latitude": 48.3173,
+    "name": "Theatre",
+    "city": "29 Plougastel (L Asterie)",
+    "description": ""
+  },
+  {
+    "longitude": -3.2338,
+    "latitude": 48.78558,
+    "name": "Theatre",
+    "city": "22 Treguier (theatre de l arche de treguier)",
+    "description": ""
+  },
+  {
+    "longitude": -0.58057,
+    "latitude": 44.84271,
+    "name": "Theatre",
+    "city": "33 Bordeaux (20 Rue Rolland) Com�die Gallien",
+    "description": ""
+  },
+  {
+    "longitude": -3.4264,
+    "latitude": 47.73248,
+    "name": "Concert",
+    "city": "56 Ploemeur (L Oceanis)",
+    "description": ""
+  },
+  {
+    "longitude": -1.69864,
+    "latitude": 48.12485,
+    "name": "Concert",
+    "city": "35 Rennes (Centre leo lagrange)",
+    "description": ""
+  },
+  {
+    "longitude": 2.29263,
+    "latitude": 49.89405,
+    "name": "Spectacle",
+    "city": "80 Amiens (Maison de la Culture)",
+    "description": ""
+  },
+  {
+    "longitude": 2.64243,
+    "latitude": 50.53087,
+    "name": "Spectacle",
+    "city": "62 B�thune (Th�atre Municipal)",
+    "description": ""
+  },
+  {
+    "longitude": 2.33594,
+    "latitude": 48.7927,
+    "name": "Theatre",
+    "city": "94 Cachan",
+    "description": ""
+  },
+  {
+    "longitude": 2.30953,
+    "latitude": 48.88439,
+    "name": "Spectacle",
+    "city": "75 Paris (Salle Cortot)",
+    "description": ""
+  },
+  {
+    "longitude": -0.5743,
+    "latitude": 44.84249,
+    "name": "Opera",
+    "city": "33 Bordeaux (Place de la Com�die) Op�ra national de Bordeaux",
+    "description": ""
+  },
+  {
+    "longitude": -0.63275,
+    "latitude": 45.74572,
+    "name": "Theatre",
+    "city": "17 Saintes",
+    "description": ""
+  },
+  {
+    "longitude": -1.68166,
+    "latitude": 48.10935,
+    "name": "Concert",
+    "city": "35 Rennes (Le Bacchus)",
+    "description": ""
+  },
+  {
+    "longitude": -0.59782,
+    "latitude": 44.81886,
+    "name": "Concert",
+    "city": "33 Talence (224-226 Cours Gallieni) La Medoquine",
+    "description": ""
+  },
+  {
+    "longitude": -4.22532,
+    "latitude": 47.86839,
+    "name": "Concert",
+    "city": "29 Pont L abbe (Le Triskell)",
+    "description": ""
+  },
+  {
+    "longitude": -1.69059,
+    "latitude": 48.10831,
+    "name": "Concert",
+    "city": "35 Rennes (Peniche spectacle)",
+    "description": ""
+  },
+  {
+    "longitude": -0.32652,
+    "latitude": 45.69926,
+    "name": "Spectacle",
+    "city": "16 Cognac (Avant scene)",
+    "description": ""
+  },
+  {
+    "longitude": -2.76092,
+    "latitude": 48.5142,
+    "name": "Theatre",
+    "city": "22 Saint Brieuc (La Passerelle)",
+    "description": ""
+  },
+  {
+    "longitude": -2.98848,
+    "latitude": 48.19821,
+    "name": "Theatre",
+    "city": "22 Mur de Bretagne",
+    "description": ""
+  },
+  {
+    "longitude": 0.17597,
+    "latitude": 44.49713,
+    "name": "Theatre",
+    "city": "47 Marmande (All�e des Tabacs) Petit Th�atre",
+    "description": ""
+  },
+  {
+    "longitude": -1.19556,
+    "latitude": 48.34339,
+    "name": "Theatre",
+    "city": "35 Fougeres (Centre culturel)",
+    "description": ""
+  },
+  {
+    "longitude": -1.72153,
+    "latitude": 48.06809,
+    "name": "Theatre",
+    "city": "35 Saint Jacques de la Lande (Theatre de l aire libre)",
+    "description": ""
+  },
+  {
+    "longitude": -1.67891,
+    "latitude": 48.11131,
+    "name": "Concert",
+    "city": "35 Rennes (Opera)",
+    "description": ""
+  },
+  {
+    "longitude": 2.35694,
+    "latitude": 48.85789,
+    "name": "Theatre",
+    "city": "75 Paris (Point Virgule)",
+    "description": ""
+  },
+  {
+    "longitude": -4.48751,
+    "latitude": 48.38237,
+    "name": "Theatre",
+    "city": "29 Brest (Le Fourneau)",
+    "description": ""
+  },
+  {
+    "longitude": -0.79276,
+    "latitude": 46.46176,
+    "name": "Spectacle",
+    "city": "85 Fontenay le Comte (la garre)",
+    "description": ""
+  },
+  {
+    "longitude": 2.42988,
+    "latitude": 48.62882,
+    "name": "Theatre",
+    "city": "91 �vry (Agora)",
+    "description": ""
+  },
+  {
+    "longitude": -4.36225,
+    "latitude": 48.37116,
+    "name": "Concert",
+    "city": "29 Plougastel Daoulas (Avel vor)",
+    "description": ""
+  },
+  {
+    "longitude": -1.65748,
+    "latitude": 48.11457,
+    "name": "Theatre",
+    "city": "35 Rennes (Theatre du cercle)",
+    "description": ""
+  },
+  {
+    "longitude": 2.39388,
+    "latitude": 48.88888,
+    "name": "Spectacle",
+    "city": "75 Paris (Cit� De La Musique)",
+    "description": ""
+  },
+  {
+    "longitude": 5.59047,
+    "latitude": 45.36464,
+    "name": "Spectacle",
+    "city": "38 Voiron (Le Grand Angle Place des arcades)",
+    "description": ""
+  },
+  {
+    "longitude": 2.33035,
+    "latitude": 48.85179,
+    "name": "Theatre",
+    "city": "75 Paris (Com. Franc.-Th�atre du Vieux Colombiers)",
+    "description": ""
+  }
+]

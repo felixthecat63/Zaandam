@@ -1,0 +1,4377 @@
+[
+  {
+    "longitude": 1.71529,
+    "latitude": 50.49419,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Attin",
+    "description": ""
+  },
+  {
+    "longitude": 2.57444,
+    "latitude": 48.3608,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Acheres La Foret",
+    "description": ""
+  },
+  {
+    "longitude": -1.4255,
+    "latitude": 43.64554,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Capbreton",
+    "description": ""
+  },
+  {
+    "longitude": 3.54078,
+    "latitude": 48.8735,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Montmirail",
+    "description": ""
+  },
+  {
+    "longitude": -3.34678,
+    "latitude": 47.7654,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lanester",
+    "description": ""
+  },
+  {
+    "longitude": 6.13149,
+    "latitude": 43.1074,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Hyeres",
+    "description": ""
+  },
+  {
+    "longitude": -3.00695,
+    "latitude": 47.66218,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Auray",
+    "description": ""
+  },
+  {
+    "longitude": 1.3791,
+    "latitude": 44.03855,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Montauban",
+    "description": ""
+  },
+  {
+    "longitude": 1.038,
+    "latitude": 49.51372,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Houlme",
+    "description": ""
+  },
+  {
+    "longitude": 3.31383,
+    "latitude": 46.58766,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Avermes",
+    "description": ""
+  },
+  {
+    "longitude": 5.27007,
+    "latitude": 43.4257,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vitrolles",
+    "description": ""
+  },
+  {
+    "longitude": 4.46975,
+    "latitude": 45.88249,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Loup",
+    "description": ""
+  },
+  {
+    "longitude": 1.51686,
+    "latitude": 43.56575,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Orens De Gameville",
+    "description": ""
+  },
+  {
+    "longitude": 5.693,
+    "latitude": 45.14887,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Echirolles",
+    "description": ""
+  },
+  {
+    "longitude": 2.27214,
+    "latitude": 49.15048,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Persan",
+    "description": ""
+  },
+  {
+    "longitude": 2.56636,
+    "latitude": 46.36775,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Domerat",
+    "description": ""
+  },
+  {
+    "longitude": 4.92709,
+    "latitude": 45.64993,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chaponnay",
+    "description": ""
+  },
+  {
+    "longitude": 4.8511,
+    "latitude": 45.54221,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vienne",
+    "description": ""
+  },
+  {
+    "longitude": 2.54241,
+    "latitude": 50.71515,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Hazebrouck",
+    "description": ""
+  },
+  {
+    "longitude": 6.53539,
+    "latitude": 43.249,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Cogolin",
+    "description": ""
+  },
+  {
+    "longitude": 0.1062,
+    "latitude": 43.2684,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Orleix",
+    "description": ""
+  },
+  {
+    "longitude": 3.96323,
+    "latitude": 49.06535,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Dizy",
+    "description": ""
+  },
+  {
+    "longitude": 7.04282,
+    "latitude": 48.73301,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Sarrebourg",
+    "description": ""
+  },
+  {
+    "longitude": -1.06629,
+    "latitude": 48.56678,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Hilaire Du Harcouet",
+    "description": ""
+  },
+  {
+    "longitude": 2.77753,
+    "latitude": 50.291,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Nicolas Les Arras",
+    "description": ""
+  },
+  {
+    "longitude": 1.99122,
+    "latitude": 44.36026,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Villefranche De Rouergue",
+    "description": ""
+  },
+  {
+    "longitude": 2.94398,
+    "latitude": 48.37457,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Varennes Sur Seine",
+    "description": ""
+  },
+  {
+    "longitude": 4.38425,
+    "latitude": 44.5996,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint-Etienne De Fontbellon",
+    "description": ""
+  },
+  {
+    "longitude": 0.76436,
+    "latitude": 43.11789,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Estancarbon",
+    "description": ""
+  },
+  {
+    "longitude": -0.99362,
+    "latitude": 45.62977,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Royan",
+    "description": ""
+  },
+  {
+    "longitude": 7.33701,
+    "latitude": 48.19026,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ribeauville",
+    "description": ""
+  },
+  {
+    "longitude": 2.5323,
+    "latitude": 48.90622,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Clichy Sous Bois",
+    "description": ""
+  },
+  {
+    "longitude": 0.73276,
+    "latitude": 48.75376,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Angres",
+    "description": ""
+  },
+  {
+    "longitude": 0.73276,
+    "latitude": 48.75376,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-L'aigle",
+    "description": ""
+  },
+  {
+    "longitude": 2.21421,
+    "latitude": 43.623,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Castres",
+    "description": ""
+  },
+  {
+    "longitude": 2.89352,
+    "latitude": 42.74015,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Perpignan",
+    "description": ""
+  },
+  {
+    "longitude": -0.51994,
+    "latitude": 45.94595,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Jean D'angely",
+    "description": ""
+  },
+  {
+    "longitude": 5.90541,
+    "latitude": 45.58869,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chambery",
+    "description": ""
+  },
+  {
+    "longitude": 6.3345,
+    "latitude": 47.14774,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Valdahon",
+    "description": ""
+  },
+  {
+    "longitude": 6.10492,
+    "latitude": 46.24907,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ferney Voltaire",
+    "description": ""
+  },
+  {
+    "longitude": 5.86,
+    "latitude": 43.1094,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Seyne Sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": 6.44904,
+    "latitude": 43.4135,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vidauban",
+    "description": ""
+  },
+  {
+    "longitude": 1.04406,
+    "latitude": 49.45678,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bapeaume Les Rouen",
+    "description": ""
+  },
+  {
+    "longitude": 0.09098,
+    "latitude": 49.35256,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Deauville",
+    "description": ""
+  },
+  {
+    "longitude": 2.46436,
+    "latitude": 48.94135,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Blanc Mesnil",
+    "description": ""
+  },
+  {
+    "longitude": 1.43259,
+    "latitude": 49.73552,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Neufchatel En Bray",
+    "description": ""
+  },
+  {
+    "longitude": -2.41009,
+    "latitude": 47.32878,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Guerande",
+    "description": ""
+  },
+  {
+    "longitude": 6.17794,
+    "latitude": 48.6544,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vandoeuvre Les Nancy",
+    "description": ""
+  },
+  {
+    "longitude": 5.64605,
+    "latitude": 45.53703,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Pont De Beauvoisin",
+    "description": ""
+  },
+  {
+    "longitude": 2.39917,
+    "latitude": 43.49804,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bout Du Pont De L'arn",
+    "description": ""
+  },
+  {
+    "longitude": -2.79315,
+    "latitude": 47.66837,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vannes",
+    "description": ""
+  },
+  {
+    "longitude": 4.85395,
+    "latitude": 46.78076,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chalon Sur Saone",
+    "description": ""
+  },
+  {
+    "longitude": 2.25644,
+    "latitude": 49.15764,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chambly",
+    "description": ""
+  },
+  {
+    "longitude": 6.80309,
+    "latitude": 47.50432,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Montbeliard",
+    "description": ""
+  },
+  {
+    "longitude": 3.2935,
+    "latitude": 48.54864,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Provins",
+    "description": ""
+  },
+  {
+    "longitude": 1.04408,
+    "latitude": 49.29069,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Pierre Les Elbeuf",
+    "description": ""
+  },
+  {
+    "longitude": 1.7207,
+    "latitude": 44.785,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Gramat",
+    "description": ""
+  },
+  {
+    "longitude": 2.85017,
+    "latitude": 50.10444,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bapaume",
+    "description": ""
+  },
+  {
+    "longitude": 2.40789,
+    "latitude": 48.74495,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Orly",
+    "description": ""
+  },
+  {
+    "longitude": 2.43102,
+    "latitude": 49.50628,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Just Enchaussee",
+    "description": ""
+  },
+  {
+    "longitude": 2.42757,
+    "latitude": 49.25372,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Thiverny",
+    "description": ""
+  },
+  {
+    "longitude": -3.14872,
+    "latitude": 48.56064,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Guingamp",
+    "description": ""
+  },
+  {
+    "longitude": 2.83916,
+    "latitude": 42.53045,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Boulou",
+    "description": ""
+  },
+  {
+    "longitude": 5.91921,
+    "latitude": 46.74598,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Champagnole",
+    "description": ""
+  },
+  {
+    "longitude": -4.5855,
+    "latitude": 48.4277,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Guilers",
+    "description": ""
+  },
+  {
+    "longitude": 7.90094,
+    "latitude": 48.73103,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Herrlisheim",
+    "description": ""
+  },
+  {
+    "longitude": -4.52105,
+    "latitude": 48.57018,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lannilis",
+    "description": ""
+  },
+  {
+    "longitude": -1.05171,
+    "latitude": 46.7002,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chantonnay",
+    "description": ""
+  },
+  {
+    "longitude": 1.47882,
+    "latitude": 46.2384,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Souterraine",
+    "description": ""
+  },
+  {
+    "longitude": 3.1775,
+    "latitude": 47.013,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Coulanges Les Nevers",
+    "description": ""
+  },
+  {
+    "longitude": 1.62772,
+    "latitude": 50.52504,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Etaples Sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": 2.41825,
+    "latitude": 48.79501,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vitry Sur Seine",
+    "description": ""
+  },
+  {
+    "longitude": 7.28623,
+    "latitude": 47.62124,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Altkirch",
+    "description": ""
+  },
+  {
+    "longitude": 4.37238,
+    "latitude": 46.68237,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Montceau Les Mines",
+    "description": ""
+  },
+  {
+    "longitude": 5.33357,
+    "latitude": 47.83128,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saints Geosmes",
+    "description": ""
+  },
+  {
+    "longitude": 3.32354,
+    "latitude": 49.84277,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Harly",
+    "description": ""
+  },
+  {
+    "longitude": -0.62291,
+    "latitude": 43.3738,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Mourenx",
+    "description": ""
+  },
+  {
+    "longitude": 7.0896,
+    "latitude": 48.93468,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Sarre Union",
+    "description": ""
+  },
+  {
+    "longitude": -1.31478,
+    "latitude": 46.97578,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Montaigu",
+    "description": ""
+  },
+  {
+    "longitude": 6.76925,
+    "latitude": 47.58103,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Hericourt",
+    "description": ""
+  },
+  {
+    "longitude": 5.83327,
+    "latitude": 48.21069,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Contrexeville",
+    "description": ""
+  },
+  {
+    "longitude": 3.41012,
+    "latitude": 50.12427,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Caudry",
+    "description": ""
+  },
+  {
+    "longitude": -0.20817,
+    "latitude": 48.90779,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Falaise",
+    "description": ""
+  },
+  {
+    "longitude": -1.35066,
+    "latitude": 46.19543,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Martin De Re",
+    "description": ""
+  },
+  {
+    "longitude": 6.68807,
+    "latitude": 43.4584,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Puget Sur Argens",
+    "description": ""
+  },
+  {
+    "longitude": -3.57401,
+    "latitude": 48.27596,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Carhaix Plouger",
+    "description": ""
+  },
+  {
+    "longitude": 4.01318,
+    "latitude": 49.19837,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Champfleury",
+    "description": ""
+  },
+  {
+    "longitude": 1.15619,
+    "latitude": 49.07774,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Normanville",
+    "description": ""
+  },
+  {
+    "longitude": -3.31614,
+    "latitude": 48.23552,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Rostrenen",
+    "description": ""
+  },
+  {
+    "longitude": 6.09154,
+    "latitude": 45.89201,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Cran Gevrier",
+    "description": ""
+  },
+  {
+    "longitude": 0.60623,
+    "latitude": 47.40402,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Fondettes",
+    "description": ""
+  },
+  {
+    "longitude": 4.80052,
+    "latitude": 44.70917,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saulce Sur Rhone",
+    "description": ""
+  },
+  {
+    "longitude": 2.8795,
+    "latitude": 48.93832,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Mareuil Les Meaux",
+    "description": ""
+  },
+  {
+    "longitude": -4.34649,
+    "latitude": 48.38691,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Plougastel Daoulas",
+    "description": ""
+  },
+  {
+    "longitude": 1.00441,
+    "latitude": 47.11021,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Loches",
+    "description": ""
+  },
+  {
+    "longitude": 4.82398,
+    "latitude": 45.89049,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Genay",
+    "description": ""
+  },
+  {
+    "longitude": 4.75695,
+    "latitude": 44.5678,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Montelimar",
+    "description": ""
+  },
+  {
+    "longitude": 1.45987,
+    "latitude": 48.86391,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Anet",
+    "description": ""
+  },
+  {
+    "longitude": -1.01534,
+    "latitude": 46.85778,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Les Herbiers",
+    "description": ""
+  },
+  {
+    "longitude": -4.24844,
+    "latitude": 48.45082,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Thonan",
+    "description": ""
+  },
+  {
+    "longitude": 1.59255,
+    "latitude": 50.70651,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Outreau",
+    "description": ""
+  },
+  {
+    "longitude": 1.26927,
+    "latitude": 45.86916,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Limoges",
+    "description": ""
+  },
+  {
+    "longitude": -1.89591,
+    "latitude": 46.85444,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Challans",
+    "description": ""
+  },
+  {
+    "longitude": 3.09954,
+    "latitude": 49.24068,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Beautor",
+    "description": ""
+  },
+  {
+    "longitude": 3.09954,
+    "latitude": 49.24068,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Villers Cotterets",
+    "description": ""
+  },
+  {
+    "longitude": 3.94475,
+    "latitude": 49.02495,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pierry",
+    "description": ""
+  },
+  {
+    "longitude": 5.80292,
+    "latitude": 43.8397,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Manosque",
+    "description": ""
+  },
+  {
+    "longitude": 6.39208,
+    "latitude": 47.79261,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Sauveur",
+    "description": ""
+  },
+  {
+    "longitude": 7.24407,
+    "latitude": 47.90203,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Issenheim",
+    "description": ""
+  },
+  {
+    "longitude": 2.44319,
+    "latitude": 48.72058,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Montgeron",
+    "description": ""
+  },
+  {
+    "longitude": -0.4812,
+    "latitude": 43.8668,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Pierre Du Mont",
+    "description": ""
+  },
+  {
+    "longitude": -1.77495,
+    "latitude": 46.52523,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Olonne Sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": 3.17485,
+    "latitude": 50.52216,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Templeuve",
+    "description": ""
+  },
+  {
+    "longitude": -0.33867,
+    "latitude": 45.6852,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Cognac",
+    "description": ""
+  },
+  {
+    "longitude": -3.24001,
+    "latitude": 47.7641,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Kervignac",
+    "description": ""
+  },
+  {
+    "longitude": 5.38044,
+    "latitude": 49.1652,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Verdun",
+    "description": ""
+  },
+  {
+    "longitude": 4.9636,
+    "latitude": 43.523,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Istres",
+    "description": ""
+  },
+  {
+    "longitude": 2.92462,
+    "latitude": 49.51611,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ribecourt-Dreslincourt",
+    "description": ""
+  },
+  {
+    "longitude": 1.84388,
+    "latitude": 44.9245,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Biars Sur Cere",
+    "description": ""
+  },
+  {
+    "longitude": 6.80672,
+    "latitude": 43.4328,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Raphael",
+    "description": ""
+  },
+  {
+    "longitude": 1.35481,
+    "latitude": 44.00507,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Montauban",
+    "description": ""
+  },
+  {
+    "longitude": 7.71734,
+    "latitude": 48.52258,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Illkirch-Graffenstaden",
+    "description": ""
+  },
+  {
+    "longitude": 7.57521,
+    "latitude": 48.7578,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Hochfelden",
+    "description": ""
+  },
+  {
+    "longitude": 2.58403,
+    "latitude": 49.6483,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Montdidier",
+    "description": ""
+  },
+  {
+    "longitude": 2.7328,
+    "latitude": 47.97809,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Amilly",
+    "description": ""
+  },
+  {
+    "longitude": 4.28509,
+    "latitude": 45.53595,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Andrezieux Boutheon",
+    "description": ""
+  },
+  {
+    "longitude": -0.07781,
+    "latitude": 47.25688,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saumur",
+    "description": ""
+  },
+  {
+    "longitude": 1.54614,
+    "latitude": 45.16681,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Brive",
+    "description": ""
+  },
+  {
+    "longitude": -2.54537,
+    "latitude": 47.96111,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Josselin",
+    "description": ""
+  },
+  {
+    "longitude": 3.06664,
+    "latitude": 49.73241,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Muille-Villette",
+    "description": ""
+  },
+  {
+    "longitude": -1.42644,
+    "latitude": 46.67051,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Roche Sur Yon",
+    "description": ""
+  },
+  {
+    "longitude": 3.97698,
+    "latitude": 47.86922,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Tonnerre",
+    "description": ""
+  },
+  {
+    "longitude": 0.56364,
+    "latitude": 45.74282,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Flers De L'orne",
+    "description": ""
+  },
+  {
+    "longitude": 1.51785,
+    "latitude": 43.67057,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Rouffiac Tolosan",
+    "description": ""
+  },
+  {
+    "longitude": 2.13683,
+    "latitude": 48.43528,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Etampes",
+    "description": ""
+  },
+  {
+    "longitude": 7.68949,
+    "latitude": 48.52547,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Geispolsheim",
+    "description": ""
+  },
+  {
+    "longitude": -0.91528,
+    "latitude": 43.9174,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Rion Les Landes",
+    "description": ""
+  },
+  {
+    "longitude": 1.40364,
+    "latitude": 44.47789,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pradines",
+    "description": ""
+  },
+  {
+    "longitude": -0.0073,
+    "latitude": 43.243,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ibos Cedex 9",
+    "description": ""
+  },
+  {
+    "longitude": -0.24024,
+    "latitude": 44.9395,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Libourne",
+    "description": ""
+  },
+  {
+    "longitude": 4.14842,
+    "latitude": 43.68067,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lunel",
+    "description": ""
+  },
+  {
+    "longitude": -1.11336,
+    "latitude": 44.6466,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Teste De Buch",
+    "description": ""
+  },
+  {
+    "longitude": 4.47352,
+    "latitude": 46.80685,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Breuil Invest",
+    "description": ""
+  },
+  {
+    "longitude": 3.73293,
+    "latitude": 48.70963,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Sezanne",
+    "description": ""
+  },
+  {
+    "longitude": 6.30429,
+    "latitude": 43.3815,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Luc",
+    "description": ""
+  },
+  {
+    "longitude": 0.91671,
+    "latitude": 45.89737,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Junien",
+    "description": ""
+  },
+  {
+    "longitude": 7.7349,
+    "latitude": 48.61038,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Schiltigheim",
+    "description": ""
+  },
+  {
+    "longitude": 2.11012,
+    "latitude": 43.92031,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Albi",
+    "description": ""
+  },
+  {
+    "longitude": 7.56659,
+    "latitude": 48.29008,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Hilsenheim",
+    "description": ""
+  },
+  {
+    "longitude": 0.35766,
+    "latitude": 46.56755,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Poitiers",
+    "description": ""
+  },
+  {
+    "longitude": 7.56656,
+    "latitude": 48.5427,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Duttlenheim",
+    "description": ""
+  },
+  {
+    "longitude": 0.91106,
+    "latitude": 47.00674,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Loudun",
+    "description": ""
+  },
+  {
+    "longitude": 2.29143,
+    "latitude": 45.54759,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ussel",
+    "description": ""
+  },
+  {
+    "longitude": -1.16104,
+    "latitude": 45.85335,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bourcefranc Le Chapus",
+    "description": ""
+  },
+  {
+    "longitude": 2.59079,
+    "latitude": 46.37975,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Victor",
+    "description": ""
+  },
+  {
+    "longitude": -1.72147,
+    "latitude": 47.27721,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Etienne De Montluc",
+    "description": ""
+  },
+  {
+    "longitude": 2.72171,
+    "latitude": 50.48274,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Noeux Les Mines",
+    "description": ""
+  },
+  {
+    "longitude": 7.25575,
+    "latitude": 48.76398,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Phalsbourg",
+    "description": ""
+  },
+  {
+    "longitude": 3.13402,
+    "latitude": 45.78017,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Clermont Ferrand",
+    "description": ""
+  },
+  {
+    "longitude": 3.12658,
+    "latitude": 45.76118,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Clermont Ferrand",
+    "description": ""
+  },
+  {
+    "longitude": -4.26854,
+    "latitude": 48.46692,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Landerneau",
+    "description": ""
+  },
+  {
+    "longitude": 3.76651,
+    "latitude": 48.5048,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Romilly Sur Seine",
+    "description": ""
+  },
+  {
+    "longitude": 2.26178,
+    "latitude": 49.0032,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Prix",
+    "description": ""
+  },
+  {
+    "longitude": -0.35065,
+    "latitude": 43.2755,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Mazeres Lezons Jurancon",
+    "description": ""
+  },
+  {
+    "longitude": 1.41601,
+    "latitude": 50.04177,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Eu",
+    "description": ""
+  },
+  {
+    "longitude": -0.73638,
+    "latitude": 48.05748,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Laval Cedex 9",
+    "description": ""
+  },
+  {
+    "longitude": 1.7133,
+    "latitude": 49.47809,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Gournay En Bray",
+    "description": ""
+  },
+  {
+    "longitude": -3.92188,
+    "latitude": 47.87455,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Concarneau",
+    "description": ""
+  },
+  {
+    "longitude": 4.05273,
+    "latitude": 46.04491,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Riorges",
+    "description": ""
+  },
+  {
+    "longitude": 1.90828,
+    "latitude": 43.87701,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Gaillac",
+    "description": ""
+  },
+  {
+    "longitude": -2.9454,
+    "latitude": 48.06821,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pontivy",
+    "description": ""
+  },
+  {
+    "longitude": -1.51462,
+    "latitude": 47.24982,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Nantes",
+    "description": ""
+  },
+  {
+    "longitude": 5.06794,
+    "latitude": 47.34149,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Dijon",
+    "description": ""
+  },
+  {
+    "longitude": 2.22283,
+    "latitude": 43.07376,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Limoux",
+    "description": ""
+  },
+  {
+    "longitude": 3.12885,
+    "latitude": 48.93797,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Ferte Sous Jouarre",
+    "description": ""
+  },
+  {
+    "longitude": 4.92747,
+    "latitude": 49.69915,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Sedan",
+    "description": ""
+  },
+  {
+    "longitude": 4.92747,
+    "latitude": 49.69915,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vouziers",
+    "description": ""
+  },
+  {
+    "longitude": 0.18195,
+    "latitude": 44.8444,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pineuilh",
+    "description": ""
+  },
+  {
+    "longitude": 2.08516,
+    "latitude": 47.23064,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vierzon",
+    "description": ""
+  },
+  {
+    "longitude": 1.3329,
+    "latitude": 48.07201,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chateaudun",
+    "description": ""
+  },
+  {
+    "longitude": 4.64009,
+    "latitude": 43.70598,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Arles",
+    "description": ""
+  },
+  {
+    "longitude": 3.99279,
+    "latitude": 46.48756,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Digoin",
+    "description": ""
+  },
+  {
+    "longitude": 6.11382,
+    "latitude": 43.1115,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Hyeres",
+    "description": ""
+  },
+  {
+    "longitude": -1.47072,
+    "latitude": 47.18752,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Basse Goulaine",
+    "description": ""
+  },
+  {
+    "longitude": -1.16755,
+    "latitude": 46.17833,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lagord",
+    "description": ""
+  },
+  {
+    "longitude": 0.07967,
+    "latitude": 43.2197,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Tarbes",
+    "description": ""
+  },
+  {
+    "longitude": -1.49475,
+    "latitude": 46.76679,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Poire Sur Vie",
+    "description": ""
+  },
+  {
+    "longitude": 6.11707,
+    "latitude": 49.3069,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Fameck",
+    "description": ""
+  },
+  {
+    "longitude": 4.72848,
+    "latitude": 45.41394,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chavannay",
+    "description": ""
+  },
+  {
+    "longitude": 0.97866,
+    "latitude": 44.4858,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Montayral",
+    "description": ""
+  },
+  {
+    "longitude": 2.08426,
+    "latitude": 49.0083,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Conflans En Jarnisy",
+    "description": ""
+  },
+  {
+    "longitude": -1.57388,
+    "latitude": 47.19339,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Reze",
+    "description": ""
+  },
+  {
+    "longitude": 3.5425,
+    "latitude": 50.37401,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Valenciennes",
+    "description": ""
+  },
+  {
+    "longitude": 2.58961,
+    "latitude": 46.3535,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Montlucon",
+    "description": ""
+  },
+  {
+    "longitude": -0.20659,
+    "latitude": 46.99804,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Thouars",
+    "description": ""
+  },
+  {
+    "longitude": 1.42363,
+    "latitude": 43.67812,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Fonbeauzar",
+    "description": ""
+  },
+  {
+    "longitude": 6.42584,
+    "latitude": 48.1902,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Golbey",
+    "description": ""
+  },
+  {
+    "longitude": 2.03689,
+    "latitude": 48.79994,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bois D'arcy",
+    "description": ""
+  },
+  {
+    "longitude": 7.44837,
+    "latitude": 48.63959,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Wasselonne",
+    "description": ""
+  },
+  {
+    "longitude": 4.38286,
+    "latitude": 45.47342,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Priest En Jarez",
+    "description": ""
+  },
+  {
+    "longitude": -1.09769,
+    "latitude": 49.11718,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Lo",
+    "description": ""
+  },
+  {
+    "longitude": 2.94649,
+    "latitude": 50.49925,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Carvin",
+    "description": ""
+  },
+  {
+    "longitude": 7.34262,
+    "latitude": 47.78983,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Kingersheim",
+    "description": ""
+  },
+  {
+    "longitude": 6.78589,
+    "latitude": 43.541,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Frejus",
+    "description": ""
+  },
+  {
+    "longitude": -2.04282,
+    "latitude": 48.45099,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Dinan",
+    "description": ""
+  },
+  {
+    "longitude": -4.54239,
+    "latitude": 48.02198,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Audierne",
+    "description": ""
+  },
+  {
+    "longitude": -2.77524,
+    "latitude": 48.49918,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ploufragan",
+    "description": ""
+  },
+  {
+    "longitude": 0.70856,
+    "latitude": 49.86058,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Valery En Caux",
+    "description": ""
+  },
+  {
+    "longitude": 2.20501,
+    "latitude": 48.98974,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Franconville",
+    "description": ""
+  },
+  {
+    "longitude": 1.23039,
+    "latitude": 44.8734,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Sarlat La Caneda",
+    "description": ""
+  },
+  {
+    "longitude": 7.89691,
+    "latitude": 48.92802,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Soultz-Sous-Forets",
+    "description": ""
+  },
+  {
+    "longitude": 6.13394,
+    "latitude": 47.61485,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Noidans Les Vesoul",
+    "description": ""
+  },
+  {
+    "longitude": 4.69125,
+    "latitude": 45.7411,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Grezieu La Varenne",
+    "description": ""
+  },
+  {
+    "longitude": 2.44236,
+    "latitude": 44.91425,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Aurillac",
+    "description": ""
+  },
+  {
+    "longitude": 6.17003,
+    "latitude": 49.21418,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Hauconcourt",
+    "description": ""
+  },
+  {
+    "longitude": -0.82344,
+    "latitude": 46.46478,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Fontenay Le Comte",
+    "description": ""
+  },
+  {
+    "longitude": 7.65589,
+    "latitude": 48.42926,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Erstein",
+    "description": ""
+  },
+  {
+    "longitude": 2.7813,
+    "latitude": 50.28036,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Dainville",
+    "description": ""
+  },
+  {
+    "longitude": -0.34054,
+    "latitude": 47.83727,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Sable Sur Sarthe",
+    "description": ""
+  },
+  {
+    "longitude": 1.46668,
+    "latitude": 49.09507,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vernon",
+    "description": ""
+  },
+  {
+    "longitude": 1.37227,
+    "latitude": 43.64603,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Blagnac",
+    "description": ""
+  },
+  {
+    "longitude": -0.84992,
+    "latitude": 47.05183,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Cholet",
+    "description": ""
+  },
+  {
+    "longitude": 4.84413,
+    "latitude": 47.04097,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Beaune",
+    "description": ""
+  },
+  {
+    "longitude": 2.26013,
+    "latitude": 49.87031,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Salouel",
+    "description": ""
+  },
+  {
+    "longitude": -1.21992,
+    "latitude": 44.2052,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Mimizan Bourg",
+    "description": ""
+  },
+  {
+    "longitude": 4.99754,
+    "latitude": 45.82461,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Beynost",
+    "description": ""
+  },
+  {
+    "longitude": -0.41455,
+    "latitude": 46.33854,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Niort",
+    "description": ""
+  },
+  {
+    "longitude": -1.5389,
+    "latitude": 43.4637,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Biarritz",
+    "description": ""
+  },
+  {
+    "longitude": 2.33358,
+    "latitude": 48.95514,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Epinay Sur Seine",
+    "description": ""
+  },
+  {
+    "longitude": 1.04424,
+    "latitude": 47.80305,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vendome",
+    "description": ""
+  },
+  {
+    "longitude": 4.1069,
+    "latitude": 44.1174,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ales",
+    "description": ""
+  },
+  {
+    "longitude": -0.64567,
+    "latitude": 45.74844,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saintes",
+    "description": ""
+  },
+  {
+    "longitude": 0.7779,
+    "latitude": 45.203,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Trelissac",
+    "description": ""
+  },
+  {
+    "longitude": -3.7037,
+    "latitude": 48.02683,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Scaer",
+    "description": ""
+  },
+  {
+    "longitude": 3.33025,
+    "latitude": 46.57284,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Avermes",
+    "description": ""
+  },
+  {
+    "longitude": -0.44975,
+    "latitude": 47.35586,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Brissac - Quince",
+    "description": ""
+  },
+  {
+    "longitude": 6.98178,
+    "latitude": 43.5761,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Cannes La Bocca",
+    "description": ""
+  },
+  {
+    "longitude": 4.8109,
+    "latitude": 44.55311,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-St Rambert D'albon",
+    "description": ""
+  },
+  {
+    "longitude": 3.5815,
+    "latitude": 47.83556,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Moneteau",
+    "description": ""
+  },
+  {
+    "longitude": -0.06368,
+    "latitude": 44.854,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Magne De Castillon",
+    "description": ""
+  },
+  {
+    "longitude": 1.19816,
+    "latitude": 48.76281,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Lubin Des Joncherets",
+    "description": ""
+  },
+  {
+    "longitude": 1.34851,
+    "latitude": 48.7354,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Dreux",
+    "description": ""
+  },
+  {
+    "longitude": 1.91167,
+    "latitude": 47.94608,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Fleury Les Aubrais",
+    "description": ""
+  },
+  {
+    "longitude": -0.25006,
+    "latitude": 46.40068,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Azay Le Brule",
+    "description": ""
+  },
+  {
+    "longitude": 4.85609,
+    "latitude": 45.71688,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Venissieux",
+    "description": ""
+  },
+  {
+    "longitude": 2.15484,
+    "latitude": 43.95625,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lescure D'albigeois",
+    "description": ""
+  },
+  {
+    "longitude": 0.77543,
+    "latitude": 49.61302,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Yvetot",
+    "description": ""
+  },
+  {
+    "longitude": -0.49802,
+    "latitude": 46.84937,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bressuire",
+    "description": ""
+  },
+  {
+    "longitude": -1.97497,
+    "latitude": 48.65712,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Malo",
+    "description": ""
+  },
+  {
+    "longitude": 3.27894,
+    "latitude": 48.21661,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Denis Les Sens",
+    "description": ""
+  },
+  {
+    "longitude": -1.31811,
+    "latitude": 45.94582,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Pierre D'oleron",
+    "description": ""
+  },
+  {
+    "longitude": -2.07697,
+    "latitude": 47.64598,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Nicolas De Redon",
+    "description": ""
+  },
+  {
+    "longitude": 1.37658,
+    "latitude": 43.50939,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Roques Sur Garonne",
+    "description": ""
+  },
+  {
+    "longitude": 2.60332,
+    "latitude": 48.95018,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Villeparisis",
+    "description": ""
+  },
+  {
+    "longitude": -0.511,
+    "latitude": 46.44789,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Villiers En Plaine",
+    "description": ""
+  },
+  {
+    "longitude": 2.5911,
+    "latitude": 44.37948,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Onet Le Ch�teau",
+    "description": ""
+  },
+  {
+    "longitude": 7.37503,
+    "latitude": 48.70102,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Marmoutier",
+    "description": ""
+  },
+  {
+    "longitude": 2.11149,
+    "latitude": 50.707,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lumbres",
+    "description": ""
+  },
+  {
+    "longitude": -4.0701,
+    "latitude": 48.50974,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Landivisiau",
+    "description": ""
+  },
+  {
+    "longitude": 3.08386,
+    "latitude": 50.38191,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Dowaai",
+    "description": ""
+  },
+  {
+    "longitude": -0.25449,
+    "latitude": 44.5415,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Langon",
+    "description": ""
+  },
+  {
+    "longitude": -1.33407,
+    "latitude": 43.7453,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Soustons",
+    "description": ""
+  },
+  {
+    "longitude": 1.7461,
+    "latitude": 47.35978,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Romorantin",
+    "description": ""
+  },
+  {
+    "longitude": -1.21441,
+    "latitude": 49.30313,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Carentan",
+    "description": ""
+  },
+  {
+    "longitude": 1.91435,
+    "latitude": 47.84335,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Olivet",
+    "description": ""
+  },
+  {
+    "longitude": 2.06208,
+    "latitude": 44.59457,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Figeac",
+    "description": ""
+  },
+  {
+    "longitude": 5.24221,
+    "latitude": 46.22098,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bourg En Bresse",
+    "description": ""
+  },
+  {
+    "longitude": 2.08727,
+    "latitude": 49.0689,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Osny",
+    "description": ""
+  },
+  {
+    "longitude": 3.04035,
+    "latitude": 44.08071,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Millau Creissels",
+    "description": ""
+  },
+  {
+    "longitude": 7.38028,
+    "latitude": 48.08109,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Colmar",
+    "description": ""
+  },
+  {
+    "longitude": 1.62355,
+    "latitude": 43.09558,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Jean Du Falga",
+    "description": ""
+  },
+  {
+    "longitude": 2.44772,
+    "latitude": 49.32336,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Cauffry",
+    "description": ""
+  },
+  {
+    "longitude": -1.8096,
+    "latitude": 47.82161,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Messac",
+    "description": ""
+  },
+  {
+    "longitude": 6.40511,
+    "latitude": 46.33908,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Sciez Sur Leman",
+    "description": ""
+  },
+  {
+    "longitude": -0.46937,
+    "latitude": 46.32941,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Niort",
+    "description": ""
+  },
+  {
+    "longitude": 4.88339,
+    "latitude": 44.9592,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bourg Les Valence",
+    "description": ""
+  },
+  {
+    "longitude": 7.31629,
+    "latitude": 48.08733,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Colmar Logelbach",
+    "description": ""
+  },
+  {
+    "longitude": -3.60636,
+    "latitude": 48.14093,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Gourin",
+    "description": ""
+  },
+  {
+    "longitude": 4.82929,
+    "latitude": 46.32811,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Macon",
+    "description": ""
+  },
+  {
+    "longitude": -3.27758,
+    "latitude": 47.80366,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Hennebont",
+    "description": ""
+  },
+  {
+    "longitude": 4.2976,
+    "latitude": 45.38825,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Firminy",
+    "description": ""
+  },
+  {
+    "longitude": 1.62727,
+    "latitude": 42.94536,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Foix",
+    "description": ""
+  },
+  {
+    "longitude": 0.91952,
+    "latitude": 49.14723,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Neubourg",
+    "description": ""
+  },
+  {
+    "longitude": -4.41812,
+    "latitude": 48.24909,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Crozon",
+    "description": ""
+  },
+  {
+    "longitude": 2.97123,
+    "latitude": 43.18114,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Narbonne",
+    "description": ""
+  },
+  {
+    "longitude": 7.00161,
+    "latitude": 47.77434,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Masevaux",
+    "description": ""
+  },
+  {
+    "longitude": 2.2456,
+    "latitude": 48.72767,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Massy Palaiseau",
+    "description": ""
+  },
+  {
+    "longitude": -0.60265,
+    "latitude": 44.8785,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bruges",
+    "description": ""
+  },
+  {
+    "longitude": 7.16676,
+    "latitude": 47.79428,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Cernay",
+    "description": ""
+  },
+  {
+    "longitude": 3.58068,
+    "latitude": 47.7973,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Auxerre",
+    "description": ""
+  },
+  {
+    "longitude": 1.39867,
+    "latitude": 43.72057,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bruguieres",
+    "description": ""
+  },
+  {
+    "longitude": 5.4355,
+    "latitude": 47.80458,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chalindrey",
+    "description": ""
+  },
+  {
+    "longitude": 0.2213,
+    "latitude": 48.01854,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Mans",
+    "description": ""
+  },
+  {
+    "longitude": 4.75015,
+    "latitude": 43.9604,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Les Angles",
+    "description": ""
+  },
+  {
+    "longitude": -0.4733,
+    "latitude": 44.9084,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Sainte Eulalie",
+    "description": ""
+  },
+  {
+    "longitude": 7.75171,
+    "latitude": 48.65206,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Reichstett",
+    "description": ""
+  },
+  {
+    "longitude": 5.11603,
+    "latitude": 43.6287,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Salon De Provence",
+    "description": ""
+  },
+  {
+    "longitude": 0.52741,
+    "latitude": 45.14904,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Astier",
+    "description": ""
+  },
+  {
+    "longitude": 5.35583,
+    "latitude": 43.4171,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Cabries",
+    "description": ""
+  },
+  {
+    "longitude": 4.85002,
+    "latitude": 46.74892,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lux",
+    "description": ""
+  },
+  {
+    "longitude": 0.52496,
+    "latitude": 45.1462,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Astier",
+    "description": ""
+  },
+  {
+    "longitude": 2.43025,
+    "latitude": 48.99054,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Gonesse",
+    "description": ""
+  },
+  {
+    "longitude": 0.36175,
+    "latitude": 49.72952,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Leonard",
+    "description": ""
+  },
+  {
+    "longitude": 4.11826,
+    "latitude": 46.46561,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Paray Le Monial",
+    "description": ""
+  },
+  {
+    "longitude": -4.46935,
+    "latitude": 48.4284,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Brest Cedex 2",
+    "description": ""
+  },
+  {
+    "longitude": -1.28161,
+    "latitude": 47.09589,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Clisson",
+    "description": ""
+  },
+  {
+    "longitude": 1.46393,
+    "latitude": 48.41126,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Barjouville",
+    "description": ""
+  },
+  {
+    "longitude": -0.36551,
+    "latitude": 48.58239,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Ferte Mace",
+    "description": ""
+  },
+  {
+    "longitude": 7.40626,
+    "latitude": 48.22793,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Selestat",
+    "description": ""
+  },
+  {
+    "longitude": 2.86773,
+    "latitude": 50.44291,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Loison Sous Lens",
+    "description": ""
+  },
+  {
+    "longitude": 2.00376,
+    "latitude": 46.95692,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Issoudun",
+    "description": ""
+  },
+  {
+    "longitude": 3.09295,
+    "latitude": 43.21574,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Salles D'aude",
+    "description": ""
+  },
+  {
+    "longitude": 3.39053,
+    "latitude": 49.03604,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ch�teau Thierry",
+    "description": ""
+  },
+  {
+    "longitude": 0.56116,
+    "latitude": 46.82538,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chatellerault",
+    "description": ""
+  },
+  {
+    "longitude": -2.82104,
+    "latitude": 47.9193,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Moreac",
+    "description": ""
+  },
+  {
+    "longitude": -0.7524,
+    "latitude": 46.10908,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Surgeres",
+    "description": ""
+  },
+  {
+    "longitude": 5.02053,
+    "latitude": 47.27873,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Marsannay La Cote",
+    "description": ""
+  },
+  {
+    "longitude": 2.32828,
+    "latitude": 43.22708,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Carcassonne",
+    "description": ""
+  },
+  {
+    "longitude": 0.59128,
+    "latitude": 43.6642,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Auch",
+    "description": ""
+  },
+  {
+    "longitude": -1.13168,
+    "latitude": 46.46193,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lucon",
+    "description": ""
+  },
+  {
+    "longitude": 1.48299,
+    "latitude": 46.23909,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Souterraine",
+    "description": ""
+  },
+  {
+    "longitude": -0.17227,
+    "latitude": 49.12264,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Argences",
+    "description": ""
+  },
+  {
+    "longitude": 7.12268,
+    "latitude": 43.6739,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Colle Sur Loup",
+    "description": ""
+  },
+  {
+    "longitude": -0.34048,
+    "latitude": 49.14086,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ifs",
+    "description": ""
+  },
+  {
+    "longitude": -2.51474,
+    "latitude": 48.46682,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lamballe",
+    "description": ""
+  },
+  {
+    "longitude": 4.08421,
+    "latitude": 49.92027,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Hirson",
+    "description": ""
+  },
+  {
+    "longitude": 5.30359,
+    "latitude": 45.14294,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chatte",
+    "description": ""
+  },
+  {
+    "longitude": 2.02937,
+    "latitude": 48.94246,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Carrieres Sous Poissy",
+    "description": ""
+  },
+  {
+    "longitude": -0.56009,
+    "latitude": 45.5779,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pons",
+    "description": ""
+  },
+  {
+    "longitude": -1.54447,
+    "latitude": 47.15986,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Reze",
+    "description": ""
+  },
+  {
+    "longitude": 1.64857,
+    "latitude": 46.78031,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint-Maur",
+    "description": ""
+  },
+  {
+    "longitude": 1.00167,
+    "latitude": 47.4056,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Amboise",
+    "description": ""
+  },
+  {
+    "longitude": 1.30118,
+    "latitude": 43.6587,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Vincent De Tyrosse",
+    "description": ""
+  },
+  {
+    "longitude": -4.59304,
+    "latitude": 48.42745,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Guilers",
+    "description": ""
+  },
+  {
+    "longitude": 3.05734,
+    "latitude": 44.0877,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Millau",
+    "description": ""
+  },
+  {
+    "longitude": -1.43496,
+    "latitude": 46.6456,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Roche Sur Yon",
+    "description": ""
+  },
+  {
+    "longitude": -2.39568,
+    "latitude": 47.93027,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ploermel",
+    "description": ""
+  },
+  {
+    "longitude": -3.81408,
+    "latitude": 48.18884,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chateauneuf Du Faou",
+    "description": ""
+  },
+  {
+    "longitude": -0.61714,
+    "latitude": 43.1974,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Oloron Sainte Marie",
+    "description": ""
+  },
+  {
+    "longitude": 2.73891,
+    "latitude": 50.72634,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bailleul",
+    "description": ""
+  },
+  {
+    "longitude": -1.2137,
+    "latitude": 48.35394,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lecousse",
+    "description": ""
+  },
+  {
+    "longitude": 3.52904,
+    "latitude": 45.84722,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Thiers",
+    "description": ""
+  },
+  {
+    "longitude": -0.49203,
+    "latitude": 46.83968,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bressuire",
+    "description": ""
+  },
+  {
+    "longitude": 7.5053,
+    "latitude": 47.60712,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Blotzheim",
+    "description": ""
+  },
+  {
+    "longitude": 1.00367,
+    "latitude": 44.0416,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Nicolas De La Grave",
+    "description": ""
+  },
+  {
+    "longitude": 2.37693,
+    "latitude": 48.66478,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Viry Chatillon",
+    "description": ""
+  },
+  {
+    "longitude": 0.83067,
+    "latitude": 48.33094,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Margon Nogent Le Rotrou",
+    "description": ""
+  },
+  {
+    "longitude": 6.72485,
+    "latitude": 48.20134,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bruyeres",
+    "description": ""
+  },
+  {
+    "longitude": 0.23326,
+    "latitude": 49.41876,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Honfleur",
+    "description": ""
+  },
+  {
+    "longitude": 6.0937,
+    "latitude": 44.5639,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Gap",
+    "description": ""
+  },
+  {
+    "longitude": 0.2191,
+    "latitude": 44.8284,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Port Sainte Foy",
+    "description": ""
+  },
+  {
+    "longitude": -0.9602,
+    "latitude": 45.92419,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Rochefort Sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": -1.36053,
+    "latitude": 48.68393,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Avranches",
+    "description": ""
+  },
+  {
+    "longitude": -1.69274,
+    "latitude": 49.6604,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Querqueville",
+    "description": ""
+  },
+  {
+    "longitude": -1.32064,
+    "latitude": 45.9435,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Pierre D'oleron",
+    "description": ""
+  },
+  {
+    "longitude": 2.28875,
+    "latitude": 49.63632,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Breteuil",
+    "description": ""
+  },
+  {
+    "longitude": -1.6241,
+    "latitude": 48.06385,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vern Sur Seiche",
+    "description": ""
+  },
+  {
+    "longitude": 7.00053,
+    "latitude": 43.5726,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Cannet Rocheville",
+    "description": ""
+  },
+  {
+    "longitude": 2.841,
+    "latitude": 49.58759,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lassigny",
+    "description": ""
+  },
+  {
+    "longitude": -1.51826,
+    "latitude": 43.4935,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Anglet",
+    "description": ""
+  },
+  {
+    "longitude": -0.80622,
+    "latitude": 43.4876,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Orthez",
+    "description": ""
+  },
+  {
+    "longitude": 7.18882,
+    "latitude": 43.7081,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Nice Cedex 3",
+    "description": ""
+  },
+  {
+    "longitude": 1.08249,
+    "latitude": 49.43015,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Rouen Cedex",
+    "description": ""
+  },
+  {
+    "longitude": -0.58415,
+    "latitude": 44.7996,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Talence",
+    "description": ""
+  },
+  {
+    "longitude": 7.85247,
+    "latitude": 48.77051,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bischwiller",
+    "description": ""
+  },
+  {
+    "longitude": 4.37221,
+    "latitude": 43.8207,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Nimes",
+    "description": ""
+  },
+  {
+    "longitude": 3.6476,
+    "latitude": 49.58778,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chambry",
+    "description": ""
+  },
+  {
+    "longitude": -0.56799,
+    "latitude": 44.8632,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bordeaux",
+    "description": ""
+  },
+  {
+    "longitude": 3.42871,
+    "latitude": 50.44898,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Amand Les Eaux",
+    "description": ""
+  },
+  {
+    "longitude": -3.32223,
+    "latitude": 47.72551,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Riantec",
+    "description": ""
+  },
+  {
+    "longitude": 1.96399,
+    "latitude": 43.75971,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Graulhet",
+    "description": ""
+  },
+  {
+    "longitude": 3.9799,
+    "latitude": 43.65117,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Aunes",
+    "description": ""
+  },
+  {
+    "longitude": 6.49659,
+    "latitude": 47.68276,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lure",
+    "description": ""
+  },
+  {
+    "longitude": -2.12329,
+    "latitude": 47.1251,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pornic",
+    "description": ""
+  },
+  {
+    "longitude": -1.16677,
+    "latitude": 46.45362,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lucon",
+    "description": ""
+  },
+  {
+    "longitude": 4.1306,
+    "latitude": 48.29818,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Parres Aux Tertres",
+    "description": ""
+  },
+  {
+    "longitude": 6.05032,
+    "latitude": 43.4067,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Brignoles",
+    "description": ""
+  },
+  {
+    "longitude": -0.69089,
+    "latitude": 44.8842,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint-Medard En Jalles",
+    "description": ""
+  },
+  {
+    "longitude": -0.67081,
+    "latitude": 47.46529,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Jean De Linieres",
+    "description": ""
+  },
+  {
+    "longitude": 0.69704,
+    "latitude": 47.35601,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Joue-Les-Tours",
+    "description": ""
+  },
+  {
+    "longitude": -0.64266,
+    "latitude": 45.1272,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Cars",
+    "description": ""
+  },
+  {
+    "longitude": 2.90602,
+    "latitude": 49.23005,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Crepy En Valois",
+    "description": ""
+  },
+  {
+    "longitude": 4.69022,
+    "latitude": 49.39657,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vouziers",
+    "description": ""
+  },
+  {
+    "longitude": 6.93319,
+    "latitude": 48.29348,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Die Des Vosges",
+    "description": ""
+  },
+  {
+    "longitude": -0.55642,
+    "latitude": 44.8058,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Begles",
+    "description": ""
+  },
+  {
+    "longitude": 6.30953,
+    "latitude": 46.91656,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Houtaud",
+    "description": ""
+  },
+  {
+    "longitude": 0.78772,
+    "latitude": 47.39647,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Ville Aux Dames",
+    "description": ""
+  },
+  {
+    "longitude": 7.54361,
+    "latitude": 47.6055,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Louis",
+    "description": ""
+  },
+  {
+    "longitude": 1.18037,
+    "latitude": 49.23586,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Incarville",
+    "description": ""
+  },
+  {
+    "longitude": 8.0355,
+    "latitude": 48.82768,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Roeschwoog",
+    "description": ""
+  },
+  {
+    "longitude": 7.32885,
+    "latitude": 47.74405,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Mulhouse",
+    "description": ""
+  },
+  {
+    "longitude": -1.1641,
+    "latitude": 44.3947,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Biscarosse",
+    "description": ""
+  },
+  {
+    "longitude": 0.1586,
+    "latitude": 47.97418,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Allonnes",
+    "description": ""
+  },
+  {
+    "longitude": 2.68768,
+    "latitude": 50.51322,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Beuvry",
+    "description": ""
+  },
+  {
+    "longitude": 6.81628,
+    "latitude": 49.13646,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Freyming Merlebach",
+    "description": ""
+  },
+  {
+    "longitude": 6.76594,
+    "latitude": 43.6057,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Montauroux Fayence",
+    "description": ""
+  },
+  {
+    "longitude": 1.99937,
+    "latitude": 48.31812,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Angerville",
+    "description": ""
+  },
+  {
+    "longitude": 2.60385,
+    "latitude": 49.31486,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pont Sainte Maxence",
+    "description": ""
+  },
+  {
+    "longitude": -1.73675,
+    "latitude": 47.4679,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Blain",
+    "description": ""
+  },
+  {
+    "longitude": 5.70218,
+    "latitude": 48.36793,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Neufchateau",
+    "description": ""
+  },
+  {
+    "longitude": 2.08409,
+    "latitude": 49.60348,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Crevecoeur Le Grand",
+    "description": ""
+  },
+  {
+    "longitude": 1.46273,
+    "latitude": 44.8983,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Souillac",
+    "description": ""
+  },
+  {
+    "longitude": 7.65213,
+    "latitude": 48.5623,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Holtzheim",
+    "description": ""
+  },
+  {
+    "longitude": 1.06219,
+    "latitude": 46.63973,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Blanc",
+    "description": ""
+  },
+  {
+    "longitude": 0.08137,
+    "latitude": 44.3142,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Casteljaloux",
+    "description": ""
+  },
+  {
+    "longitude": -4.09267,
+    "latitude": 48.19464,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chateaulin",
+    "description": ""
+  },
+  {
+    "longitude": 7.00318,
+    "latitude": 43.57055,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Cannet Rocheville",
+    "description": ""
+  },
+  {
+    "longitude": 2.95694,
+    "latitude": 48.36224,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Varennes Sur Seine",
+    "description": ""
+  },
+  {
+    "longitude": 3.5191,
+    "latitude": 47.47098,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Clamecy",
+    "description": ""
+  },
+  {
+    "longitude": 2.73799,
+    "latitude": 50.28346,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Arras",
+    "description": ""
+  },
+  {
+    "longitude": -1.10992,
+    "latitude": 45.82497,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Marennes",
+    "description": ""
+  },
+  {
+    "longitude": -2.89549,
+    "latitude": 48.40045,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Brandan",
+    "description": ""
+  },
+  {
+    "longitude": 5.09883,
+    "latitude": 45.0573,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Sant Paul Les Romans",
+    "description": ""
+  },
+  {
+    "longitude": 6.13081,
+    "latitude": 49.35791,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Thionville",
+    "description": ""
+  },
+  {
+    "longitude": -1.71383,
+    "latitude": 48.10437,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Rennes",
+    "description": ""
+  },
+  {
+    "longitude": -3.82189,
+    "latitude": 48.58553,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Morlaix",
+    "description": ""
+  },
+  {
+    "longitude": 2.88439,
+    "latitude": 42.68698,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Perpignan",
+    "description": ""
+  },
+  {
+    "longitude": 2.59259,
+    "latitude": 48.77752,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pontault Combault",
+    "description": ""
+  },
+  {
+    "longitude": 2.0977,
+    "latitude": 43.91882,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Sequestre",
+    "description": ""
+  },
+  {
+    "longitude": -2.76115,
+    "latitude": 48.53561,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Plerin Sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": 2.60853,
+    "latitude": 48.50947,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Dammarie Les Lys",
+    "description": ""
+  },
+  {
+    "longitude": 6.69809,
+    "latitude": 49.20782,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Creutzwald",
+    "description": ""
+  },
+  {
+    "longitude": -1.91957,
+    "latitude": 48.17793,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pleumeleuc",
+    "description": ""
+  },
+  {
+    "longitude": -1.59209,
+    "latitude": 49.63334,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Tourlaville",
+    "description": ""
+  },
+  {
+    "longitude": 2.36228,
+    "latitude": 48.80957,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Kremlin Bicetre",
+    "description": ""
+  },
+  {
+    "longitude": 0.56456,
+    "latitude": 46.57062,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Jardres",
+    "description": ""
+  },
+  {
+    "longitude": 2.30749,
+    "latitude": 48.93061,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Gennevilliers",
+    "description": ""
+  },
+  {
+    "longitude": 4.00279,
+    "latitude": 49.28332,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Brice Courcelles",
+    "description": ""
+  },
+  {
+    "longitude": 3.4264,
+    "latitude": 50.36639,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bellaing",
+    "description": ""
+  },
+  {
+    "longitude": 5.56364,
+    "latitude": 45.74282,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Flers",
+    "description": ""
+  },
+  {
+    "longitude": 4.60347,
+    "latitude": 48.73257,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vitry Le Francois",
+    "description": ""
+  },
+  {
+    "longitude": -4.33756,
+    "latitude": 48.55994,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Folgoet",
+    "description": ""
+  },
+  {
+    "longitude": -1.04469,
+    "latitude": 43.7318,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Paul Les Dax",
+    "description": ""
+  },
+  {
+    "longitude": 0.13511,
+    "latitude": 44.5121,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Marmande",
+    "description": ""
+  },
+  {
+    "longitude": -1.53072,
+    "latitude": 48.12098,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Noyal Sur Vilaine",
+    "description": ""
+  },
+  {
+    "longitude": 7.96299,
+    "latitude": 48.76061,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Drusenheim",
+    "description": ""
+  },
+  {
+    "longitude": 3.07028,
+    "latitude": 45.88889,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Enval",
+    "description": ""
+  },
+  {
+    "longitude": -1.687,
+    "latitude": 48.13627,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Rennes Saint Gregoire",
+    "description": ""
+  },
+  {
+    "longitude": 3.09041,
+    "latitude": 48.80378,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Coulommiers",
+    "description": ""
+  },
+  {
+    "longitude": -3.55692,
+    "latitude": 47.87175,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Quimperle",
+    "description": ""
+  },
+  {
+    "longitude": 2.12304,
+    "latitude": 49.05614,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Ouen L'aumone",
+    "description": ""
+  },
+  {
+    "longitude": 5.15832,
+    "latitude": 48.77359,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bar Le Duc",
+    "description": ""
+  },
+  {
+    "longitude": -4.40794,
+    "latitude": 48.39964,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Relecq Kerhuon",
+    "description": ""
+  },
+  {
+    "longitude": 3.96102,
+    "latitude": 49.06568,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Dizy",
+    "description": ""
+  },
+  {
+    "longitude": 0.10749,
+    "latitude": 43.8639,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Eauze",
+    "description": ""
+  },
+  {
+    "longitude": 5.00687,
+    "latitude": 44.3863,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Valreas",
+    "description": ""
+  },
+  {
+    "longitude": 0.66955,
+    "latitude": 44.1817,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bon Encontre",
+    "description": ""
+  },
+  {
+    "longitude": -1.0448,
+    "latitude": 43.7076,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Dax",
+    "description": ""
+  },
+  {
+    "longitude": 4.8781,
+    "latitude": 45.81064,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Flers",
+    "description": ""
+  },
+  {
+    "longitude": 1.32489,
+    "latitude": 47.61523,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Blois",
+    "description": ""
+  },
+  {
+    "longitude": -4.02817,
+    "latitude": 47.90223,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pleuven",
+    "description": ""
+  },
+  {
+    "longitude": 7.4061,
+    "latitude": 48.22804,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Orschwiller",
+    "description": ""
+  },
+  {
+    "longitude": 7.2601,
+    "latitude": 47.58673,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Hirsingue",
+    "description": ""
+  },
+  {
+    "longitude": 0.35124,
+    "latitude": 46.59684,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Buxerolles",
+    "description": ""
+  },
+  {
+    "longitude": 4.31394,
+    "latitude": 48.95877,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Fagnieres",
+    "description": ""
+  },
+  {
+    "longitude": -0.43105,
+    "latitude": 45.44544,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Jonzac",
+    "description": ""
+  },
+  {
+    "longitude": 5.27078,
+    "latitude": 45.59288,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bourgoin Jallieu",
+    "description": ""
+  },
+  {
+    "longitude": -0.23142,
+    "latitude": 43.7016,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Barcelonne Du Gers",
+    "description": ""
+  },
+  {
+    "longitude": 2.96744,
+    "latitude": 50.61529,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Hallennes Lez Haubourdin",
+    "description": ""
+  },
+  {
+    "longitude": -3.38235,
+    "latitude": 47.7282,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Larmor Plage",
+    "description": ""
+  },
+  {
+    "longitude": 2.57028,
+    "latitude": 48.35497,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Acheres La Foret",
+    "description": ""
+  },
+  {
+    "longitude": -1.43649,
+    "latitude": 43.4983,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bayonne",
+    "description": ""
+  },
+  {
+    "longitude": -2.75651,
+    "latitude": 48.18592,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Loudeac",
+    "description": ""
+  },
+  {
+    "longitude": 3.45269,
+    "latitude": 46.82786,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Decize",
+    "description": ""
+  },
+  {
+    "longitude": 3.5132,
+    "latitude": 47.96484,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Migennes",
+    "description": ""
+  },
+  {
+    "longitude": -3.98853,
+    "latitude": 48.68465,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Pol De Leon",
+    "description": ""
+  },
+  {
+    "longitude": 0.09025,
+    "latitude": 47.00005,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Loudun",
+    "description": ""
+  },
+  {
+    "longitude": -4.48954,
+    "latitude": 48.24713,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Crozon",
+    "description": ""
+  },
+  {
+    "longitude": 4.97165,
+    "latitude": 48.62887,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Dizier",
+    "description": ""
+  },
+  {
+    "longitude": 6.30232,
+    "latitude": 48.3626,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Charmes",
+    "description": ""
+  },
+  {
+    "longitude": 1.8774,
+    "latitude": 46.17771,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Gueret",
+    "description": ""
+  },
+  {
+    "longitude": 6.9456,
+    "latitude": 43.6523,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Grasse",
+    "description": ""
+  },
+  {
+    "longitude": -0.59066,
+    "latitude": 44.7479,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Leognan",
+    "description": ""
+  },
+  {
+    "longitude": 2.08508,
+    "latitude": 49.00882,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Conflans Sainte Honorine",
+    "description": ""
+  },
+  {
+    "longitude": 2.41546,
+    "latitude": 51.04632,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Dunkerque",
+    "description": ""
+  },
+  {
+    "longitude": -1.67869,
+    "latitude": 43.3748,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Urrugne",
+    "description": ""
+  },
+  {
+    "longitude": -3.45849,
+    "latitude": 48.73332,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lannion",
+    "description": ""
+  },
+  {
+    "longitude": 5.22736,
+    "latitude": 46.621,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Louhans",
+    "description": ""
+  },
+  {
+    "longitude": 1.07127,
+    "latitude": 49.38842,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Etienne Du Rouvray",
+    "description": ""
+  },
+  {
+    "longitude": 1.9146,
+    "latitude": 47.8427,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Olivet",
+    "description": ""
+  },
+  {
+    "longitude": 3.2401,
+    "latitude": 43.33728,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Beziers",
+    "description": ""
+  },
+  {
+    "longitude": 1.61132,
+    "latitude": 47.76621,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Tavers",
+    "description": ""
+  },
+  {
+    "longitude": -0.46152,
+    "latitude": 43.8777,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Mont De Marsan",
+    "description": ""
+  },
+  {
+    "longitude": 3.05344,
+    "latitude": 50.54941,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Seclin",
+    "description": ""
+  },
+  {
+    "longitude": 1.0978,
+    "latitude": 44.06467,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Castelsarrasin",
+    "description": ""
+  },
+  {
+    "longitude": -0.81053,
+    "latitude": 48.06566,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Berthevin Les Laval",
+    "description": ""
+  },
+  {
+    "longitude": -0.3604,
+    "latitude": 43.3164,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pau",
+    "description": ""
+  },
+  {
+    "longitude": -1.12618,
+    "latitude": 46.17034,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Rochelle",
+    "description": ""
+  },
+  {
+    "longitude": -0.6863,
+    "latitude": 47.83181,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ch�teau Gontier",
+    "description": ""
+  },
+  {
+    "longitude": 0.49793,
+    "latitude": 44.8626,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bergerac",
+    "description": ""
+  },
+  {
+    "longitude": -1.8096,
+    "latitude": 48.1143,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vitre",
+    "description": ""
+  },
+  {
+    "longitude": 4.9309,
+    "latitude": 45.64768,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chaponnay",
+    "description": ""
+  },
+  {
+    "longitude": 5.18324,
+    "latitude": 45.74518,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Tignieu Jameyzieu",
+    "description": ""
+  },
+  {
+    "longitude": 2.05772,
+    "latitude": 48.9599,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Acheres",
+    "description": ""
+  },
+  {
+    "longitude": -1.1925,
+    "latitude": 47.3737,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Gereon",
+    "description": ""
+  },
+  {
+    "longitude": -4.07998,
+    "latitude": 48.01091,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Quimper",
+    "description": ""
+  },
+  {
+    "longitude": -2.08021,
+    "latitude": 47.4319,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pontchateau",
+    "description": ""
+  },
+  {
+    "longitude": -1.12478,
+    "latitude": 45.83347,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Marennes",
+    "description": ""
+  },
+  {
+    "longitude": 0.38539,
+    "latitude": 45.74028,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Rochefoucauld",
+    "description": ""
+  },
+  {
+    "longitude": -0.1195,
+    "latitude": 45.647,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Coutras",
+    "description": ""
+  },
+  {
+    "longitude": 6.49281,
+    "latitude": 48.59875,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Luneville",
+    "description": ""
+  },
+  {
+    "longitude": -4.34838,
+    "latitude": 48.09131,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Douarnenez",
+    "description": ""
+  },
+  {
+    "longitude": -0.05573,
+    "latitude": 47.70229,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Fleche",
+    "description": ""
+  },
+  {
+    "longitude": -1.68974,
+    "latitude": 47.85891,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bain De Bretagne",
+    "description": ""
+  },
+  {
+    "longitude": 1.88209,
+    "latitude": 43.89219,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Gaillac",
+    "description": ""
+  },
+  {
+    "longitude": 4.87828,
+    "latitude": 45.81068,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Rillieux La Pape",
+    "description": ""
+  },
+  {
+    "longitude": 2.57297,
+    "latitude": 44.36253,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Onet Le Ch�teau",
+    "description": ""
+  },
+  {
+    "longitude": 7.49658,
+    "latitude": 48.46767,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Obernai",
+    "description": ""
+  },
+  {
+    "longitude": 2.48829,
+    "latitude": 48.76518,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bonneuil Sur Marne",
+    "description": ""
+  },
+  {
+    "longitude": -0.87593,
+    "latitude": 48.83854,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vaudry - Vire",
+    "description": ""
+  },
+  {
+    "longitude": -1.63228,
+    "latitude": 43.40196,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Jean De Luz",
+    "description": ""
+  },
+  {
+    "longitude": -1.1112,
+    "latitude": 44.7694,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ares",
+    "description": ""
+  },
+  {
+    "longitude": 0.69389,
+    "latitude": 45.20056,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Perigueux",
+    "description": ""
+  },
+  {
+    "longitude": -0.01339,
+    "latitude": 48.75333,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Argentan",
+    "description": ""
+  },
+  {
+    "longitude": 0.73561,
+    "latitude": 44.4092,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Villeneuve Sur Lot",
+    "description": ""
+  },
+  {
+    "longitude": -3.41735,
+    "latitude": 47.7897,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Queven",
+    "description": ""
+  },
+  {
+    "longitude": 5.20731,
+    "latitude": 43.4122,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Marignane",
+    "description": ""
+  },
+  {
+    "longitude": -0.62667,
+    "latitude": 45.74098,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saintes",
+    "description": ""
+  },
+  {
+    "longitude": 1.21344,
+    "latitude": 48.77388,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Madeleine De Nonancourt",
+    "description": ""
+  },
+  {
+    "longitude": 4.7132,
+    "latitude": 45.85901,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Civrieux D'azergues",
+    "description": ""
+  },
+  {
+    "longitude": 0.85214,
+    "latitude": 46.41753,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Montmorillon",
+    "description": ""
+  },
+  {
+    "longitude": -0.1312,
+    "latitude": 45.45107,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Barbezieux",
+    "description": ""
+  },
+  {
+    "longitude": -1.13064,
+    "latitude": 49.12068,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Agneaux",
+    "description": ""
+  },
+  {
+    "longitude": 5.91207,
+    "latitude": 45.6522,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Voglans",
+    "description": ""
+  },
+  {
+    "longitude": 2.03653,
+    "latitude": 47.90589,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Checy",
+    "description": ""
+  },
+  {
+    "longitude": -1.28636,
+    "latitude": 43.6668,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Vincent De Tyrosse",
+    "description": ""
+  },
+  {
+    "longitude": 4.31015,
+    "latitude": 46.96714,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Autun",
+    "description": ""
+  },
+  {
+    "longitude": 4.07057,
+    "latitude": 48.26275,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Rosieres Pres Troyes",
+    "description": ""
+  },
+  {
+    "longitude": 6.14258,
+    "latitude": 49.06709,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Marly",
+    "description": ""
+  },
+  {
+    "longitude": 7.81416,
+    "latitude": 48.75442,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Gries",
+    "description": ""
+  },
+  {
+    "longitude": 2.63955,
+    "latitude": 47.70839,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Gien",
+    "description": ""
+  },
+  {
+    "longitude": 0.34515,
+    "latitude": 45.2545,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Riberac",
+    "description": ""
+  },
+  {
+    "longitude": 2.746,
+    "latitude": 50.48644,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vermelles",
+    "description": ""
+  },
+  {
+    "longitude": 5.87604,
+    "latitude": 43.0941,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Seyne Sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": 2.9406,
+    "latitude": 49.94212,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Peronne",
+    "description": ""
+  },
+  {
+    "longitude": 0.18076,
+    "latitude": 45.6572,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Angouleme",
+    "description": ""
+  },
+  {
+    "longitude": 0.61422,
+    "latitude": 49.10571,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bernay Menneval",
+    "description": ""
+  },
+  {
+    "longitude": 4.77393,
+    "latitude": 45.44095,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Clair Du Rhone",
+    "description": ""
+  },
+  {
+    "longitude": 5.40058,
+    "latitude": 43.2328,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Marseille",
+    "description": ""
+  },
+  {
+    "longitude": 7.78084,
+    "latitude": 48.79874,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Haguenau",
+    "description": ""
+  },
+  {
+    "longitude": 0.22396,
+    "latitude": 49.50981,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Harfleur Gonfreville L'orcher",
+    "description": ""
+  },
+  {
+    "longitude": -2.17547,
+    "latitude": 47.23337,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Brevin Les Pins",
+    "description": ""
+  },
+  {
+    "longitude": 0.29809,
+    "latitude": 44.4025,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Tonneins",
+    "description": ""
+  },
+  {
+    "longitude": 7.35683,
+    "latitude": 48.98667,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lemberg",
+    "description": ""
+  },
+  {
+    "longitude": 1.50659,
+    "latitude": 43.8591,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Villemur Sur Tarn",
+    "description": ""
+  },
+  {
+    "longitude": -0.32416,
+    "latitude": 44.64584,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Beguey",
+    "description": ""
+  },
+  {
+    "longitude": 3.02461,
+    "latitude": 50.4168,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Courcelles Les Lens",
+    "description": ""
+  },
+  {
+    "longitude": 4.91007,
+    "latitude": 43.939,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Morieres Les Avignon",
+    "description": ""
+  },
+  {
+    "longitude": 3.81359,
+    "latitude": 49.2881,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Jonchery Sur Vesle",
+    "description": ""
+  },
+  {
+    "longitude": 0.72578,
+    "latitude": 43.1194,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Gaudens",
+    "description": ""
+  },
+  {
+    "longitude": -0.71837,
+    "latitude": 49.27861,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bayeux",
+    "description": ""
+  },
+  {
+    "longitude": -2.07991,
+    "latitude": 47.43569,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Sainte Anne Sur Brivet",
+    "description": ""
+  },
+  {
+    "longitude": -3.04535,
+    "latitude": 48.77808,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Paimpol",
+    "description": ""
+  },
+  {
+    "longitude": 4.7976,
+    "latitude": 43.9397,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Avignon",
+    "description": ""
+  },
+  {
+    "longitude": 1.76213,
+    "latitude": 45.2525,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Tulle",
+    "description": ""
+  },
+  {
+    "longitude": 4.46198,
+    "latitude": 45.49305,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Chamond",
+    "description": ""
+  },
+  {
+    "longitude": 4.72122,
+    "latitude": 46.05204,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint-Georges De Reneins",
+    "description": ""
+  },
+  {
+    "longitude": 6.15428,
+    "latitude": 47.61979,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Vesoul",
+    "description": ""
+  },
+  {
+    "longitude": 2.53742,
+    "latitude": 46.72239,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Amand Montrond",
+    "description": ""
+  },
+  {
+    "longitude": 2.79627,
+    "latitude": 48.49221,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Chatelet En Brie",
+    "description": ""
+  },
+  {
+    "longitude": 2.34359,
+    "latitude": 48.70631,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Morangis",
+    "description": ""
+  },
+  {
+    "longitude": -0.87882,
+    "latitude": 47.67897,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Segre",
+    "description": ""
+  },
+  {
+    "longitude": 4.39453,
+    "latitude": 43.837,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Nimes",
+    "description": ""
+  },
+  {
+    "longitude": 5.88923,
+    "latitude": 45.63801,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Drumettaz Clarafond",
+    "description": ""
+  },
+  {
+    "longitude": -1.25502,
+    "latitude": 43.9277,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Linxe",
+    "description": ""
+  },
+  {
+    "longitude": 7.45424,
+    "latitude": 48.25939,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Selestat",
+    "description": ""
+  },
+  {
+    "longitude": 2.52581,
+    "latitude": 49.14783,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Chapelle En Serval",
+    "description": ""
+  },
+  {
+    "longitude": 2.30298,
+    "latitude": 48.89343,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Levallois Perret",
+    "description": ""
+  },
+  {
+    "longitude": -2.25557,
+    "latitude": 48.5241,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pluduno",
+    "description": ""
+  },
+  {
+    "longitude": 0.08921,
+    "latitude": 48.40927,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Paterne Arconnay",
+    "description": ""
+  },
+  {
+    "longitude": -0.22978,
+    "latitude": 46.65144,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Parthenay",
+    "description": ""
+  },
+  {
+    "longitude": -0.22978,
+    "latitude": 46.65144,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Parthenay",
+    "description": ""
+  },
+  {
+    "longitude": 1.85555,
+    "latitude": 48.6462,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Rambouillet",
+    "description": ""
+  },
+  {
+    "longitude": -1.62809,
+    "latitude": 47.22439,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Herblain",
+    "description": ""
+  },
+  {
+    "longitude": 4.83158,
+    "latitude": 45.0546,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Tournon Sur Rhone",
+    "description": ""
+  },
+  {
+    "longitude": 0.19946,
+    "latitude": 46.0267,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ruffec",
+    "description": ""
+  },
+  {
+    "longitude": -4.21974,
+    "latitude": 47.86184,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pont L'abbe",
+    "description": ""
+  },
+  {
+    "longitude": 0.67255,
+    "latitude": 47.4249,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Tours",
+    "description": ""
+  },
+  {
+    "longitude": -0.63029,
+    "latitude": 48.30093,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Mayenne",
+    "description": ""
+  },
+  {
+    "longitude": 2.25189,
+    "latitude": 48.18208,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pithiviers",
+    "description": ""
+  },
+  {
+    "longitude": 0.2658,
+    "latitude": 47.18391,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chinon",
+    "description": ""
+  },
+  {
+    "longitude": 2.33515,
+    "latitude": 49.04896,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Moisselles",
+    "description": ""
+  },
+  {
+    "longitude": 1.66974,
+    "latitude": 46.8201,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Maur",
+    "description": ""
+  },
+  {
+    "longitude": 2.33355,
+    "latitude": 49.91102,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Rivery Les Amiens",
+    "description": ""
+  },
+  {
+    "longitude": 2.69962,
+    "latitude": 48.75809,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ozoir La Ferriere",
+    "description": ""
+  },
+  {
+    "longitude": 0.4315,
+    "latitude": 47.687,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ch�teau Du Loir",
+    "description": ""
+  },
+  {
+    "longitude": 2.91689,
+    "latitude": 48.95861,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Meaux",
+    "description": ""
+  },
+  {
+    "longitude": -0.04447,
+    "latitude": 43.1011,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lourdes",
+    "description": ""
+  },
+  {
+    "longitude": -1.43469,
+    "latitude": 49.0612,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Coutances",
+    "description": ""
+  },
+  {
+    "longitude": -0.38019,
+    "latitude": 49.18629,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Caen",
+    "description": ""
+  },
+  {
+    "longitude": 4.70867,
+    "latitude": 45.98734,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Villefranche Sur Saone",
+    "description": ""
+  },
+  {
+    "longitude": 6.86409,
+    "latitude": 47.62841,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Belfort",
+    "description": ""
+  },
+  {
+    "longitude": 6.6139,
+    "latitude": 48.01735,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Etienne Les Remiremont",
+    "description": ""
+  },
+  {
+    "longitude": 5.14922,
+    "latitude": 48.12727,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chaumont",
+    "description": ""
+  },
+  {
+    "longitude": -1.58941,
+    "latitude": 47.26349,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Orvault",
+    "description": ""
+  },
+  {
+    "longitude": 1.11364,
+    "latitude": 49.90687,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Dieppe",
+    "description": ""
+  },
+  {
+    "longitude": 5.38062,
+    "latitude": 43.88258,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Apt",
+    "description": ""
+  },
+  {
+    "longitude": 0.26051,
+    "latitude": 49.14601,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lisieux",
+    "description": ""
+  },
+  {
+    "longitude": 0.66322,
+    "latitude": 48.17771,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-La Ferte Bernard",
+    "description": ""
+  },
+  {
+    "longitude": -1.55077,
+    "latitude": 48.8376,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Granville Yquelon",
+    "description": ""
+  },
+  {
+    "longitude": 5.04136,
+    "latitude": 44.05231,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Carpentras",
+    "description": ""
+  },
+  {
+    "longitude": 6.85721,
+    "latitude": 48.40721,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Raon L'etape",
+    "description": ""
+  },
+  {
+    "longitude": -2.53477,
+    "latitude": 48.58143,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Pleneuf Val Andre",
+    "description": ""
+  },
+  {
+    "longitude": 4.80417,
+    "latitude": 45.48795,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ampuis",
+    "description": ""
+  },
+  {
+    "longitude": 4.70091,
+    "latitude": 48.2378,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bar Sur Aube",
+    "description": ""
+  },
+  {
+    "longitude": 7.96303,
+    "latitude": 48.81859,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Soufflenheim",
+    "description": ""
+  },
+  {
+    "longitude": 5.90767,
+    "latitude": 48.67019,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Dommartin Les Toul",
+    "description": ""
+  },
+  {
+    "longitude": 3.09848,
+    "latitude": 50.63373,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lille Fives",
+    "description": ""
+  },
+  {
+    "longitude": 2.0423,
+    "latitude": 48.95467,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Carrieres Sous Poissy",
+    "description": ""
+  },
+  {
+    "longitude": 6.14932,
+    "latitude": 48.74294,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Frouard",
+    "description": ""
+  },
+  {
+    "longitude": 4.73489,
+    "latitude": 44.3188,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bollene",
+    "description": ""
+  },
+  {
+    "longitude": -0.46853,
+    "latitude": 44.9369,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ambares Et Lagrave",
+    "description": ""
+  },
+  {
+    "longitude": -0.72249,
+    "latitude": 47.23775,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chemille",
+    "description": ""
+  },
+  {
+    "longitude": 1.1132,
+    "latitude": 44.6166,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Le Pian Medoc",
+    "description": ""
+  },
+  {
+    "longitude": -1.3902,
+    "latitude": 47.70636,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Chateaubriant",
+    "description": ""
+  },
+  {
+    "longitude": -1.91145,
+    "latitude": 46.69885,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Gilles Croix De Vie",
+    "description": ""
+  },
+  {
+    "longitude": -0.57485,
+    "latitude": 47.48668,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Angers",
+    "description": ""
+  },
+  {
+    "longitude": -2.25961,
+    "latitude": 47.28747,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Nazaire",
+    "description": ""
+  },
+  {
+    "longitude": 0.45193,
+    "latitude": 44.83588,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Bergerac",
+    "description": ""
+  },
+  {
+    "longitude": 1.8757,
+    "latitude": 44.8685,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Saint Laurent Les Tours",
+    "description": ""
+  },
+  {
+    "longitude": -4.69802,
+    "latitude": 48.55653,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ploudalmezeau",
+    "description": ""
+  },
+  {
+    "longitude": 4.98716,
+    "latitude": 45.76896,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Meyzieu",
+    "description": ""
+  },
+  {
+    "longitude": 6.24194,
+    "latitude": 46.20413,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Ville La Grand",
+    "description": ""
+  },
+  {
+    "longitude": 3.20748,
+    "latitude": 50.69822,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Wattrelos",
+    "description": ""
+  },
+  {
+    "longitude": -0.93583,
+    "latitude": 45.3038,
+    "name": "E.Leclerc Petrol Station (0-24)",
+    "city": "F-Lesparre",
+    "description": ""
+  }
+]

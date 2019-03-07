@@ -1,0 +1,8269 @@
+[
+  {
+    "longitude": -1.32416,
+    "latitude": 44.09326,
+    "name": "Camping Lous Seurrots ****",
+    "city": "Saint Julien en Born (Contis-plage)",
+    "description": "+33 558428582"
+  },
+  {
+    "longitude": 0.54999,
+    "latitude": 47.34945,
+    "name": "Camping La Confluence",
+    "city": "Savonnieres",
+    "description": ""
+  },
+  {
+    "longitude": 5.77561,
+    "latitude": 47.74305,
+    "name": "Camping du Lac",
+    "city": "Preigney",
+    "description": ""
+  },
+  {
+    "longitude": 3.66557,
+    "latitude": 46.51665,
+    "name": "Camping Municipal **",
+    "city": "Dompierre sur Bresbre",
+    "description": "+33 470345557"
+  },
+  {
+    "longitude": -1.30541,
+    "latitude": 43.92245,
+    "name": "Camping L Oceane **",
+    "city": "Vielle Saint Girons",
+    "description": ""
+  },
+  {
+    "longitude": 9.35998,
+    "latitude": 41.59366,
+    "name": "Camping La Chiappa FKK",
+    "city": "Piccovagia",
+    "description": ""
+  },
+  {
+    "longitude": 6.33951,
+    "latitude": 44.60451,
+    "name": "Camping Reallon",
+    "city": "Reallon",
+    "description": ""
+  },
+  {
+    "longitude": 1.16806,
+    "latitude": 46.34806,
+    "name": "Camping Municipal Les Forges **",
+    "city": "Lussac les Eglises",
+    "description": ""
+  },
+  {
+    "longitude": 7.71482,
+    "latitude": 48.57539,
+    "name": "Camping La Montagne Verte **",
+    "city": "Strasbourg",
+    "description": ""
+  },
+  {
+    "longitude": 4.39472,
+    "latitude": 44.39306,
+    "name": "Camping Le Clapas ***",
+    "city": "Salavas",
+    "description": "+33 475371476"
+  },
+  {
+    "longitude": -2.9491,
+    "latitude": 47.57295,
+    "name": "Camping Loc-Ker **",
+    "city": "Locqmariaquer",
+    "description": ""
+  },
+  {
+    "longitude": -2.18597,
+    "latitude": 46.94524,
+    "name": "Camping du Midi ***",
+    "city": "Barbatre",
+    "description": "+33 251396374"
+  },
+  {
+    "longitude": 2.46201,
+    "latitude": 44.89887,
+    "name": "Camping Camp de la Cere ***",
+    "city": "Arpajon sur Cere",
+    "description": "+33 471645507"
+  },
+  {
+    "longitude": 1.95538,
+    "latitude": 42.47879,
+    "name": "Camping Municipal Sol y Neu **",
+    "city": "Angoustrine Villeneuve Escaldes",
+    "description": ""
+  },
+  {
+    "longitude": 0.64212,
+    "latitude": 49.78334,
+    "name": "Camping Municipal ***",
+    "city": "Cany Barville",
+    "description": "+33 235977037"
+  },
+  {
+    "longitude": 2.47821,
+    "latitude": 48.82803,
+    "name": "Camping Boulevard des Allies",
+    "city": "Paris",
+    "description": ""
+  },
+  {
+    "longitude": 4.40451,
+    "latitude": 47.87035,
+    "name": "Camping Les Grebles du Lac **",
+    "city": "Marcenay",
+    "description": "Le Fourneau"
+  },
+  {
+    "longitude": 5.42538,
+    "latitude": 44.1028,
+    "name": "Camping du Deffends **",
+    "city": "Sault",
+    "description": "route de Saint Trinit"
+  },
+  {
+    "longitude": 1.59431,
+    "latitude": 43.4504,
+    "name": "Camping Les Peupliers *",
+    "city": "Ayguesvives",
+    "description": "+33 561811111"
+  },
+  {
+    "longitude": -1.40012,
+    "latitude": 43.33938,
+    "name": "Camping Hiriberria ***",
+    "city": "Itxassou",
+    "description": "+33 559299809"
+  },
+  {
+    "longitude": 2.11604,
+    "latitude": 47.86886,
+    "name": "Camping L Isle aux Moulins **",
+    "city": "Jargeau",
+    "description": ""
+  },
+  {
+    "longitude": 3.03364,
+    "latitude": 42.73881,
+    "name": "Camping Municipal de la Plage ***",
+    "city": "Sainte Marie la Mer",
+    "description": "+33 468806859"
+  },
+  {
+    "longitude": 5.153,
+    "latitude": 44.365,
+    "name": "Camping Les Clos ****",
+    "city": "Nyons",
+    "description": ""
+  },
+  {
+    "longitude": -4.02694,
+    "latitude": 47.85617,
+    "name": "Camping Plage de Cleut-Rouz ***",
+    "city": "Fouesnant",
+    "description": "+33 298565319"
+  },
+  {
+    "longitude": 6.8562,
+    "latitude": 48.0639,
+    "name": "Camping Les Sapins ***",
+    "city": "Gerardmer",
+    "description": ""
+  },
+  {
+    "longitude": 2.4967,
+    "latitude": 43.6284,
+    "name": "Camping La Lande **",
+    "city": "Brassac",
+    "description": ""
+  },
+  {
+    "longitude": 3.04129,
+    "latitude": 44.6621,
+    "name": "Camping Municipal *",
+    "city": "Nasbinals",
+    "description": ""
+  },
+  {
+    "longitude": 2.22244,
+    "latitude": 45.1367,
+    "name": "Camping Entassit ***",
+    "city": "Pleaux",
+    "description": "+33 471404005"
+  },
+  {
+    "longitude": -1.21719,
+    "latitude": 45.82249,
+    "name": "Camping Arepos ****",
+    "city": "Saint Trojan les Bains",
+    "description": ""
+  },
+  {
+    "longitude": -3.06587,
+    "latitude": 47.60825,
+    "name": "Camping Le Moustoir ***",
+    "city": "Carnac",
+    "description": ""
+  },
+  {
+    "longitude": 4.49001,
+    "latitude": 48.35667,
+    "name": "Camping Municipal Le Garillon **",
+    "city": "Radonvilliers",
+    "description": ""
+  },
+  {
+    "longitude": 5.087,
+    "latitude": 44.551,
+    "name": "Camping La Source du Jabron ***",
+    "city": "Dieulefit",
+    "description": ""
+  },
+  {
+    "longitude": 4.60473,
+    "latitude": 49.87223,
+    "name": "Camping Lac des Vieilles Forges ***",
+    "city": "Les Mazures",
+    "description": ""
+  },
+  {
+    "longitude": 9.2946,
+    "latitude": 41.6399,
+    "name": "Camping Pitrera",
+    "city": "Torre",
+    "description": ""
+  },
+  {
+    "longitude": -0.58449,
+    "latitude": 46.32744,
+    "name": "Camping Municipal La Niquiere **",
+    "city": "Coulon",
+    "description": "+33 549358119"
+  },
+  {
+    "longitude": 3.11929,
+    "latitude": 42.47676,
+    "name": "Camping Municipal La Pinede **",
+    "city": "Banyuls sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": -1.3178,
+    "latitude": 49.4089,
+    "name": "Camping Municipal ***",
+    "city": "Sainte Mere l Eglise",
+    "description": ""
+  },
+  {
+    "longitude": 4.20186,
+    "latitude": 44.39619,
+    "name": "Camping Mazet plage ***",
+    "city": "Berrias et Casteljau",
+    "description": "+33 475393256"
+  },
+  {
+    "longitude": 6.56835,
+    "latitude": 45.83666,
+    "name": "Camping Chantalouette **",
+    "city": "Praz sur Arly",
+    "description": "+33 450219025"
+  },
+  {
+    "longitude": 2.78306,
+    "latitude": 42.51,
+    "name": "Camping Les Casteillets ***",
+    "city": "Saint Jean Pla de Corts",
+    "description": ""
+  },
+  {
+    "longitude": 1.04717,
+    "latitude": 47.44651,
+    "name": "Camping Le Jardin Botanique ***",
+    "city": "Limeray",
+    "description": "+33 247301350"
+  },
+  {
+    "longitude": -4.02466,
+    "latitude": 47.94136,
+    "name": "Camping Keromen **",
+    "city": "Saint Evarzec",
+    "description": "+33 298567047"
+  },
+  {
+    "longitude": 5.262,
+    "latitude": 44.412,
+    "name": "Camping La Vallee Bleue ***",
+    "city": "Sahune",
+    "description": ""
+  },
+  {
+    "longitude": 5.13588,
+    "latitude": 44.58386,
+    "name": "Camping Le Gap des Tortelles ***",
+    "city": "Bourdeaux",
+    "description": "+33 475533045"
+  },
+  {
+    "longitude": -1.4495,
+    "latitude": 49.05,
+    "name": "Camping Municipal Les Vignettes **",
+    "city": "Coutances",
+    "description": ""
+  },
+  {
+    "longitude": -3.0931,
+    "latitude": 47.6089,
+    "name": "Camping Les Bruyeres ***",
+    "city": "Carnac",
+    "description": ""
+  },
+  {
+    "longitude": 9.55539,
+    "latitude": 42.26444,
+    "name": "Camping Amurucciu",
+    "city": "San Giuliano",
+    "description": ""
+  },
+  {
+    "longitude": -3.01563,
+    "latitude": 47.59878,
+    "name": "Camping Le Vieux Logis ***",
+    "city": "La Trinite sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": -2.1302,
+    "latitude": 48.6271,
+    "name": "Camping Emeraude ***",
+    "city": "Saint Briac sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": 6.05222,
+    "latitude": 45.86111,
+    "name": "Camping AU2La Vidome (Gite de France)",
+    "city": "Montagny les Lanches",
+    "description": "+33 450466131"
+  },
+  {
+    "longitude": 6.13984,
+    "latitude": 48.65732,
+    "name": "Camping Le Brabois ***",
+    "city": "Villers les Nancy",
+    "description": "+33 383271828"
+  },
+  {
+    "longitude": -1.12508,
+    "latitude": 44.46202,
+    "name": "Camping Domaine de la Rive ****",
+    "city": "Biscarrosse",
+    "description": "+33 558781233"
+  },
+  {
+    "longitude": 3.20965,
+    "latitude": 44.1904,
+    "name": "Camping Le Brudy plage **",
+    "city": "Le Rozier",
+    "description": ""
+  },
+  {
+    "longitude": 2.25563,
+    "latitude": 43.61708,
+    "name": "Camping Gourjade ***",
+    "city": "Castres",
+    "description": ""
+  },
+  {
+    "longitude": 5.08116,
+    "latitude": 47.60069,
+    "name": "Camping Municipal *",
+    "city": "Marey sur Tille",
+    "description": "rue du Stade"
+  },
+  {
+    "longitude": 4.02431,
+    "latitude": 45.82931,
+    "name": "Camping Municipal **",
+    "city": "Saint Germain Laval",
+    "description": "+33 477654435"
+  },
+  {
+    "longitude": -1.385,
+    "latitude": 46.00333,
+    "name": "Camping Les Oliviers ***",
+    "city": "Saint Denis d Oleron",
+    "description": "+33 546479342"
+  },
+  {
+    "longitude": 6.96276,
+    "latitude": 48.03491,
+    "name": "Camping Belle Hutte ***",
+    "city": "La Bresse",
+    "description": "+33 329254975"
+  },
+  {
+    "longitude": -2.77194,
+    "latitude": 47.50553,
+    "name": "Camping An Trest ***",
+    "city": "Sarzeau",
+    "description": "+33 297417960"
+  },
+  {
+    "longitude": 4.2519,
+    "latitude": 43.69411,
+    "name": "Camping Les Tourrades ***",
+    "city": "Vauvert",
+    "description": ""
+  },
+  {
+    "longitude": 8.69983,
+    "latitude": 42.26311,
+    "name": "Camping Municipal",
+    "city": "Porto",
+    "description": ""
+  },
+  {
+    "longitude": 0.0536,
+    "latitude": 43.6076,
+    "name": "Camping L Arros ***",
+    "city": "Plaisance du Gers",
+    "description": ""
+  },
+  {
+    "longitude": 5.18699,
+    "latitude": 47.53042,
+    "name": "Camping Les Sapins *",
+    "city": "Til Chatel",
+    "description": ""
+  },
+  {
+    "longitude": 0.16028,
+    "latitude": 49.63111,
+    "name": "Camping Le Grand Hameau ***",
+    "city": "Saint Jouin Bruneval",
+    "description": ""
+  },
+  {
+    "longitude": 4.54865,
+    "latitude": 47.26545,
+    "name": "Camping Le Vert Auxois **",
+    "city": "Pouilly en Auxois",
+    "description": "+33 380907189"
+  },
+  {
+    "longitude": -2.93938,
+    "latitude": 47.5561,
+    "name": "Camping La Falaise ***",
+    "city": "Locqmariaquer",
+    "description": ""
+  },
+  {
+    "longitude": 2.31644,
+    "latitude": 45.21863,
+    "name": "Camping Le Val Saint Jean ****",
+    "city": "Mauriac",
+    "description": "+33 473938044"
+  },
+  {
+    "longitude": 2.42308,
+    "latitude": 45.11571,
+    "name": "Camping Municipal Le Moulin du Teinturier ****",
+    "city": "Saint Martin Valmeroux",
+    "description": "+33 471694312"
+  },
+  {
+    "longitude": 4.20644,
+    "latitude": 44.37722,
+    "name": "Camping La Source ***",
+    "city": "Berrias et Casteljau",
+    "description": "+33 475393913"
+  },
+  {
+    "longitude": 2.48351,
+    "latitude": 45.41603,
+    "name": "Camping Les Aubazines ***",
+    "city": "Bort les Orgues",
+    "description": ""
+  },
+  {
+    "longitude": -3.54139,
+    "latitude": 48.80991,
+    "name": "Camping du Port ****",
+    "city": "Landrellec",
+    "description": ""
+  },
+  {
+    "longitude": -3.14615,
+    "latitude": 47.62864,
+    "name": "Camping Les Megalithes ***",
+    "city": "Erdeven",
+    "description": "+33 297556876"
+  },
+  {
+    "longitude": 2.30417,
+    "latitude": 48.65512,
+    "name": "Camping Le Beau Village ***",
+    "city": "Villiers sur Orge",
+    "description": ""
+  },
+  {
+    "longitude": 5.12535,
+    "latitude": 44.17782,
+    "name": "Camping Le Bosquet **",
+    "city": "Malaucene",
+    "description": "+33 490652909"
+  },
+  {
+    "longitude": -1.35182,
+    "latitude": 43.75424,
+    "name": "Camping Municipal l Airial ***",
+    "city": "Soustons",
+    "description": ""
+  },
+  {
+    "longitude": 3.4255,
+    "latitude": 46.11638,
+    "name": "Camping Les Acacias ****",
+    "city": "Bellerive sur Allier",
+    "description": "+33 470323622"
+  },
+  {
+    "longitude": 1.82648,
+    "latitude": 42.72849,
+    "name": "Camping Municipal Le Malazeou ***",
+    "city": "Savignac les Ormeaux",
+    "description": "+33 561646914"
+  },
+  {
+    "longitude": 8.81694,
+    "latitude": 41.71428,
+    "name": "Camping Cyrnos",
+    "city": "Favalello",
+    "description": ""
+  },
+  {
+    "longitude": 3.78878,
+    "latitude": 43.50058,
+    "name": "Camping Altea ***",
+    "city": "Vic la Gardiole",
+    "description": "+33 467781409"
+  },
+  {
+    "longitude": -0.77806,
+    "latitude": 44.30858,
+    "name": "Camping Municipal ***",
+    "city": "Pissos",
+    "description": "+33 558089038"
+  },
+  {
+    "longitude": 9.55087,
+    "latitude": 42.11163,
+    "name": "Camping Aleria",
+    "city": "Plage de Padulone",
+    "description": ""
+  },
+  {
+    "longitude": -3.04355,
+    "latitude": 47.58788,
+    "name": "Camping Park Plijadur ***",
+    "city": "La Trinite sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": 9.45927,
+    "latitude": 42.83962,
+    "name": "Camping La Pietra",
+    "city": "Pietracorbara",
+    "description": ""
+  },
+  {
+    "longitude": 3.0615,
+    "latitude": 45.9057,
+    "name": "Camping Municipal de la Croze **",
+    "city": "Chatelguyon",
+    "description": ""
+  },
+  {
+    "longitude": 9.00951,
+    "latitude": 42.62692,
+    "name": "Camping Le Clos des Chenes",
+    "city": "Lozari",
+    "description": ""
+  },
+  {
+    "longitude": 8.81628,
+    "latitude": 41.62819,
+    "name": "Camping Campomoro",
+    "city": "Campomoro",
+    "description": ""
+  },
+  {
+    "longitude": 1.0889,
+    "latitude": 44.0966,
+    "name": "Camping Ile du Bidounet ***",
+    "city": "Moissac",
+    "description": ""
+  },
+  {
+    "longitude": 1.8393,
+    "latitude": 44.48394,
+    "name": "Camping Municipal **",
+    "city": "Cajarc",
+    "description": ""
+  },
+  {
+    "longitude": 1.59785,
+    "latitude": 50.82013,
+    "name": "Camping Municipal Les Ajoncs **",
+    "city": "Audresselles",
+    "description": ""
+  },
+  {
+    "longitude": 5.73949,
+    "latitude": 45.39118,
+    "name": "Camping Municipal Les Berges du Guiers **",
+    "city": "Saint Laurent du Pont",
+    "description": "+33 476552063"
+  },
+  {
+    "longitude": -1.7873,
+    "latitude": 48.3128,
+    "name": "Camping Les Peupliers ***",
+    "city": "Tinteniac",
+    "description": ""
+  },
+  {
+    "longitude": 7.3556,
+    "latitude": 48.7308,
+    "name": "Camping Municipal ***",
+    "city": "Saverne",
+    "description": ""
+  },
+  {
+    "longitude": 2.05039,
+    "latitude": 44.61023,
+    "name": "Camping Rives du Cele ***",
+    "city": "Figeac",
+    "description": ""
+  },
+  {
+    "longitude": -2.13078,
+    "latitude": 46.84161,
+    "name": "Camping Les Pins ****",
+    "city": "Notre Dame de Monts",
+    "description": ""
+  },
+  {
+    "longitude": 0.56417,
+    "latitude": 47.8125,
+    "name": "Camping Municipal l Etang Sort **",
+    "city": "Courdemanche",
+    "description": "+33 243448035"
+  },
+  {
+    "longitude": 0.91678,
+    "latitude": 44.91191,
+    "name": "Camping Le Rocher de la Granelle ***",
+    "city": "Le Bugue",
+    "description": "+33 553072432"
+  },
+  {
+    "longitude": -1.8327,
+    "latitude": 48.3811,
+    "name": "Camping Domaine du Logis ****",
+    "city": "La Chapelle aux Filtzmeens",
+    "description": "+33 299452545"
+  },
+  {
+    "longitude": 0.59649,
+    "latitude": 49.84962,
+    "name": "Camping Municipal ***",
+    "city": "Veulettes sur Mer",
+    "description": "+33 235975344"
+  },
+  {
+    "longitude": -1.3378,
+    "latitude": 45.92019,
+    "name": "Camping Les Tamaris **",
+    "city": "Saint Pierre d Oleron",
+    "description": ""
+  },
+  {
+    "longitude": -4.35901,
+    "latitude": 48.10315,
+    "name": "Camping Municipal du Bois d Isis **",
+    "city": "Douarnemez",
+    "description": ""
+  },
+  {
+    "longitude": 0.32346,
+    "latitude": 43.10558,
+    "name": "Camping Les Craoues ***",
+    "city": "Capvern",
+    "description": ""
+  },
+  {
+    "longitude": -3.12016,
+    "latitude": 47.49998,
+    "name": "Camping Beausejour **",
+    "city": "Quiberon",
+    "description": "+33 297304493"
+  },
+  {
+    "longitude": 5.079,
+    "latitude": 44.408,
+    "name": "Camping Les Terrasses Provencales ***",
+    "city": "Venterol",
+    "description": ""
+  },
+  {
+    "longitude": -0.42,
+    "latitude": 48.54778,
+    "name": "Camping La Vee ***",
+    "city": "Bagnols de l Orne",
+    "description": ""
+  },
+  {
+    "longitude": -2.4835,
+    "latitude": 48.6161,
+    "name": "Camping Les Roches ***",
+    "city": "Erquy",
+    "description": ""
+  },
+  {
+    "longitude": 3.04422,
+    "latitude": 42.56667,
+    "name": "Camping Municipal Le Rousillonnais ***",
+    "city": "Argeles sur Mer",
+    "description": "+33 468811042"
+  },
+  {
+    "longitude": 5.00556,
+    "latitude": 46.5625,
+    "name": "Camping Les Bords de Seille **",
+    "city": "Cuisery",
+    "description": ""
+  },
+  {
+    "longitude": -3.38515,
+    "latitude": 47.70356,
+    "name": "Camping Municipal Les Algues ***",
+    "city": "Larmor Plage",
+    "description": "+33 297655547"
+  },
+  {
+    "longitude": -4.34848,
+    "latitude": 48.09645,
+    "name": "Camping Croas-Men **",
+    "city": "Douarnemez",
+    "description": ""
+  },
+  {
+    "longitude": 7.44813,
+    "latitude": 48.25473,
+    "name": "Camping Municipal Les Cigognes **",
+    "city": "Selestat",
+    "description": "+33 388920398"
+  },
+  {
+    "longitude": 8.83332,
+    "latitude": 41.70488,
+    "name": "Camping Ras lubol",
+    "city": "Abbartello",
+    "description": ""
+  },
+  {
+    "longitude": -1.05167,
+    "latitude": 49.38806,
+    "name": "Camping Le Joncal **",
+    "city": "Grandcamp Maisy",
+    "description": ""
+  },
+  {
+    "longitude": 3.31976,
+    "latitude": 43.26308,
+    "name": "Camping Serignan plage ***",
+    "city": "Serignan",
+    "description": "+33 467323533"
+  },
+  {
+    "longitude": -1.42972,
+    "latitude": 43.65167,
+    "name": "Camping Municipal Bel Air ***",
+    "city": "Capbreton",
+    "description": "+33 558721204"
+  },
+  {
+    "longitude": 2.61485,
+    "latitude": 47.64161,
+    "name": "Camping Bois du Bardelet ****",
+    "city": "Poilly lez Gien",
+    "description": ""
+  },
+  {
+    "longitude": 8.72682,
+    "latitude": 41.93737,
+    "name": "Camping Les Mimosas **",
+    "city": "Ajaccio",
+    "description": "+33 495209985"
+  },
+  {
+    "longitude": 6.56722,
+    "latitude": 45.45111,
+    "name": "Camping La Piat **",
+    "city": "Brides les Bains",
+    "description": ""
+  },
+  {
+    "longitude": -0.00336,
+    "latitude": 42.8736,
+    "name": "Camping Toy **",
+    "city": "Luz Saint Sauveur",
+    "description": ""
+  },
+  {
+    "longitude": -0.0026,
+    "latitude": 46.66728,
+    "name": "Camping Le Bois de Saint Hilaire *",
+    "city": "Chalandray",
+    "description": "+33 549602084"
+  },
+  {
+    "longitude": -2.761,
+    "latitude": 47.507,
+    "name": "Camping La Ferme de Lann Hoedic ***",
+    "city": "Sarzeau",
+    "description": ""
+  },
+  {
+    "longitude": 6.5226,
+    "latitude": 44.6027,
+    "name": "Camping Les Cariamas **",
+    "city": "Chateauroux les Alpes",
+    "description": ""
+  },
+  {
+    "longitude": -1.97833,
+    "latitude": 46.72389,
+    "name": "Camping Plage de Riez ***",
+    "city": "Saint Hilaire de Riez",
+    "description": ""
+  },
+  {
+    "longitude": 3.02517,
+    "latitude": 42.77763,
+    "name": "Camping L Oasis ***",
+    "city": "Le Barcares",
+    "description": "+33 468861243"
+  },
+  {
+    "longitude": 7.59776,
+    "latitude": 48.14954,
+    "name": "Camping L Ile du Rhin **",
+    "city": "Marckolsheim",
+    "description": ""
+  },
+  {
+    "longitude": 3.977,
+    "latitude": 44.06432,
+    "name": "Camping Castel Rose ***",
+    "city": "Anduze",
+    "description": ""
+  },
+  {
+    "longitude": -0.01386,
+    "latitude": 42.8828,
+    "name": "Camping International ***",
+    "city": "Esquiere Sere",
+    "description": ""
+  },
+  {
+    "longitude": 5.354,
+    "latitude": 44.758,
+    "name": "Camping La Pinede ***",
+    "city": "Dieulefit",
+    "description": ""
+  },
+  {
+    "longitude": -2.02778,
+    "latitude": 48.63556,
+    "name": "Camping Municipal Cite d Aleth **",
+    "city": "Saint Malo",
+    "description": ""
+  },
+  {
+    "longitude": -1.31415,
+    "latitude": 43.88414,
+    "name": "Camping Punta Lago *****",
+    "city": "Leon",
+    "description": "+33 558492440"
+  },
+  {
+    "longitude": 2.49148,
+    "latitude": 46.71803,
+    "name": "Camping La Roche ***",
+    "city": "Saint Amand Montrond",
+    "description": "+33 248960936"
+  },
+  {
+    "longitude": -0.06489,
+    "latitude": 47.25998,
+    "name": "Camping L ile d Offard ****",
+    "city": "Saumur",
+    "description": ""
+  },
+  {
+    "longitude": 4.1675,
+    "latitude": 44.40944,
+    "name": "Camping Domaine des Chenes ***",
+    "city": "Chassagnes",
+    "description": "+33 475373435"
+  },
+  {
+    "longitude": 9.54156,
+    "latitude": 42.3172,
+    "name": "Camping Loro",
+    "city": "Prunete",
+    "description": ""
+  },
+  {
+    "longitude": 3.09195,
+    "latitude": 44.10235,
+    "name": "Camping Cote Sud ***",
+    "city": "Millau",
+    "description": ""
+  },
+  {
+    "longitude": 3.72282,
+    "latitude": 48.72803,
+    "name": "Camping Municipal **",
+    "city": "Sezanne",
+    "description": ""
+  },
+  {
+    "longitude": 5.8137,
+    "latitude": 46.6638,
+    "name": "Camping Chalain ****",
+    "city": "Doucier",
+    "description": ""
+  },
+  {
+    "longitude": 2.15972,
+    "latitude": 48.79417,
+    "name": "Camping Huttopia",
+    "city": "Versailles",
+    "description": ""
+  },
+  {
+    "longitude": 3.38957,
+    "latitude": 43.64753,
+    "name": "Camping Le Salagou **",
+    "city": "Clermont l Herault",
+    "description": ""
+  },
+  {
+    "longitude": 1.2601,
+    "latitude": 47.4933,
+    "name": "Camping La Grande Tortue ****",
+    "city": "Cande sur Beuvron",
+    "description": ""
+  },
+  {
+    "longitude": 4.69464,
+    "latitude": 46.64627,
+    "name": "Camping Le Moulin de Collonge ****",
+    "city": "Saint Boil",
+    "description": "+33 385440032"
+  },
+  {
+    "longitude": 3.2532,
+    "latitude": 43.2311,
+    "name": "Camping Les Vagues ****",
+    "city": "Vendres",
+    "description": "+33 467373312"
+  },
+  {
+    "longitude": 2.69523,
+    "latitude": 45.3454,
+    "name": "Camping Municipal ***",
+    "city": "Saint Amandin",
+    "description": "+33 471781828"
+  },
+  {
+    "longitude": -3.9875,
+    "latitude": 47.86028,
+    "name": "Camping Kervastard ***",
+    "city": "Fouesnant",
+    "description": "+33 298949152"
+  },
+  {
+    "longitude": -1.41533,
+    "latitude": 48.62824,
+    "name": "Camping Le Saint Michel ****",
+    "city": "Courtils",
+    "description": "+33 233709690"
+  },
+  {
+    "longitude": 3.05247,
+    "latitude": 49.40675,
+    "name": "Camping Municipal ***",
+    "city": "Attichy",
+    "description": ""
+  },
+  {
+    "longitude": 3.32015,
+    "latitude": 44.3013,
+    "name": "Camping Municipal **",
+    "city": "La Malene",
+    "description": ""
+  },
+  {
+    "longitude": -2.35691,
+    "latitude": 48.65191,
+    "name": "Camping Municipal Le Pont de l Etang **",
+    "city": "Frehel",
+    "description": "+33 296414045"
+  },
+  {
+    "longitude": 4.22002,
+    "latitude": 44.40562,
+    "name": "Camping Les Actinidias **",
+    "city": "Berrias et Casteljau",
+    "description": "+33 475390279"
+  },
+  {
+    "longitude": -2.11057,
+    "latitude": 46.80918,
+    "name": "Camping Aux Coeurs Vendeens ****",
+    "city": "Saint Jean de Monts",
+    "description": ""
+  },
+  {
+    "longitude": -1.1133,
+    "latitude": 45.68727,
+    "name": "Camping La Ferme ***",
+    "city": "Saint Augustin",
+    "description": "+33 546391446"
+  },
+  {
+    "longitude": 4.09694,
+    "latitude": 44.07889,
+    "name": "Camping CFMas Cauvy (Maurin Daumet)",
+    "city": "Saint Christol les Ales",
+    "description": "+33 466607824"
+  },
+  {
+    "longitude": 2.43888,
+    "latitude": 43.28552,
+    "name": "Camping Le Moulin de Sainte Anne ***",
+    "city": "Villegly",
+    "description": ""
+  },
+  {
+    "longitude": 6.49929,
+    "latitude": 44.53204,
+    "name": "Camping Les Airelles ***",
+    "city": "Baratier",
+    "description": "+33 492431157"
+  },
+  {
+    "longitude": -3.10435,
+    "latitude": 47.4762,
+    "name": "Camping Le Bois d Amour ***",
+    "city": "Quiberon",
+    "description": "+33 297501352"
+  },
+  {
+    "longitude": -3.99639,
+    "latitude": 47.89167,
+    "name": "Camping Les Mimosas - Cap Coz **",
+    "city": "Fouesnant",
+    "description": "+33 298565581"
+  },
+  {
+    "longitude": 1.6748,
+    "latitude": 44.449,
+    "name": "Camping La Truffiere ***",
+    "city": "Saint Cirq Lapopie",
+    "description": ""
+  },
+  {
+    "longitude": -1.26362,
+    "latitude": 49.67112,
+    "name": "Camping La Blanche Nef **",
+    "city": "Barfleur",
+    "description": ""
+  },
+  {
+    "longitude": 4.97854,
+    "latitude": 44.07885,
+    "name": "Camping de la Sainte Croix",
+    "city": "Sarrians",
+    "description": "+33 490654372"
+  },
+  {
+    "longitude": -2.23332,
+    "latitude": 47.01601,
+    "name": "Camping La Clere *",
+    "city": "Noirmoutier en l Ile",
+    "description": "+33 251392144"
+  },
+  {
+    "longitude": 4.91306,
+    "latitude": 43.99056,
+    "name": "Camping Flory ***",
+    "city": "Vedene",
+    "description": "route d Entraigues"
+  },
+  {
+    "longitude": 5.75924,
+    "latitude": 48.92803,
+    "name": "Camping de Nonsard **",
+    "city": "Nonsard",
+    "description": "+33 329895676"
+  },
+  {
+    "longitude": 3.81333,
+    "latitude": 45.13417,
+    "name": "Camping Municipal La Rochambert ***",
+    "city": "Saint Paulien",
+    "description": ""
+  },
+  {
+    "longitude": 4.46173,
+    "latitude": 44.56253,
+    "name": "Camping Les Rives d Auzon **",
+    "city": "Lavilledieu",
+    "description": "+33 475947064"
+  },
+  {
+    "longitude": -2.98973,
+    "latitude": 47.61534,
+    "name": "Camping Le Fort Espagnol ***",
+    "city": "Crach",
+    "description": "+33 297551488"
+  },
+  {
+    "longitude": 7.76535,
+    "latitude": 48.80265,
+    "name": "Camping Municipal *",
+    "city": "Haguenau",
+    "description": ""
+  },
+  {
+    "longitude": 3.58667,
+    "latitude": 47.78694,
+    "name": "Camping Municipal ***",
+    "city": "Auxerre",
+    "description": ""
+  },
+  {
+    "longitude": -0.86436,
+    "latitude": 49.32572,
+    "name": "Camping La Roseraie ****",
+    "city": "Surrain",
+    "description": "+33 231211771"
+  },
+  {
+    "longitude": 7.32361,
+    "latitude": 48.40611,
+    "name": "Camping Municipal **",
+    "city": "Le Hohwald",
+    "description": "+33 388083090"
+  },
+  {
+    "longitude": 4.94455,
+    "latitude": 46.65467,
+    "name": "Camping Chateau de l Eperviere ****",
+    "city": "Gigny sur Saone",
+    "description": "+33 385941690"
+  },
+  {
+    "longitude": 6.155,
+    "latitude": 43.02972,
+    "name": "Camping La Tour Fondue ***",
+    "city": "Giens",
+    "description": "+33 494582286"
+  },
+  {
+    "longitude": -2.96463,
+    "latitude": 47.66642,
+    "name": "Camping Les Pommiers",
+    "city": "Auray",
+    "description": ""
+  },
+  {
+    "longitude": 3.8283,
+    "latitude": 46.90667,
+    "name": "Camping Les Bains ****",
+    "city": "Saint Honore les Bains",
+    "description": ""
+  },
+  {
+    "longitude": 6.22651,
+    "latitude": 43.81984,
+    "name": "Camping Le Petit Lac **",
+    "city": "Moustiers Sainte Marie",
+    "description": ""
+  },
+  {
+    "longitude": 4.8178,
+    "latitude": 43.9939,
+    "name": "Camping l Ile des Papes",
+    "city": "Villeneuve les Avignon",
+    "description": "980 boulevard Frederic Mistral"
+  },
+  {
+    "longitude": 2.04528,
+    "latitude": 50.99584,
+    "name": "Camping Clairette **",
+    "city": "Oye plage",
+    "description": ""
+  },
+  {
+    "longitude": 2.40451,
+    "latitude": 49.21458,
+    "name": "Camping L Abbatiale ***",
+    "city": "Saint Leu d Esserent",
+    "description": "+33 344563876"
+  },
+  {
+    "longitude": -4.04028,
+    "latitude": 47.84972,
+    "name": "Camping La Pointe **",
+    "city": "Fouesnant",
+    "description": "+33 298560898"
+  },
+  {
+    "longitude": -1.21232,
+    "latitude": 44.58116,
+    "name": "Camping La Dune ***",
+    "city": "Pyla sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": 4.3825,
+    "latitude": 44.39694,
+    "name": "Camping Chauvieux ***",
+    "city": "Salavas",
+    "description": "+33 475880537"
+  },
+  {
+    "longitude": -1.174,
+    "latitude": 44.651,
+    "name": "Camping Club d Arcachon ***",
+    "city": "Arcachon",
+    "description": ""
+  },
+  {
+    "longitude": 5.87896,
+    "latitude": 43.74811,
+    "name": "Camping Regain **",
+    "city": "Greoux les Bains",
+    "description": "+33 492780923"
+  },
+  {
+    "longitude": 2.09709,
+    "latitude": 42.51967,
+    "name": "Camping Municipal *",
+    "city": "La Llagonne",
+    "description": ""
+  },
+  {
+    "longitude": -1.15745,
+    "latitude": 46.19165,
+    "name": "Camping Municipal Le Parc ***",
+    "city": "Lagord",
+    "description": "+33 546766154"
+  },
+  {
+    "longitude": 4.22061,
+    "latitude": 44.49617,
+    "name": "Camping Bois Simonet ***",
+    "city": "Joyeuse",
+    "description": "+33 475395860"
+  },
+  {
+    "longitude": 6.73232,
+    "latitude": 48.11904,
+    "name": "Camping Le Barba **",
+    "city": "Rehaupal",
+    "description": ""
+  },
+  {
+    "longitude": 5.128,
+    "latitude": 44.578,
+    "name": "Camping Les Bois du Chatelas ****",
+    "city": "Bourdeaux",
+    "description": ""
+  },
+  {
+    "longitude": 1.28723,
+    "latitude": 44.90445,
+    "name": "Camping Maillac ***",
+    "city": "Sainte Nathalene",
+    "description": ""
+  },
+  {
+    "longitude": 3.08709,
+    "latitude": 44.11538,
+    "name": "Camping Le Millau Plage ****",
+    "city": "Millau",
+    "description": ""
+  },
+  {
+    "longitude": 6.18638,
+    "latitude": 43.72192,
+    "name": "Camping Les Vallons de Bauduen ***",
+    "city": "Bauduen",
+    "description": "+33 494700913"
+  },
+  {
+    "longitude": -2.44281,
+    "latitude": 48.63823,
+    "name": "Camping Le Vieux Moulin ****",
+    "city": "Erquy",
+    "description": ""
+  },
+  {
+    "longitude": 7.275,
+    "latitude": 48.08528,
+    "name": "Camping Municipal Les Cigognes ****",
+    "city": "Thurckheim",
+    "description": ""
+  },
+  {
+    "longitude": 8.78447,
+    "latitude": 41.82921,
+    "name": "Camping Le Sud",
+    "city": "Le Ruppione",
+    "description": ""
+  },
+  {
+    "longitude": -0.358,
+    "latitude": 47.27345,
+    "name": "Camping Lac de Maine ****",
+    "city": "Angers",
+    "description": ""
+  },
+  {
+    "longitude": 4.73827,
+    "latitude": 48.37683,
+    "name": "Camping Mal la Croix Badeau **",
+    "city": "Soulaines Dhuys",
+    "description": ""
+  },
+  {
+    "longitude": 6.36639,
+    "latitude": 44.46222,
+    "name": "Camping Municipal Le Fein *",
+    "city": "Saint Vincent les Forts",
+    "description": "+33 492855157"
+  },
+  {
+    "longitude": 5.50492,
+    "latitude": 43.69532,
+    "name": "Camping Municipal Les Pinedes ***",
+    "city": "Pertuis",
+    "description": ""
+  },
+  {
+    "longitude": 6.58287,
+    "latitude": 43.2802,
+    "name": "Camping BJ Riviera Holidays",
+    "city": "Port Grimaud",
+    "description": "+33 494560356"
+  },
+  {
+    "longitude": 4.08798,
+    "latitude": 49.94342,
+    "name": "Camping la Cascade de Blangy **",
+    "city": "Hirson",
+    "description": ""
+  },
+  {
+    "longitude": -0.0182,
+    "latitude": 43.09551,
+    "name": "Camping Le Ruisseau Blanc *",
+    "city": "Lourdes",
+    "description": ""
+  },
+  {
+    "longitude": 9.26502,
+    "latitude": 41.46752,
+    "name": "Camping La Rondinara",
+    "city": "Suartone",
+    "description": ""
+  },
+  {
+    "longitude": -3.99222,
+    "latitude": 47.86944,
+    "name": "Camping La Roche Percee ****",
+    "city": "Fouesnant",
+    "description": "30 Hent Kerveltrec"
+  },
+  {
+    "longitude": 5.239,
+    "latitude": 46.924,
+    "name": "Camping Les Pecheurs **",
+    "city": "Lays sur le Doubs",
+    "description": ""
+  },
+  {
+    "longitude": 3.72827,
+    "latitude": 45.53963,
+    "name": "Camping les Trois Chenes sous le Montel",
+    "city": "Ambert",
+    "description": ""
+  },
+  {
+    "longitude": -4.28985,
+    "latitude": 48.16923,
+    "name": "Camping L Iroise ****",
+    "city": "Plomodiern",
+    "description": ""
+  },
+  {
+    "longitude": 3.1387,
+    "latitude": 43.13242,
+    "name": "Camping Les Ayguades ***",
+    "city": "Gruissan",
+    "description": "+33 468498159"
+  },
+  {
+    "longitude": 1.545,
+    "latitude": 44.16417,
+    "name": "Camping Municipal La Piboulette **",
+    "city": "Caussade",
+    "description": ""
+  },
+  {
+    "longitude": 4.33187,
+    "latitude": 44.42457,
+    "name": "Camping La Grand Terre ***",
+    "city": "Ruoms",
+    "description": "+33 475396494"
+  },
+  {
+    "longitude": -4.605,
+    "latitude": 48.27731,
+    "name": "Camping Municipal du Lannic **",
+    "city": "Camaret",
+    "description": "+33 298279131"
+  },
+  {
+    "longitude": 3.03451,
+    "latitude": 42.56371,
+    "name": "Camping Les Marsouins ***",
+    "city": "Argeles sur Mer",
+    "description": "+33 468811481"
+  },
+  {
+    "longitude": -2.1651,
+    "latitude": 47.1551,
+    "name": "Camping Le Ranch ***",
+    "city": "La Plaine sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": -1.97194,
+    "latitude": 46.71639,
+    "name": "Camping Municipal de Sion ***",
+    "city": "Saint Hilaire de Riez",
+    "description": ""
+  },
+  {
+    "longitude": 3.81555,
+    "latitude": 47.05844,
+    "name": "Camping Le Manoir de Bezolle ****",
+    "city": "Saint Pereuse",
+    "description": "+33 386844255"
+  },
+  {
+    "longitude": 9.35562,
+    "latitude": 41.68636,
+    "name": "Camping Santa Lucia",
+    "city": "Poggioli",
+    "description": ""
+  },
+  {
+    "longitude": -1.16054,
+    "latitude": 44.42723,
+    "name": "Camping camp Bimbo ****",
+    "city": "Biscarosse",
+    "description": "+33 558098233"
+  },
+  {
+    "longitude": 7.11667,
+    "latitude": 43.61083,
+    "name": "Camping Antipolis ****",
+    "city": "Antibes",
+    "description": "+33 493339399"
+  },
+  {
+    "longitude": 9.17928,
+    "latitude": 41.41875,
+    "name": "Camping Pertamina",
+    "city": "Bonifacio",
+    "description": ""
+  },
+  {
+    "longitude": 2.05944,
+    "latitude": 44.17833,
+    "name": "Camping La Prade ***",
+    "city": "Montirat",
+    "description": ""
+  },
+  {
+    "longitude": 9.34284,
+    "latitude": 42.72922,
+    "name": "Camping A Stella",
+    "city": "Braccolaccia",
+    "description": ""
+  },
+  {
+    "longitude": -4.07871,
+    "latitude": 48.39938,
+    "name": "Camping Municipal **",
+    "city": "Sizun",
+    "description": ""
+  },
+  {
+    "longitude": -2.12372,
+    "latitude": 46.85303,
+    "name": "Camping Le Lagon Bleu ****",
+    "city": "Notre Dame de Monts",
+    "description": ""
+  },
+  {
+    "longitude": -4.18497,
+    "latitude": 48.29532,
+    "name": "Camping Municipal",
+    "city": "Le Faou",
+    "description": ""
+  },
+  {
+    "longitude": 3.03748,
+    "latitude": 42.59945,
+    "name": "Camping Cala-Gogo ****",
+    "city": "Saint Cyprien",
+    "description": "+33 468210712"
+  },
+  {
+    "longitude": 9.32236,
+    "latitude": 41.83478,
+    "name": "Camping La Bonne Frite",
+    "city": "Rocchio Pinzuto",
+    "description": ""
+  },
+  {
+    "longitude": 3.41639,
+    "latitude": 43.29167,
+    "name": "Camping Le Napoleon ****",
+    "city": "Vias",
+    "description": "+33 467010780"
+  },
+  {
+    "longitude": 4.95528,
+    "latitude": 49.42612,
+    "name": "Camping La Samaritaine ***",
+    "city": "Buzancy",
+    "description": ""
+  },
+  {
+    "longitude": 4.71511,
+    "latitude": 47.52195,
+    "name": "Camping Municipal *",
+    "city": "Chanceaux",
+    "description": "D 971"
+  },
+  {
+    "longitude": 7.38543,
+    "latitude": 48.23958,
+    "name": "Camping AN Mme Waliszek Cecile",
+    "city": "Orschwiller",
+    "description": ""
+  },
+  {
+    "longitude": 5.395,
+    "latitude": 44.481,
+    "name": "Camping ANLa Ferme de Clareau",
+    "city": "La Motte Chalencon",
+    "description": ""
+  },
+  {
+    "longitude": -1.3925,
+    "latitude": 46.015,
+    "name": "Camping Les Huttes **",
+    "city": "Saint Denis d Oleron",
+    "description": "+33 546752169"
+  },
+  {
+    "longitude": 8.76785,
+    "latitude": 42.55491,
+    "name": "Camping La Pinede",
+    "city": "Calvi",
+    "description": ""
+  },
+  {
+    "longitude": 1.41615,
+    "latitude": 43.65606,
+    "name": "Camping Le Rupe **",
+    "city": "Toulouse",
+    "description": "+33 561700735"
+  },
+  {
+    "longitude": 3.09434,
+    "latitude": 46.14728,
+    "name": "Camping Chateau de la Mothe",
+    "city": "Vicq",
+    "description": ""
+  },
+  {
+    "longitude": 1.53222,
+    "latitude": 43.48667,
+    "name": "Camping Les Violettes **",
+    "city": "Deyme",
+    "description": "+33 561817207"
+  },
+  {
+    "longitude": 4.08999,
+    "latitude": 48.19007,
+    "name": "Camping Municipal Rodaven **",
+    "city": "Chateaulin",
+    "description": "+33 298863293"
+  },
+  {
+    "longitude": -1.61373,
+    "latitude": 43.35953,
+    "name": "Camping La Nivelle **",
+    "city": "Saint Pee sur Nivelle",
+    "description": ""
+  },
+  {
+    "longitude": 2.048,
+    "latitude": 50.987,
+    "name": "Camping Bouscarel **",
+    "city": "Oye plage",
+    "description": ""
+  },
+  {
+    "longitude": 6.12556,
+    "latitude": 43.04,
+    "name": "Camping Le Clair de Lune ***",
+    "city": "Giens",
+    "description": "+33 494582019"
+  },
+  {
+    "longitude": 5.217,
+    "latitude": 44.426,
+    "name": "Camping Le Trente Pas ***",
+    "city": "Saint Ferreol Trente Pas",
+    "description": ""
+  },
+  {
+    "longitude": -3.89998,
+    "latitude": 47.85626,
+    "name": "Camping plage **",
+    "city": "Concarneau",
+    "description": ""
+  },
+  {
+    "longitude": 1.63555,
+    "latitude": 50.81793,
+    "name": "Camping Le Beaucamp ***",
+    "city": "Ambleteuse",
+    "description": "+33 321326210"
+  },
+  {
+    "longitude": 4.21773,
+    "latitude": 44.40193,
+    "name": "Camping Les Tournaires ***",
+    "city": "Berrias et Casteljau",
+    "description": "+33 475393639"
+  },
+  {
+    "longitude": 7.1714,
+    "latitude": 47.803,
+    "name": "Camping Municipal ***",
+    "city": "Cernay",
+    "description": ""
+  },
+  {
+    "longitude": 3.03123,
+    "latitude": 42.71466,
+    "name": "Camping Le Sainte Marie ***",
+    "city": "Sainte Marie la Mer",
+    "description": "+33 468804810"
+  },
+  {
+    "longitude": 6.65782,
+    "latitude": 43.97162,
+    "name": "Camping La Ribiere **",
+    "city": "Annot",
+    "description": "+33 492832144"
+  },
+  {
+    "longitude": -2.46733,
+    "latitude": 47.47161,
+    "name": "Camping Domaine d Inly ****",
+    "city": "Penestin",
+    "description": "+33 299903509"
+  },
+  {
+    "longitude": -1.09587,
+    "latitude": 45.94821,
+    "name": "Camping Municipal La Garenne ***",
+    "city": "Port des Barques",
+    "description": ""
+  },
+  {
+    "longitude": 3.36409,
+    "latitude": 43.28014,
+    "name": "Camping Mediterranee ***",
+    "city": "Vias",
+    "description": "+33 467909907"
+  },
+  {
+    "longitude": 1.6181,
+    "latitude": 50.4725,
+    "name": "Camping Les Ormes **",
+    "city": "Merlimont",
+    "description": ""
+  },
+  {
+    "longitude": 7.69831,
+    "latitude": 48.3219,
+    "name": "Camping Tuilerie",
+    "city": "Rhinau",
+    "description": "rue des Tuileries"
+  },
+  {
+    "longitude": -3.07022,
+    "latitude": 47.60229,
+    "name": "Camping Le Rosnual ****",
+    "city": "Carnac",
+    "description": "+33 297521457"
+  },
+  {
+    "longitude": 4.01889,
+    "latitude": 46.25751,
+    "name": "Camping ANLe Bassin",
+    "city": "Artaix",
+    "description": ""
+  },
+  {
+    "longitude": 3.00139,
+    "latitude": 44.895,
+    "name": "Camping Belvedere du Mont de Lanau ****",
+    "city": "Neuveglise Lanau",
+    "description": "+33 471235050"
+  },
+  {
+    "longitude": -0.68461,
+    "latitude": 47.37192,
+    "name": "Camping Municipal du Port **",
+    "city": "La Possonniere",
+    "description": "+33 241722208"
+  },
+  {
+    "longitude": 9.50515,
+    "latitude": 42.58764,
+    "name": "Camping Saint Damianu",
+    "city": "Pineto",
+    "description": ""
+  },
+  {
+    "longitude": 4.29389,
+    "latitude": 46.96472,
+    "name": "Camping Municipal de la Porte d Arroux ***",
+    "city": "Autun",
+    "description": ""
+  },
+  {
+    "longitude": 6.24321,
+    "latitude": 43.79671,
+    "name": "Camping Municipal le Galetas **",
+    "city": "Aiguines",
+    "description": ""
+  },
+  {
+    "longitude": 0.63412,
+    "latitude": 49.82547,
+    "name": "Camping Municipal Les Grands Pres ***",
+    "city": "Vitteleur",
+    "description": "+33 235975382"
+  },
+  {
+    "longitude": -3.79808,
+    "latitude": 47.79654,
+    "name": "Camping Le Vieux Verger - Ty Noul **",
+    "city": "Nevez",
+    "description": "+33 298068608"
+  },
+  {
+    "longitude": 0.63385,
+    "latitude": 47.35531,
+    "name": "Camping La Mignardiere ****",
+    "city": "Ballan Mire",
+    "description": ""
+  },
+  {
+    "longitude": 2.81889,
+    "latitude": 44.51361,
+    "name": "Camping Belle Rive **",
+    "city": "Saint Come d Olt",
+    "description": ""
+  },
+  {
+    "longitude": 2.3653,
+    "latitude": 42.25956,
+    "name": "Camping Das Pinhiers ***",
+    "city": "Villemoustaussou",
+    "description": "+33 468478190"
+  },
+  {
+    "longitude": -3.96131,
+    "latitude": 47.89919,
+    "name": "Camping Les Saules ***",
+    "city": "La Foret Fouesnant",
+    "description": ""
+  },
+  {
+    "longitude": -2.57328,
+    "latitude": 47.9523,
+    "name": "Camping Le Bas de la Lande ***",
+    "city": "Guegon",
+    "description": "+33 297222220"
+  },
+  {
+    "longitude": -2.15332,
+    "latitude": 47.17624,
+    "name": "Camping Le Bel Essor **",
+    "city": "Saint Michel Chef Chef",
+    "description": ""
+  },
+  {
+    "longitude": 6.86861,
+    "latitude": 48.0475,
+    "name": "Camping Les Myrtilles *",
+    "city": "Gerardmer",
+    "description": "+33 329630533"
+  },
+  {
+    "longitude": 8.70532,
+    "latitude": 42.12961,
+    "name": "Camping Sagone",
+    "city": "Sagone",
+    "description": ""
+  },
+  {
+    "longitude": 7.3356,
+    "latitude": 48.1957,
+    "name": "Camping Municipal ****",
+    "city": "Ribeauville",
+    "description": ""
+  },
+  {
+    "longitude": 4.88324,
+    "latitude": 47.02706,
+    "name": "Camping Les Bouleaux ***",
+    "city": "Vignoles",
+    "description": "9-11 rue Jaune"
+  },
+  {
+    "longitude": 4.32028,
+    "latitude": 46.29139,
+    "name": "Camping Les Bruyeres ***",
+    "city": "La Clayette",
+    "description": ""
+  },
+  {
+    "longitude": 3.12174,
+    "latitude": 45.2673,
+    "name": "Camping Municipal *",
+    "city": "Auriac l Eglise",
+    "description": "+33 471739128"
+  },
+  {
+    "longitude": 1.4993,
+    "latitude": 48.4342,
+    "name": "Camping",
+    "city": "Chartres",
+    "description": "rue de Launay"
+  },
+  {
+    "longitude": -2.22273,
+    "latitude": 47.00704,
+    "name": "Camping La Vendette **",
+    "city": "Noirmoutier en l Ile",
+    "description": "+33 251390624"
+  },
+  {
+    "longitude": -3.13503,
+    "latitude": 47.53996,
+    "name": "Camping Municipal de Kerhostin **",
+    "city": "Saint Pierre de Quiberon",
+    "description": "+33 297309525"
+  },
+  {
+    "longitude": 4.36365,
+    "latitude": 44.66877,
+    "name": "Camping Municipal Au Fil de la Volane **",
+    "city": "Vals les Bains",
+    "description": "+33 475374685"
+  },
+  {
+    "longitude": 5.71194,
+    "latitude": 43.68666,
+    "name": "Camping La Vallee de l Oise",
+    "city": "Saint Paul",
+    "description": "38 rue du Camping"
+  },
+  {
+    "longitude": 2.75316,
+    "latitude": 45.91346,
+    "name": "Camping Plage de Confolant ***",
+    "city": "Miremont",
+    "description": "+33 473799806"
+  },
+  {
+    "longitude": -0.71165,
+    "latitude": 47.63068,
+    "name": "Camping Municipal Les Frenes **",
+    "city": "Le Lion d Angers",
+    "description": "+33 241953156"
+  },
+  {
+    "longitude": -1.07305,
+    "latitude": 44.75757,
+    "name": "Camping Pleine Foret ***",
+    "city": "Andernos",
+    "description": ""
+  },
+  {
+    "longitude": 2.55139,
+    "latitude": 47.37056,
+    "name": "Camping Le Veridet **",
+    "city": "Piriac sur Mer",
+    "description": "+33 240235850"
+  },
+  {
+    "longitude": 9.35095,
+    "latitude": 42.95534,
+    "name": "Camping Mute",
+    "city": "Centuri",
+    "description": ""
+  },
+  {
+    "longitude": 0.17727,
+    "latitude": 44.67796,
+    "name": "Camping Municipal a Cote du Chateau",
+    "city": "Duras",
+    "description": ""
+  },
+  {
+    "longitude": 4.76096,
+    "latitude": 46.43809,
+    "name": "Camping d Aze ***",
+    "city": "Aze",
+    "description": ""
+  },
+  {
+    "longitude": 2.1376,
+    "latitude": 48.543,
+    "name": "Camping Le Parc des Roches ***",
+    "city": "Saint Cheron",
+    "description": ""
+  },
+  {
+    "longitude": 2.30962,
+    "latitude": 44.85415,
+    "name": "Camping Municipal ***",
+    "city": "Saint Mamet La Salvetat",
+    "description": "+33 471647521"
+  },
+  {
+    "longitude": -3.90417,
+    "latitude": 47.8675,
+    "name": "Camping Le Moulin d Aurore **",
+    "city": "Concarneau",
+    "description": ""
+  },
+  {
+    "longitude": 9.37555,
+    "latitude": 41.68256,
+    "name": "Camping California",
+    "city": "Pinarellu",
+    "description": ""
+  },
+  {
+    "longitude": 8.68546,
+    "latitude": 41.90962,
+    "name": "Camping Chateau de Barbicaggia **",
+    "city": "Ajaccio",
+    "description": "+33 495520117"
+  },
+  {
+    "longitude": 0.79514,
+    "latitude": 45.55216,
+    "name": "Camping Chateau Le Verdoyer ****",
+    "city": "Champs Romain",
+    "description": "+33 553569464"
+  },
+  {
+    "longitude": 6.74139,
+    "latitude": 45.22834,
+    "name": "Camping Municipal La Buidonniere ***",
+    "city": "Aussois",
+    "description": ""
+  },
+  {
+    "longitude": 4.368,
+    "latitude": 44.94252,
+    "name": "Camping Municipal **",
+    "city": "Saint Martin de Valamas",
+    "description": "+33 475304716"
+  },
+  {
+    "longitude": 3.7414,
+    "latitude": 48.21584,
+    "name": "Camping Municipal de la Mosle **",
+    "city": "Aix en Othe",
+    "description": ""
+  },
+  {
+    "longitude": -3.9641,
+    "latitude": 47.8987,
+    "name": "Camping Kersioual **",
+    "city": "La Foret Fouesnant",
+    "description": ""
+  },
+  {
+    "longitude": -1.70192,
+    "latitude": 43.3424,
+    "name": "Camping Aire-Ona **",
+    "city": "Urrugne",
+    "description": ""
+  },
+  {
+    "longitude": -4.16198,
+    "latitude": 47.85317,
+    "name": "Camping Le Bois d Amour **",
+    "city": "Ile Tudy",
+    "description": "+33 298564354"
+  },
+  {
+    "longitude": -0.25472,
+    "latitude": 49.26889,
+    "name": "Camping Municipal Les Pommiers ***",
+    "city": "Ouistreham",
+    "description": ""
+  },
+  {
+    "longitude": 5.53849,
+    "latitude": 45.17038,
+    "name": "Camping Le Vercors ***",
+    "city": "Autrans",
+    "description": "+33 476953188"
+  },
+  {
+    "longitude": 2.41044,
+    "latitude": 48.30133,
+    "name": "Camping Municipal La Vallee Doudemont ***",
+    "city": "Malesherbes",
+    "description": "+33 238348563"
+  },
+  {
+    "longitude": 6.77472,
+    "latitude": 45.61167,
+    "name": "Camping Le Versoyen ***",
+    "city": "Bourg Saint Maurice",
+    "description": ""
+  },
+  {
+    "longitude": 2.66917,
+    "latitude": 48.5255,
+    "name": "Camping La Belle Etoile ***",
+    "city": "Melun - La Rochette",
+    "description": "+33 164394812"
+  },
+  {
+    "longitude": 3.43862,
+    "latitude": 48.41445,
+    "name": "Camping Municipal Saint Barthelemy **",
+    "city": "Trainel",
+    "description": ""
+  },
+  {
+    "longitude": 7.50185,
+    "latitude": 48.55007,
+    "name": "Camping Municipal **",
+    "city": "Molsheim",
+    "description": "+33 388498245"
+  },
+  {
+    "longitude": 3.7318,
+    "latitude": 47.6596,
+    "name": "Camping Les Coullemieres ***",
+    "city": "Vermenton",
+    "description": ""
+  },
+  {
+    "longitude": 3.62619,
+    "latitude": 45.09352,
+    "name": "Camping Municipal **",
+    "city": "Siaugues Sainte Marie",
+    "description": "+33 471742368"
+  },
+  {
+    "longitude": -4.15608,
+    "latitude": 47.86901,
+    "name": "Camping Menez Lanveur **",
+    "city": "Combrit",
+    "description": ""
+  },
+  {
+    "longitude": -3.01316,
+    "latitude": 48.19862,
+    "name": "Camping Municipal **",
+    "city": "Mur de Bretagne",
+    "description": "+33 296260190"
+  },
+  {
+    "longitude": 1.05306,
+    "latitude": 44.48889,
+    "name": "Camping Le Clos Bouyssac **",
+    "city": "Touzac",
+    "description": ""
+  },
+  {
+    "longitude": 1.88221,
+    "latitude": 42.47032,
+    "name": "Camping L Oratoire **",
+    "city": "La Tour de Carol",
+    "description": ""
+  },
+  {
+    "longitude": -1.45976,
+    "latitude": 43.59563,
+    "name": "Camping Les Pins Bleus **",
+    "city": "Labenne",
+    "description": ""
+  },
+  {
+    "longitude": 9.29861,
+    "latitude": 41.62047,
+    "name": "Camping Les Ilots",
+    "city": "La Trinite",
+    "description": ""
+  },
+  {
+    "longitude": 3.04584,
+    "latitude": 43.01497,
+    "name": "Camping Municipal du Golf **",
+    "city": "Port la Nouvelle",
+    "description": "+33 468480842"
+  },
+  {
+    "longitude": 3.48253,
+    "latitude": 43.32685,
+    "name": "Camping Sud Loisirs ***",
+    "city": "Agde",
+    "description": "+33 467210910"
+  },
+  {
+    "longitude": -1.55703,
+    "latitude": 48.74971,
+    "name": "Place de la Mairie",
+    "city": "Carolles",
+    "description": ""
+  },
+  {
+    "longitude": -4.34534,
+    "latitude": 48.67537,
+    "name": "Camping du Phare **",
+    "city": "Brignogan",
+    "description": ""
+  },
+  {
+    "longitude": 3.5175,
+    "latitude": 49.20833,
+    "name": "Camping Municipal des Bruyeres",
+    "city": "Fere en Tardenois",
+    "description": ""
+  },
+  {
+    "longitude": 4.44897,
+    "latitude": 47.54304,
+    "name": "Camping Municipal Alesia *",
+    "city": "Venarey les Laumes",
+    "description": "16-18 avenue Jean Jaures"
+  },
+  {
+    "longitude": 5.36581,
+    "latitude": 49.1538,
+    "name": "Camping Les Breuils ***",
+    "city": "Verdun",
+    "description": "+33 329861531"
+  },
+  {
+    "longitude": 2.76194,
+    "latitude": 44.52167,
+    "name": "Camping Municipal Le Roc de l Arche **",
+    "city": "Espalion",
+    "description": ""
+  },
+  {
+    "longitude": 4.68503,
+    "latitude": 46.90718,
+    "name": "Camping Les Sources ****",
+    "city": "Santenay",
+    "description": "avenue des Sources"
+  },
+  {
+    "longitude": 5.111,
+    "latitude": 44.593,
+    "name": "Camping Le Couspeau ***",
+    "city": "Poet Celard",
+    "description": ""
+  },
+  {
+    "longitude": -3.051,
+    "latitude": 48.2088,
+    "name": "Camping Nautic International ****",
+    "city": "Caurel",
+    "description": ""
+  },
+  {
+    "longitude": -0.00805,
+    "latitude": 42.87752,
+    "name": "Camping La Grande Bigourdane **",
+    "city": "Esquiere Sere",
+    "description": ""
+  },
+  {
+    "longitude": 5.78695,
+    "latitude": 43.96223,
+    "name": "Camping Indigo Forcalquier ***",
+    "city": "Forcalquier",
+    "description": ""
+  },
+  {
+    "longitude": 3.0333,
+    "latitude": 42.73972,
+    "name": "Camping Le Palais de la Mer ****",
+    "city": "Sainte Marie la Mer",
+    "description": "+33 468730794"
+  },
+  {
+    "longitude": -2.21607,
+    "latitude": 46.96633,
+    "name": "Camping Le Caravan Ile ***",
+    "city": "La Gueriniere",
+    "description": "+33 251395029"
+  },
+  {
+    "longitude": 4.39861,
+    "latitude": 44.39816,
+    "name": "Camping Le Provencal ****",
+    "city": "Vallon Pont d Arc",
+    "description": "+33 475880048"
+  },
+  {
+    "longitude": 7.43204,
+    "latitude": 48.63797,
+    "name": "Camping Municipal **",
+    "city": "Wasselonne",
+    "description": ""
+  },
+  {
+    "longitude": 1.22421,
+    "latitude": 49.22513,
+    "name": "Camping Le Saint Pierre ***",
+    "city": "Saint Pierre du Vauvray",
+    "description": "rue du Chateau"
+  },
+  {
+    "longitude": 3.50322,
+    "latitude": 45.10437,
+    "name": "Camping Gorges de l Allier ***",
+    "city": "Langeac",
+    "description": "+33 471770501"
+  },
+  {
+    "longitude": 8.87369,
+    "latitude": 42.60856,
+    "name": "Camping La Plage",
+    "city": "Algajola",
+    "description": ""
+  },
+  {
+    "longitude": -1.34154,
+    "latitude": 45.92307,
+    "name": "Camping Les Pins **",
+    "city": "Saint Pierre d Oleron",
+    "description": ""
+  },
+  {
+    "longitude": -1.73326,
+    "latitude": 43.37617,
+    "name": "Camping La Corniche ***",
+    "city": "Urrugne",
+    "description": ""
+  },
+  {
+    "longitude": 5.53222,
+    "latitude": 45.12954,
+    "name": "Camping Les Buissonnets ***",
+    "city": "Meaudre",
+    "description": "+33 476952104"
+  },
+  {
+    "longitude": 0.4567,
+    "latitude": 47.5267,
+    "name": "Camping L Arada Parc ****",
+    "city": "Sonzay",
+    "description": ""
+  },
+  {
+    "longitude": -4.52336,
+    "latitude": 48.63038,
+    "name": "Camping La Greve Blanche **",
+    "city": "Plouguerneau",
+    "description": ""
+  },
+  {
+    "longitude": 6.72058,
+    "latitude": 43.48399,
+    "name": "Camping La Pierre Verte ****",
+    "city": "Frejus",
+    "description": "+33 494408830"
+  },
+  {
+    "longitude": 3.03082,
+    "latitude": 42.76576,
+    "name": "Camping Les Dunes ***",
+    "city": "Torreilles Plage",
+    "description": ""
+  },
+  {
+    "longitude": 0.87194,
+    "latitude": 44.81083,
+    "name": "Camping Les Jardins de l Abbaye *",
+    "city": "Cadouin",
+    "description": "+33 553618930"
+  },
+  {
+    "longitude": 0.88815,
+    "latitude": 44.2722,
+    "name": "Camping Les 2 lacs **",
+    "city": "Beauville",
+    "description": "+33 553675809"
+  },
+  {
+    "longitude": 4.28194,
+    "latitude": 46.43944,
+    "name": "Camping Municipal ***",
+    "city": "Charolles",
+    "description": ""
+  },
+  {
+    "longitude": 1.034,
+    "latitude": 45.61486,
+    "name": "Camping Les Ribieres **",
+    "city": "Bussiere Galant",
+    "description": ""
+  },
+  {
+    "longitude": -3.95353,
+    "latitude": 47.8969,
+    "name": "Camping Village Club Saint Laurent ****",
+    "city": "La Foret Fouesnant",
+    "description": ""
+  },
+  {
+    "longitude": 4.40211,
+    "latitude": 44.3993,
+    "name": "Camping Le Vieux Vallon *",
+    "city": "Vallon Pont d Arc",
+    "description": "+33 475880147"
+  },
+  {
+    "longitude": 6.19384,
+    "latitude": 43.71265,
+    "name": "Camping Le Clos de Barbey **",
+    "city": "Bauduen",
+    "description": ""
+  },
+  {
+    "longitude": 1.45941,
+    "latitude": 47.59086,
+    "name": "Camping Val de Flux",
+    "city": "Huisseau sur Cosson",
+    "description": "6 rue de Chatillon"
+  },
+  {
+    "longitude": 3.79834,
+    "latitude": 43.4456,
+    "name": "Camping Club du Soleil ***",
+    "city": "Frontignan",
+    "description": ""
+  },
+  {
+    "longitude": 4.78485,
+    "latitude": 45.42471,
+    "name": "Camping Le Daxia ***",
+    "city": "Saint Clair du Rhone",
+    "description": "+33 474564557"
+  },
+  {
+    "longitude": -2.785,
+    "latitude": 48.57861,
+    "name": "Camping Roc de l Hervieu ***",
+    "city": "Pordic",
+    "description": ""
+  },
+  {
+    "longitude": 3.02614,
+    "latitude": 42.5723,
+    "name": "Camping Les Galets ****",
+    "city": "Argeles sur Mer",
+    "description": "+33 468810812"
+  },
+  {
+    "longitude": -3.91862,
+    "latitude": 47.90424,
+    "name": "Camping Lochrist ***",
+    "city": "Concarneau",
+    "description": ""
+  },
+  {
+    "longitude": 0.00222,
+    "latitude": 42.76012,
+    "name": "Camping Le Pain de Sucre **",
+    "city": "Gavarnie",
+    "description": ""
+  },
+  {
+    "longitude": 3.53148,
+    "latitude": 44.3716,
+    "name": "Camping Les Cerisiers **",
+    "city": "Ispagnac",
+    "description": "+33 466442124"
+  },
+  {
+    "longitude": 4.87104,
+    "latitude": 47.7742,
+    "name": "Camping Municipal *",
+    "city": "Recey sur Ource",
+    "description": "route de Menesble"
+  },
+  {
+    "longitude": 3.0777,
+    "latitude": 45.9147,
+    "name": "Camping La Balanede **",
+    "city": "Chatelguyon",
+    "description": ""
+  },
+  {
+    "longitude": 1.2342,
+    "latitude": 48.0022,
+    "name": "Camping Parc de Loisirs ****",
+    "city": "Cloyes sur le Loir",
+    "description": ""
+  },
+  {
+    "longitude": 5.86347,
+    "latitude": 45.65321,
+    "name": "Camping International de l Ile aux Cygnes ***",
+    "city": "Le Bourget du Lac",
+    "description": "+33 479250176"
+  },
+  {
+    "longitude": 1.52614,
+    "latitude": 50.20306,
+    "name": "Camping Les Galets de Molliere ***",
+    "city": "Cayeux sur mer",
+    "description": ""
+  },
+  {
+    "longitude": -2.99748,
+    "latitude": 47.59572,
+    "name": "Camping Chat Noir ***",
+    "city": "Saint Philibert",
+    "description": ""
+  },
+  {
+    "longitude": -1.37257,
+    "latitude": 45.94802,
+    "name": "Camping Le Suro�t ***",
+    "city": "Saint Georges d Oleron",
+    "description": ""
+  },
+  {
+    "longitude": 5.75584,
+    "latitude": 45.43362,
+    "name": "Camping L Arc en ciel ***",
+    "city": "Entre Deux Guiers",
+    "description": ""
+  },
+  {
+    "longitude": -3.98594,
+    "latitude": 47.85917,
+    "name": "Camping Kerroland **",
+    "city": "Fouesnant",
+    "description": "+33 298949100"
+  },
+  {
+    "longitude": -4.10325,
+    "latitude": 47.88199,
+    "name": "Camping du Port de Plaisance ****",
+    "city": "Clohars Fouesnant",
+    "description": ""
+  },
+  {
+    "longitude": -2.69334,
+    "latitude": 47.64151,
+    "name": "Camping Rhuys ***",
+    "city": "Theix",
+    "description": ""
+  },
+  {
+    "longitude": 2.23501,
+    "latitude": 48.86834,
+    "name": "Camping Bois de Boulogne ****",
+    "city": "Paris",
+    "description": "+33 145243000"
+  },
+  {
+    "longitude": 3.19433,
+    "latitude": 46.08518,
+    "name": "Camping Le Mont Libre ***",
+    "city": "Gannat",
+    "description": ""
+  },
+  {
+    "longitude": 4.23033,
+    "latitude": 44.38968,
+    "name": "Camping Le Pont de Maisonneuve **",
+    "city": "Beaulieu",
+    "description": "+33 475393044"
+  },
+  {
+    "longitude": -2.30308,
+    "latitude": 47.02418,
+    "name": "Camping Pointe de l Herbaudiere **",
+    "city": "L Herbaudiere",
+    "description": "+33 240215205"
+  },
+  {
+    "longitude": -1.10405,
+    "latitude": 45.68097,
+    "name": "Camping Les Cotes de Saintonge ***",
+    "city": "Saint Augustin",
+    "description": "+33 546232348"
+  },
+  {
+    "longitude": 8.97433,
+    "latitude": 41.64064,
+    "name": "Camping Olva",
+    "city": "Sartene",
+    "description": ""
+  },
+  {
+    "longitude": -3.47537,
+    "latitude": 48.82839,
+    "name": "Camping Le Ranolien ****",
+    "city": "Ploumanach",
+    "description": ""
+  },
+  {
+    "longitude": -0.74219,
+    "latitude": 45.18511,
+    "name": "Camping Les Gabarreys ****",
+    "city": "Pauillac",
+    "description": ""
+  },
+  {
+    "longitude": 4.06562,
+    "latitude": 45.91168,
+    "name": "Camping Arpheuilles ***",
+    "city": "Saint Paul de Vezelin",
+    "description": "+33 477634343"
+  },
+  {
+    "longitude": 2.99,
+    "latitude": 45.66861,
+    "name": "Camping Le Chadelas **",
+    "city": "Aydat",
+    "description": "+33 473793809"
+  },
+  {
+    "longitude": 9.29401,
+    "latitude": 42.67383,
+    "name": "Camping U Pezzo",
+    "city": "Saint Florent",
+    "description": ""
+  },
+  {
+    "longitude": 5.95811,
+    "latitude": 45.70943,
+    "name": "Camping camp Marlice **",
+    "city": "Trevignin",
+    "description": "+33 479614474"
+  },
+  {
+    "longitude": 2.78167,
+    "latitude": 43.64806,
+    "name": "Camping Indigo ****",
+    "city": "Nages",
+    "description": ""
+  },
+  {
+    "longitude": -3.80156,
+    "latitude": 47.82796,
+    "name": "Camping Le Fleuri **",
+    "city": "Tregunc",
+    "description": "+33 298067476"
+  },
+  {
+    "longitude": 6.78333,
+    "latitude": 46.05,
+    "name": "Camping Municipal le Pelly **",
+    "city": "Sixt Fer � Cheval",
+    "description": ""
+  },
+  {
+    "longitude": 4.21611,
+    "latitude": 44.40385,
+    "name": "Camping Le Vieux Moulin **",
+    "city": "Berrias et Casteljau",
+    "description": "+33 475392570"
+  },
+  {
+    "longitude": -1.06057,
+    "latitude": 45.6494,
+    "name": "Camping Ferme de Chauchamps **",
+    "city": "Vaux sur Mer",
+    "description": "+33 546380464"
+  },
+  {
+    "longitude": -3.02277,
+    "latitude": 47.57386,
+    "name": "Camping La Baie ****",
+    "city": "La Trinite sur Mer",
+    "description": "+33 297557342"
+  },
+  {
+    "longitude": -1.39921,
+    "latitude": 43.79735,
+    "name": "Camping Le Vieux Port ****",
+    "city": "Messanges",
+    "description": ""
+  },
+  {
+    "longitude": -3.99278,
+    "latitude": 47.88028,
+    "name": "Camping Kerscolper **",
+    "city": "Fouesnant 0298560948",
+    "description": ""
+  },
+  {
+    "longitude": 2.95643,
+    "latitude": 46.03279,
+    "name": "Camping camp Elan **",
+    "city": "Blot l Eglise",
+    "description": "+33 473974494"
+  },
+  {
+    "longitude": 0.13965,
+    "latitude": 43.08033,
+    "name": "Camping Le Bigourdan ***",
+    "city": "Pouzac",
+    "description": ""
+  },
+  {
+    "longitude": -4.3713,
+    "latitude": 48.2252,
+    "name": "Camping Armorique ***",
+    "city": "Telgruc sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": 6.8874,
+    "latitude": 48.169,
+    "name": "Camping Le Clos de la Chaume **",
+    "city": "Corcieux",
+    "description": ""
+  },
+  {
+    "longitude": 4.73473,
+    "latitude": 48.37667,
+    "name": "Camping La Croix Badeau **",
+    "city": "Soulaines Dhuys",
+    "description": ""
+  },
+  {
+    "longitude": 4.89898,
+    "latitude": 46.44708,
+    "name": "Camping Aux Rives du Soleil ***",
+    "city": "Pont de Vaux",
+    "description": "+33 385303365"
+  },
+  {
+    "longitude": 2.15972,
+    "latitude": 48.79416,
+    "name": "Camping International",
+    "city": "Versailles",
+    "description": "31 rue Berthelot"
+  },
+  {
+    "longitude": 2.4716,
+    "latitude": 43.6084,
+    "name": "Camping Le Plo **",
+    "city": "Le Bez",
+    "description": ""
+  },
+  {
+    "longitude": 2.72661,
+    "latitude": 48.26665,
+    "name": "Camping La Baraude **",
+    "city": "Darvault",
+    "description": ""
+  },
+  {
+    "longitude": 4.13945,
+    "latitude": 46.69362,
+    "name": "Camping Le Val d Arroux **",
+    "city": "Toulon sur Arroux",
+    "description": ""
+  },
+  {
+    "longitude": -2.16918,
+    "latitude": 46.92938,
+    "name": "Camping Les Oncheres ***",
+    "city": "Barbatre",
+    "description": ""
+  },
+  {
+    "longitude": 4.83834,
+    "latitude": 46.32278,
+    "name": "Camping Municipal ***",
+    "city": "Macon",
+    "description": ""
+  },
+  {
+    "longitude": -0.65591,
+    "latitude": 47.36024,
+    "name": "Camping Le Saint Offange ***",
+    "city": "Rochefort sur Loire",
+    "description": "+33 241788211"
+  },
+  {
+    "longitude": -0.67088,
+    "latitude": 47.32838,
+    "name": "Camping Municipal du Layon **",
+    "city": "Saint Aubin de Luigne",
+    "description": "+33 241783328"
+  },
+  {
+    "longitude": -3.5618,
+    "latitude": 48.7651,
+    "name": "Camping Armor Loisirs ***",
+    "city": "Trebeurden",
+    "description": ""
+  },
+  {
+    "longitude": -1.11556,
+    "latitude": 45.68674,
+    "name": "Camping L Ecureuil ***",
+    "city": "Saint Augustin",
+    "description": "+33 546391339"
+  },
+  {
+    "longitude": 2.37056,
+    "latitude": 50.72778,
+    "name": "Camping Le Bloemstraete ***",
+    "city": "Renescure",
+    "description": ""
+  },
+  {
+    "longitude": -3.0623,
+    "latitude": 47.5981,
+    "name": "Camping La Grande Metairie ****",
+    "city": "Carnac",
+    "description": ""
+  },
+  {
+    "longitude": 8.86342,
+    "latitude": 42.53444,
+    "name": "Camping Avena",
+    "city": "Montemaggiore",
+    "description": ""
+  },
+  {
+    "longitude": 7.00722,
+    "latitude": 43.69806,
+    "name": "Camping Les Rives du Loup ***",
+    "city": "Tourrettes sur Loup",
+    "description": "+33 493241565"
+  },
+  {
+    "longitude": -3.46538,
+    "latitude": 48.80598,
+    "name": "Camping Claire Fontaine ***",
+    "city": "Perros Guirec",
+    "description": ""
+  },
+  {
+    "longitude": 8.87873,
+    "latitude": 41.69852,
+    "name": "Camping Libecciu",
+    "city": "Cappiciolo",
+    "description": ""
+  },
+  {
+    "longitude": -1.09145,
+    "latitude": 43.71966,
+    "name": "Camping Les Pins du Soleil ***",
+    "city": "Saint Paul les Dax",
+    "description": ""
+  },
+  {
+    "longitude": -0.82242,
+    "latitude": 45.14852,
+    "name": "Camping Le Paradis **",
+    "city": "Saint Laurent Medoc",
+    "description": "+33 556594215"
+  },
+  {
+    "longitude": 6.89363,
+    "latitude": 49.04404,
+    "name": "Camping Municipal *",
+    "city": "Puttelange aux Lacs",
+    "description": "Etang de Diefenbach"
+  },
+  {
+    "longitude": 3.27216,
+    "latitude": 44.81381,
+    "name": "Camping Municipal La Croix des Anglais **",
+    "city": "Saint Chely d Apcher",
+    "description": ""
+  },
+  {
+    "longitude": 8.88437,
+    "latitude": 41.69412,
+    "name": "Camping chez Antoine *",
+    "city": "Olmeto",
+    "description": "+33 495760699"
+  },
+  {
+    "longitude": 6.43139,
+    "latitude": 43.8225,
+    "name": "Camping camp des Gorges du Verdon ***",
+    "city": "Castellane",
+    "description": "+33 492836364"
+  },
+  {
+    "longitude": 6.7309,
+    "latitude": 48.0878,
+    "name": "Camping Le Noir Rupt ****",
+    "city": "Le Tholy",
+    "description": ""
+  },
+  {
+    "longitude": 6.83714,
+    "latitude": 48.06986,
+    "name": "Camping Le Pre Vert **",
+    "city": "Gerardmer",
+    "description": "+33 329632047"
+  },
+  {
+    "longitude": -2.93757,
+    "latitude": 47.55942,
+    "name": "Camping Kerpenhir **",
+    "city": "Locqmariaquer",
+    "description": ""
+  },
+  {
+    "longitude": 3.14293,
+    "latitude": 43.3182,
+    "name": "Camping Les Peupliers **",
+    "city": "Colombiers",
+    "description": ""
+  },
+  {
+    "longitude": 3.97655,
+    "latitude": 50.29687,
+    "name": "Camping Le Clair de Lune ***",
+    "city": "Maubeuge",
+    "description": ""
+  },
+  {
+    "longitude": 1.15945,
+    "latitude": 46.55112,
+    "name": "Camping Municipal La Quintaine **",
+    "city": "Belabre",
+    "description": ""
+  },
+  {
+    "longitude": 6.14722,
+    "latitude": 43.03972,
+    "name": "Camping L Ile d Or **",
+    "city": "Giens",
+    "description": "+33 494582055"
+  },
+  {
+    "longitude": 4.72953,
+    "latitude": 44.24317,
+    "name": "Camping La Pinede **",
+    "city": "Mondragon",
+    "description": "+33 490408298"
+  },
+  {
+    "longitude": 6.78462,
+    "latitude": 45.62224,
+    "name": "Caravaneige Le Versoyen",
+    "city": "Bourg Saint Maurice",
+    "description": ""
+  },
+  {
+    "longitude": 9.13417,
+    "latitude": 42.29667,
+    "name": "Camping Ulivu **",
+    "city": "Corte",
+    "description": ""
+  },
+  {
+    "longitude": 4.0227,
+    "latitude": 44.03596,
+    "name": "Camping Domaine de Gaujac ***",
+    "city": "Anduze",
+    "description": ""
+  },
+  {
+    "longitude": -4.55691,
+    "latitude": 48.02844,
+    "name": "Camping Kerivoas **",
+    "city": "Audierne",
+    "description": "+33 298702686"
+  },
+  {
+    "longitude": 1.14829,
+    "latitude": 44.83812,
+    "name": "Camping Le Capeyrou ***",
+    "city": "Beynac",
+    "description": "+33 553295495"
+  },
+  {
+    "longitude": 3.97276,
+    "latitude": 44.0688,
+    "name": "Camping L Arche ***",
+    "city": "Anduze",
+    "description": ""
+  },
+  {
+    "longitude": 1.18778,
+    "latitude": 47.48889,
+    "name": "Camping Municipal **",
+    "city": "Onzain",
+    "description": ""
+  },
+  {
+    "longitude": 8.86857,
+    "latitude": 41.64326,
+    "name": "Camping Lecci e Murta",
+    "city": "Portigliolo",
+    "description": ""
+  },
+  {
+    "longitude": 5.4329,
+    "latitude": 45.8135,
+    "name": "Camping Le Point Vert ****",
+    "city": "Serrieres de Briord",
+    "description": ""
+  },
+  {
+    "longitude": -4.45949,
+    "latitude": 48.29224,
+    "name": "Camping La Cale **",
+    "city": "Lanveoc",
+    "description": "+33 298275891"
+  },
+  {
+    "longitude": 5.7751,
+    "latitude": 46.6516,
+    "name": "Camping Les Merilles **",
+    "city": "Doucier",
+    "description": ""
+  },
+  {
+    "longitude": 6.651,
+    "latitude": 43.23385,
+    "name": "Camping La Toison d Or ***",
+    "city": "Ramatuelle",
+    "description": ""
+  },
+  {
+    "longitude": 2.58477,
+    "latitude": 44.35394,
+    "name": "Camping Municipal de Layoule ****",
+    "city": "Rodez",
+    "description": ""
+  },
+  {
+    "longitude": -1.6964,
+    "latitude": 43.38275,
+    "name": "Camping Untxin Socoa **",
+    "city": "Urrugne",
+    "description": ""
+  },
+  {
+    "longitude": 2.0683,
+    "latitude": 43.4555,
+    "name": "Camping Saint Martin ***",
+    "city": "Soreze",
+    "description": ""
+  },
+  {
+    "longitude": -4.56525,
+    "latitude": 48.28078,
+    "name": "Camping Le Grand Large ****",
+    "city": "Camaret",
+    "description": ""
+  },
+  {
+    "longitude": -1.55667,
+    "latitude": 47.2425,
+    "name": "Camping Municipal du Petit Port ****",
+    "city": "Nantes",
+    "description": ""
+  },
+  {
+    "longitude": 4.32226,
+    "latitude": 44.42263,
+    "name": "Camping La Bastide en Ardeche ****",
+    "city": "Sampzon",
+    "description": "+33 475396472"
+  },
+  {
+    "longitude": 9.16581,
+    "latitude": 41.39272,
+    "name": "Camping Araguina",
+    "city": "Bonifacio",
+    "description": ""
+  },
+  {
+    "longitude": -2.9554,
+    "latitude": 47.6141,
+    "name": "Camping Mane Guernehue ****",
+    "city": "Baden",
+    "description": ""
+  },
+  {
+    "longitude": 9.37113,
+    "latitude": 41.68453,
+    "name": "Camping Pinarellu **",
+    "city": "Sainte Lucie de Porto Vecchio",
+    "description": "+33 495714398"
+  },
+  {
+    "longitude": -2.4793,
+    "latitude": 48.594,
+    "name": "Camping Bellevue ***",
+    "city": "Erquy",
+    "description": ""
+  },
+  {
+    "longitude": 3.90528,
+    "latitude": 47.03583,
+    "name": "Camping L Etang de la Fougeraie **",
+    "city": "Saint Leger de Fougeret",
+    "description": ""
+  },
+  {
+    "longitude": 6.50715,
+    "latitude": 43.84608,
+    "name": "Camping Les Lavandes **",
+    "city": "Castellane",
+    "description": "+33 492783351"
+  },
+  {
+    "longitude": 3.05526,
+    "latitude": 45.75874,
+    "name": "Camping Indigo L Ocledes ****",
+    "city": "Royat",
+    "description": ""
+  },
+  {
+    "longitude": 5.88593,
+    "latitude": 45.70109,
+    "name": "Camping International du Sierroz ***",
+    "city": "Aix les Bains",
+    "description": "+33 479612143"
+  },
+  {
+    "longitude": -3.0916,
+    "latitude": 47.4761,
+    "name": "Camping Le Conguel ****",
+    "city": "Quiberon",
+    "description": ""
+  },
+  {
+    "longitude": 4.40486,
+    "latitude": 44.39039,
+    "name": "Camping les Tunnel",
+    "city": "Vallon Pont d Arc",
+    "description": "Route des Gorges"
+  },
+  {
+    "longitude": -2.1528,
+    "latitude": 47.1409,
+    "name": "Camping La Tabardiere ***",
+    "city": "La Plaine sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": -0.69028,
+    "latitude": 46.56618,
+    "name": "Camping camp du Bois du Roc *",
+    "city": "Puy de Serre",
+    "description": ""
+  },
+  {
+    "longitude": -1.22917,
+    "latitude": 45.69694,
+    "name": "Camping Parc de la Cote Sauvage ****",
+    "city": "La Palmyre",
+    "description": "+33 546224018"
+  },
+  {
+    "longitude": -1.19624,
+    "latitude": 44.7343,
+    "name": "Camping Les Viviers ****",
+    "city": "Lege Cap Ferret",
+    "description": "+33 556607004"
+  },
+  {
+    "longitude": -3.1631,
+    "latitude": 47.62118,
+    "name": "Camping L Ideal ***",
+    "city": "Erdeven",
+    "description": "+33 297556766"
+  },
+  {
+    "longitude": 4.57437,
+    "latitude": 44.50044,
+    "name": "Camping Municipal **",
+    "city": "Valvignieres",
+    "description": ""
+  },
+  {
+    "longitude": 1.0856,
+    "latitude": 47.3268,
+    "name": "Camping Le Moulin Fort ***",
+    "city": "Francueil Chenonceaux",
+    "description": ""
+  },
+  {
+    "longitude": 5.162,
+    "latitude": 44.373,
+    "name": "Camping L Or Vert **",
+    "city": "Aubres",
+    "description": ""
+  },
+  {
+    "longitude": 6.948,
+    "latitude": 48.4553,
+    "name": "Camping Les Lacs ***",
+    "city": "Celles sur Plaine",
+    "description": ""
+  },
+  {
+    "longitude": 6.94259,
+    "latitude": 48.07816,
+    "name": "Camping Municipal du Domaine de Longemer **",
+    "city": "Xonrupt Longemer",
+    "description": "+33 329630730"
+  },
+  {
+    "longitude": -1.88926,
+    "latitude": 48.68698,
+    "name": "Camping Tannee **",
+    "city": "Saint Coulomb",
+    "description": ""
+  },
+  {
+    "longitude": -1.15642,
+    "latitude": 44.07209,
+    "name": "Camping Sen-Yan ****",
+    "city": "Mezos",
+    "description": ""
+  },
+  {
+    "longitude": -1.31038,
+    "latitude": 49.41008,
+    "name": "Camping",
+    "city": "Sainte Mere Eglise",
+    "description": ""
+  },
+  {
+    "longitude": -3.12046,
+    "latitude": 47.49959,
+    "name": "Camping Do Mi Si La Mi ***",
+    "city": "Quiberon",
+    "description": "+33 297502252"
+  },
+  {
+    "longitude": 3.28298,
+    "latitude": 44.70578,
+    "name": "Camping Municipal **",
+    "city": "Aumont Aubrac",
+    "description": ""
+  },
+  {
+    "longitude": 5.55835,
+    "latitude": 45.46796,
+    "name": "International Campsite of Montferrat",
+    "city": "Montferrat",
+    "description": "1578 Route des Chevalliers de l'An Mil"
+  },
+  {
+    "longitude": 9.02,
+    "latitude": 42.637,
+    "name": "Camping Campeoles",
+    "city": "Lozari",
+    "description": ""
+  },
+  {
+    "longitude": 1.19444,
+    "latitude": 47.48444,
+    "name": "Camping Municipal **",
+    "city": "Chaumont sur Loire",
+    "description": ""
+  },
+  {
+    "longitude": -2.12958,
+    "latitude": 46.84781,
+    "name": "Camping La Daviere ****",
+    "city": "Notre Dame de Monts",
+    "description": ""
+  },
+  {
+    "longitude": 1.37661,
+    "latitude": 43.60585,
+    "name": "Camping La Bouriette **",
+    "city": "Toulouse",
+    "description": "+33 561496446"
+  },
+  {
+    "longitude": 3.42228,
+    "latitude": 43.29833,
+    "name": "Camping La Carabasse ****",
+    "city": "Vias",
+    "description": "+33 467215990"
+  },
+  {
+    "longitude": 5.706,
+    "latitude": 44.666,
+    "name": "Camping Champ la Chevre **",
+    "city": "Luz la Croix Haute",
+    "description": ""
+  },
+  {
+    "longitude": 0.56387,
+    "latitude": 43.03187,
+    "name": "Camping Es Pibous ***",
+    "city": "Saint Bertrand de Comminges",
+    "description": "+33 561883142"
+  },
+  {
+    "longitude": -3.70917,
+    "latitude": 47.81711,
+    "name": "Camping Chateau du Belon **",
+    "city": "Riec sur Belon",
+    "description": ""
+  },
+  {
+    "longitude": 1.06861,
+    "latitude": 47.33028,
+    "name": "Camping Municipal *",
+    "city": "Chenonceaux",
+    "description": ""
+  },
+  {
+    "longitude": -1.13417,
+    "latitude": 45.81861,
+    "name": "Camping Au Bon Air **",
+    "city": "Marennes",
+    "description": "+33 546850240"
+  },
+  {
+    "longitude": -2.59667,
+    "latitude": 47.52,
+    "name": "Camping L Ile **",
+    "city": "Damgan",
+    "description": ""
+  },
+  {
+    "longitude": 4.38306,
+    "latitude": 44.39722,
+    "name": "Camping Municipal Zamenhof **",
+    "city": "Vallon Pont d Arc",
+    "description": "+33 475880473"
+  },
+  {
+    "longitude": 4.25727,
+    "latitude": 44.20943,
+    "name": "Camping Chateau de Boisson ****",
+    "city": "Allegre les Fumades",
+    "description": "+33 466248561"
+  },
+  {
+    "longitude": 8.89021,
+    "latitude": 41.69209,
+    "name": "Camping Esplanade",
+    "city": "Vetricella",
+    "description": ""
+  },
+  {
+    "longitude": 5.74583,
+    "latitude": 43.15306,
+    "name": "Camping Vallongue **",
+    "city": "Bandol",
+    "description": ""
+  },
+  {
+    "longitude": -3.99944,
+    "latitude": 47.885,
+    "name": "Camping Kersantic - Cap Coz **",
+    "city": "Fouesnant",
+    "description": "+33 298560866"
+  },
+  {
+    "longitude": 0.71591,
+    "latitude": 47.2904,
+    "name": "Camping La Grange Rouge ***",
+    "city": "Montbazon",
+    "description": ""
+  },
+  {
+    "longitude": 9.20162,
+    "latitude": 42.72152,
+    "name": "Camping U Paradisu",
+    "city": "Casta",
+    "description": ""
+  },
+  {
+    "longitude": 0.5117,
+    "latitude": 47.1081,
+    "name": "Camping Chateau de la Rolandiere ***",
+    "city": "Trogues",
+    "description": ""
+  },
+  {
+    "longitude": 1.14641,
+    "latitude": 49.32237,
+    "name": "Camping Les Terrasses **",
+    "city": "Igoville",
+    "description": "rue de Rouen"
+  },
+  {
+    "longitude": 5.71736,
+    "latitude": 48.94111,
+    "name": "Camping Les Chenes Clairs Madine 2 ***",
+    "city": "Heudicourt sous les Cotes",
+    "description": "+33 329893608"
+  },
+  {
+    "longitude": 5.71736,
+    "latitude": 48.94111,
+    "name": "Camping Les Passons Madine 2 **",
+    "city": "Heudicourt sous les Cotes",
+    "description": "+33 329893608"
+  },
+  {
+    "longitude": -1.49273,
+    "latitude": 46.24846,
+    "name": "Camping Municipal",
+    "city": "Les Portes en Re",
+    "description": ""
+  },
+  {
+    "longitude": 3.08706,
+    "latitude": 44.11031,
+    "name": "Camping Larribal **",
+    "city": "Millau",
+    "description": ""
+  },
+  {
+    "longitude": 2.90556,
+    "latitude": 47.59389,
+    "name": "Camping Le Diben **",
+    "city": "Larmor Baden",
+    "description": "+33 297570536"
+  },
+  {
+    "longitude": 0.01585,
+    "latitude": 48.2835,
+    "name": "Camping Le Sans Soucis ***",
+    "city": "Fresnay sur Sarthe",
+    "description": "+33 243973287"
+  },
+  {
+    "longitude": -1.50429,
+    "latitude": 49.42275,
+    "name": "Camping Municipal du Hable **",
+    "city": "Omonville la Rogue",
+    "description": ""
+  },
+  {
+    "longitude": 5.282,
+    "latitude": 44.823,
+    "name": "Camping ANLe Moulin de Rivet",
+    "city": "Saint Julien en Quint",
+    "description": ""
+  },
+  {
+    "longitude": 1.89784,
+    "latitude": 44.8578,
+    "name": "Camping Le Soulhol ***",
+    "city": "Saint Cere",
+    "description": ""
+  },
+  {
+    "longitude": 1.53481,
+    "latitude": 44.69233,
+    "name": "Camping La Faurie ***",
+    "city": "Seniergues",
+    "description": ""
+  },
+  {
+    "longitude": 3.04766,
+    "latitude": 44.07381,
+    "name": "Camping Saint Martin **",
+    "city": "Creissels",
+    "description": ""
+  },
+  {
+    "longitude": 4.88222,
+    "latitude": 44.39706,
+    "name": "Camping Domaine de la Charmarade **",
+    "city": "Chamaret",
+    "description": ""
+  },
+  {
+    "longitude": 3.04936,
+    "latitude": 42.99804,
+    "name": "Camping Cote Vermeille **",
+    "city": "Port la Nouvelle",
+    "description": "+33 468480580"
+  },
+  {
+    "longitude": 3.51661,
+    "latitude": 45.20974,
+    "name": "Camping Municipal La Fridiere **",
+    "city": "Paulhaguet",
+    "description": ""
+  },
+  {
+    "longitude": 2.6826,
+    "latitude": 47.49667,
+    "name": "Camping La Gree Penvins **",
+    "city": "Sarzeau",
+    "description": "+33 297673396"
+  },
+  {
+    "longitude": -4.03692,
+    "latitude": 47.84885,
+    "name": "Camping Village le Grand Large ****",
+    "city": "Fouesnant",
+    "description": "+33 298560406"
+  },
+  {
+    "longitude": -4.61834,
+    "latitude": 48.02538,
+    "name": "Camping Municipal Kermalero **",
+    "city": "Primelin",
+    "description": "+33 298748475"
+  },
+  {
+    "longitude": 4.10728,
+    "latitude": 43.55367,
+    "name": "Camping Le Boucanet ****",
+    "city": "Le Grau du Roi",
+    "description": ""
+  },
+  {
+    "longitude": 0.00519,
+    "latitude": 42.83013,
+    "name": "Camping Saint Bazerque **",
+    "city": "Luz Saint Sauveur",
+    "description": ""
+  },
+  {
+    "longitude": 8.68225,
+    "latitude": 42.4654,
+    "name": "Camping Morsetta",
+    "city": "Argentella",
+    "description": ""
+  },
+  {
+    "longitude": 8.73132,
+    "latitude": 42.07089,
+    "name": "Camping Sommalu",
+    "city": "Tiuccia",
+    "description": ""
+  },
+  {
+    "longitude": -1.57613,
+    "latitude": 43.45468,
+    "name": "Camping Pavillon Royal ****",
+    "city": "Bidart",
+    "description": ""
+  },
+  {
+    "longitude": -2.4612,
+    "latitude": 47.4092,
+    "name": "Camping Le Beaupre **",
+    "city": "Kercabellec",
+    "description": ""
+  },
+  {
+    "longitude": 3.14228,
+    "latitude": 43.14499,
+    "name": "Camping Le Soleil d Oc ***",
+    "city": "Narbonne plage",
+    "description": "+33 468498621"
+  },
+  {
+    "longitude": -1.74402,
+    "latitude": 47.13484,
+    "name": "Camping Municipal La Moriniere *",
+    "city": "Port Saint Pere",
+    "description": "+33 240315013"
+  },
+  {
+    "longitude": -1.15778,
+    "latitude": 44.3125,
+    "name": "Camping La Reserve ****",
+    "city": "Gastes",
+    "description": ""
+  },
+  {
+    "longitude": 6.27306,
+    "latitude": 49.29861,
+    "name": "Camping Centre de loisirs **",
+    "city": "Volstroff",
+    "description": ""
+  },
+  {
+    "longitude": 8.81688,
+    "latitude": 42.25055,
+    "name": "Camping Luacciola",
+    "city": "Evisa",
+    "description": ""
+  },
+  {
+    "longitude": 0.54225,
+    "latitude": 44.24416,
+    "name": "Camping Moulin de Mellet ***",
+    "city": "Saint Hilaire de Lusignan",
+    "description": "+33 553683311"
+  },
+  {
+    "longitude": 1.20257,
+    "latitude": 47.88677,
+    "name": "Camping Municipal **",
+    "city": "Freteval",
+    "description": "+33 254826352"
+  },
+  {
+    "longitude": 3.96484,
+    "latitude": 44.07763,
+    "name": "Camping Cevennes-Provence ***",
+    "city": "Anduze",
+    "description": ""
+  },
+  {
+    "longitude": 3.66517,
+    "latitude": 43.45061,
+    "name": "Camping Lou Labech ***",
+    "city": "Bouzigues",
+    "description": ""
+  },
+  {
+    "longitude": 4.52449,
+    "latitude": 44.18865,
+    "name": "Camping Les Cascades ***",
+    "city": "La Roque sur Ceze",
+    "description": "+33 486827297"
+  },
+  {
+    "longitude": -2.16192,
+    "latitude": 47.17234,
+    "name": "Camping La Popliniere **",
+    "city": "Saint Michel Chef Chef",
+    "description": ""
+  },
+  {
+    "longitude": 1.5476,
+    "latitude": 48.6089,
+    "name": "Camping Les Ilots de Saint Val ***",
+    "city": "Villiers le Morhier",
+    "description": ""
+  },
+  {
+    "longitude": 4.80338,
+    "latitude": 47.06835,
+    "name": "Camping Municipal Les Premiers Pres **",
+    "city": "Savigny les Beaune",
+    "description": "5 rue des Chanterives"
+  },
+  {
+    "longitude": 2.5104,
+    "latitude": 48.393,
+    "name": "Camping La Musardiere ***",
+    "city": "Milly la Foret",
+    "description": ""
+  },
+  {
+    "longitude": 0.0725,
+    "latitude": 48.42556,
+    "name": "Camping Guerame **",
+    "city": "Alencon",
+    "description": ""
+  },
+  {
+    "longitude": -3.16563,
+    "latitude": 47.61839,
+    "name": "Camping Les Ormeaux **",
+    "city": "Erdeven",
+    "description": "+33 297556757"
+  },
+  {
+    "longitude": 8.60211,
+    "latitude": 42.16499,
+    "name": "Camping Torraccia",
+    "city": "Lozzi",
+    "description": ""
+  },
+  {
+    "longitude": 4.57972,
+    "latitude": 47.85944,
+    "name": "Camping Louis Rigoly **",
+    "city": "Chatillon sur Seine",
+    "description": ""
+  },
+  {
+    "longitude": 4.56439,
+    "latitude": 43.92649,
+    "name": "Camping La Soubeyrane ****",
+    "city": "Remoulins",
+    "description": "+33 466370321"
+  },
+  {
+    "longitude": -2.88306,
+    "latitude": 47.55306,
+    "name": "Camping Municipal Le Tindio ***",
+    "city": "Arzon",
+    "description": ""
+  },
+  {
+    "longitude": 2.16643,
+    "latitude": 43.93334,
+    "name": "Camping Caussel **",
+    "city": "Albi",
+    "description": ""
+  },
+  {
+    "longitude": -2.0396,
+    "latitude": 47.0851,
+    "name": "Camping Les Ecureuils ***",
+    "city": "La Bernerie en Retz",
+    "description": ""
+  },
+  {
+    "longitude": 1.61719,
+    "latitude": 44.07862,
+    "name": "Camping Le Clos Lalande ***",
+    "city": "Montricoux",
+    "description": ""
+  },
+  {
+    "longitude": 4.41473,
+    "latitude": 48.42639,
+    "name": "Camping ANLes Gravieres",
+    "city": "Lesmont",
+    "description": ""
+  },
+  {
+    "longitude": -4.703,
+    "latitude": 48.33995,
+    "name": "Camping Les Terrasses de Bertheaume ***",
+    "city": "Plougonvelin",
+    "description": ""
+  },
+  {
+    "longitude": 2.23086,
+    "latitude": 44.9349,
+    "name": "Camping La Presqu ile d Espinet ***",
+    "city": "Saint Gerons",
+    "description": "+33 471622890"
+  },
+  {
+    "longitude": 2.43522,
+    "latitude": 47.38494,
+    "name": "Camping Le Martinet **",
+    "city": "Briare",
+    "description": ""
+  },
+  {
+    "longitude": 1.54437,
+    "latitude": 49.99414,
+    "name": "Camping Municipal Les Marguerites **",
+    "city": "Gamaches",
+    "description": "+33 322308951"
+  },
+  {
+    "longitude": 5.37139,
+    "latitude": 43.76806,
+    "name": "Camping Les Hautes Prairies ***",
+    "city": "Lourmarin",
+    "description": "+33 490680289"
+  },
+  {
+    "longitude": -1.21583,
+    "latitude": 45.82917,
+    "name": "Camping La Combinette **",
+    "city": "Saint Trojan les Bains",
+    "description": "+33 546760047"
+  },
+  {
+    "longitude": 6.43695,
+    "latitude": 43.7956,
+    "name": "Camping Municipal Carajuan",
+    "city": "Rougon",
+    "description": "route Departementale"
+  },
+  {
+    "longitude": -4.03583,
+    "latitude": 47.85083,
+    "name": "Camping Penhoat ***",
+    "city": "Fouesnant",
+    "description": "+33 298560898"
+  },
+  {
+    "longitude": -3.16345,
+    "latitude": 48.69492,
+    "name": "Camping Traou-Meledem",
+    "city": "Pontrieux",
+    "description": ""
+  },
+  {
+    "longitude": 6.60844,
+    "latitude": 44.67702,
+    "name": "Camping Municipal Les Iscles ***",
+    "city": "Eygliers",
+    "description": ""
+  },
+  {
+    "longitude": -3.96748,
+    "latitude": 47.95038,
+    "name": "Camping Municipal Bois de Pleuven ****",
+    "city": "Saint Yvi",
+    "description": "+33 298947047"
+  },
+  {
+    "longitude": 3.14458,
+    "latitude": 43.14356,
+    "name": "Camping La Cote des Roses **",
+    "city": "Narbonne plage",
+    "description": "+33 468498365"
+  },
+  {
+    "longitude": -1.14,
+    "latitude": 45.06,
+    "name": "Camping Le Maubuisson **",
+    "city": "Carcans",
+    "description": "+33 556033012"
+  },
+  {
+    "longitude": -0.7493,
+    "latitude": 47.3502,
+    "name": "Camping Le Candais ***",
+    "city": "Chalonnes sur Loire",
+    "description": "+33 546551001"
+  },
+  {
+    "longitude": 1.08278,
+    "latitude": 46.21028,
+    "name": "Camping Municipal de la Planche des Dames *",
+    "city": "Le Dorat",
+    "description": ""
+  },
+  {
+    "longitude": 6.98121,
+    "latitude": 48.0687,
+    "name": "Camping L Eau Vive **",
+    "city": "Xonrupt",
+    "description": ""
+  },
+  {
+    "longitude": -2.24649,
+    "latitude": 47.01486,
+    "name": "Camping Les Roussieres ***",
+    "city": "Noirmoutier en l Ile",
+    "description": "+33 251391301"
+  },
+  {
+    "longitude": -1.1366,
+    "latitude": 44.76312,
+    "name": "Camping Pasteur Vacances ***",
+    "city": "Ares",
+    "description": ""
+  },
+  {
+    "longitude": 5.07566,
+    "latitude": 43.33027,
+    "name": "Camping Les Mouettes **",
+    "city": "Martigues",
+    "description": "+33 442807001"
+  },
+  {
+    "longitude": 1.32611,
+    "latitude": 43.89722,
+    "name": "Camping La Tisarne *",
+    "city": "Campsas",
+    "description": ""
+  },
+  {
+    "longitude": 0.36083,
+    "latitude": 49.75639,
+    "name": "Camping Reneville **",
+    "city": "Fecamp",
+    "description": ""
+  },
+  {
+    "longitude": 1.55841,
+    "latitude": 47.68636,
+    "name": "Camping L Amitie **",
+    "city": "Saint Laurent Nouan",
+    "description": "+33 254870152"
+  },
+  {
+    "longitude": -1.64594,
+    "latitude": 48.13524,
+    "name": "Camping Les Gayeulles ***",
+    "city": "Rennes",
+    "description": ""
+  },
+  {
+    "longitude": -1.86709,
+    "latitude": 47.10489,
+    "name": "Camping Municipal *",
+    "city": "Saint Hilaire de Chaleon",
+    "description": ""
+  },
+  {
+    "longitude": 4.14952,
+    "latitude": 43.52264,
+    "name": "Camping L Abri de Camargue ****",
+    "city": "Le Grau du Roi",
+    "description": ""
+  },
+  {
+    "longitude": -1.00504,
+    "latitude": 44.68389,
+    "name": "Camping Le Braou ***",
+    "city": "Audenge",
+    "description": ""
+  },
+  {
+    "longitude": 9.29602,
+    "latitude": 42.67344,
+    "name": "Camping Kalliste",
+    "city": "Saint Florent",
+    "description": ""
+  },
+  {
+    "longitude": -1.31525,
+    "latitude": 43.90568,
+    "name": "Camping Lou Puntaou *****",
+    "city": "Leon",
+    "description": ""
+  },
+  {
+    "longitude": 6.6334,
+    "latitude": 48.9563,
+    "name": "Camping La Mutche ***",
+    "city": "Morhange",
+    "description": ""
+  },
+  {
+    "longitude": 6.29778,
+    "latitude": 43.55333,
+    "name": "Camping Le Ruou ***",
+    "city": "Villecroze",
+    "description": ""
+  },
+  {
+    "longitude": 3.21894,
+    "latitude": 44.99905,
+    "name": "Camping Le Petit Bois ***",
+    "city": "Ruynes en Margeride",
+    "description": "+33 471234226"
+  },
+  {
+    "longitude": 5.86861,
+    "latitude": 48.29333,
+    "name": "Camping L Arc en Ciel **",
+    "city": "La Neuville sous Chatenois",
+    "description": ""
+  },
+  {
+    "longitude": 6.33106,
+    "latitude": 43.12364,
+    "name": "Camping La Griotte **",
+    "city": "Bormes les Mimosas",
+    "description": ""
+  },
+  {
+    "longitude": -4.01861,
+    "latitude": 47.88194,
+    "name": "Camping Les Hortensias **",
+    "city": "Fouesnant",
+    "description": "+33 298565295"
+  },
+  {
+    "longitude": -1.1558,
+    "latitude": 44.43569,
+    "name": "Camping Mayotte Vacances ****",
+    "city": "Biscarrosse",
+    "description": "+33 558780000"
+  },
+  {
+    "longitude": 3.49861,
+    "latitude": 43.31111,
+    "name": "Camping Les Sept Fonts **",
+    "city": "Agde",
+    "description": ""
+  },
+  {
+    "longitude": 0.3604,
+    "latitude": 42.86382,
+    "name": "Camping Le Ruisseau **",
+    "city": "Gouaux",
+    "description": "+33 562399549"
+  },
+  {
+    "longitude": 3.96096,
+    "latitude": 46.70788,
+    "name": "Camping L Etang Neuf ****",
+    "city": "Issy l Eveque",
+    "description": ""
+  },
+  {
+    "longitude": 7.0723,
+    "latitude": 48.61319,
+    "name": "Camping Municipal **",
+    "city": "Saint Quirin",
+    "description": "+33 387086034"
+  },
+  {
+    "longitude": -1.25395,
+    "latitude": 43.19078,
+    "name": "Camping La Truite **",
+    "city": "Ascarat",
+    "description": ""
+  },
+  {
+    "longitude": -1.31744,
+    "latitude": 46.33227,
+    "name": "Camping La Cote de Lumiere **",
+    "city": "La Faute sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": 4.79708,
+    "latitude": 43.95327,
+    "name": "Camping Bagatelle ***",
+    "city": "Avignon",
+    "description": ""
+  },
+  {
+    "longitude": -3.96899,
+    "latitude": 48.69341,
+    "name": "Camping Ar Kleguer ***",
+    "city": "Saint Pol de Leon",
+    "description": ""
+  },
+  {
+    "longitude": 2.56584,
+    "latitude": 44.64389,
+    "name": "Camping Val de Saures **",
+    "city": "Entraygues sur Truyere",
+    "description": ""
+  },
+  {
+    "longitude": 2.71343,
+    "latitude": 45.05182,
+    "name": "Camping Municipal Les Blats ***",
+    "city": "Saint Jacques des Blats",
+    "description": "+33 471470600"
+  },
+  {
+    "longitude": -3.3879,
+    "latitude": 48.8156,
+    "name": "Camping Port l Epine ***",
+    "city": "Trelevern",
+    "description": ""
+  },
+  {
+    "longitude": 2.63341,
+    "latitude": 44.97165,
+    "name": "Camping La Pommeraie ****",
+    "city": "Vic sur Cere",
+    "description": "+33 471475418"
+  },
+  {
+    "longitude": 2.72446,
+    "latitude": 43.15087,
+    "name": "Camping AU0camping",
+    "city": "Ferrals les Corbieres",
+    "description": ""
+  },
+  {
+    "longitude": -3.54499,
+    "latitude": 47.76854,
+    "name": "Camping Les Embruns **",
+    "city": "Clohars Carnoet",
+    "description": "rue du Philosophe Alain"
+  },
+  {
+    "longitude": -2.3988,
+    "latitude": 47.298,
+    "name": "Camping Tremondec ***",
+    "city": "Guerande",
+    "description": ""
+  },
+  {
+    "longitude": -1.43483,
+    "latitude": 46.19335,
+    "name": "Camping Municipal ***",
+    "city": "La Couarde sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": -1.1647,
+    "latitude": 45.22285,
+    "name": "Camping Cote d Argent ****",
+    "city": "Hourtin Plage",
+    "description": "+33 556091025"
+  },
+  {
+    "longitude": 1.0277,
+    "latitude": 44.08508,
+    "name": "Camping Le Plan d Eau **",
+    "city": "Saint Nicolas de la Grave",
+    "description": "+33 563955002"
+  },
+  {
+    "longitude": -1.19333,
+    "latitude": 45.01185,
+    "name": "Camping Les Grands Pins ****",
+    "city": "Lacanau",
+    "description": "+33 556032077"
+  },
+  {
+    "longitude": -1.75039,
+    "latitude": 49.3643,
+    "name": "Camping Les Vikings ***",
+    "city": "Saint Jean de la Riviere",
+    "description": ""
+  },
+  {
+    "longitude": 6.16726,
+    "latitude": 49.12211,
+    "name": "Camping Municipal Metz Plage ****",
+    "city": "Metz",
+    "description": ""
+  },
+  {
+    "longitude": 8.79122,
+    "latitude": 42.50384,
+    "name": "Camping Paradella",
+    "city": "Square",
+    "description": ""
+  },
+  {
+    "longitude": 2.76674,
+    "latitude": 44.21468,
+    "name": "Camping Le Caussanel ***",
+    "city": "Canet de Salars",
+    "description": "+33 565468519"
+  },
+  {
+    "longitude": -1.20028,
+    "latitude": 45.69833,
+    "name": "Camping Bonne Anse plage ****",
+    "city": "La Palmyre",
+    "description": "+33 546224090"
+  },
+  {
+    "longitude": 3.36224,
+    "latitude": 43.28754,
+    "name": "Camping L Emeraude ***",
+    "city": "Portiragnes Plage",
+    "description": "+33 467909376"
+  },
+  {
+    "longitude": 8.95849,
+    "latitude": 42.63318,
+    "name": "Camping Le Bodri",
+    "city": "Guardiola",
+    "description": ""
+  },
+  {
+    "longitude": 5.26802,
+    "latitude": 44.3699,
+    "name": "Camping ANUbertrop",
+    "city": "Arpavon",
+    "description": ""
+  },
+  {
+    "longitude": 9.20102,
+    "latitude": 41.39908,
+    "name": "Camping Pian del Fosse",
+    "city": "Saint Julien",
+    "description": ""
+  },
+  {
+    "longitude": 5.95535,
+    "latitude": 48.20778,
+    "name": "Camping Municipal **",
+    "city": "Vittel",
+    "description": "+33 329080271"
+  },
+  {
+    "longitude": 0.64868,
+    "latitude": 44.06596,
+    "name": "Camping Municipal *",
+    "city": "Astaffort",
+    "description": "+33 553671006"
+  },
+  {
+    "longitude": -2.28352,
+    "latitude": 46.98523,
+    "name": "Camping Municipal La Bosse **",
+    "city": "L Epine",
+    "description": "+33 251390107"
+  },
+  {
+    "longitude": -1.19799,
+    "latitude": 48.10927,
+    "name": "Camping Municipal Saint Etienne **",
+    "city": "Vitre",
+    "description": ""
+  },
+  {
+    "longitude": 1.04533,
+    "latitude": 44.74165,
+    "name": "Camping Les Hauts de Ratebout ****",
+    "city": "Sainte Foy de Belves",
+    "description": "+33 553290210"
+  },
+  {
+    "longitude": -1.15011,
+    "latitude": 44.78894,
+    "name": "Camping La Canadienne ****",
+    "city": "Ares",
+    "description": "+33 556602491"
+  },
+  {
+    "longitude": 5.78655,
+    "latitude": 45.56906,
+    "name": "Camping Les Chavannes ***",
+    "city": "Novalaise",
+    "description": ""
+  },
+  {
+    "longitude": -3.55763,
+    "latitude": 48.69305,
+    "name": "Camping Les Capucines ****",
+    "city": "Tredez",
+    "description": ""
+  },
+  {
+    "longitude": 2.5601,
+    "latitude": 43.5624,
+    "name": "Camping Le Manoir de Boutaric ****",
+    "city": "Angles",
+    "description": ""
+  },
+  {
+    "longitude": 3.50875,
+    "latitude": 48.50359,
+    "name": "Camping Municipal **",
+    "city": "Nogent sur Seine",
+    "description": ""
+  },
+  {
+    "longitude": 6.34883,
+    "latitude": 43.78034,
+    "name": "Camping Municipal le Grand Canyon",
+    "city": "La Palud sur Verdon",
+    "description": "route de Castellane"
+  },
+  {
+    "longitude": -1.69217,
+    "latitude": 43.33602,
+    "name": "Camping Mendi-azpian **",
+    "city": "Urrugne",
+    "description": ""
+  },
+  {
+    "longitude": 2.26065,
+    "latitude": 44.68174,
+    "name": "Camping Le Moulin de Chaules ***",
+    "city": "Saint Constant",
+    "description": "+33 471491102"
+  },
+  {
+    "longitude": 2.25926,
+    "latitude": 49.9208,
+    "name": "Camping Parc des Cygnes ****",
+    "city": "Amiens",
+    "description": ""
+  },
+  {
+    "longitude": -3.8013,
+    "latitude": 47.79334,
+    "name": "Camping Raguenez Plage ****",
+    "city": "Nevez",
+    "description": "+33 298068069"
+  },
+  {
+    "longitude": 1.11154,
+    "latitude": 44.89297,
+    "name": "Camping Les Charmes ***",
+    "city": "Saint Andre d Allas",
+    "description": "+33 553310289"
+  },
+  {
+    "longitude": 2.96406,
+    "latitude": 48.37753,
+    "name": "Camping Le Marcassin",
+    "city": "Montereau Fault Yonne",
+    "description": "chemin des Processions"
+  },
+  {
+    "longitude": 1.572,
+    "latitude": 50.673,
+    "name": "Camping La Falaise ***",
+    "city": "Equihen plage",
+    "description": ""
+  },
+  {
+    "longitude": 4.33254,
+    "latitude": 47.63218,
+    "name": "Camping Municipal ****",
+    "city": "Montbard",
+    "description": "rue M.Servet"
+  },
+  {
+    "longitude": 3.16237,
+    "latitude": 43.15986,
+    "name": "Camping La Falaise ***",
+    "city": "Narbonne plage",
+    "description": "+33 468498077"
+  },
+  {
+    "longitude": 9.55537,
+    "latitude": 42.19944,
+    "name": "Camping Bravone",
+    "city": "Bravonne",
+    "description": ""
+  },
+  {
+    "longitude": -1.68366,
+    "latitude": 48.54939,
+    "name": "Camping Le Vieux Chene ****",
+    "city": "Baguer-Pican",
+    "description": ""
+  },
+  {
+    "longitude": 6.35064,
+    "latitude": 43.11798,
+    "name": "Camping Camp du Domaine ****",
+    "city": "Bormes les Mimosas",
+    "description": "+33 494710312"
+  },
+  {
+    "longitude": 9.28333,
+    "latitude": 42.67306,
+    "name": "Camping Acqua Dolce **",
+    "city": "Saint Florent",
+    "description": "+33 495370863"
+  },
+  {
+    "longitude": 0.6549,
+    "latitude": 47.1486,
+    "name": "Camping Parc de Fierbois ****",
+    "city": "Sainte Catherine de Fierbois",
+    "description": ""
+  },
+  {
+    "longitude": -2.59763,
+    "latitude": 47.52172,
+    "name": "Camping Closnenn ***",
+    "city": "Damgan",
+    "description": ""
+  },
+  {
+    "longitude": 1.15589,
+    "latitude": 49.30596,
+    "name": "Camping Eure et Seine **",
+    "city": "Pont de l Arche",
+    "description": "quai Marechal Foch"
+  },
+  {
+    "longitude": 2.26556,
+    "latitude": 44.92334,
+    "name": "Camping Municipal *",
+    "city": "Lacapelle Viescamp",
+    "description": ""
+  },
+  {
+    "longitude": 4.63595,
+    "latitude": 44.8097,
+    "name": "Camping Domaine des Plantas ****",
+    "city": "Les Ollieres / Eyrieux",
+    "description": "+33 475662153"
+  },
+  {
+    "longitude": 9.01199,
+    "latitude": 42.44308,
+    "name": "Camping Monte Cinto",
+    "city": "Asco",
+    "description": ""
+  },
+  {
+    "longitude": -0.59923,
+    "latitude": 44.87604,
+    "name": "Camping Les Lierres **",
+    "city": "Bruges",
+    "description": "+33 556172261"
+  },
+  {
+    "longitude": -0.18806,
+    "latitude": 45.2179,
+    "name": "Camping La Motte",
+    "city": "Le Fouilloux",
+    "description": ""
+  },
+  {
+    "longitude": 6.2098,
+    "latitude": 44.6245,
+    "name": "Camping Les Auches ***",
+    "city": "Ancelle",
+    "description": ""
+  },
+  {
+    "longitude": 2.25556,
+    "latitude": 42.99472,
+    "name": "Camping Le Val d Aleth **",
+    "city": "Alet les Bains",
+    "description": "+33 468699040"
+  },
+  {
+    "longitude": -0.09351,
+    "latitude": 42.99684,
+    "name": "Camping La Prairie **",
+    "city": "Lau Balagnas",
+    "description": "+33 562971187"
+  },
+  {
+    "longitude": 1.9676,
+    "latitude": 43.7583,
+    "name": "Camping Le Lac de Nabeillou **",
+    "city": "Graulhet",
+    "description": ""
+  },
+  {
+    "longitude": -4.3533,
+    "latitude": 48.40123,
+    "name": "Camping Saint Jean ***",
+    "city": "Plougastel Daoulas",
+    "description": ""
+  },
+  {
+    "longitude": -3.10569,
+    "latitude": 47.47416,
+    "name": "Camping Le Goviro **",
+    "city": "Quiberon",
+    "description": "+33 297501354"
+  },
+  {
+    "longitude": -3.0619,
+    "latitude": 47.5966,
+    "name": "Camping Moulin de Kermaux ***",
+    "city": "Carnac",
+    "description": ""
+  },
+  {
+    "longitude": 4.02732,
+    "latitude": 44.03558,
+    "name": "Camping Domaine",
+    "city": "Gaujac",
+    "description": ""
+  },
+  {
+    "longitude": 3.93028,
+    "latitude": 45.04265,
+    "name": "Camping Municipal d Audinet",
+    "city": "Brives Charensac",
+    "description": ""
+  },
+  {
+    "longitude": 6.34917,
+    "latitude": 49.445,
+    "name": "Camping Municipal",
+    "city": "Sierck les Bains",
+    "description": ""
+  },
+  {
+    "longitude": 2.67154,
+    "latitude": 45.01421,
+    "name": "Camping Municipal ***",
+    "city": "Thiezac",
+    "description": "+33 471470041"
+  },
+  {
+    "longitude": -2.14725,
+    "latitude": 46.88558,
+    "name": "Camping La Grand Cote ***",
+    "city": "La Barre de Monts",
+    "description": ""
+  },
+  {
+    "longitude": -3.7997,
+    "latitude": 47.81783,
+    "name": "Camping Les Genets **",
+    "city": "Nevez",
+    "description": "+33 298068613"
+  },
+  {
+    "longitude": -4.18165,
+    "latitude": 47.8127,
+    "name": "Camping Les Hortensias ***",
+    "city": "Loctudy",
+    "description": "+33 298874664"
+  },
+  {
+    "longitude": 5.5556,
+    "latitude": 44.89634,
+    "name": "Camping Les 4 saisons ***",
+    "city": "Gresse en Vercors",
+    "description": ""
+  },
+  {
+    "longitude": 3.61034,
+    "latitude": 43.43061,
+    "name": "Camping Beau Rivage ***",
+    "city": "Meze",
+    "description": "+33 467438148"
+  },
+  {
+    "longitude": 4.778,
+    "latitude": 46.9856,
+    "name": "Camping La Grappe d Or ***",
+    "city": "Meursault",
+    "description": ""
+  },
+  {
+    "longitude": 3.04105,
+    "latitude": 42.99792,
+    "name": "Camping Cap du Roc ***",
+    "city": "Port la Nouvelle",
+    "description": "+33 468480098"
+  },
+  {
+    "longitude": 7.2363,
+    "latitude": 48.6534,
+    "name": "Camping Le Rocher **",
+    "city": "Dabo",
+    "description": ""
+  },
+  {
+    "longitude": 6.72306,
+    "latitude": 45.37833,
+    "name": "Camping Le Parc Isertan ***",
+    "city": "Pralognan la Vanoise",
+    "description": ""
+  },
+  {
+    "longitude": 4.8224,
+    "latitude": 46.6684,
+    "name": "Camping La Heronniere ***",
+    "city": "Laives",
+    "description": ""
+  },
+  {
+    "longitude": 8.96096,
+    "latitude": 42.03114,
+    "name": "Camping Adumbratu",
+    "city": "Carbuccia",
+    "description": ""
+  },
+  {
+    "longitude": 4.21819,
+    "latitude": 46.55653,
+    "name": "Camping Le Lac *",
+    "city": "Palinges",
+    "description": "2 rue de la Croix"
+  },
+  {
+    "longitude": 9.26688,
+    "latitude": 41.60329,
+    "name": "Camping Arutoli",
+    "city": "Porto Vecchio",
+    "description": ""
+  },
+  {
+    "longitude": 7.22583,
+    "latitude": 47.72222,
+    "name": "Camping La Chaumiere **",
+    "city": "Heimsbrunn",
+    "description": "+33 389819343"
+  },
+  {
+    "longitude": 5.41158,
+    "latitude": 43.86615,
+    "name": "Camping Le Luberon ***",
+    "city": "Apt",
+    "description": ""
+  },
+  {
+    "longitude": -1.34257,
+    "latitude": 45.92392,
+    "name": "Camping Municipal La Fauche Prere **",
+    "city": "Saint Pierre d Oleron",
+    "description": ""
+  },
+  {
+    "longitude": 5.26834,
+    "latitude": 48.53195,
+    "name": "Camping AN Municipale",
+    "city": "Montiers sur Saulx",
+    "description": ""
+  },
+  {
+    "longitude": 6.0786,
+    "latitude": 43.7336,
+    "name": "Camping La Farigoulette ****",
+    "city": "Saint Laurent du Verdon",
+    "description": ""
+  },
+  {
+    "longitude": 8.82308,
+    "latitude": 41.90684,
+    "name": "Camping Benista",
+    "city": "La Colline des Fleurs",
+    "description": ""
+  },
+  {
+    "longitude": 6.65085,
+    "latitude": 43.21818,
+    "name": "Camping Kon Tiki ***",
+    "city": "Ramatuelle",
+    "description": ""
+  },
+  {
+    "longitude": -1.62306,
+    "latitude": 47.17952,
+    "name": "Camping La Croix du Gue *",
+    "city": "Bouguenais",
+    "description": ""
+  },
+  {
+    "longitude": -1.24306,
+    "latitude": 44.7156,
+    "name": "Camping Le Truc Vert ****",
+    "city": "Lege Cap-Ferret",
+    "description": "+33 556608955"
+  },
+  {
+    "longitude": 4.2225,
+    "latitude": 44.39547,
+    "name": "Camping La Rouveyrolle ****",
+    "city": "Berrias et Casteljau",
+    "description": "+33 475390067"
+  },
+  {
+    "longitude": 2.8018,
+    "latitude": 45.5864,
+    "name": "Camping L Esquiladou ***",
+    "city": "Le Mont Dore",
+    "description": ""
+  },
+  {
+    "longitude": 2.20658,
+    "latitude": 44.7058,
+    "name": "Camping Municipal du Vert ***",
+    "city": "Maurs",
+    "description": "+33 471490415"
+  },
+  {
+    "longitude": -1.17944,
+    "latitude": 44.29389,
+    "name": "Camping Bruyeres *",
+    "city": "Sainte Eulalie en Born",
+    "description": ""
+  },
+  {
+    "longitude": 1.44183,
+    "latitude": 44.46358,
+    "name": "Camping Riviere de Cabessut ***",
+    "city": "Cahors",
+    "description": ""
+  },
+  {
+    "longitude": 0.64873,
+    "latitude": 48.17623,
+    "name": "Camping Le Valmer ***",
+    "city": "La Ferte Bernard",
+    "description": "+33 243717003"
+  },
+  {
+    "longitude": 5.18108,
+    "latitude": 47.58621,
+    "name": "Camping Municipal *",
+    "city": "Selongey",
+    "description": "rue du Stade"
+  },
+  {
+    "longitude": 2.1898,
+    "latitude": 47.545,
+    "name": "Camping Parc des Alicourts ****",
+    "city": "Pierrefitte sur Sauldre",
+    "description": ""
+  },
+  {
+    "longitude": 7.32431,
+    "latitude": 47.73463,
+    "name": "Camping L Ill ***",
+    "city": "Mulhouse",
+    "description": ""
+  },
+  {
+    "longitude": 3.00127,
+    "latitude": 42.62314,
+    "name": "Camping Le Bosc d Enroug ***",
+    "city": "Saint Cyprien",
+    "description": ""
+  },
+  {
+    "longitude": 2.66713,
+    "latitude": 45.28214,
+    "name": "Camping Municipal Le Sedour ***",
+    "city": "Riom es Montagnes",
+    "description": "+33 471780571"
+  },
+  {
+    "longitude": 4.8163,
+    "latitude": 45.9917,
+    "name": "Camping Bois de la Dame ***",
+    "city": "Ars sur Formans",
+    "description": ""
+  },
+  {
+    "longitude": -1.69314,
+    "latitude": 46.45789,
+    "name": "Camping Le Littoral ****",
+    "city": "Talmont Saint Hilaire",
+    "description": "+33 251220464"
+  },
+  {
+    "longitude": 4.09111,
+    "latitude": 44.75556,
+    "name": "Camping Les Airelles *",
+    "city": "Saint Cirgues en Montagne",
+    "description": ""
+  },
+  {
+    "longitude": 3.03056,
+    "latitude": 49.01167,
+    "name": "Camping L Ile **",
+    "city": "Mary sur Marne",
+    "description": ""
+  },
+  {
+    "longitude": 0.01378,
+    "latitude": 42.80153,
+    "name": "Camping Le Relais d Espagne **",
+    "city": "Gedre",
+    "description": ""
+  },
+  {
+    "longitude": 6.22454,
+    "latitude": 43.82807,
+    "name": "Camping Saint Clair ***",
+    "city": "Moustiers Sainte Marie",
+    "description": ""
+  },
+  {
+    "longitude": 0.30722,
+    "latitude": 49.70917,
+    "name": "Camping Les Pommiers **",
+    "city": "Froberville",
+    "description": ""
+  },
+  {
+    "longitude": -2.52365,
+    "latitude": 47.38849,
+    "name": "Camping Les Amis de la Nature **",
+    "city": "Piriac sur Mer",
+    "description": "+33 240236179"
+  },
+  {
+    "longitude": -3.81017,
+    "latitude": 48.1837,
+    "name": "Camping Municipal Penn ar Pont **",
+    "city": "Chateauneuf du Faou",
+    "description": "+33 298818125"
+  },
+  {
+    "longitude": -0.06791,
+    "latitude": 43.10373,
+    "name": "Camping L Arrouach **",
+    "city": "Lourdes",
+    "description": ""
+  },
+  {
+    "longitude": -1.73914,
+    "latitude": 43.37702,
+    "name": "Camping Eskualduna ***",
+    "city": "Hendaye",
+    "description": ""
+  },
+  {
+    "longitude": 6.0179,
+    "latitude": 44.1055,
+    "name": "Camping L Hippocampe ****",
+    "city": "Volonne",
+    "description": ""
+  },
+  {
+    "longitude": 3.07338,
+    "latitude": 46.10881,
+    "name": "Camping La Filature de la Sioule ****",
+    "city": "Ebreuil",
+    "description": "+33 470907201"
+  },
+  {
+    "longitude": 3.41766,
+    "latitude": 43.29797,
+    "name": "Camping Les Salisses ****",
+    "city": "Vias Plage",
+    "description": ""
+  },
+  {
+    "longitude": -4.20637,
+    "latitude": 47.80621,
+    "name": "Camping Les Sables Blancs **",
+    "city": "Lesconil",
+    "description": ""
+  },
+  {
+    "longitude": 3.5039,
+    "latitude": 47.9569,
+    "name": "Camping Les Confluents **",
+    "city": "Migennes",
+    "description": ""
+  },
+  {
+    "longitude": 3.08732,
+    "latitude": 44.10278,
+    "name": "Camping Les deux Rivieres ***",
+    "city": "Millau",
+    "description": ""
+  },
+  {
+    "longitude": 0.71558,
+    "latitude": 49.86857,
+    "name": "Camping Municipal Falaise d Amont *",
+    "city": "Saint Valery en Caux",
+    "description": "+33 235970507"
+  },
+  {
+    "longitude": 1.93629,
+    "latitude": 43.32027,
+    "name": "Camping Municipal La Giraille *",
+    "city": "Castelnaudary",
+    "description": ""
+  },
+  {
+    "longitude": -2.0743,
+    "latitude": 47.119,
+    "name": "Camping Le Patisseau ****",
+    "city": "Pornic",
+    "description": ""
+  },
+  {
+    "longitude": -1.22472,
+    "latitude": 45.9125,
+    "name": "Camping Ostrea ***",
+    "city": "Dolus d Oleron",
+    "description": ""
+  },
+  {
+    "longitude": 2.80173,
+    "latitude": 48.38326,
+    "name": "Camping Les Courtilles du Lido ***",
+    "city": "Veneux les Sablons",
+    "description": ""
+  },
+  {
+    "longitude": -2.22061,
+    "latitude": 46.99704,
+    "name": "Camping Municipal Le Clair Matin **",
+    "city": "Noirmoutier en l Ile",
+    "description": "+33 251390556"
+  },
+  {
+    "longitude": -1.31722,
+    "latitude": 45.97083,
+    "name": "Camping Verebleu ****",
+    "city": "Saint Georges d Oleron",
+    "description": "+33 546765770"
+  },
+  {
+    "longitude": 1.61167,
+    "latitude": 42.83972,
+    "name": "Camping Le Pre Lombard ****",
+    "city": "Tarascon sur Ariege",
+    "description": ""
+  },
+  {
+    "longitude": -3.01656,
+    "latitude": 47.58819,
+    "name": "Camping Les Palmiers ***",
+    "city": "Saint Philibert",
+    "description": "+33 297550317"
+  },
+  {
+    "longitude": -1.2447,
+    "latitude": 45.96823,
+    "name": "Camping Signol ****",
+    "city": "Saint Georges d Oleron",
+    "description": ""
+  },
+  {
+    "longitude": 1.45056,
+    "latitude": 47.47778,
+    "name": "Camping Les Saules ****",
+    "city": "Cheverny",
+    "description": ""
+  },
+  {
+    "longitude": 4.907,
+    "latitude": 46.485,
+    "name": "Camping Le National 6 ***",
+    "city": "Uchizy",
+    "description": ""
+  },
+  {
+    "longitude": -0.28185,
+    "latitude": 49.29029,
+    "name": "Camping Les Salines ***",
+    "city": "Colleville Montgomery",
+    "description": "rue de la Mer"
+  },
+  {
+    "longitude": 6.69417,
+    "latitude": 45.45389,
+    "name": "Camping Municipal Le Canada **",
+    "city": "Champagny en Vanoise",
+    "description": ""
+  },
+  {
+    "longitude": 3.08852,
+    "latitude": 44.10503,
+    "name": "Camping Camp du Viaduc ****",
+    "city": "Millau",
+    "description": ""
+  },
+  {
+    "longitude": 2.662,
+    "latitude": 46.643,
+    "name": "Camping Le Champ de la Chapelle ***",
+    "city": "Braize",
+    "description": "+33 470061545"
+  },
+  {
+    "longitude": 1.64287,
+    "latitude": 47.77651,
+    "name": "Camping Municipal",
+    "city": "Beaugengy",
+    "description": ""
+  },
+  {
+    "longitude": 5.2294,
+    "latitude": 43.4703,
+    "name": "Camping Marina Plage ***",
+    "city": "Vitrolles",
+    "description": ""
+  },
+  {
+    "longitude": 5.43217,
+    "latitude": 47.56728,
+    "name": "Camping Municipal Trou d Argot *",
+    "city": "Montigny Mornay Villeneuve sur Vingeanne",
+    "description": "D 30"
+  },
+  {
+    "longitude": 2.42285,
+    "latitude": 42.62128,
+    "name": "Camping Municipal Plaine Saint Martin **",
+    "city": "Prades",
+    "description": ""
+  },
+  {
+    "longitude": -4.29324,
+    "latitude": 48.16693,
+    "name": "Camping Pors ar Vag **",
+    "city": "Plomodiern",
+    "description": ""
+  },
+  {
+    "longitude": 2.35397,
+    "latitude": 43.20007,
+    "name": "Camping Campeol La Cite ***",
+    "city": "Carcassonne",
+    "description": ""
+  },
+  {
+    "longitude": -1.67051,
+    "latitude": 47.41332,
+    "name": "Camping La Pindiere **",
+    "city": "Heric",
+    "description": "+33 240576541"
+  },
+  {
+    "longitude": 7.09248,
+    "latitude": 43.71157,
+    "name": "Camping La Bergerie ***",
+    "city": "Vence",
+    "description": "+33 493580936"
+  },
+  {
+    "longitude": 9.39706,
+    "latitude": 41.863,
+    "name": "Camping Cote des Nacres",
+    "city": "Kamiesch",
+    "description": ""
+  },
+  {
+    "longitude": 3.95017,
+    "latitude": 49.05897,
+    "name": "Camping Municipal **",
+    "city": "Epernay",
+    "description": "+33 326553214"
+  },
+  {
+    "longitude": 3.29247,
+    "latitude": 46.3056,
+    "name": "Camping L Ile",
+    "city": "Saint Pourcain",
+    "description": ""
+  },
+  {
+    "longitude": 1.88493,
+    "latitude": 43.89649,
+    "name": "Camping des Sources ***",
+    "city": "Gaillac",
+    "description": ""
+  },
+  {
+    "longitude": 3.896,
+    "latitude": 43.65131,
+    "name": "Camping Plein Air des Chenes ****",
+    "city": "Clapiers",
+    "description": "+33 467020253"
+  },
+  {
+    "longitude": -2.78006,
+    "latitude": 47.63274,
+    "name": "Camping Conleau **",
+    "city": "Vannes",
+    "description": "+33 297631388"
+  },
+  {
+    "longitude": 1.6175,
+    "latitude": 50.44444,
+    "name": "Camping L Epy **",
+    "city": "Merlimont",
+    "description": ""
+  },
+  {
+    "longitude": -3.03643,
+    "latitude": 47.6021,
+    "name": "Camping Kervilor ****",
+    "city": "La Trinite sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": 5.446,
+    "latitude": 44.684,
+    "name": "Camping Le Lac Bleu ***",
+    "city": "Chatillon en Diois",
+    "description": ""
+  },
+  {
+    "longitude": 4.47533,
+    "latitude": 44.4906,
+    "name": "Camping Le Sous-bois ***",
+    "city": "Saint Maurice d Ibie",
+    "description": "+33 475948695"
+  },
+  {
+    "longitude": 6.22145,
+    "latitude": 43.7631,
+    "name": "Camping Chanteraine *",
+    "city": "Aiguines",
+    "description": ""
+  },
+  {
+    "longitude": 6.14333,
+    "latitude": 43.04056,
+    "name": "Camping La Presqu ile de Giens ***",
+    "city": "Giens",
+    "description": "+33 494582286"
+  },
+  {
+    "longitude": 0.48195,
+    "latitude": 44.84695,
+    "name": "Camping La Pelouse **",
+    "city": "Bergerac",
+    "description": ""
+  },
+  {
+    "longitude": -0.0168,
+    "latitude": 48.73995,
+    "name": "Camping Municipal Parc de la Noe **",
+    "city": "Argentan",
+    "description": "+33 233360589"
+  },
+  {
+    "longitude": 1.72697,
+    "latitude": 45.46461,
+    "name": "Camping Municipal *",
+    "city": "Le Lonzac",
+    "description": ""
+  },
+  {
+    "longitude": -1.69206,
+    "latitude": 43.38082,
+    "name": "Camping Suhiberry ***",
+    "city": "Urrugne",
+    "description": ""
+  },
+  {
+    "longitude": 4.25516,
+    "latitude": 46.56118,
+    "name": "Camping du Lac ***",
+    "city": "Palinges",
+    "description": ""
+  },
+  {
+    "longitude": 4.83932,
+    "latitude": 44.29151,
+    "name": "Camping Le Pont de Lez **",
+    "city": "Suze la Rousse",
+    "description": "+33 475988283"
+  },
+  {
+    "longitude": -1.11699,
+    "latitude": 45.95916,
+    "name": "Camping Ile Madame **",
+    "city": "Port des Barques",
+    "description": ""
+  },
+  {
+    "longitude": 6.27055,
+    "latitude": 49.29777,
+    "name": "Camping",
+    "city": "Volstroff",
+    "description": ""
+  },
+  {
+    "longitude": 1.33195,
+    "latitude": 48.08001,
+    "name": "Camping Municipal **",
+    "city": "Chateaudun",
+    "description": ""
+  },
+  {
+    "longitude": 4.61427,
+    "latitude": 44.28339,
+    "name": "Camping Les Ponts sur l Ardeche **",
+    "city": "Saint Just d Ardeche",
+    "description": "+33 475046731"
+  },
+  {
+    "longitude": 0.81632,
+    "latitude": 48.32481,
+    "name": "Camping Municipal des Viennes ***",
+    "city": "Nogent le Rotrou",
+    "description": "+33 237528051"
+  },
+  {
+    "longitude": 6.21472,
+    "latitude": 43.84317,
+    "name": "Camping Saint Jean ***",
+    "city": "Moustiers Sainte Marie",
+    "description": ""
+  },
+  {
+    "longitude": -3.77581,
+    "latitude": 48.16812,
+    "name": "Camping Municipal du Goaker **",
+    "city": "Saint Goazec (Moulin du Pre - 0298268423",
+    "description": ""
+  },
+  {
+    "longitude": 4.8391,
+    "latitude": 47.03287,
+    "name": "Camping Municipal Les Cent Vignes **",
+    "city": "Beaune",
+    "description": "10 rue A. Dubois"
+  },
+  {
+    "longitude": 4.59723,
+    "latitude": 46.51834,
+    "name": "Camping Municipal La Clochette **",
+    "city": "Salornay sur Guye",
+    "description": ""
+  },
+  {
+    "longitude": 5.4466,
+    "latitude": 44.6827,
+    "name": "Camping L Hirondelle ***",
+    "city": "Menglon",
+    "description": ""
+  },
+  {
+    "longitude": 5.79167,
+    "latitude": 45.55556,
+    "name": "Camping Le Bellevue **",
+    "city": "Saint Alban de Montbel",
+    "description": ""
+  },
+  {
+    "longitude": 1.69778,
+    "latitude": 43.83083,
+    "name": "Camping Municipal des Auzerals *",
+    "city": "Rabastens",
+    "description": ""
+  },
+  {
+    "longitude": -0.65111,
+    "latitude": 48.58861,
+    "name": "Camping Municipal **",
+    "city": "Domfront",
+    "description": "+33 233373766"
+  },
+  {
+    "longitude": 4.09723,
+    "latitude": 48.31083,
+    "name": "Camping Municipal de Troyes ***",
+    "city": "Troyes",
+    "description": ""
+  },
+  {
+    "longitude": 3.32039,
+    "latitude": 48.46681,
+    "name": "Camping Les Pres de la Fontaine ***",
+    "city": "Gouaix",
+    "description": ""
+  },
+  {
+    "longitude": 3.03076,
+    "latitude": 42.67727,
+    "name": "Camping Mar Estang ***",
+    "city": "Canet plage",
+    "description": ""
+  },
+  {
+    "longitude": 7.29972,
+    "latitude": 48.0425,
+    "name": "Camping Municipal Les Trois Chateaux ***",
+    "city": "Eguisheim",
+    "description": "+33 389231939"
+  },
+  {
+    "longitude": 9.44825,
+    "latitude": 42.96433,
+    "name": "Camping U Stazzu",
+    "city": "Macinaggio",
+    "description": ""
+  },
+  {
+    "longitude": -2.3794,
+    "latitude": 47.2938,
+    "name": "Camping Les Ajoncs d Or ***",
+    "city": "La Baule",
+    "description": ""
+  },
+  {
+    "longitude": 9.30722,
+    "latitude": 41.54994,
+    "name": "Camping Giussepe",
+    "city": "Porra",
+    "description": ""
+  },
+  {
+    "longitude": -1.06583,
+    "latitude": 45.7,
+    "name": "Camping A la belle etoile **",
+    "city": "Breuillet",
+    "description": "+33 546021407"
+  },
+  {
+    "longitude": 5.16027,
+    "latitude": 49.54543,
+    "name": "Camping Les Bouleaux *",
+    "city": "Inor",
+    "description": "+33 329804860"
+  },
+  {
+    "longitude": -0.94887,
+    "latitude": 46.91519,
+    "name": "Camping Au Bois de Ce ***",
+    "city": "Chambretaud",
+    "description": "route du Puy du Fou"
+  },
+  {
+    "longitude": -2.44613,
+    "latitude": 47.86344,
+    "name": "Camping Domaine du Roc **",
+    "city": "Le Roc Saint Andre",
+    "description": "+33 297749107"
+  },
+  {
+    "longitude": -2.8611,
+    "latitude": 48.6066,
+    "name": "Camping Les Etangs **",
+    "city": "Lantic",
+    "description": ""
+  },
+  {
+    "longitude": 2.56167,
+    "latitude": 44.71139,
+    "name": "Camping Municipal La Riviere ***",
+    "city": "Saint Hippolyte",
+    "description": "+33 565661450"
+  },
+  {
+    "longitude": -3.0374,
+    "latitude": 47.59698,
+    "name": "Camping Kermaker ***",
+    "city": "La Trinite sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": 2.6692,
+    "latitude": 48.9125,
+    "name": "Camping Le Parc ***",
+    "city": "Villevaude",
+    "description": ""
+  },
+  {
+    "longitude": -0.17825,
+    "latitude": 42.93935,
+    "name": "Camping Le Vieux Moulin **",
+    "city": "Estaing",
+    "description": ""
+  },
+  {
+    "longitude": 8.74986,
+    "latitude": 42.04519,
+    "name": "Camping A Marina ***",
+    "city": "Calcatoggio",
+    "description": "+33 495522184"
+  },
+  {
+    "longitude": -1.44876,
+    "latitude": 43.59038,
+    "name": "Camping La Cote d Argent ****",
+    "city": "Labenne",
+    "description": ""
+  },
+  {
+    "longitude": -1.43108,
+    "latitude": 43.59276,
+    "name": "Camping Le Sylvamar ****",
+    "city": "Labenne",
+    "description": "+33 559457516"
+  },
+  {
+    "longitude": -0.60473,
+    "latitude": 43.19306,
+    "name": "Camping Municipal ***",
+    "city": "Oloron Sainte Marie",
+    "description": ""
+  },
+  {
+    "longitude": -3.88083,
+    "latitude": 47.84084,
+    "name": "Camping Pendruc ***",
+    "city": "Tregunc",
+    "description": ""
+  },
+  {
+    "longitude": -1.01028,
+    "latitude": 45.62556,
+    "name": "Camping La Triloterie **",
+    "city": "Royan",
+    "description": ""
+  },
+  {
+    "longitude": 9.30101,
+    "latitude": 41.6734,
+    "name": "Camping Mulinacciu",
+    "city": "Lecci",
+    "description": ""
+  },
+  {
+    "longitude": 5.54746,
+    "latitude": 45.47048,
+    "name": "Camping le Calatrin",
+    "city": "Paladru",
+    "description": "799 rue de la Morgerie"
+  },
+  {
+    "longitude": 5.54746,
+    "latitude": 45.47048,
+    "name": "Camping le Calatrin",
+    "city": "Paladru",
+    "description": "799 rue de la Morgerie"
+  },
+  {
+    "longitude": -3.34398,
+    "latitude": 47.73263,
+    "name": "Camping Cruckin **",
+    "city": "Paimpol",
+    "description": "+33 296207847"
+  },
+  {
+    "longitude": -3.34398,
+    "latitude": 47.73263,
+    "name": "Camping Municipal Pen Mane **",
+    "city": "Locmiquelic",
+    "description": "+33 297339173"
+  },
+  {
+    "longitude": 2.55323,
+    "latitude": 45.39203,
+    "name": "Camping Municipal ***",
+    "city": "Champs sur Tarentaine",
+    "description": "+33 471787125"
+  },
+  {
+    "longitude": 1.6468,
+    "latitude": 50.23821,
+    "name": "Camping Le Tarteron ***",
+    "city": "Le Crotoy",
+    "description": ""
+  },
+  {
+    "longitude": 5.063,
+    "latitude": 44.523,
+    "name": "Camping Les Grands Pres **",
+    "city": "Dieulefit",
+    "description": ""
+  },
+  {
+    "longitude": 7.30723,
+    "latitude": 48.62306,
+    "name": "Camping Les Huttes **",
+    "city": "Wangenbourg Engenthal",
+    "description": ""
+  },
+  {
+    "longitude": 2.28913,
+    "latitude": 43.1453,
+    "name": "Camping Air Hotel Grand Sud ***",
+    "city": "Couffoulens",
+    "description": ""
+  },
+  {
+    "longitude": 0.93204,
+    "latitude": 43.13571,
+    "name": "Camping Municipal **",
+    "city": "Saint Martory",
+    "description": ""
+  },
+  {
+    "longitude": -1.75617,
+    "latitude": 43.37276,
+    "name": "Camping Ametza ***",
+    "city": "Hendaye",
+    "description": ""
+  },
+  {
+    "longitude": 6.87048,
+    "latitude": 48.00048,
+    "name": "Camping & Relais Le Haut des Bluches",
+    "city": "La Bresse",
+    "description": "5 route des Planches"
+  },
+  {
+    "longitude": -4.22196,
+    "latitude": 47.81267,
+    "name": "Camping Le Manoir de Kerlut ****",
+    "city": "Plobannalec",
+    "description": ""
+  },
+  {
+    "longitude": 2.07999,
+    "latitude": 49.42459,
+    "name": "Camping Municipal **",
+    "city": "Beauvais",
+    "description": ""
+  },
+  {
+    "longitude": -2.9619,
+    "latitude": 48.7579,
+    "name": "Camping Le Cap Horn ***",
+    "city": "Plouezec",
+    "description": ""
+  },
+  {
+    "longitude": -2.12789,
+    "latitude": 46.85036,
+    "name": "Camping Les Alizees ****",
+    "city": "Notre Dame de Monts",
+    "description": ""
+  },
+  {
+    "longitude": -1.38472,
+    "latitude": 46.00472,
+    "name": "Camping Les Seulieres **",
+    "city": "Saint Denis d Oleron",
+    "description": "+33 546479051"
+  },
+  {
+    "longitude": 4.33075,
+    "latitude": 47.32352,
+    "name": "Camping Municipal *",
+    "city": "La Motte Ternant",
+    "description": "D 11 c"
+  },
+  {
+    "longitude": 3.28423,
+    "latitude": 43.31676,
+    "name": "Camping Les Berges du Canal ***",
+    "city": "Villeneuve les Beziers",
+    "description": "+33 467393609"
+  },
+  {
+    "longitude": 4.22429,
+    "latitude": 47.28952,
+    "name": "Camping Municipal Le Perron ***",
+    "city": "Saulieu",
+    "description": "+33 380641619"
+  },
+  {
+    "longitude": 0.55408,
+    "latitude": 43.08614,
+    "name": "Camping Essi Les Hortensias *",
+    "city": "Montrejeau",
+    "description": ""
+  },
+  {
+    "longitude": -4.15751,
+    "latitude": 47.85341,
+    "name": "Camping Pen Ar Palud ***",
+    "city": "Ile Tudy",
+    "description": "+33 298519700"
+  },
+  {
+    "longitude": 4.45558,
+    "latitude": 44.03198,
+    "name": "Camping Le Moulin Neuf ***",
+    "city": "Saint Quentin la Poterie",
+    "description": "+33 466221721"
+  },
+  {
+    "longitude": 6.82857,
+    "latitude": 48.12123,
+    "name": "Camping La Steniole ***",
+    "city": "Granges sur Vologne",
+    "description": ""
+  },
+  {
+    "longitude": 3.31831,
+    "latitude": 46.413,
+    "name": "Camping Deneuvre ***",
+    "city": "Chatel Deneuvre",
+    "description": "+33 470420451"
+  },
+  {
+    "longitude": -1.25917,
+    "latitude": 44.03083,
+    "name": "Camping L Univers ****",
+    "city": "Lit et Mixe",
+    "description": ""
+  },
+  {
+    "longitude": 8.71031,
+    "latitude": 42.26196,
+    "name": "Camping Les Oliviers ***",
+    "city": "Porto",
+    "description": ""
+  },
+  {
+    "longitude": 6.35084,
+    "latitude": 45.27223,
+    "name": "Camping Les Grands Cols ****",
+    "city": "Saint Jean de Maurienne",
+    "description": ""
+  },
+  {
+    "longitude": 9.35,
+    "latitude": 42.95889,
+    "name": "Camping L Isoluttu **",
+    "city": "Centuri",
+    "description": "+33 495356281"
+  },
+  {
+    "longitude": -2.89694,
+    "latitude": 47.64278,
+    "name": "Camping La Fontaine du Hallate",
+    "city": "Plogoumelen",
+    "description": "+33 616300833"
+  },
+  {
+    "longitude": 3.04056,
+    "latitude": 42.86583,
+    "name": "Camping Rives des Corbieres ***",
+    "city": "Leucate",
+    "description": ""
+  },
+  {
+    "longitude": 3.17335,
+    "latitude": 44.19964,
+    "name": "Camping Les Prades ***",
+    "city": "Le Rozier Peyreleau",
+    "description": ""
+  },
+  {
+    "longitude": 4.74192,
+    "latitude": 49.87734,
+    "name": "Camping Municipal Au Port � Diseur **",
+    "city": "Montherme",
+    "description": "+33 324530121"
+  },
+  {
+    "longitude": 4.927,
+    "latitude": 44.727,
+    "name": "Camping Les 4 Saisons ****",
+    "city": "Grane",
+    "description": ""
+  },
+  {
+    "longitude": 3.86299,
+    "latitude": 43.53171,
+    "name": "Camping L Arnel **",
+    "city": "Villeneuve les Maguelons",
+    "description": ""
+  },
+  {
+    "longitude": 8.79233,
+    "latitude": 42.55698,
+    "name": "Camping Dolce Vita",
+    "city": "Borgo",
+    "description": ""
+  },
+  {
+    "longitude": 3.08813,
+    "latitude": 44.10588,
+    "name": "Camping Les Erables ***",
+    "city": "Millau",
+    "description": ""
+  },
+  {
+    "longitude": 6.6505,
+    "latitude": 45.92396,
+    "name": "Camping Les Iles **",
+    "city": "Passy",
+    "description": "+33 450584536"
+  },
+  {
+    "longitude": -3.93874,
+    "latitude": 47.89036,
+    "name": "Camping Les Pres Verts ****",
+    "city": "Concarneau",
+    "description": ""
+  },
+  {
+    "longitude": -0.14195,
+    "latitude": 43.1009,
+    "name": "Camping Les Rives du Gave *",
+    "city": "Saint Pe de Bigorre",
+    "description": ""
+  },
+  {
+    "longitude": 6.24585,
+    "latitude": 43.77584,
+    "name": "Camping L Aigle **",
+    "city": "Aiguines",
+    "description": ""
+  },
+  {
+    "longitude": -1.36707,
+    "latitude": 46.19917,
+    "name": "Camping Municipal **",
+    "city": "Saint Martin de Re",
+    "description": ""
+  },
+  {
+    "longitude": 2.81746,
+    "latitude": 46.03701,
+    "name": "Camping Municipal L Etang Philippe ***",
+    "city": "Saint Gervais d Auvergne",
+    "description": "+33 473857484"
+  },
+  {
+    "longitude": 2.14562,
+    "latitude": 48.93995,
+    "name": "Camping Rue Johnson",
+    "city": "Paris",
+    "description": ""
+  },
+  {
+    "longitude": 4.21162,
+    "latitude": 44.37804,
+    "name": "Camping Les Cigales ***",
+    "city": "Berrias et Casteljau",
+    "description": "+33 475393033"
+  },
+  {
+    "longitude": 5.0417,
+    "latitude": 45.9878,
+    "name": "Camping Le Large **",
+    "city": "Villars les Dombes",
+    "description": ""
+  },
+  {
+    "longitude": 3.58631,
+    "latitude": 44.33589,
+    "name": "Camping L Ere Buissonniere **",
+    "city": "Florac",
+    "description": ""
+  },
+  {
+    "longitude": 1.2061,
+    "latitude": 44.80466,
+    "name": "Camping Municipal *",
+    "city": "Cenac et Saint Julien",
+    "description": "+33 553283191"
+  },
+  {
+    "longitude": -4.31237,
+    "latitude": 47.80392,
+    "name": "Camping Village de la Plage ***",
+    "city": "Penmarch",
+    "description": ""
+  },
+  {
+    "longitude": -2.21709,
+    "latitude": 46.96651,
+    "name": "Camping La Sourderie ***",
+    "city": "La Gueriniere",
+    "description": ""
+  },
+  {
+    "longitude": -1.31694,
+    "latitude": 45.94917,
+    "name": "Camping La Pierriere ***",
+    "city": "Saint Pierre d Oleron",
+    "description": ""
+  },
+  {
+    "longitude": 2.3396,
+    "latitude": 43.8332,
+    "name": "Camping Relais de l Entre 2 Lacs ***",
+    "city": "Teillet",
+    "description": ""
+  },
+  {
+    "longitude": -1.3955,
+    "latitude": 43.79066,
+    "name": "Camping Domaine de la Marina ***",
+    "city": "Messanges",
+    "description": ""
+  },
+  {
+    "longitude": 4.73915,
+    "latitude": 44.59171,
+    "name": "Camping Ile Blanc",
+    "city": "Ancone",
+    "description": "+33 475512005"
+  },
+  {
+    "longitude": 2.6862,
+    "latitude": 43.6035,
+    "name": "Camping Les Bouldouires **",
+    "city": "La Salvetat",
+    "description": ""
+  },
+  {
+    "longitude": -1.15117,
+    "latitude": 45.83132,
+    "name": "Camping La Giroflee",
+    "city": "Bourcefranc le Chapus",
+    "description": "route touristique"
+  },
+  {
+    "longitude": 4.76852,
+    "latitude": 46.98582,
+    "name": "Camping La Grappe d Or **",
+    "city": "Meursault",
+    "description": "route de Volnay"
+  },
+  {
+    "longitude": 6.9581,
+    "latitude": 48.1845,
+    "name": "Camping Les Acacias ***",
+    "city": "Anould",
+    "description": "+33 329571106"
+  },
+  {
+    "longitude": 4.904,
+    "latitude": 45.255,
+    "name": "Camping La Chataigneraie ***",
+    "city": "Anneyron",
+    "description": ""
+  },
+  {
+    "longitude": 3.06195,
+    "latitude": 45.73834,
+    "name": "Camping Municipal ***",
+    "city": "Ceyrat",
+    "description": ""
+  },
+  {
+    "longitude": -1.9844,
+    "latitude": 47.0631,
+    "name": "Camping Prigny **",
+    "city": "Les Moutiers en Retz",
+    "description": ""
+  },
+  {
+    "longitude": -4.16131,
+    "latitude": 47.85066,
+    "name": "Camping Municipal Le Sillon **",
+    "city": "Ile Tudy",
+    "description": "+33 298564339"
+  },
+  {
+    "longitude": 1.65832,
+    "latitude": 50.88386,
+    "name": "Camping Municipal La Source **",
+    "city": "Wissant",
+    "description": ""
+  },
+  {
+    "longitude": 1.9781,
+    "latitude": 46.6012,
+    "name": "Camping Municipal Solange Sand **",
+    "city": "Montgivray",
+    "description": ""
+  },
+  {
+    "longitude": 9.35229,
+    "latitude": 42.96712,
+    "name": "Camping Centuri",
+    "city": "Centuri",
+    "description": ""
+  },
+  {
+    "longitude": -4.08488,
+    "latitude": 48.18745,
+    "name": "Camping La Pointe Superbe ***",
+    "city": "Saint Coulitz",
+    "description": "+33 298865153"
+  },
+  {
+    "longitude": 6.6747,
+    "latitude": 46.16033,
+    "name": "Camping La Grange au Frene ***",
+    "city": "Les Gets",
+    "description": ""
+  },
+  {
+    "longitude": 5.31949,
+    "latitude": 43.72842,
+    "name": "Camping Domaine des Iscles ***",
+    "city": "La Roque d Antheron",
+    "description": "+33 442504425"
+  },
+  {
+    "longitude": -1.40446,
+    "latitude": 46.04222,
+    "name": "Camping Le Chassiron *",
+    "city": "Saint Denis d Oleron",
+    "description": ""
+  },
+  {
+    "longitude": 4.30621,
+    "latitude": 44.49964,
+    "name": "Camping Saint Amand **",
+    "city": "Laurac en Vivarais",
+    "description": "+33 475368445"
+  },
+  {
+    "longitude": 3.46222,
+    "latitude": 43.30361,
+    "name": "Camping international de l Herault ***",
+    "city": "Agde",
+    "description": "+33 467941283"
+  },
+  {
+    "longitude": 3.20924,
+    "latitude": 44.88966,
+    "name": "Camping Municipal ***",
+    "city": "Saint Just",
+    "description": "+33 471737257"
+  },
+  {
+    "longitude": -3.99482,
+    "latitude": 47.90454,
+    "name": "Camping Ponterec **",
+    "city": "La Foret Fouesnant",
+    "description": ""
+  },
+  {
+    "longitude": -4.12079,
+    "latitude": 47.99198,
+    "name": "Camping Municipal Bois du Seminaire **",
+    "city": "Quimper",
+    "description": ""
+  },
+  {
+    "longitude": -3.98154,
+    "latitude": 48.19334,
+    "name": "Camping Pont Coblanc **",
+    "city": "Pleyben",
+    "description": ""
+  },
+  {
+    "longitude": -3.95601,
+    "latitude": 47.89874,
+    "name": "Camping Le Keranterec ****",
+    "city": "La Foret Fouesnant",
+    "description": ""
+  },
+  {
+    "longitude": 9.31433,
+    "latitude": 41.62583,
+    "name": "Camping Sogno",
+    "city": "Golfo di Sogno",
+    "description": ""
+  },
+  {
+    "longitude": 7.20528,
+    "latitude": 48.05167,
+    "name": "Camping La Route Verte **",
+    "city": "Wihr au Val",
+    "description": ""
+  },
+  {
+    "longitude": -1.51167,
+    "latitude": 48.55694,
+    "name": "Camping Haliotis ***",
+    "city": "Pontorson",
+    "description": "+33 233681159"
+  },
+  {
+    "longitude": 0.68763,
+    "latitude": 43.33981,
+    "name": "Camping le Canard Fou **",
+    "city": "Lunax",
+    "description": ""
+  },
+  {
+    "longitude": 4.9832,
+    "latitude": 46.44399,
+    "name": "Camping Les Ripettes **",
+    "city": "Chavannes sur Reyssouze",
+    "description": "+33 385306658"
+  },
+  {
+    "longitude": -0.62028,
+    "latitude": 43.17222,
+    "name": "Camping Gite du Stade ***",
+    "city": "Oloron Sainte Marie",
+    "description": ""
+  },
+  {
+    "longitude": -1.60472,
+    "latitude": 49.19833,
+    "name": "Camping Les Dunes **",
+    "city": "Creance",
+    "description": "+33 233463186"
+  },
+  {
+    "longitude": -2.7921,
+    "latitude": 47.5241,
+    "name": "Camping Le Bohat ***",
+    "city": "Sarzeau",
+    "description": ""
+  },
+  {
+    "longitude": 0.89972,
+    "latitude": 45.89611,
+    "name": "Camping Municipal **",
+    "city": "Saint Junien",
+    "description": ""
+  },
+  {
+    "longitude": -0.98716,
+    "latitude": 45.58353,
+    "name": "Camping Bois-Soleil ****",
+    "city": "Saint Georges de Didonne",
+    "description": "+33 546050594"
+  },
+  {
+    "longitude": 6.59202,
+    "latitude": 43.46832,
+    "name": "Camping La Noguiere ***",
+    "city": "Le Muy",
+    "description": ""
+  },
+  {
+    "longitude": 6.85374,
+    "latitude": 48.06477,
+    "name": "Camping Ramberchamp ***",
+    "city": "Gerardmer",
+    "description": "+33 329630382"
+  },
+  {
+    "longitude": 2.39111,
+    "latitude": 43.49694,
+    "name": "Camping Municipal de la Lauze ***",
+    "city": "Mazamet",
+    "description": ""
+  },
+  {
+    "longitude": -4.2059,
+    "latitude": 47.84042,
+    "name": "Camping Keralouet **",
+    "city": "Plobannalec",
+    "description": ""
+  },
+  {
+    "longitude": 6.56825,
+    "latitude": 43.26808,
+    "name": "Camping Les Prairies de la Mer ***",
+    "city": "Grimaud",
+    "description": ""
+  },
+  {
+    "longitude": -4.19062,
+    "latitude": 47.83645,
+    "name": "Camping Kerandrao **",
+    "city": "Loctudy",
+    "description": "+33 298545408"
+  },
+  {
+    "longitude": 0.73423,
+    "latitude": 47.28921,
+    "name": "Camping Municipal Le Petit Pres",
+    "city": "Veigne",
+    "description": ""
+  },
+  {
+    "longitude": 0.79628,
+    "latitude": 47.40874,
+    "name": "Camping Municipal Le Bec de Cisse **",
+    "city": "Vouvray",
+    "description": ""
+  },
+  {
+    "longitude": 1.0028,
+    "latitude": 47.1231,
+    "name": "Camping La Citadelle ****",
+    "city": "Loches",
+    "description": ""
+  },
+  {
+    "longitude": 2.97568,
+    "latitude": 49.35436,
+    "name": "Camping Municipal de Batigny ***",
+    "city": "Pierrefonds",
+    "description": "+33 344428083"
+  },
+  {
+    "longitude": 2.68878,
+    "latitude": 50.5197,
+    "name": "Camping Municipal **",
+    "city": "Beuvry",
+    "description": "+33 321650800"
+  },
+  {
+    "longitude": 1.41597,
+    "latitude": 50.07798,
+    "name": "Camping Municipal du Rompvalroute de Blengues",
+    "city": "Mers les Bains",
+    "description": ""
+  },
+  {
+    "longitude": -1.0703,
+    "latitude": 44.75685,
+    "name": "Camping Les Arbousiers **",
+    "city": "Andernos",
+    "description": ""
+  },
+  {
+    "longitude": 0.41632,
+    "latitude": 49.74039,
+    "name": "Camping Municipal Le Canada **",
+    "city": "Toussaint",
+    "description": "rue de Rouen"
+  },
+  {
+    "longitude": 6.71772,
+    "latitude": 43.43462,
+    "name": "Camping Domaine du Colombier ****",
+    "city": "Frejus",
+    "description": ""
+  },
+  {
+    "longitude": -1.4075,
+    "latitude": 43.66306,
+    "name": "Camping Municipal La Foret ***",
+    "city": "Soorts Hossegor",
+    "description": ""
+  },
+  {
+    "longitude": -3.20216,
+    "latitude": 47.65065,
+    "name": "Camping de la Barre **",
+    "city": "Etel",
+    "description": "+33 297553379"
+  },
+  {
+    "longitude": 3.09595,
+    "latitude": 44.10079,
+    "name": "Camping Les Rivages ****",
+    "city": "Millau",
+    "description": ""
+  },
+  {
+    "longitude": -1.45933,
+    "latitude": 46.29447,
+    "name": "Camping Les Roses ****",
+    "city": "Les Sables d Olonne",
+    "description": ""
+  },
+  {
+    "longitude": 5.21729,
+    "latitude": 47.09579,
+    "name": "Camping Municipal *",
+    "city": "Esbarres",
+    "description": "place du Pere Bonichon"
+  },
+  {
+    "longitude": 1.1406,
+    "latitude": 44.266,
+    "name": "Camping Melvin **",
+    "city": "Lauzerte",
+    "description": ""
+  },
+  {
+    "longitude": 2.35567,
+    "latitude": 49.74557,
+    "name": "Camping Municipal Le Val de Noye **",
+    "city": "Ailly sur Noye",
+    "description": ""
+  },
+  {
+    "longitude": 4.42029,
+    "latitude": 44.54425,
+    "name": "Camping Les Chenes Verts ***",
+    "city": "Vogue",
+    "description": "+33 475377154"
+  },
+  {
+    "longitude": -4.30148,
+    "latitude": 48.19278,
+    "name": "Camping Ker Ys ***",
+    "city": "Saint Nic",
+    "description": ""
+  },
+  {
+    "longitude": -0.36039,
+    "latitude": 42.91094,
+    "name": "Camping Camp International ***",
+    "city": "Arreau",
+    "description": "+33 562986334"
+  },
+  {
+    "longitude": 0.65799,
+    "latitude": 44.15606,
+    "name": "Camping Chateau Lamotte d Allot ***",
+    "city": "Boe",
+    "description": "+33 553683311"
+  },
+  {
+    "longitude": -1.76247,
+    "latitude": 43.37368,
+    "name": "Camping Alturan ***",
+    "city": "Hendaye",
+    "description": ""
+  },
+  {
+    "longitude": 3.4061,
+    "latitude": 45.27953,
+    "name": "Camping La Bageasse **",
+    "city": "Vieille Brioude",
+    "description": "+33 471500770"
+  },
+  {
+    "longitude": 8.75992,
+    "latitude": 42.55162,
+    "name": "Camping Bella Vista",
+    "city": "Calvi",
+    "description": ""
+  },
+  {
+    "longitude": -4.08991,
+    "latitude": 47.86493,
+    "name": "Camping Le Letty ****",
+    "city": "Benodet",
+    "description": ""
+  },
+  {
+    "longitude": 9.46725,
+    "latitude": 42.62881,
+    "name": "Camping Pinetu",
+    "city": "La Marana",
+    "description": ""
+  },
+  {
+    "longitude": -3.98889,
+    "latitude": 47.89111,
+    "name": "Camping Pen an Cap - Cap Coz **",
+    "city": "Fouesnant",
+    "description": "+33 298560923"
+  },
+  {
+    "longitude": 1.60841,
+    "latitude": 45.70647,
+    "name": "Camping Lac de Vassiviere",
+    "city": "Chateauneuf la Foret",
+    "description": ""
+  },
+  {
+    "longitude": 9.45631,
+    "latitude": 42.00438,
+    "name": "Camping Erba Rossa",
+    "city": "Calzarello",
+    "description": ""
+  },
+  {
+    "longitude": -4.48205,
+    "latitude": 48.08419,
+    "name": "Camping Pors Peron **",
+    "city": "Beuzec Cap Sizun",
+    "description": ""
+  },
+  {
+    "longitude": 4.66762,
+    "latitude": 46.43168,
+    "name": "Camping Saint Vital ***",
+    "city": "Cluny",
+    "description": ""
+  },
+  {
+    "longitude": -0.12677,
+    "latitude": 45.01681,
+    "name": "Camping Le Paradis",
+    "city": "Abzac",
+    "description": ""
+  },
+  {
+    "longitude": 4.00962,
+    "latitude": 47.29155,
+    "name": "Camping La Croix du Chateau **",
+    "city": "Dun les Places",
+    "description": "+33 386846205"
+  },
+  {
+    "longitude": -3.56198,
+    "latitude": 48.76046,
+    "name": "Camping Le Kerdual ***",
+    "city": "Trebeurden",
+    "description": "+33 296235486"
+  },
+  {
+    "longitude": -3.5625,
+    "latitude": 48.76098,
+    "name": "Camping Roz ar Mor **",
+    "city": "Trebeurden",
+    "description": "+33 296235812"
+  },
+  {
+    "longitude": 4.854,
+    "latitude": 44.687,
+    "name": "Camping La Poche **",
+    "city": "Mirmande",
+    "description": ""
+  },
+  {
+    "longitude": 1.61583,
+    "latitude": 42.98921,
+    "name": "Camping Le Lac ***",
+    "city": "Foix",
+    "description": ""
+  },
+  {
+    "longitude": -2.74117,
+    "latitude": 47.96968,
+    "name": "Camping Municipal de l Etang **",
+    "city": "Reguiny",
+    "description": "+33 297386611"
+  },
+  {
+    "longitude": -2.54894,
+    "latitude": 47.37212,
+    "name": "Camping Mon Calme ***",
+    "city": "Piriac sur Mer",
+    "description": "+33 240238077"
+  },
+  {
+    "longitude": -4.00846,
+    "latitude": 48.71409,
+    "name": "Camping Aux quatre saisons (Perharidy) **",
+    "city": "Roscoff",
+    "description": "+33 298697086"
+  },
+  {
+    "longitude": -0.61834,
+    "latitude": 46.69556,
+    "name": "Camping La Sabliere **",
+    "city": "Moutiers sous Chantemerle",
+    "description": ""
+  },
+  {
+    "longitude": 3.90667,
+    "latitude": 45.11889,
+    "name": "Camping Municipal Les Longes ***",
+    "city": "Lavoute sur Loire",
+    "description": ""
+  },
+  {
+    "longitude": 2.30247,
+    "latitude": 50.77114,
+    "name": "Camping Le Clairmarais ***",
+    "city": "Clairmarais",
+    "description": "+33 321383480"
+  },
+  {
+    "longitude": 4.6852,
+    "latitude": 46.54893,
+    "name": "Camping Le Hameau des Champs ***",
+    "city": "Cormatin",
+    "description": ""
+  },
+  {
+    "longitude": 2.80439,
+    "latitude": 45.577,
+    "name": "Camping Municipal des Crouzets",
+    "city": "Mont Dore",
+    "description": ""
+  },
+  {
+    "longitude": 4.35878,
+    "latitude": 44.47653,
+    "name": "Camping Les Coudoulets ***",
+    "city": "Pradon",
+    "description": "+33 475939495"
+  },
+  {
+    "longitude": 6.21743,
+    "latitude": 43.78464,
+    "name": "Camping Municipal les Ruisses **",
+    "city": "Les Salles sur Verdon",
+    "description": ""
+  },
+  {
+    "longitude": -2.7265,
+    "latitude": 47.7282,
+    "name": "Camping Le Haras ***",
+    "city": "Vannes Meucon",
+    "description": ""
+  },
+  {
+    "longitude": 5.15216,
+    "latitude": 46.08646,
+    "name": "Camping intercommunal Etang du Moulin ****",
+    "city": "Saint Paul de Varax",
+    "description": "+33 474425330"
+  },
+  {
+    "longitude": -1.21778,
+    "latitude": 48.83695,
+    "name": "Camping Le Pre de la Rose ***",
+    "city": "Villedieu les Poeles",
+    "description": ""
+  },
+  {
+    "longitude": 3.30545,
+    "latitude": 44.55157,
+    "name": "Camping Municipal Europe **",
+    "city": "Marvejols",
+    "description": ""
+  },
+  {
+    "longitude": -1.47015,
+    "latitude": 43.33932,
+    "name": "Camping Alegera ***",
+    "city": "FSouraide",
+    "description": ""
+  },
+  {
+    "longitude": -4.26817,
+    "latitude": 48.11625,
+    "name": "Camping International Kervel ****",
+    "city": "Plonevez Porzay",
+    "description": ""
+  },
+  {
+    "longitude": 7.46778,
+    "latitude": 48.46445,
+    "name": "Camping Le Vallon de l Ehn ***",
+    "city": "Obernai",
+    "description": ""
+  },
+  {
+    "longitude": 7.46778,
+    "latitude": 48.46445,
+    "name": "Camping Municipal Le Vallon de l Ehn ***",
+    "city": "Obernai",
+    "description": ""
+  },
+  {
+    "longitude": 6.42361,
+    "latitude": 45.93778,
+    "name": "Camping L Escale ***",
+    "city": "Le Grand Bornand",
+    "description": "+33 450022069"
+  },
+  {
+    "longitude": -4.32918,
+    "latitude": 47.89455,
+    "name": "Camping Kerlaz ***",
+    "city": "Treguennec",
+    "description": ""
+  },
+  {
+    "longitude": 4.48306,
+    "latitude": 46.36056,
+    "name": "Camping Village des Meuniers ****",
+    "city": "Dompierre les Ormes",
+    "description": ""
+  },
+  {
+    "longitude": -3.28111,
+    "latitude": 48.61639,
+    "name": "Camping Municipal Le Donant ***",
+    "city": "Begard",
+    "description": ""
+  },
+  {
+    "longitude": -4.52667,
+    "latitude": 48.47534,
+    "name": "Camping Le Village Loisirs ****",
+    "city": "Milizac",
+    "description": ""
+  },
+  {
+    "longitude": 4.66031,
+    "latitude": 47.10856,
+    "name": "Camping Les Isles **",
+    "city": "Bligny sur Ouche",
+    "description": "2 allee de la Gare"
+  },
+  {
+    "longitude": 1.187,
+    "latitude": 47.526,
+    "name": "Camping Domaine de Dugny ****",
+    "city": "Onzain",
+    "description": ""
+  },
+  {
+    "longitude": 5.13899,
+    "latitude": 46.99942,
+    "name": "Camping Municipal de la Piscine *",
+    "city": "Pouilly sur Saone",
+    "description": "D 973"
+  },
+  {
+    "longitude": 1.52606,
+    "latitude": 47.67179,
+    "name": "Camping Municipal Bellevue",
+    "city": "Muides sur Loire",
+    "description": ""
+  },
+  {
+    "longitude": 4.27206,
+    "latitude": 44.41361,
+    "name": "Camping Ranc Davaine ****",
+    "city": "Saint Alban Auriolles",
+    "description": "+33 475396055"
+  },
+  {
+    "longitude": -0.62776,
+    "latitude": 44.75564,
+    "name": "Camping Beau Soleil **",
+    "city": "Gradignan",
+    "description": "+33 556891766"
+  },
+  {
+    "longitude": 9.46632,
+    "latitude": 42.63004,
+    "name": "Camping San Damiano *",
+    "city": "Biguglia",
+    "description": ""
+  },
+  {
+    "longitude": 1.3838,
+    "latitude": 45.37705,
+    "name": "Camping Juillac et Pompadour",
+    "city": "Saint Sornin Lavolps",
+    "description": ""
+  },
+  {
+    "longitude": 1.80326,
+    "latitude": 42.59136,
+    "name": "Camping Municipal **",
+    "city": "L Hospitalet pres Andorre",
+    "description": ""
+  },
+  {
+    "longitude": -1.23534,
+    "latitude": 49.46653,
+    "name": "Camping Le Cormoran ****",
+    "city": "Ravenoville Plage",
+    "description": "+33 233413394"
+  },
+  {
+    "longitude": 5.76667,
+    "latitude": 45.76889,
+    "name": "Camping Lac du Lit au Roi ****",
+    "city": "Massignieu de Rives",
+    "description": "+33 479421203"
+  },
+  {
+    "longitude": 6.27028,
+    "latitude": 45.25473,
+    "name": "Camping Les Grands Cols ***",
+    "city": "La Toussuire",
+    "description": ""
+  },
+  {
+    "longitude": 9.5319,
+    "latitude": 42.41138,
+    "name": "Camping Miami Plage",
+    "city": "Figareto",
+    "description": ""
+  },
+  {
+    "longitude": 6.18206,
+    "latitude": 43.722,
+    "name": "Camping Le Vieux Chene **",
+    "city": "Bauduen",
+    "description": ""
+  },
+  {
+    "longitude": 4.71573,
+    "latitude": 47.18484,
+    "name": "Camping Municipal de la Chatelaine **",
+    "city": "Veuvey sur Ouche",
+    "description": "D 33"
+  },
+  {
+    "longitude": -0.12921,
+    "latitude": 49.28685,
+    "name": "Camping La Plage ****",
+    "city": "Cabourg",
+    "description": ""
+  },
+  {
+    "longitude": -1.20854,
+    "latitude": 44.5851,
+    "name": "Camping La Foret ***",
+    "city": "Pyla sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": 6.41667,
+    "latitude": 43.81667,
+    "name": "Camping Chasteuil Provence ***",
+    "city": "Castellane",
+    "description": "+33 492836121"
+  },
+  {
+    "longitude": 0.82722,
+    "latitude": 49.43444,
+    "name": "Camping La Foret ***",
+    "city": "Jumieges",
+    "description": ""
+  },
+  {
+    "longitude": 3.60194,
+    "latitude": 49.55722,
+    "name": "Camping La Chenaie ***",
+    "city": "Laon",
+    "description": ""
+  },
+  {
+    "longitude": -1.04684,
+    "latitude": 45.32791,
+    "name": "Camping La Pointe du Medoc ****",
+    "city": "Le Verdon sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": 1.41337,
+    "latitude": 45.97133,
+    "name": "Camping Municipal de Jonas *",
+    "city": "Ambazac",
+    "description": ""
+  },
+  {
+    "longitude": 4.21513,
+    "latitude": 44.40459,
+    "name": "Camping La Vignasse **",
+    "city": "Berrias et Casteljau",
+    "description": "+33 475393044"
+  },
+  {
+    "longitude": 2.62911,
+    "latitude": 44.9813,
+    "name": "Camping Municipal ***",
+    "city": "Vic sur Cere",
+    "description": "+33 471475104"
+  },
+  {
+    "longitude": 4.40167,
+    "latitude": 43.45,
+    "name": "Camping Le Clos du Rhone ****",
+    "city": "Saintes Maries de la Mer",
+    "description": "+33 490978599"
+  },
+  {
+    "longitude": -0.07834,
+    "latitude": 47.69362,
+    "name": "Camping Municipal La Route d Or ***",
+    "city": "La Fleche",
+    "description": ""
+  },
+  {
+    "longitude": 9.443,
+    "latitude": 41.99968,
+    "name": "Camping Arinella",
+    "city": "Calzarello",
+    "description": ""
+  },
+  {
+    "longitude": -3.54733,
+    "latitude": 47.76826,
+    "name": "Camping Grands Sables ****",
+    "city": "Clohars Carnoet",
+    "description": "rue du Philosophe Alain"
+  },
+  {
+    "longitude": -0.14262,
+    "latitude": 44.91565,
+    "name": "Camping Domaine de la Barbanne ***",
+    "city": "Saint Emilion",
+    "description": ""
+  },
+  {
+    "longitude": -2.8003,
+    "latitude": 47.6229,
+    "name": "Camping Pen Boch ****",
+    "city": "Arradon",
+    "description": ""
+  },
+  {
+    "longitude": -3.71715,
+    "latitude": 47.80258,
+    "name": "Camping Tal ar Moor **",
+    "city": "Moelan sur Mer",
+    "description": "+33 298711198"
+  },
+  {
+    "longitude": 9.15098,
+    "latitude": 42.30064,
+    "name": "Camping Restonica",
+    "city": "Corte",
+    "description": ""
+  },
+  {
+    "longitude": 2.78649,
+    "latitude": 46.68125,
+    "name": "Camping Les Ecossais ***",
+    "city": "Isles et Bardais",
+    "description": ""
+  },
+  {
+    "longitude": 3.00179,
+    "latitude": 42.97466,
+    "name": "Camping Municipal *",
+    "city": "La Palme",
+    "description": "+33 468485040"
+  },
+  {
+    "longitude": 9.26731,
+    "latitude": 42.58364,
+    "name": "Camping San Gavino",
+    "city": "Sorio",
+    "description": ""
+  },
+  {
+    "longitude": -3.35056,
+    "latitude": 48.82111,
+    "name": "Camping Le Mat ***",
+    "city": "Trevou Treguignec",
+    "description": ""
+  },
+  {
+    "longitude": 6.4018,
+    "latitude": 49.2237,
+    "name": "Camping La Croix du Bois Sacker **",
+    "city": "Burtoncourt",
+    "description": ""
+  },
+  {
+    "longitude": 4.19136,
+    "latitude": 46.86169,
+    "name": "Camping Des Deux Rivieres",
+    "city": "Etang sur Arroux",
+    "description": "26 rue de Toulon"
+  },
+  {
+    "longitude": 5.42056,
+    "latitude": 45.82778,
+    "name": "Camping La Vallee Bleue ***",
+    "city": "Montalieu Vercieu",
+    "description": ""
+  },
+  {
+    "longitude": -1.37014,
+    "latitude": 45.96112,
+    "name": "Camping Les Grosses Pierres ***",
+    "city": "Saint Georges d Oleron",
+    "description": ""
+  },
+  {
+    "longitude": 6.7106,
+    "latitude": 49.1084,
+    "name": "Camping Le Felsberg ***",
+    "city": "Saint Avold",
+    "description": ""
+  },
+  {
+    "longitude": 9.17935,
+    "latitude": 41.433,
+    "name": "Camping U Farniente ****",
+    "city": "Bonifacio",
+    "description": ""
+  },
+  {
+    "longitude": 1.50171,
+    "latitude": 48.43484,
+    "name": "Camping Les Bords de l Eure ***",
+    "city": "Chartres",
+    "description": ""
+  },
+  {
+    "longitude": -4.75972,
+    "latitude": 48.36746,
+    "name": "Camping Le Theven **",
+    "city": "Le Conquet",
+    "description": ""
+  },
+  {
+    "longitude": -4.14028,
+    "latitude": 47.90901,
+    "name": "Camping Pors Keraign **",
+    "city": "Gouesnach",
+    "description": "+33 298546137"
+  },
+  {
+    "longitude": -2.5743,
+    "latitude": 47.5571,
+    "name": "Camping d Arvor **",
+    "city": "Ambon",
+    "description": ""
+  },
+  {
+    "longitude": 9.21,
+    "latitude": 41.37806,
+    "name": "Camping des Iles",
+    "city": "Bonifacio",
+    "description": "route de Piantarrela"
+  },
+  {
+    "longitude": 4.3825,
+    "latitude": 44.39722,
+    "name": "Camping International Camping ***",
+    "city": "Vallon Pont d Arc",
+    "description": "+33 475880099"
+  },
+  {
+    "longitude": 4.57115,
+    "latitude": 44.3006,
+    "name": "Camping Municipal Le Moulin ***",
+    "city": "Saint Martin d Ardeche",
+    "description": "+33 475046620"
+  },
+  {
+    "longitude": 8.57505,
+    "latitude": 42.20913,
+    "name": "Camping Arone",
+    "city": "Vistale",
+    "description": ""
+  },
+  {
+    "longitude": -2.8406,
+    "latitude": 47.6213,
+    "name": "Camping L Allee ***",
+    "city": "Arradon",
+    "description": ""
+  },
+  {
+    "longitude": 1.04509,
+    "latitude": 44.9555,
+    "name": "Camping La Ferme du Peloux **",
+    "city": "Tursac",
+    "description": "+33 553069817"
+  },
+  {
+    "longitude": 5.77444,
+    "latitude": 47.74694,
+    "name": "Camping Le Lac **",
+    "city": "Preigney",
+    "description": ""
+  },
+  {
+    "longitude": -4.09848,
+    "latitude": 47.86783,
+    "name": "Camping Le Poulquer ***",
+    "city": "Benodet",
+    "description": "+33 298570419"
+  },
+  {
+    "longitude": -0.859,
+    "latitude": 49.00937,
+    "name": "Camping Le Puits **",
+    "city": "Saint Martin des Besaces",
+    "description": "+33 231678002"
+  },
+  {
+    "longitude": 4.3551,
+    "latitude": 47.46697,
+    "name": "Camping Le Lac de Pont *",
+    "city": "Pont et Massene",
+    "description": "16-24 rue du Lac"
+  },
+  {
+    "longitude": -0.01096,
+    "latitude": 42.87952,
+    "name": "Camping Airotel Pyrenees ****",
+    "city": "Esquiere Sere",
+    "description": ""
+  },
+  {
+    "longitude": 3.01217,
+    "latitude": 45.92213,
+    "name": "Camping Le Colombier *",
+    "city": "Loubeyrat",
+    "description": "+33 473866694"
+  },
+  {
+    "longitude": 1.8436,
+    "latitude": 50.39648,
+    "name": "Camping Municipal **",
+    "city": "Calais",
+    "description": "+33 321247325"
+  },
+  {
+    "longitude": -0.68774,
+    "latitude": 43.15541,
+    "name": "Camping Le Vieux Moulin **",
+    "city": "Feas",
+    "description": ""
+  },
+  {
+    "longitude": -1.13722,
+    "latitude": 45.49917,
+    "name": "Camping Les Sables d Argent ***",
+    "city": "Soulac",
+    "description": "+33 556098287"
+  },
+  {
+    "longitude": 8.80422,
+    "latitude": 41.71239,
+    "name": "Camping U Casedu",
+    "city": "Porto Pollo",
+    "description": ""
+  },
+  {
+    "longitude": -1.50781,
+    "latitude": 50.57913,
+    "name": "Camping Municipal **",
+    "city": "Calais",
+    "description": ""
+  },
+  {
+    "longitude": -3.99611,
+    "latitude": 47.855,
+    "name": "Camping Le Vorlen ***",
+    "city": "Fouesnant",
+    "description": "+33 298949736"
+  },
+  {
+    "longitude": 5.89139,
+    "latitude": 43.75528,
+    "name": "Camping Municipal **",
+    "city": "Greoux les Bains",
+    "description": "+33 492780062"
+  },
+  {
+    "longitude": 8.74994,
+    "latitude": 42.38678,
+    "name": "Camping Tuarelli",
+    "city": "Tuarelli",
+    "description": ""
+  },
+  {
+    "longitude": -3.12646,
+    "latitude": 47.50663,
+    "name": "Camping Park Er Lann ***",
+    "city": "Saint Pierre de Quiberon",
+    "description": "+33 297502493"
+  },
+  {
+    "longitude": -3.79045,
+    "latitude": 47.79946,
+    "name": "Camping Les 2 Fontaines ****",
+    "city": "Nevez",
+    "description": "+33 298068191"
+  },
+  {
+    "longitude": -1.96305,
+    "latitude": 48.68078,
+    "name": "Camping Municipal Les Ilots **",
+    "city": "Saint Malo",
+    "description": ""
+  },
+  {
+    "longitude": 2.6228,
+    "latitude": 47.6825,
+    "name": "Camping Touristique de Gien ***",
+    "city": "Gien",
+    "description": ""
+  },
+  {
+    "longitude": 3.05515,
+    "latitude": 46.15996,
+    "name": "Camping La Chassagne",
+    "city": "Veauce",
+    "description": ""
+  },
+  {
+    "longitude": 2.65254,
+    "latitude": 48.85881,
+    "name": "Camping Le Parc de la Colline ***",
+    "city": "Torcy",
+    "description": "+33 160054232"
+  },
+  {
+    "longitude": -1.15056,
+    "latitude": 45.48222,
+    "name": "Camping Amelie Plage ***",
+    "city": "Soulac",
+    "description": "+33 556098727"
+  },
+  {
+    "longitude": -4.52299,
+    "latitude": 48.22144,
+    "name": "Camping Les Bruyeres **",
+    "city": "Crozon Morgat",
+    "description": "+33 298261487"
+  },
+  {
+    "longitude": 1.96912,
+    "latitude": 44.2202,
+    "name": "Camping Le Paisserou ****",
+    "city": "Najac",
+    "description": ""
+  },
+  {
+    "longitude": 6.61973,
+    "latitude": 46.38027,
+    "name": "Camping ANLe Pre Bandaz",
+    "city": "Saint Paul en Chablais",
+    "description": ""
+  },
+  {
+    "longitude": 6.21455,
+    "latitude": 43.84495,
+    "name": "Camping Manyasse **",
+    "city": "Moustier Sainte Marie",
+    "description": "+33 492746671"
+  },
+  {
+    "longitude": 8.82645,
+    "latitude": 41.91116,
+    "name": "Camping Prunelli",
+    "city": "Pisciatello",
+    "description": ""
+  },
+  {
+    "longitude": 3.14754,
+    "latitude": 44.93885,
+    "name": "Camping Municipal ***",
+    "city": "Faverolles",
+    "description": "+33 471234991"
+  },
+  {
+    "longitude": 6.16551,
+    "latitude": 43.72983,
+    "name": "Camping ANLe Cavalet",
+    "city": "Bauduen",
+    "description": ""
+  },
+  {
+    "longitude": 2.51011,
+    "latitude": 45.45245,
+    "name": "Camping L Air du Temps ***",
+    "city": "Beaulieu",
+    "description": "+33 471403158"
+  },
+  {
+    "longitude": 0.78568,
+    "latitude": 44.84151,
+    "name": "Camping Les Be-Bains ****",
+    "city": "Badefols sur Dordogne",
+    "description": "+33 553735252"
+  },
+  {
+    "longitude": 3.00389,
+    "latitude": 43.14722,
+    "name": "Camping La Nautique ***",
+    "city": "Narbonne",
+    "description": "+33 468904819"
+  },
+  {
+    "longitude": -1.56703,
+    "latitude": 43.46208,
+    "name": "Camping Biarritz Camping ***",
+    "city": "Biarritz",
+    "description": "+33 559230012"
+  },
+  {
+    "longitude": 6.22667,
+    "latitude": 45.29417,
+    "name": "Camping La Pierriere **",
+    "city": "Saint Colomban des Villards",
+    "description": ""
+  },
+  {
+    "longitude": 4.62378,
+    "latitude": 46.94698,
+    "name": "Camping La Bruyere *",
+    "city": "Nolay",
+    "description": "1 route des Couches"
+  },
+  {
+    "longitude": 9.17013,
+    "latitude": 41.74967,
+    "name": "Camping Zonza",
+    "city": "Zonza",
+    "description": ""
+  },
+  {
+    "longitude": 1.1865,
+    "latitude": 44.9731,
+    "name": "Camping Les Tailladis ***",
+    "city": "Marcillac Saint Quentin",
+    "description": ""
+  },
+  {
+    "longitude": -1.37332,
+    "latitude": 46.0384,
+    "name": "Camping Municipal **",
+    "city": "Saint Denis d Oleron",
+    "description": "+33 546478562"
+  },
+  {
+    "longitude": -1.31823,
+    "latitude": 45.96882,
+    "name": "Camping Domaine des 4 vents ****",
+    "city": "Saint Georges d Oleron - La Jousseliniere",
+    "description": ""
+  },
+  {
+    "longitude": 9.29194,
+    "latitude": 41.56667,
+    "name": "Camping Les jardins du Golfe",
+    "city": "Porto Vecchio",
+    "description": "+33 495704692"
+  },
+  {
+    "longitude": -4.35459,
+    "latitude": 47.99261,
+    "name": "Camping Bel Air ****",
+    "city": "Landudec",
+    "description": "+33 298915027"
+  },
+  {
+    "longitude": -3.04828,
+    "latitude": 48.20595,
+    "name": "Camping Les Pins **",
+    "city": "Caurel",
+    "description": "+33 296285222"
+  },
+  {
+    "longitude": 8.76451,
+    "latitude": 42.55225,
+    "name": "Camping Paduella **",
+    "city": "Calvi",
+    "description": "+33 495651320"
+  },
+  {
+    "longitude": -3.4908,
+    "latitude": 48.8256,
+    "name": "Camping Le Tourony ***",
+    "city": "Tregastel",
+    "description": ""
+  },
+  {
+    "longitude": 4.42806,
+    "latitude": 44.43528,
+    "name": "Camping L Ibie **",
+    "city": "Lagorce",
+    "description": "+33 475880126"
+  },
+  {
+    "longitude": 4.56528,
+    "latitude": 44.29806,
+    "name": "Camping Les Cigales **",
+    "city": "Aigueze",
+    "description": "+33 466821852"
+  },
+  {
+    "longitude": 6.71889,
+    "latitude": 46.07722,
+    "name": "Camping Caravaneige Le Griffe ***",
+    "city": "Samoens",
+    "description": ""
+  },
+  {
+    "longitude": 7.08257,
+    "latitude": 48.25376,
+    "name": "Camping Le Violu **",
+    "city": "Gemaingoutte",
+    "description": "+33 329577070"
+  },
+  {
+    "longitude": 3.18997,
+    "latitude": 45.24763,
+    "name": "Camping Municipal L Alagnon ***",
+    "city": "Massiac",
+    "description": "+33 471230393"
+  },
+  {
+    "longitude": 0.7963,
+    "latitude": 45.6647,
+    "name": "Camping Le Grand Lac ***",
+    "city": "Milhaguet",
+    "description": ""
+  },
+  {
+    "longitude": 4.4983,
+    "latitude": 47.13405,
+    "name": "Camping L Etang de Fouche **",
+    "city": "Arnay le Duc",
+    "description": "2 rue du 8 mai 1945"
+  },
+  {
+    "longitude": 2.46118,
+    "latitude": 44.94219,
+    "name": "Camping Municipal L Ombrade ***",
+    "city": "Aurillac",
+    "description": "+33 471482887"
+  },
+  {
+    "longitude": 3.13056,
+    "latitude": 49.40593,
+    "name": "Camping La Croix du Vieux Pont ****",
+    "city": "Berny Riviere",
+    "description": "+33 325555002"
+  },
+  {
+    "longitude": -4.32597,
+    "latitude": 47.83261,
+    "name": "Camping La Torche ***",
+    "city": "Plomeur",
+    "description": ""
+  },
+  {
+    "longitude": 6.93457,
+    "latitude": 43.66701,
+    "name": "Camping Municipal **",
+    "city": "Grasse",
+    "description": ""
+  },
+  {
+    "longitude": 2.2839,
+    "latitude": 48.0652,
+    "name": "Camping Domaine de la Rive du Bois ***",
+    "city": "Chambon la Foret",
+    "description": ""
+  },
+  {
+    "longitude": 4.81385,
+    "latitude": 47.29607,
+    "name": "Camping Municipal *",
+    "city": "Sainte Marie sur Ouche",
+    "description": "rue Lamartine"
+  },
+  {
+    "longitude": -0.0697,
+    "latitude": 43.09783,
+    "name": "Camping du Loup **",
+    "city": "Lourdes",
+    "description": ""
+  },
+  {
+    "longitude": -1.34132,
+    "latitude": 45.92312,
+    "name": "Camping Le Sous Bois **",
+    "city": "Saint Pierre d Oleron",
+    "description": "+33 546472246"
+  },
+  {
+    "longitude": 0.99556,
+    "latitude": 47.32806,
+    "name": "Camping Municipal ***",
+    "city": "Blere",
+    "description": ""
+  },
+  {
+    "longitude": 7.12972,
+    "latitude": 43.63083,
+    "name": "Camping Parc des Maurettes ***",
+    "city": "Villeneuve Loubet",
+    "description": ""
+  },
+  {
+    "longitude": 4.4176,
+    "latitude": 44.60548,
+    "name": "Camping Le Chantalou ***",
+    "city": "Saint Didier sous Aubenas",
+    "description": "+33 475352580"
+  },
+  {
+    "longitude": 3.5819,
+    "latitude": 43.3399,
+    "name": "Camping Le Castellas ****",
+    "city": "Sete",
+    "description": "+33 467516300"
+  },
+  {
+    "longitude": 2.99531,
+    "latitude": 42.95773,
+    "name": "Camping AUI Le Clapotis (naturiste)",
+    "city": "La Palme",
+    "description": "+33 468481540"
+  },
+  {
+    "longitude": -3.1473,
+    "latitude": 47.63269,
+    "name": "Camping Kerzerho ***",
+    "city": "Erdeven",
+    "description": "+33 297556317"
+  },
+  {
+    "longitude": 3.02122,
+    "latitude": 42.73286,
+    "name": "Camping Le Florida **",
+    "city": "Sainte Marie la Mer",
+    "description": ""
+  },
+  {
+    "longitude": -1.2205,
+    "latitude": 44.57472,
+    "name": "Camping Panorama du Pyla ***",
+    "city": "Pyla sur Mer",
+    "description": "+33 556221044"
+  },
+  {
+    "longitude": 3.4893,
+    "latitude": 47.1452,
+    "name": "Camping L Etang du Merle ***",
+    "city": "Crux la Ville",
+    "description": ""
+  },
+  {
+    "longitude": 5.0644,
+    "latitude": 44.9157,
+    "name": "Camping Le Grand Lierne ****",
+    "city": "Chabeuil",
+    "description": ""
+  },
+  {
+    "longitude": 6.38633,
+    "latitude": 45.93611,
+    "name": "Camping Relais de la Vallee Blanche **",
+    "city": "Sallanches",
+    "description": "+33 450585959"
+  },
+  {
+    "longitude": 5.96852,
+    "latitude": 48.22735,
+    "name": "Camping Les Hierottes **",
+    "city": "They sous Montfort",
+    "description": "+33 329084242"
+  },
+  {
+    "longitude": 2.93833,
+    "latitude": 45.21908,
+    "name": "Camping Municipal Vallat **",
+    "city": "Allanche",
+    "description": "+33 471204587"
+  },
+  {
+    "longitude": -3.95915,
+    "latitude": 47.89885,
+    "name": "Camping Les Falaises ***",
+    "city": "La Foret Fouesnant",
+    "description": ""
+  },
+  {
+    "longitude": 3.71888,
+    "latitude": 44.48527,
+    "name": "Camping La Combette",
+    "city": "Saint Jean du Bleymard",
+    "description": ""
+  },
+  {
+    "longitude": -4.03528,
+    "latitude": 47.85083,
+    "name": "Camping Kost ar Moor ***",
+    "city": "Fouesnant",
+    "description": "+33 298560416"
+  },
+  {
+    "longitude": 4.78127,
+    "latitude": 44.64674,
+    "name": "Camping Floral camping **",
+    "city": "La Coucourde",
+    "description": ""
+  },
+  {
+    "longitude": 2.97458,
+    "latitude": 45.13266,
+    "name": "Camping La Prade ***",
+    "city": "Neussargues Moissac",
+    "description": "+33 471205021"
+  },
+  {
+    "longitude": 5.13513,
+    "latitude": 43.33006,
+    "name": "Camping Lou Soulei ****",
+    "city": "Carry le Rouet",
+    "description": "+33 442447575"
+  },
+  {
+    "longitude": -1.18433,
+    "latitude": 46.16045,
+    "name": "Camping Municipal Port Neuf **",
+    "city": "La Rochelle",
+    "description": "+33 546438120"
+  },
+  {
+    "longitude": 3.09139,
+    "latitude": 47.73639,
+    "name": "Camping Le Bois Guillaume ****",
+    "city": "Villeneuve les Genets",
+    "description": ""
+  },
+  {
+    "longitude": 4.7463,
+    "latitude": 45.3078,
+    "name": "Camping Le Bas Larin ***",
+    "city": "Felines",
+    "description": "+33 475348793"
+  },
+  {
+    "longitude": 4.13202,
+    "latitude": 46.69405,
+    "name": "Camping Municipal Le Val d Arroux",
+    "city": "Toulon sur Arroux",
+    "description": ""
+  },
+  {
+    "longitude": 4.62092,
+    "latitude": 44.50461,
+    "name": "Camping Le Medieval ***",
+    "city": "Saint Thome",
+    "description": "+33 475526876"
+  },
+  {
+    "longitude": 2.61431,
+    "latitude": 46.52861,
+    "name": "Camping Municipal **",
+    "city": "Vallon en Sully",
+    "description": "+33 470065096"
+  },
+  {
+    "longitude": 9.15011,
+    "latitude": 42.29822,
+    "name": "Camping Alivetu",
+    "city": "Corte",
+    "description": ""
+  },
+  {
+    "longitude": 1.59889,
+    "latitude": 45.70972,
+    "name": "Camping la Base de Loisirs **",
+    "city": "Chateauneuf la Foret",
+    "description": ""
+  },
+  {
+    "longitude": 9.40152,
+    "latitude": 41.716,
+    "name": "Camping Fautea",
+    "city": "Olmucciu",
+    "description": ""
+  },
+  {
+    "longitude": 6.57972,
+    "latitude": 43.28528,
+    "name": "Camping Domaine des Na�ades ****",
+    "city": "Grimaud",
+    "description": "+33 494556780"
+  },
+  {
+    "longitude": -4.30008,
+    "latitude": 48.1907,
+    "name": "Camping Menez Bichen **",
+    "city": "Saint Nic",
+    "description": ""
+  },
+  {
+    "longitude": -2.21698,
+    "latitude": 46.96644,
+    "name": "Camping Les Moulins ****",
+    "city": "La Gueriniere",
+    "description": "+33 251395138"
+  },
+  {
+    "longitude": -1.9975,
+    "latitude": 46.76389,
+    "name": "Camping Le Both d Orouet ***",
+    "city": "Saint Jean de Monts",
+    "description": ""
+  },
+  {
+    "longitude": -4.0187,
+    "latitude": 47.8557,
+    "name": "Camping L Atlantique ****",
+    "city": "Fouesnant",
+    "description": ""
+  },
+  {
+    "longitude": 6.95381,
+    "latitude": 48.07242,
+    "name": "Camping Domaine de Longemer **",
+    "city": "Xonrupt",
+    "description": ""
+  },
+  {
+    "longitude": 2.0864,
+    "latitude": 43.4079,
+    "name": "Camping La Rigole ***",
+    "city": "Les Cammazes",
+    "description": ""
+  },
+  {
+    "longitude": -1.0932,
+    "latitude": 46.08387,
+    "name": "Camping Village Corsaire de 2 plages **",
+    "city": "Chatelaillon plage",
+    "description": ""
+  },
+  {
+    "longitude": -1.38194,
+    "latitude": 45.99083,
+    "name": "Camping La Campiere ****",
+    "city": "Saint Denis d Oleron - Chaucre",
+    "description": "+33 546767225"
+  },
+  {
+    "longitude": 1.6013,
+    "latitude": 44.93664,
+    "name": "Camping Municipal La Callopie **",
+    "city": "Martel",
+    "description": "+33 565373003"
+  },
+  {
+    "longitude": 2.50395,
+    "latitude": 45.4298,
+    "name": "Camping La Siauve ****",
+    "city": "Lanobre",
+    "description": "+33 546551001"
+  },
+  {
+    "longitude": 5.82917,
+    "latitude": 43.1125,
+    "name": "Camping Les Playes **",
+    "city": "Six Fours les Plages",
+    "description": ""
+  },
+  {
+    "longitude": 1.98575,
+    "latitude": 42.49646,
+    "name": "Camping La Griole **",
+    "city": "Targassonne",
+    "description": ""
+  },
+  {
+    "longitude": 9.06692,
+    "latitude": 42.65378,
+    "name": "Camping Ostriconi",
+    "city": "Ogliastro",
+    "description": ""
+  },
+  {
+    "longitude": 6.14722,
+    "latitude": 43.03982,
+    "name": "Camping Le Mediterranee **",
+    "city": "Giens",
+    "description": "+33 494582106"
+  },
+  {
+    "longitude": 2.36213,
+    "latitude": 47.76981,
+    "name": "Camping Sur la Rive",
+    "city": "Saint Pere sur Loire",
+    "description": ""
+  },
+  {
+    "longitude": 5.09,
+    "latitude": 44.711,
+    "name": "Camping Gervanne ***",
+    "city": "Mirabel et Blacons",
+    "description": ""
+  },
+  {
+    "longitude": 4.37944,
+    "latitude": 44.39556,
+    "name": "Camping Le Moulin ***",
+    "city": "Salavas",
+    "description": ""
+  },
+  {
+    "longitude": 2.28432,
+    "latitude": 45.5476,
+    "name": "Camping centre touristique du Ponty ***",
+    "city": "Ussel",
+    "description": ""
+  },
+  {
+    "longitude": 1.55417,
+    "latitude": 49.95973,
+    "name": "Camping La Foret **",
+    "city": "Bazinval",
+    "description": ""
+  },
+  {
+    "longitude": -4.09638,
+    "latitude": 47.86763,
+    "name": "Camping La Plage ***",
+    "city": "Benodet",
+    "description": "+33 298570055"
+  },
+  {
+    "longitude": -4.09843,
+    "latitude": 47.87219,
+    "name": "Camping Trez ***",
+    "city": "Benodet",
+    "description": "+33 298571594"
+  },
+  {
+    "longitude": -1.22667,
+    "latitude": 49.30278,
+    "name": "Camping Le Haut Dick ***",
+    "city": "Carentan",
+    "description": ""
+  },
+  {
+    "longitude": 2.01549,
+    "latitude": 43.43508,
+    "name": "Camping En Salvan ***",
+    "city": "Vaudreuille",
+    "description": "+33 561835595"
+  },
+  {
+    "longitude": 1.26335,
+    "latitude": 42.79784,
+    "name": "Camping Le Montagnou ***",
+    "city": "Le Trein d Ustou",
+    "description": ""
+  },
+  {
+    "longitude": -4.0956,
+    "latitude": 47.8627,
+    "name": "Camping La Pointe Saint Gilles ****",
+    "city": "Benodet",
+    "description": ""
+  },
+  {
+    "longitude": 3.38306,
+    "latitude": 49.03667,
+    "name": "Camping Municipal **",
+    "city": "Chateau Thierry",
+    "description": ""
+  },
+  {
+    "longitude": -4.49931,
+    "latitude": 48.24825,
+    "name": "Camping Pen Ar Menez **",
+    "city": "Crozon",
+    "description": ""
+  },
+  {
+    "longitude": -1.31017,
+    "latitude": 43.90276,
+    "name": "Camping Le Col Vert *****",
+    "city": "Vielle Saint Girons",
+    "description": ""
+  },
+  {
+    "longitude": 2.185,
+    "latitude": 50.49417,
+    "name": "Camping ANLe Chalet",
+    "city": "Verchin",
+    "description": ""
+  },
+  {
+    "longitude": 3.02583,
+    "latitude": 42.62472,
+    "name": "Camping Municipal Al Fourty **",
+    "city": "Saint Cyprien",
+    "description": ""
+  },
+  {
+    "longitude": 4.39611,
+    "latitude": 44.39139,
+    "name": "Camping Le Pequelet ***",
+    "city": "Vallon Pont d Arc",
+    "description": "+33 475880449"
+  },
+  {
+    "longitude": 7.12555,
+    "latitude": 43.61972,
+    "name": "Camping La Vieille Ferme ****",
+    "city": "Villeneuve Loubet",
+    "description": ""
+  },
+  {
+    "longitude": -0.01084,
+    "latitude": 48.71889,
+    "name": "Camping ANVal de Baize",
+    "city": "Argentan",
+    "description": "+33 233672711"
+  },
+  {
+    "longitude": -3.02882,
+    "latitude": 47.57561,
+    "name": "Camping La Plage ****",
+    "city": "La Trinite sur Mer",
+    "description": "+33 297557328"
+  },
+  {
+    "longitude": 8.68179,
+    "latitude": 42.50867,
+    "name": "Camping Cavallo",
+    "city": "San Quilico",
+    "description": ""
+  },
+  {
+    "longitude": 4.95212,
+    "latitude": 43.75981,
+    "name": "Camping Les Oliviers *",
+    "city": "Eygalieres",
+    "description": "+33 490959186"
+  },
+  {
+    "longitude": -3.0052,
+    "latitude": 47.58583,
+    "name": "Camping Domaine de Kerarno **",
+    "city": "Saint Philibert",
+    "description": ""
+  },
+  {
+    "longitude": 0.98693,
+    "latitude": 47.41724,
+    "name": "Camping Municipal L Ile d Or **",
+    "city": "Amboise",
+    "description": "+33 247572337"
+  },
+  {
+    "longitude": 0.06243,
+    "latitude": 48.1577,
+    "name": "Camping Les Braudieresa",
+    "city": "Mezieres sous Lavardin",
+    "description": ""
+  },
+  {
+    "longitude": 3.03282,
+    "latitude": 42.72676,
+    "name": "Camping La Pergola ***",
+    "city": "Sainte Marie la Mer",
+    "description": "+33 468730307"
+  },
+  {
+    "longitude": 3.02447,
+    "latitude": 42.72902,
+    "name": "Camping Le Lamparo ***",
+    "city": "Sainte Marie la Mer",
+    "description": "+33 468738387"
+  },
+  {
+    "longitude": 3.02447,
+    "latitude": 42.72902,
+    "name": "Camping Les Chardonnerets *",
+    "city": "Sainte Marie la Mer",
+    "description": ""
+  },
+  {
+    "longitude": -1.0834,
+    "latitude": 46.055,
+    "name": "Camping Port Punay **",
+    "city": "Chatelaillon plage",
+    "description": ""
+  },
+  {
+    "longitude": -3.71603,
+    "latitude": 48.36455,
+    "name": "Camping La Riviere d Argent **",
+    "city": "Huelgoat",
+    "description": ""
+  },
+  {
+    "longitude": -2.37884,
+    "latitude": 47.80739,
+    "name": "Camping Municipal La Daufresne **",
+    "city": "Malestroit",
+    "description": "+33 297751333"
+  },
+  {
+    "longitude": 6.10333,
+    "latitude": 43.03944,
+    "name": "Camping L Olbia **",
+    "city": "Giens",
+    "description": "+33 494582196"
+  },
+  {
+    "longitude": 3.44267,
+    "latitude": 43.28864,
+    "name": "Camping La Tamarissiere **",
+    "city": "Agde",
+    "description": "+33 467947946"
+  },
+  {
+    "longitude": 8.64738,
+    "latitude": 42.30399,
+    "name": "Camping Crovani",
+    "city": "Gradelle",
+    "description": ""
+  },
+  {
+    "longitude": 1.24785,
+    "latitude": 45.07065,
+    "name": "Camping-club Perigord-Vacances *",
+    "city": "Saint Amand de Coly",
+    "description": "+33 553516064"
+  },
+  {
+    "longitude": -2.10483,
+    "latitude": 46.80783,
+    "name": "Camping Les Amiaux ****",
+    "city": "Saint Jean de Monts",
+    "description": ""
+  },
+  {
+    "longitude": 6.22544,
+    "latitude": 43.81476,
+    "name": "Camping Le Moulin **",
+    "city": "Moustiers Sainte Marie",
+    "description": ""
+  },
+  {
+    "longitude": 3.54219,
+    "latitude": 43.30929,
+    "name": "Camping Nouvelle Floride ****",
+    "city": "Marseillan Plage",
+    "description": "+33 467219449"
+  },
+  {
+    "longitude": -2.8478,
+    "latitude": 47.5293,
+    "name": "Camping du Menhir ****",
+    "city": "Saint Gildas de Rhuys",
+    "description": ""
+  },
+  {
+    "longitude": -1.75589,
+    "latitude": 43.37289,
+    "name": "Camping Orio **",
+    "city": "Urrugne",
+    "description": ""
+  },
+  {
+    "longitude": -1.21542,
+    "latitude": 45.90433,
+    "name": "Camping La Brande ****",
+    "city": "Le Chateau d Oleron",
+    "description": ""
+  },
+  {
+    "longitude": 3.24604,
+    "latitude": 48.41414,
+    "name": "Camping La Peupleraie *",
+    "city": "Bray sur Seine",
+    "description": ""
+  },
+  {
+    "longitude": -2.13489,
+    "latitude": 46.87956,
+    "name": "Camping La Corsive **",
+    "city": "La Barre de Monts",
+    "description": ""
+  },
+  {
+    "longitude": 6.14556,
+    "latitude": 43.04472,
+    "name": "Camping La Bergerie **",
+    "city": "Hyeres",
+    "description": "+33 494589175"
+  },
+  {
+    "longitude": 6.9272,
+    "latitude": 49.02879,
+    "name": "Camping Municipal L Etang des Marais ***",
+    "city": "Remering les Puttelange",
+    "description": "+33 387096235"
+  },
+  {
+    "longitude": 1.23768,
+    "latitude": 44.85489,
+    "name": "Camping Les Acacias ***",
+    "city": "Sarlat",
+    "description": "+33 553340850"
+  },
+  {
+    "longitude": 4.0884,
+    "latitude": 48.19118,
+    "name": "Camping Municipal Rodaven (acces) **",
+    "city": "Chateaulin",
+    "description": "+33 298863293"
+  },
+  {
+    "longitude": 0.6482,
+    "latitude": 43.9126,
+    "name": "Camping Le Lac des 3 Vallees ****",
+    "city": "Lectoure",
+    "description": "+33 562688233"
+  },
+  {
+    "longitude": 8.64436,
+    "latitude": 42.41047,
+    "name": "Camping Ideal Camping",
+    "city": "Galeria",
+    "description": ""
+  },
+  {
+    "longitude": -3.96354,
+    "latitude": 47.94993,
+    "name": "Camping Les Myrtilles ***",
+    "city": "Saint Yvi",
+    "description": ""
+  },
+  {
+    "longitude": -1.7336,
+    "latitude": 48.4884,
+    "name": "Camping Domaine des Ormes ****",
+    "city": "Epiniac",
+    "description": ""
+  },
+  {
+    "longitude": 6.2734,
+    "latitude": 45.2575,
+    "name": "Camping du Col",
+    "city": "La Toussuire",
+    "description": ""
+  },
+  {
+    "longitude": 5.7936,
+    "latitude": 45.8497,
+    "name": "Camping Le Colombier ***",
+    "city": "Culoz",
+    "description": ""
+  },
+  {
+    "longitude": 2.41959,
+    "latitude": 44.99225,
+    "name": "Camping camp du Moulin ***",
+    "city": "Jussac",
+    "description": "+33 471466985"
+  },
+  {
+    "longitude": 4.79239,
+    "latitude": 47.44061,
+    "name": "Camping Municipal *",
+    "city": "Saint Seine l Abbaye",
+    "description": "rue de la Foire aux Vaches"
+  },
+  {
+    "longitude": 2.246,
+    "latitude": 48.87579,
+    "name": "Camping Bois de Boulogne",
+    "city": "Paris",
+    "description": ""
+  },
+  {
+    "longitude": -4.11109,
+    "latitude": 47.9769,
+    "name": "Camping Castel l Orangerie de Lanniron ****",
+    "city": "Quimper",
+    "description": ""
+  },
+  {
+    "longitude": 0.13251,
+    "latitude": 45.39973,
+    "name": "Camping Municipal *",
+    "city": "Montmoreau Saint Cybard",
+    "description": ""
+  },
+  {
+    "longitude": -1.2,
+    "latitude": 45.88944,
+    "name": "Camping Les Remparts **",
+    "city": "Chateau d Oleron",
+    "description": "+33 546476193"
+  },
+  {
+    "longitude": 4.21442,
+    "latitude": 44.40507,
+    "name": "Camping Les Blaches **",
+    "city": "Berrias et Casteljau",
+    "description": "+33 475390104"
+  },
+  {
+    "longitude": 3.77161,
+    "latitude": 47.45874,
+    "name": "Camping Municipal *",
+    "city": "Saint Pere",
+    "description": "+33 386333658"
+  },
+  {
+    "longitude": -1.25927,
+    "latitude": 47.17617,
+    "name": "Camping Municipal Les Dorices **",
+    "city": "Vallet",
+    "description": "+33 240339503"
+  },
+  {
+    "longitude": 1.36086,
+    "latitude": 44.86791,
+    "name": "Camping Les Ombrages **",
+    "city": "Carlux",
+    "description": "+33 553286217"
+  },
+  {
+    "longitude": 5.208,
+    "latitude": 44.431,
+    "name": "Camping Le Pilat ***",
+    "city": "Saint Ferreol Trente Pas",
+    "description": ""
+  },
+  {
+    "longitude": 2.11859,
+    "latitude": 51.00782,
+    "name": "Camping des Dunes",
+    "city": "Gravelines",
+    "description": "rue Victor Hugo (Petit-Fort-Philippe)"
+  },
+  {
+    "longitude": 3.03244,
+    "latitude": 43.50095,
+    "name": "Camping Municipal le Nice ***",
+    "city": "Roquebrun",
+    "description": ""
+  },
+  {
+    "longitude": -1.68465,
+    "latitude": 43.33385,
+    "name": "Camping Le col d Ibardin ***",
+    "city": "Urrugne",
+    "description": ""
+  },
+  {
+    "longitude": 8.87652,
+    "latitude": 41.69667,
+    "name": "Camping Aglio *",
+    "city": "Olmeto plage",
+    "description": "+33 495760715"
+  },
+  {
+    "longitude": 2.0261,
+    "latitude": 44.34237,
+    "name": "Camping Le Rouergue ***",
+    "city": "Villefranche de Rouergue",
+    "description": ""
+  },
+  {
+    "longitude": 2.68839,
+    "latitude": 46.65679,
+    "name": "Camping Champfosse ***",
+    "city": "Saint Bonnet Troncais",
+    "description": ""
+  },
+  {
+    "longitude": 5.01103,
+    "latitude": 47.32132,
+    "name": "Camping camping du Lac Kir *",
+    "city": "Dijon",
+    "description": "boulevard du Chanoine Kir"
+  },
+  {
+    "longitude": 6.57782,
+    "latitude": 43.21849,
+    "name": "Camping Le Moulin de Verdagne",
+    "city": "Gassin",
+    "description": "route de Verdagne"
+  },
+  {
+    "longitude": 4.56483,
+    "latitude": 44.99164,
+    "name": "Camping Le Retourtour ***",
+    "city": "Lamastre",
+    "description": "+33 475064071"
+  },
+  {
+    "longitude": 8.91403,
+    "latitude": 42.02972,
+    "name": "Camping Eaux Vives",
+    "city": "Gravona",
+    "description": ""
+  },
+  {
+    "longitude": 6.14694,
+    "latitude": 43.05611,
+    "name": "Camping Eurosurf ***",
+    "city": "Hyeres (La Capte)",
+    "description": "+33 494580020"
+  },
+  {
+    "longitude": 7.29074,
+    "latitude": 48.27271,
+    "name": "Camping du Haut Koenigsbourg ***",
+    "city": "Liepvre",
+    "description": "+33 389584320"
+  },
+  {
+    "longitude": 6.17535,
+    "latitude": 49.36136,
+    "name": "Camping Municipal **",
+    "city": "Thionville",
+    "description": ""
+  },
+  {
+    "longitude": 4.41833,
+    "latitude": 49.7025,
+    "name": "Camping Municipal de l Abbaye",
+    "city": "Signy l Abbaye",
+    "description": "+33 324528773"
+  },
+  {
+    "longitude": 5.5569,
+    "latitude": 46.2553,
+    "name": "Camping Les Gorges de l Oignin ***",
+    "city": "Matafelon",
+    "description": ""
+  },
+  {
+    "longitude": 0.53084,
+    "latitude": 49.80528,
+    "name": "Camping L Oiseau Blanc **",
+    "city": "Sassetot le Mauconduit",
+    "description": ""
+  },
+  {
+    "longitude": 1.9976,
+    "latitude": 48.9667,
+    "name": "Camping Les 4 Arpents ***",
+    "city": "Triel",
+    "description": ""
+  },
+  {
+    "longitude": 6.0675,
+    "latitude": 46.3344,
+    "name": "Camping Les Genets ***",
+    "city": "Gex",
+    "description": ""
+  },
+  {
+    "longitude": -1.67477,
+    "latitude": 47.8365,
+    "name": "Camping Le Lac **",
+    "city": "Bain de Bretagne",
+    "description": ""
+  },
+  {
+    "longitude": -0.27336,
+    "latitude": 49.25026,
+    "name": "Camping Les Hautes Coutures ****",
+    "city": "Benouville",
+    "description": "avenue de la Cote de Nacre"
+  },
+  {
+    "longitude": 8.76463,
+    "latitude": 41.80878,
+    "name": "Camping La Vallee **",
+    "city": "Verghia",
+    "description": ""
+  },
+  {
+    "longitude": 8.76463,
+    "latitude": 41.80878,
+    "name": "Camping La Vallee Verghia **",
+    "city": "Coti Chiavari",
+    "description": "+33 495254466"
+  },
+  {
+    "longitude": -2.5081,
+    "latitude": 47.3834,
+    "name": "Camping Parc du Guibel ****",
+    "city": "Piriac sur Mer",
+    "description": ""
+  },
+  {
+    "longitude": 3.43009,
+    "latitude": 46.11558,
+    "name": "Camping Beau Rivage ****",
+    "city": "Bellerive sur Allier",
+    "description": ""
+  },
+  {
+    "longitude": -1.11301,
+    "latitude": 46.17819,
+    "name": "Camping Beaulieu ****",
+    "city": "Puilboreau",
+    "description": "+33 546680438"
+  },
+  {
+    "longitude": 0.57639,
+    "latitude": 46.68195,
+    "name": "Camping Le Cremault **",
+    "city": "Bonneuil-Matours",
+    "description": ""
+  },
+  {
+    "longitude": -2.87861,
+    "latitude": 47.56083,
+    "name": "Camping camp de Bilouris **",
+    "city": "Arzon",
+    "description": "+33 297537055"
+  },
+  {
+    "longitude": -1.26833,
+    "latitude": 45.90611,
+    "name": "Camping Le Montet *",
+    "city": "Dolus d Oleron",
+    "description": ""
+  },
+  {
+    "longitude": 4.839,
+    "latitude": 45.238,
+    "name": "Camping Chateau de Senaud ****",
+    "city": "Albon",
+    "description": ""
+  },
+  {
+    "longitude": 1.18056,
+    "latitude": 47.55492,
+    "name": "Camping La Ferme de Prunay ***",
+    "city": "Seillac",
+    "description": "+33 254700201"
+  },
+  {
+    "longitude": 1.5941,
+    "latitude": 50.3134,
+    "name": "Camping Les Roses ***",
+    "city": "Quend",
+    "description": ""
+  },
+  {
+    "longitude": 9.39398,
+    "latitude": 41.80021,
+    "name": "Camping Le Grand Bleu **",
+    "city": "Sari Solenzara",
+    "description": ""
+  },
+  {
+    "longitude": 1.63463,
+    "latitude": 50.15323,
+    "name": "Camping Domaine de Drancourt ****",
+    "city": "Estreboeuf",
+    "description": ""
+  },
+  {
+    "longitude": -1.68599,
+    "latitude": 43.37036,
+    "name": "Camping Larrouleta ***",
+    "city": "Urrugne",
+    "description": ""
+  },
+  {
+    "longitude": -2.59273,
+    "latitude": 47.5218,
+    "name": "Camping Grand Air Cadu ***",
+    "city": "Damgan",
+    "description": ""
+  },
+  {
+    "longitude": -3.69499,
+    "latitude": 48.02782,
+    "name": "Camping Municipal de Kerisole ***",
+    "city": "Scaer",
+    "description": "+33 298594210"
+  },
+  {
+    "longitude": 9.04261,
+    "latitude": 41.47161,
+    "name": "Camping Kevano",
+    "city": "Pianottoli Caldarello",
+    "description": ""
+  },
+  {
+    "longitude": 4.62738,
+    "latitude": 47.23711,
+    "name": "Camping Le Lac du Panthier ****",
+    "city": "Vandenesse en Auxois",
+    "description": "+33 380492194"
+  },
+  {
+    "longitude": 3.30473,
+    "latitude": 48.78167,
+    "name": "Camping Municipal ***",
+    "city": "La Ferte Gaucher",
+    "description": ""
+  },
+  {
+    "longitude": 4.40389,
+    "latitude": 44.53722,
+    "name": "Camping L Arche **",
+    "city": "Lanas",
+    "description": ""
+  },
+  {
+    "longitude": 1.20242,
+    "latitude": 44.34082,
+    "name": "Camping Municipal **",
+    "city": "Montcuq",
+    "description": "+33 565229373"
+  },
+  {
+    "longitude": -1.69313,
+    "latitude": 43.39309,
+    "name": "Camping Juantcho ***",
+    "city": "Urrugne",
+    "description": ""
+  },
+  {
+    "longitude": 4.81341,
+    "latitude": 45.4128,
+    "name": "Camping Les Nations ****",
+    "city": "Clonas sur Vareze",
+    "description": "+33 474849513"
+  },
+  {
+    "longitude": 4.39861,
+    "latitude": 44.39806,
+    "name": "Camping L Ardechois ****",
+    "city": "Vallon Pont d Arc",
+    "description": "+33 475880663"
+  },
+  {
+    "longitude": 2.25405,
+    "latitude": 44.90598,
+    "name": "Camping Le Viaduc ***",
+    "city": "Pers",
+    "description": "+33 471647008"
+  },
+  {
+    "longitude": 4.4325,
+    "latitude": 44.505,
+    "name": "Camping Plein Sud ***",
+    "city": "Gilhac et Bruzac",
+    "description": "+33 475404661"
+  },
+  {
+    "longitude": 1.16584,
+    "latitude": 45.06973,
+    "name": "Camping Le Moulin du Bleufond ***",
+    "city": "Montignac",
+    "description": ""
+  },
+  {
+    "longitude": -3.97851,
+    "latitude": 47.91102,
+    "name": "Camping Manoir de Pen Ar Steir ***",
+    "city": "La Foret Fouesnant",
+    "description": ""
+  },
+  {
+    "longitude": 3.07015,
+    "latitude": 42.53506,
+    "name": "Camping Les Criques de Porteil **",
+    "city": "Collioure",
+    "description": "+33 468811273"
+  },
+  {
+    "longitude": -1.16133,
+    "latitude": 49.35062,
+    "name": "Camping La Gallouette ***",
+    "city": "Saint Vaast la Hougue",
+    "description": ""
+  }
+]
