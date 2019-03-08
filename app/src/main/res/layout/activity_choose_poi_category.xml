@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:gravity="center_horizontal"
     tools:context=".ChoosePOICategory">
 
     <android.support.constraint.ConstraintLayout
@@ -34,7 +35,7 @@
     <ScrollView
         android:id="@+id/scrollview"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="400dp">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -193,5 +194,48 @@
         </LinearLayout>
 
     </ScrollView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.ButtonFuchsia"
+        android:text="@string/choose_poi_category_selectRange"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <RadioGroup
+            android:id="@+id/radioGroupkms"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/five_kms"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/five_kms"
+                android:textSize="18sp"/>
+
+            <RadioButton
+                android:id="@+id/ten_kms"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ten_kms"
+                android:textSize="18sp" />
+
+            <RadioButton
+                android:id="@+id/twenty_kms"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/twenty_kms"
+                android:textSize="18sp" />
+        </RadioGroup>
+
+    </LinearLayout>
 
 </LinearLayout>

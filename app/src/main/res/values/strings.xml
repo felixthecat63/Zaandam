@@ -21,6 +21,11 @@
     <string name="geocoding_hint_type_destination">Type your destination</string>
 
     <string name="choose_poi_category">Choose POI category</string>
+    <string name="choose_poi_category_selectRange">Choose range</string>
+
+    <string name="five_kms">5 kms</string>
+    <string name="ten_kms">10 kms</string>
+    <string name="twenty_kms">20 kms</string>
 
     <string name="airports">Airports</string>
     <string name="atms">ATMs</string>
