@@ -30,9 +30,9 @@ public class ParseJSON {
     // Parse the string retrieved from loadJSONFromAssets
     public void readJSON(String json) throws JSONException {
 
-        // Retrieve the coordinates of the destination selected previously by the user
-        Double lat1 = SelectPOIActivity.destination.getLatitude();
-        Double lng1 = SelectPOIActivity.destination.getLongitude();
+        // Retrieve the coordinates of the destinationCoordinates selected previously by the user
+        Double lat1 = ChoosePOICategory.destinationCoordinates.getLatitude();
+        Double lng1 = ChoosePOICategory.destinationCoordinates.getLongitude();
 
         Log.d("INFO", " lat1 :"+Double.toString(lat1));
         Log.d("INFO", " lng1 :"+Double.toString(lng1));
@@ -40,11 +40,13 @@ public class ParseJSON {
         // I need to transform the string in an array because there are duplicate values in the JSON file
         JSONArray array = new JSONArray(json);
 
-        for (int i=0; i<3; i++) {
+        for (int i=0; i<array.length(); i++) {
             // string_object is an element of the JSON file
             String string_object = array.get(i).toString();
             // I transform the object in a JSON object so I can explore its values by using the keys
             JSONObject json_object = new JSONObject(string_object);
+
+            Log.d("INFO", "name:" + json_object.get("name"));
             // Retrieve the GPS coordinates of the POI
             Double lat2 = Double.parseDouble(json_object.get("longitude").toString());
             Double lng2 = Double.parseDouble(json_object.get("latitude").toString());
@@ -52,7 +54,7 @@ public class ParseJSON {
             Log.d("INFO", " lat2 :"+Double.toString(lat2));
             Log.d("INFO", " lng2 :"+Double.toString(lng2));
 
-            // Compute distance between destination selected by the user and position of the current POI
+            // Compute distance between destinationCoordinates selected by the user and position of the current POI
             Double distance = Haversine.computeDistance(lat1, lng1, lat2, lng2);
 
             Log.d("INFO", " distance :"+Double.toString(distance));

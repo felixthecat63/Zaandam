@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
-    /** Called when the user taps on the search button (select a destination) */
+    /** Called when the user taps on the search button (select a destinationCoordinates) */
     public void selectDestination (View view) {
         Intent intent = new Intent(this, GeocodingActivity.class);
         startActivity(intent);

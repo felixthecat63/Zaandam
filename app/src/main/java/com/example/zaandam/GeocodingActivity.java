@@ -34,9 +34,6 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-/**
- * Use the Mapbox Geocoding API to retrieve various information about a set of coordinates.
- */
 public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCallback {
 
     private MapView mapView;
@@ -161,7 +158,6 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
         });
     }
 
-    /** Called when the user taps on the search button (select a destination) */
     public void selectDestination (View view) {
         Intent intent = new PlaceAutocomplete.IntentBuilder()
                 .accessToken(getString(R.string.mapbox_access_token))
@@ -210,6 +206,7 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
                         //geocodeResultTextView.setText(feature.placeName().toString());
                         animateCameraToNewPosition(latLng);
                         destinationAddressTextView.setText(destinationAddress);
+                        ChoosePOICategory.destinationAddress = feature.placeName().toString();
                         Toast.makeText(GeocodingActivity.this, feature.placeName().toString(), Toast.LENGTH_LONG).show();
 
                         latitude = latLng.getLatitude();
@@ -247,6 +244,7 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
             CarmenFeature feature = PlaceAutocomplete.getPlace(data);
             destinationAddress = feature.text();
             destinationAddressTextView.setText(destinationAddress);
+            ChoosePOICategory.destinationAddress = feature.text();
             Toast.makeText(this, feature.text(), Toast.LENGTH_LONG).show();
         }
     }
@@ -294,12 +292,12 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
         mapView.onSaveInstanceState(outState);
     }
 
-    /** Called when the user taps on the confirm location button (select a destination) */
+    /** Called when the user taps on the confirm location button (select a destinationCoordinates) */
     public void confirmLocation (View view) {
-        Intent intent = new Intent(this, SelectPOIActivity.class);
+        Intent intent = new Intent(this, ChoosePOICategory.class);
 
-        SelectPOIActivity.destination.setLatitude(latitude);
-        SelectPOIActivity.destination.setLongitude(longitude);
+        ChoosePOICategory.destinationCoordinates.setLatitude(latitude);
+        ChoosePOICategory.destinationCoordinates.setLongitude(longitude);
 
         startActivity(intent);
     }

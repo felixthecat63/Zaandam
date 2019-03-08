@@ -77,8 +77,8 @@ public class DisplayMapActivity extends AppCompatActivity implements OnMapReadyC
             Double latitude = locationComponent.getLastKnownLocation().getLatitude();
             Double longitude = locationComponent.getLastKnownLocation().getLongitude();
 
-            SelectPOIActivity.destination.setLatitude(latitude);
-            SelectPOIActivity.destination.setLongitude(longitude);
+            ChoosePOICategory.destinationCoordinates.setLatitude(latitude);
+            ChoosePOICategory.destinationCoordinates.setLongitude(longitude);
 
 
         } else {
@@ -157,9 +157,9 @@ public class DisplayMapActivity extends AppCompatActivity implements OnMapReadyC
         mapView.onLowMemory();
     }
 
-    /** Called when the user taps on the confirm location button (select a destination) */
+    /** Called when the user taps on the confirm location button (select a destinationCoordinates) */
     public void confirmLocation (View view) {
-        Intent intent = new Intent(this, SelectPOIActivity.class);
+        Intent intent = new Intent(this, ChoosePOICategory.class);
         startActivity(intent);
     }
 }

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ChoosePOICategory">
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/linearLayout5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp">
+
+        <Button
+            android:id="@+id/buttonChooseCategory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:onClick="onSubmit"
+            android:text="@string/choose_poi_category"
+            android:textSize="18sp"
+            android:theme="@style/AppTheme.ButtonBlue"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </android.support.constraint.ConstraintLayout>
+
+    <ScrollView
+        android:id="@+id/scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RadioGroup
+                android:id="@+id/radioGroup"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="30dp"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/airports"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/airports"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/atms"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/atms"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/attractions"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/attractions"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/bakeries"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bakeries"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/campsites"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/campsites"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/food_stores"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/food_stores"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/free_wifi"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/free_wifi"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/hotels"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/hotels"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/lakes"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/lakes"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/mc_donalds"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mc_donalds"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/monuments"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/monuments"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/parking"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/parking"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/petrol_station"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/petrol_station"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/picnic"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/picnic"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/railway_station"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/railway_station"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/religious_buildings"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/religious_buildings"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/restaurants"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/restaurants"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/seaside"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/seaside"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/theatre"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/theatre"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/tram_stations"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/tram_stations"
+                    android:textSize="18sp" />
+
+            </RadioGroup>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

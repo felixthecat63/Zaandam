@@ -14,7 +14,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".SelectPOIActivity"></activity>
+        <activity android:name=".ChoosePOICategory"></activity>
         <activity android:name=".GeocodingActivity" />
         <activity
             android:name=".DisplayMapActivity"
