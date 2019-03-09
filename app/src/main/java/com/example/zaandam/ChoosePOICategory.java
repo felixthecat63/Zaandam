@@ -59,7 +59,7 @@ public class ChoosePOICategory extends AppCompatActivity {
 
     public void onConfirmPOICriteria(View v) {
         Log.d("INFO", "range & category onConfirmPOICriteria: " + range+" " +category);
-        if (category != "" && range != 0) {
+        if (!category.equals("") && range != 0) {
             ParseJSON p = new ParseJSON();
             String json = p.loadJSONFromAsset(this, category);
             try {
@@ -127,7 +127,7 @@ public class ChoosePOICategory extends AppCompatActivity {
                 return "hotel";
             case "Lakes":
                 return "lake";
-            case "Mc Donald\\'s":
+            case "Mc Donalds":
                 return "mcDonalds";
             case "Monuments":
                 return "monument";
