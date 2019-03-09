@@ -145,6 +145,8 @@ public class ChoosePOICategory extends AppCompatActivity {
                 return "restaurant";
             case "Seaside":
                 return "seaside";
+            case "Service areas":
+                return "serviceArea";
             case "Theatre":
                 return "theatre";
             case "Tram stations":

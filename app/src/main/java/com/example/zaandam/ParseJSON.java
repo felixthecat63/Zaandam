@@ -48,7 +48,7 @@ public class ParseJSON {
             // I transform the object in a JSON object so I can explore its values by using the keys
             JSONObject json_object = new JSONObject(string_object);
 
-                        // Retrieve the GPS coordinates of the POI
+            // Retrieve the GPS coordinates of the POI
             Double lat2 = Double.parseDouble(json_object.get("longitude").toString());
             Double lng2 = Double.parseDouble(json_object.get("latitude").toString());
 

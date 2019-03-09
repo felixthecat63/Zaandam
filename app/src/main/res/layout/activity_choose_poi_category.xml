@@ -177,6 +177,13 @@
                     android:textSize="18sp" />
 
                 <RadioButton
+                    android:id="@+id/serviceArea"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/service_area"
+                    android:textSize="18sp" />
+
+                <RadioButton
                     android:id="@+id/theatre"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -191,8 +198,6 @@
                     android:textSize="18sp" />
 
             </RadioGroup>
-
-
 
     </ScrollView>
 
