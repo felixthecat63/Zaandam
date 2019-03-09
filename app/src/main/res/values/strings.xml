@@ -20,8 +20,10 @@
     <string name="geocoding_hint_longitude">Longitude</string>
     <string name="geocoding_hint_type_destination">Type your destination</string>
 
-    <string name="choose_poi_category">Choose POI category</string>
-    <string name="choose_poi_category_selectRange">Choose range</string>
+    <string name="select_a_poi_category">Select a POI category</string>
+    <string name="select_poi_range">Choose a range</string>
+    <string name="select_poi_category">Choose category</string>
+    <string name="search">Search</string>
 
     <string name="five_kms">5 kms</string>
     <string name="ten_kms">10 kms</string>

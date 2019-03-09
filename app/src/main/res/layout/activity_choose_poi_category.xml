@@ -4,40 +4,26 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:gravity="center_horizontal"
+    android:orientation="vertical"
     tools:context=".ChoosePOICategory">
 
-    <android.support.constraint.ConstraintLayout
-        android:id="@+id/linearLayout5"
-        android:layout_width="match_parent"
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="30dp">
-
-        <Button
-            android:id="@+id/buttonChooseCategory"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:layout_marginTop="8dp"
-            android:layout_marginEnd="16dp"
-            android:onClick="onSubmit"
-            android:text="@string/choose_poi_category"
-            android:textSize="18sp"
-            android:theme="@style/AppTheme.ButtonBlue"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
-
-    </android.support.constraint.ConstraintLayout>
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="10dp"
+        android:textSize="18sp"
+        android:text="@string/select_a_poi_category" />
 
     <ScrollView
         android:id="@+id/scrollview"
         android:layout_width="match_parent"
-        android:layout_height="400dp">
+        android:layout_height="300dp">
 
         <LinearLayout
+            android:id="@+id/linearLayout6"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
@@ -198,44 +184,74 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:theme="@style/AppTheme.ButtonFuchsia"
-        android:text="@string/choose_poi_category_selectRange"/>
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/select_poi_category"
+        android:theme="@style/AppTheme.ButtonBlue"/>
 
-    <LinearLayout
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/linearLayout4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:gravity="center_horizontal">
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
 
-        <RadioGroup
-            android:id="@+id/radioGroupkms"
+
+        <RadioButton
+            android:id="@+id/five_kms"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_margin="30dp"
-            android:orientation="horizontal">
+            android:layout_marginStart="1dp"
+            android:layout_marginLeft="1dp"
+            android:text="@string/five_kms"
+            android:textSize="18sp"
+            app:layout_constraintBaseline_toBaselineOf="@+id/ten_kms"
+            app:layout_constraintEnd_toStartOf="@+id/ten_kms"
+            app:layout_constraintHorizontal_chainStyle="packed"
+            app:layout_constraintStart_toStartOf="parent" />
 
-            <RadioButton
-                android:id="@+id/five_kms"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/five_kms"
-                android:textSize="18sp"/>
+        <RadioButton
+            android:id="@+id/ten_kms"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/ten_kms"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toStartOf="@+id/twenty_kms"
+            app:layout_constraintStart_toEndOf="@+id/five_kms"
+            app:layout_constraintTop_toTopOf="parent" />
 
-            <RadioButton
-                android:id="@+id/ten_kms"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/ten_kms"
-                android:textSize="18sp" />
+        <RadioButton
+            android:id="@+id/twenty_kms"
+            android:layout_width="wrap_content"
+            android:layout_height="29dp"
+            android:text="@string/twenty_kms"
+            android:textSize="18sp"
+            app:layout_constraintBaseline_toBaselineOf="@+id/ten_kms"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/ten_kms" />
 
-            <RadioButton
-                android:id="@+id/twenty_kms"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/twenty_kms"
-                android:textSize="18sp" />
-        </RadioGroup>
+    </android.support.constraint.ConstraintLayout>
 
-    </LinearLayout>
+    <Button
+        android:id="@+id/buttonChooseRange"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:onClick="onSubmit"
+        android:text="@string/select_poi_range"
+        android:theme="@style/AppTheme.ButtonBlue"/>
+
+    <Button
+        android:id="@+id/confirmLocationButton"
+        android:theme="@style/AppTheme.ButtonFuchsia"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:text="@string/search"
+        android:onClick="confirmPOICriteria"/>
 
 </LinearLayout>
