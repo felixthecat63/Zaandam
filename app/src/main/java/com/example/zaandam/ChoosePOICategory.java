@@ -1,5 +1,6 @@
 package com.example.zaandam;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -71,6 +72,9 @@ public class ChoosePOICategory extends AppCompatActivity {
         else {
             Toast.makeText(ChoosePOICategory.this, "Select a category and a range", Toast.LENGTH_SHORT).show();
         }
+
+        Intent intent = new Intent(this, ShowResultsActivity.class);
+        startActivity(intent);
     }
 
     public void onResume() {

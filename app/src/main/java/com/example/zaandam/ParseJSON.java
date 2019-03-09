@@ -7,12 +7,13 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import java.io.IOException;
 import java.io.InputStream;
+import java.math.BigDecimal;
 import java.util.ArrayList;
 
 public class ParseJSON {
 
     ArrayList<JSONObject> results = new ArrayList<>();
-    ArrayList<Double> distances = new ArrayList<>();
+    ArrayList<Float> distances = new ArrayList<>();
 
     // Read the JSON file and transform it in a String
     public String loadJSONFromAsset(Context context, String category) {
@@ -53,7 +54,8 @@ public class ParseJSON {
             Double lng2 = Double.parseDouble(json_object.get("latitude").toString());
 
             // Compute distance between destinationCoordinates selected by the user and position of the current POI
-            Double distance = Haversine.computeDistance(lat1, lng1, lat2, lng2);
+            double haversineDistance = Haversine.computeDistance(lat1, lng1, lat2, lng2);
+            float distance = (float) haversineDistance;
 
             if (distance <= range) {
                 results.add(json_object);
@@ -64,16 +66,26 @@ public class ParseJSON {
         //sort results
         sort();
 
+        // give results to show results activity
+        ShowResultsActivity.results = results;
+        ShowResultsActivity.distances = distances;
+
         Log.d("INFO", "number of results found:" + results.size()+"");
         for (int i=0; i<results.size(); i++) {
             Log.d("INFO",  results.get(i).get("city")+" - "+distances.get(i)+" km");
         }
     }
 
+    public static BigDecimal round(float d, int decimalPlace) {
+        BigDecimal bd = new BigDecimal(Float.toString(d));
+        bd = bd.setScale(decimalPlace, BigDecimal.ROUND_HALF_UP);
+        return bd;
+    }
+
     // Sort the results from the nearest to the farthest
     private void sort() {
         ArrayList<JSONObject> jsonObjectsTemp = new ArrayList<>();
-        ArrayList<Double> distancesTemp = new ArrayList<>();
+        ArrayList<Float> distancesTemp = new ArrayList<>();
         int index;
         for (int i=0; i<results.size(); i++) {
             index = minimum(distances);
@@ -86,7 +98,7 @@ public class ParseJSON {
         distances = distancesTemp;
     }
 
-    private int minimum(ArrayList<Double> distances) {
+    private int minimum(ArrayList<Float> distances) {
         int minimum = 0;
         for (int i=0; i<distances.size(); i++) {
             if (distances.get(i) < distances.get(minimum)) {

@@ -28,7 +28,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
 
-
     <ScrollView
         android:id="@+id/scrollview"
         android:layout_width="match_parent"
@@ -39,8 +38,6 @@
         app:layout_constraintBottom_toTopOf="@+id/textView4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
-
-
 
             <RadioGroup
                 android:id="@+id/radioGroupCategory"
@@ -216,7 +213,7 @@
         android:textAlignment="center"
         android:background="@color/colorPrimaryLight"
         android:textColor="@color/colorBlack"
-        android:textSize="18sp" />
+        android:textSize="18sp"/>
 
     <android.support.constraint.ConstraintLayout
         android:id="@+id/linearLayout4"
