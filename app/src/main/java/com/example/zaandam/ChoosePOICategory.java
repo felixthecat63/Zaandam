@@ -2,10 +2,12 @@ package com.example.zaandam;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.Toast;
+
 import com.mapbox.mapboxsdk.geometry.LatLng;
 
 import org.json.JSONException;
@@ -13,46 +15,62 @@ import org.json.JSONException;
 public class ChoosePOICategory extends AppCompatActivity {
 
     public static String category = "";
+    public static int range = 0;
     public static LatLng destinationCoordinates = new LatLng();
     public static String destinationAddress = "";
-    private RadioGroup radioGroup;
-    public static String fileName = "";
+    private RadioGroup radioGroupCategory;
+    private RadioGroup radioGroupRange;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_choose_poi_category);
 
-        radioGroup = (RadioGroup) findViewById(R.id.radioGroup);
-        radioGroup.clearCheck();
-
-        radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
+        radioGroupCategory = (RadioGroup) findViewById(R.id.radioGroupCategory);
+        radioGroupCategory.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, int checkedId) {
                 RadioButton rb = (RadioButton) group.findViewById(checkedId);
                 if (null != rb && checkedId > -1) {
-                    category = rb.getText().toString();
-                    Toast.makeText(ChoosePOICategory.this, category, Toast.LENGTH_SHORT).show();
+                    category = giveFileName(rb.getText().toString());
+                    Log.d("INFO", "category: " + category);
                 }
+                else {
+                    Toast.makeText(ChoosePOICategory.this, "Select a category", Toast.LENGTH_SHORT).show();
+                }
+            }
+        });
 
+        radioGroupRange = (RadioGroup) findViewById(R.id.radioGroupRange);
+        radioGroupRange.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(RadioGroup group, int checkedId) {
+                RadioButton rb = (RadioButton) group.findViewById(checkedId);
+                if (null != rb && checkedId > -1) {
+                    range = giveRange(rb.getText().toString());
+                    Log.d("INFO", "range: " + range);
+                }
+                else {
+                    Toast.makeText(ChoosePOICategory.this, "Select a range", Toast.LENGTH_SHORT).show();
+                }
             }
         });
     }
 
-    public void onSubmit(View v) {
-        RadioButton rb = (RadioButton) radioGroup.findViewById(radioGroup.getCheckedRadioButtonId());
-
-        fileName = giveFileName(category);
-
-        ParseJSON p = new ParseJSON();
-        String json = p.loadJSONFromAsset(this, fileName);
-        try {
-            p.readJSON(json);
-        } catch (JSONException e) {
-            e.printStackTrace();
+    public void onConfirmPOICriteria(View v) {
+        Log.d("INFO", "range & category onConfirmPOICriteria: " + range+" " +category);
+        if (category != "" && range != 0) {
+            ParseJSON p = new ParseJSON();
+            String json = p.loadJSONFromAsset(this, category);
+            try {
+                p.readJSON(json);
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
         }
-
-        Toast.makeText(ChoosePOICategory.this, rb.getText(), Toast.LENGTH_SHORT).show();
+        else {
+            Toast.makeText(ChoosePOICategory.this, "Select a category and a range", Toast.LENGTH_SHORT).show();
+        }
     }
 
     public void onResume() {
@@ -136,5 +154,16 @@ public class ChoosePOICategory extends AppCompatActivity {
         }
     }
 
-
+    public int giveRange(String choice) {
+        switch (choice) {
+            case "5 kms":
+                return 5;
+            case "10 kms":
+                return 10;
+            case "20 kms":
+                return 20;
+            default:
+                return 0;
+        }
+    }
 }

@@ -40,7 +40,7 @@ public class ParseJSON {
         // I need to transform the string in an array because there are duplicate values in the JSON file
         JSONArray array = new JSONArray(json);
 
-        for (int i=0; i<array.length(); i++) {
+        for (int i=0; i<5; i++) {
             // string_object is an element of the JSON file
             String string_object = array.get(i).toString();
             // I transform the object in a JSON object so I can explore its values by using the keys
