@@ -1,4 +1,6 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="search_buttons">160dp</dimen>
+    <dimen name="body_text_size">19sp</dimen>
+    <dimen name="secondary_text_size">14sp</dimen>
 </resources>

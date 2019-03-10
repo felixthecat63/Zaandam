@@ -132,8 +132,8 @@
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout2"
-        mapbox:mapbox_cameraTargetLat="40.73581"
-        mapbox:mapbox_cameraTargetLng="-73.99155"
+        mapbox:mapbox_cameraTargetLat="48.857139"
+        mapbox:mapbox_cameraTargetLng="2.340978"
         mapbox:mapbox_cameraZoom="11" >
 
     </com.mapbox.mapboxsdk.maps.MapView>
