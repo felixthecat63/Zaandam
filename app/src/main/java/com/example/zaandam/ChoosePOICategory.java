@@ -65,6 +65,8 @@ public class ChoosePOICategory extends AppCompatActivity {
             String json = p.loadJSONFromAsset(this, category);
             try {
                 p.readJSON(json);
+                Intent intent = new Intent(this, ShowResultsActivity.class);
+                startActivity(intent);
             } catch (JSONException e) {
                 e.printStackTrace();
             }
@@ -72,9 +74,6 @@ public class ChoosePOICategory extends AppCompatActivity {
         else {
             Toast.makeText(ChoosePOICategory.this, "Select a category and a range", Toast.LENGTH_SHORT).show();
         }
-
-        Intent intent = new Intent(this, ShowResultsActivity.class);
-        startActivity(intent);
     }
 
     public void onResume() {

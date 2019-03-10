@@ -1,8 +1,11 @@
 package com.example.zaandam;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.graphics.Color;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
@@ -13,6 +16,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
 import com.mapbox.api.geocoding.v5.GeocodingCriteria;
 import com.mapbox.api.geocoding.v5.MapboxGeocoding;
 import com.mapbox.api.geocoding.v5.models.CarmenFeature;
@@ -29,7 +33,9 @@ import com.mapbox.mapboxsdk.maps.OnMapReadyCallback;
 import com.mapbox.mapboxsdk.maps.Style;
 import com.mapbox.mapboxsdk.plugins.places.autocomplete.PlaceAutocomplete;
 import com.mapbox.mapboxsdk.plugins.places.autocomplete.model.PlaceOptions;
+
 import java.util.List;
+
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
@@ -38,7 +44,7 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
 
     private MapView mapView;
     private MapboxMap mapboxMap;
-    private Button chooseCityButton;
+    private Button getByName;
     private EditText latEditText;
     private EditText longEditText;
     private TextView destinationAddressTextView;
@@ -85,22 +91,29 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
 
     private void initButtons() {
         Button mapCenterButton = findViewById(R.id.map_center_button);
-        Button startGeocodeButton = findViewById(R.id.start_geocode_button);
-        chooseCityButton = findViewById(R.id.choose_city_spinner_button);
-        startGeocodeButton.setOnClickListener(new View.OnClickListener() {
+        Button getByLatLong = findViewById(R.id.start_geocode_button);
+        getByName = findViewById(R.id.get_by_name);
+        getByLatLong.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-        // Make sure the EditTexts aren't empty
+                // Make sure the EditTexts aren't empty
                 if (TextUtils.isEmpty(latEditText.getText().toString())) {
-                    latEditText.setError("fill in a valid");
+                    latEditText.setError("fill in a valid latitude");
                 } else if (TextUtils.isEmpty(longEditText.getText().toString())) {
-                    longEditText.setError("fill in a valid lat");
+                    longEditText.setError("fill in a valid longitude");
                 } else {
                     if (latCoordinateIsValid(Double.valueOf(latEditText.getText().toString()))
                             && longCoordinateIsValid(Double.valueOf(longEditText.getText().toString()))) {
-                    // Make a geocoding search with the values inputted into the EditTexts
-                        makeGeocodeSearch(new LatLng(Double.valueOf(latEditText.getText().toString()),
-                                Double.valueOf(longEditText.getText().toString())));
+                        if (isNetworkAvailable()) {
+                            // Make a geocoding search with the values inputted into the EditTexts
+                            makeGeocodeSearch(new LatLng(Double.valueOf(latEditText.getText().toString()),
+                                    Double.valueOf(longEditText.getText().toString())));
+                        }
+                        else {
+                            longitude = Double.parseDouble(longEditText.getText().toString());
+                            latitude = Double.parseDouble(latEditText.getText().toString());
+                            Toast.makeText(GeocodingActivity.this, "As you are offline, your coordinates are not verified", Toast.LENGTH_LONG).show();
+                        }
                     } else {
                         Toast.makeText(GeocodingActivity.this, "make valid lat", Toast.LENGTH_LONG).show();
                     }
@@ -108,48 +121,57 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
             }
         });
 
-        chooseCityButton.setOnClickListener(new View.OnClickListener() {
+        getByName.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
-                MapboxGeocoding mapboxGeocoding = MapboxGeocoding.builder()
-                        .accessToken(getString(R.string.mapbox_access_token))
-                        .query(destinationAddressTextView.getText().toString())
-                        .build();
+                if (isNetworkAvailable()) {
 
-                mapboxGeocoding.enqueueCall(new Callback<GeocodingResponse>() {
-                    @Override
-                    public void onResponse(Call<GeocodingResponse> call, Response<GeocodingResponse> response) {
-                        List<CarmenFeature> results = response.body().features();
-                        LatLng cityLatLng = new LatLng();
-                        if (results.size() > 0) {
-                            // Log the first results Point.
-                            Point firstResultPoint = results.get(0).center();
-                            destinationCoordinates = firstResultPoint;
-                            cityLatLng = new LatLng(firstResultPoint.latitude(), firstResultPoint.longitude());
-                            setCoordinateEditTexts(cityLatLng);
-                            animateCameraToNewPosition(cityLatLng);
-                            makeGeocodeSearch(cityLatLng);
-                            Log.d("INFO", "onResponse: " + firstResultPoint.latitude()+", "+firstResultPoint.longitude());
-                        } else {
-                            // No result for your request were found.
-                            Log.d("ERROR", "onResponse: No result found");
+                    MapboxGeocoding mapboxGeocoding = MapboxGeocoding.builder()
+                            .accessToken(getString(R.string.mapbox_access_token))
+                            .query(destinationAddressTextView.getText().toString())
+                            .build();
+
+                    mapboxGeocoding.enqueueCall(new Callback<GeocodingResponse>() {
+                        @Override
+                        public void onResponse(Call<GeocodingResponse> call, Response<GeocodingResponse> response) {
+                            List<CarmenFeature> results = response.body().features();
+                            LatLng cityLatLng = new LatLng();
+                            if (results.size() > 0) {
+                                // Log the first results Point.
+                                Point firstResultPoint = results.get(0).center();
+                                destinationCoordinates = firstResultPoint;
+                                cityLatLng = new LatLng(firstResultPoint.latitude(), firstResultPoint.longitude());
+                                setCoordinateEditTexts(cityLatLng);
+                                animateCameraToNewPosition(cityLatLng);
+                                makeGeocodeSearch(cityLatLng);
+                                Log.d("INFO", "onResponse: " + firstResultPoint.latitude() + ", " + firstResultPoint.longitude());
+                            } else {
+                                // No result for your request were found.
+                                Log.d("ERROR", "onResponse: No result found");
+                                Toast.makeText(GeocodingActivity.this, "No results found", Toast.LENGTH_LONG).show();
+                            }
                         }
-                    }
-                    @Override
-                    public void onFailure(Call<GeocodingResponse> call, Throwable throwable) {
-                        throwable.printStackTrace();
-                    }
-                });
+
+                        @Override
+                        public void onFailure(Call<GeocodingResponse> call, Throwable throwable) {
+                            throwable.printStackTrace();
+                        }
+                    });
+                } else {
+                    Toast.makeText(GeocodingActivity.this, "No results found. Are you offline?", Toast.LENGTH_LONG).show();
+                }
             }
         });
+
         mapCenterButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                 // Get the map's target
+                // Get the map's target
                 LatLng target = mapboxMap.getCameraPosition().target;
 
                 // Fill the coordinate EditTexts with the target's coordinates
+                // That is useful for the offline mode
                 setCoordinateEditTexts(target);
 
                 // Make a geocoding search with the target's coordinates
@@ -158,15 +180,19 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
         });
     }
 
-    public void selectDestination (View view) {
-        Intent intent = new PlaceAutocomplete.IntentBuilder()
-                .accessToken(getString(R.string.mapbox_access_token))
-                .placeOptions(PlaceOptions.builder()
-                        .backgroundColor(Color.parseColor("#EEEEEE"))
-                        .limit(10)
-                        .build(PlaceOptions.MODE_CARDS))
-                .build(this);
-        startActivityForResult(intent, REQUEST_CODE_AUTOCOMPLETE);
+    public void selectDestination(View view) {
+        if (isNetworkAvailable()) {
+            Intent intent = new PlaceAutocomplete.IntentBuilder()
+                    .accessToken(getString(R.string.mapbox_access_token))
+                    .placeOptions(PlaceOptions.builder()
+                            .backgroundColor(Color.parseColor("#EEEEEE"))
+                            .limit(10)
+                            .build(PlaceOptions.MODE_CARDS))
+                    .build(this);
+            startActivityForResult(intent, REQUEST_CODE_AUTOCOMPLETE);
+        } else {
+            Toast.makeText(GeocodingActivity.this, "This functionality does not work without internet connection!", Toast.LENGTH_LONG).show();
+        }
     }
 
     private boolean latCoordinateIsValid(double value) {
@@ -211,8 +237,6 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
 
                         latitude = latLng.getLatitude();
                         longitude = latLng.getLongitude();
-                    } else {
-                        Toast.makeText(GeocodingActivity.this, "no results", Toast.LENGTH_SHORT).show();
                     }
                 }
 
@@ -220,6 +244,7 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
                 public void onFailure(Call<GeocodingResponse> call, Throwable throwable) {
                     throwable.printStackTrace();
                     Log.d("ERROR", "Geocoding Failure: " + throwable.getMessage());
+                    Toast.makeText(GeocodingActivity.this, "In the offline mode, just the coordinates retrieved with the Center Map button are used", Toast.LENGTH_LONG).show();
                 }
             });
         } catch (ServicesException servicesException) {
@@ -236,7 +261,9 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
                         .build()), 1500);
     }
 
-    /** this method is used by the autocomplete function */
+    /**
+     * this method is used by the autocomplete function
+     */
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
@@ -292,13 +319,23 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
         mapView.onSaveInstanceState(outState);
     }
 
-    /** Called when the user taps on the confirm location button (select a destinationCoordinates) */
-    public void confirmLocation (View view) {
+    /**
+     * Called when the user taps on the confirm location button (select a destinationCoordinates)
+     */
+    public void confirmLocation(View view) {
         Intent intent = new Intent(this, ChoosePOICategory.class);
 
         ChoosePOICategory.destinationCoordinates.setLatitude(latitude);
         ChoosePOICategory.destinationCoordinates.setLongitude(longitude);
 
         startActivity(intent);
+    }
+
+
+    private boolean isNetworkAvailable() {
+        ConnectivityManager connectivityManager
+                = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
+        NetworkInfo activeNetworkInfo = connectivityManager.getActiveNetworkInfo();
+        return activeNetworkInfo != null && activeNetworkInfo.isConnected();
     }
 }
