@@ -162,12 +162,14 @@ public class ChoosePOICategory extends AppCompatActivity {
 
     public int giveRange(String choice) {
         switch (choice) {
-            case "5 kms":
+            case "5":
                 return 5;
-            case "10 kms":
+            case "10":
                 return 10;
-            case "20 kms":
+            case "20":
                 return 20;
+            case "50":
+                return 50;
             default:
                 return 0;
         }

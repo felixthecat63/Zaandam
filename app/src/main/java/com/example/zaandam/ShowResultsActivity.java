@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.TextView;
 
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -22,6 +23,9 @@ public class ShowResultsActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_show_results);
+
+        TextView tvCategory = findViewById(R.id.TVpoicategory);
+        tvCategory.setText("Results for: " + ChoosePOICategory.category);
 
         mListView = (ListView) findViewById(R.id.listView);
         List<Row> results = null;

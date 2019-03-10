@@ -238,35 +238,45 @@
             app:layout_constraintBottom_toBottomOf="@id/linearLayout4">
 
             <RadioButton
-                android:id="@+id/five_kms"
+                android:id="@+id/five_km"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/five_kms"
+                android:text="@string/five_km"
                 android:textSize="18sp"
-                app:layout_constraintBaseline_toBaselineOf="@+id/ten_kms"
-                app:layout_constraintEnd_toStartOf="@+id/ten_kms"
+                app:layout_constraintBaseline_toBaselineOf="@+id/ten_km"
+                app:layout_constraintEnd_toStartOf="@+id/ten_km"
                 app:layout_constraintHorizontal_chainStyle="packed"
                 app:layout_constraintStart_toStartOf="parent" />
 
             <RadioButton
-                android:id="@+id/ten_kms"
+                android:id="@+id/ten_km"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/ten_kms"
+                android:text="@string/ten_km"
                 android:textSize="18sp"
-                app:layout_constraintEnd_toStartOf="@+id/twenty_kms"
-                app:layout_constraintStart_toEndOf="@+id/five_kms"
+                app:layout_constraintEnd_toStartOf="@+id/twenty_km"
+                app:layout_constraintStart_toEndOf="@+id/five_km"
                 app:layout_constraintTop_toTopOf="parent" />
 
             <RadioButton
-                android:id="@+id/twenty_kms"
+                android:id="@+id/twenty_km"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/twenty_kms"
+                android:text="@string/twenty_km"
                 android:textSize="18sp"
-                app:layout_constraintBaseline_toBaselineOf="@+id/ten_kms"
+                app:layout_constraintBaseline_toBaselineOf="@+id/ten_km"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toEndOf="@+id/ten_kms" />
+                app:layout_constraintStart_toEndOf="@+id/ten_km" />
+
+            <RadioButton
+                android:id="@+id/fifty_km"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fifty_km"
+                android:textSize="18sp"
+                app:layout_constraintBaseline_toBaselineOf="@+id/fifty_km"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/twenty_km" />
 
         </RadioGroup>
 

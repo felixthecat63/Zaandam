@@ -21,13 +21,14 @@
     <string name="geocoding_hint_type_destination">Type your destination</string>
 
     <string name="select_a_poi_category">Select a POI category</string>
-    <string name="select_poi_range">Choose a range</string>
+    <string name="select_poi_range">Choose a km range</string>
     <string name="select_poi_category">Choose category</string>
     <string name="search">Search</string>
 
-    <string name="five_kms">5 kms</string>
-    <string name="ten_kms">10 kms</string>
-    <string name="twenty_kms">20 kms</string>
+    <string name="five_km">5</string>
+    <string name="ten_km">10</string>
+    <string name="twenty_km">20</string>
+    <string name="fifty_km">50</string>
 
     <string name="airports">Airports</string>
     <string name="atms">ATMs</string>
