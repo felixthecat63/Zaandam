@@ -32,7 +32,6 @@ import com.mapbox.mapboxsdk.Mapbox;
 import com.mapbox.mapboxsdk.camera.CameraPosition;
 import com.mapbox.mapboxsdk.camera.CameraUpdateFactory;
 import com.mapbox.mapboxsdk.geometry.LatLng;
-import com.mapbox.mapboxsdk.geometry.LatLngBounds;
 import com.mapbox.mapboxsdk.maps.MapView;
 import com.mapbox.mapboxsdk.maps.MapboxMap;
 import com.mapbox.mapboxsdk.maps.OnMapReadyCallback;
@@ -43,8 +42,6 @@ import com.mapbox.mapboxsdk.style.sources.GeoJsonSource;
 import com.mapbox.turf.TurfConstants;
 import com.mapbox.turf.TurfConversion;
 
-import java.io.IOException;
-import java.io.InputStream;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
@@ -108,7 +105,7 @@ public class MapActivity extends AppCompatActivity implements
         listOfIndividualLocations = new ArrayList<>();
 
         // Initialize the theme that was selected in the previous activity. The blue theme is set as the backup default.
-        chosenTheme = getIntent().getIntExtra(StringConstants.SELECTED_THEME, R.style.AppTheme_Blue);
+        chosenTheme = getIntent().getIntExtra(StringConstants.SELECTED_THEME, R.style.AppTheme_Neutral);
 
         // Set up the Mapbox map
         mapView = findViewById(R.id.mapView);
@@ -118,7 +115,7 @@ public class MapActivity extends AppCompatActivity implements
             public void onMapReady(final MapboxMap mapboxMap) {
 
                 // Initialize the custom class that handles marker icon creation and map styling based on the selected theme
-                customThemeManager = new CustomThemeManager(chosenTheme, MapActivity.this);
+                customThemeManager = new CustomThemeManager(MapActivity.this);
 
                 mapboxMap.setStyle(new Style.Builder().fromUrl(customThemeManager.getMapStyle()), new Style.OnStyleLoaded() {
                     @Override
@@ -158,7 +155,8 @@ public class MapActivity extends AppCompatActivity implements
                                 // Get the single location's String properties to place in its map marker
                                 String singleLocationName = singleLocation.getStringProperty("name");
                                 String singleLocationDescription = singleLocation.getStringProperty("description");
-
+                                String singleCoordinates = singleLocation.getStringProperty("gps");
+                                String singleCategory = singleLocation.getStringProperty("category");
 
                                 // Add a boolean property to use for adjusting the icon of the selected store location
                                 singleLocation.addBooleanProperty(PROPERTY_SELECTED, false);
@@ -174,7 +172,9 @@ public class MapActivity extends AppCompatActivity implements
                                 listOfIndividualLocations.add(new IndividualLocation(
                                         singleLocationName,
                                         singleLocationDescription,
-                                        singleLocationLatLng
+                                        singleLocationLatLng,
+                                        singleCoordinates,
+                                        singleCategory
                                 ));
 
                                 // Call getInformationFromDirectionsApi() to eventually display the location's
@@ -479,7 +479,7 @@ public class MapActivity extends AppCompatActivity implements
     }
 
     private void getFeatureCollectionFromJson() {
-       featureCollection = FeatureCollection.fromJson(geoJson);
+        featureCollection = FeatureCollection.fromJson(geoJson);
     }
 
     private void setUpRecyclerViewOfLocationCards(int chosenTheme) {
@@ -488,7 +488,7 @@ public class MapActivity extends AppCompatActivity implements
         locationsRecyclerView.setHasFixedSize(true);
         locationsRecyclerView.setLayoutManager(new LinearLayoutManagerWithSmoothScroller(this));
         styleRvAdapter = new LocationRecyclerViewAdapter(listOfIndividualLocations,
-                getApplicationContext(), this, chosenTheme);
+                getApplicationContext(), this);
         locationsRecyclerView.setAdapter(styleRvAdapter);
         SnapHelper snapHelper = new LinearSnapHelper();
         snapHelper.attachToRecyclerView(locationsRecyclerView);
@@ -572,7 +572,6 @@ public class MapActivity extends AppCompatActivity implements
      * Custom class which creates marker icons and colors based on the selected theme
      */
     class CustomThemeManager {
-        private int selectedTheme;
         private Context context;
         private Bitmap unselectedMarkerIcon;
         private Bitmap selectedMarkerIcon;
@@ -580,50 +579,17 @@ public class MapActivity extends AppCompatActivity implements
         private int navigationLineColor;
         private String mapStyle;
 
-        CustomThemeManager(int selectedTheme, Context context) {
-            this.selectedTheme = selectedTheme;
+        CustomThemeManager(Context context) {
             this.context = context;
             initializeTheme();
         }
 
         private void initializeTheme() {
-            switch (selectedTheme) {
-                case R.style.AppTheme_Blue:
-                    mapStyle = getString(R.string.blue_map_style);
-                    navigationLineColor = getResources().getColor(R.color.navigationRouteLine_blue);
-                    unselectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.blue_unselected_ice_cream);
-                    selectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.blue_selected_ice_cream);
-                    mockLocationIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.blue_user_location);
-                    break;
-                case R.style.AppTheme_Purple:
-                    mapStyle = getString(R.string.purple_map_style);
-                    navigationLineColor = getResources().getColor(R.color.navigationRouteLine_purple);
-                    unselectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.purple_unselected_burger);
-                    selectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.purple_selected_burger);
-                    mockLocationIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.purple_user_location);
-                    break;
-                case R.style.AppTheme_Green:
-                    mapStyle = getString(R.string.terminal_map_style);
-                    navigationLineColor = getResources().getColor(R.color.navigationRouteLine_green);
-                    unselectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.green_unselected_money);
-                    selectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.green_selected_money);
-                    mockLocationIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.green_user_location);
-                    break;
-                case R.style.AppTheme_Neutral:
-                    mapStyle = Style.MAPBOX_STREETS;
-                    navigationLineColor = getResources().getColor(R.color.navigationRouteLine_neutral);
-                    unselectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.white_unselected_house);
-                    selectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.gray_selected_house);
-                    mockLocationIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.neutral_orange_user_location);
-                    break;
-                case R.style.AppTheme_Gray:
-                    mapStyle = Style.LIGHT;
-                    navigationLineColor = getResources().getColor(R.color.navigationRouteLine_gray);
-                    unselectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.white_unselected_bike);
-                    selectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.gray_selected_bike);
-                    mockLocationIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.gray_user_location);
-                    break;
-            }
+            mapStyle = Style.MAPBOX_STREETS;
+            navigationLineColor = getResources().getColor(R.color.navigationRouteLine_neutral);
+            unselectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.green_user_location);
+            selectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.green_user_location);
+            mockLocationIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.neutral_orange_user_location);
         }
 
         public Bitmap getUnselectedMarkerIcon() {

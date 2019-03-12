@@ -111,7 +111,7 @@ public class ParseJSON {
     private String prepareResultsForGeoJson() throws JSONException {
         String geoJson = "{\"type\": \"FeatureCollection\", \"features\": [";
         for (int i=0; i<results.size(); i++) {
-            geoJson = geoJson + "{\"type\": \"Feature\", \"properties\": {\"name\":\"" + results.get(i).get("name").toString() + "\", \"hours\":\""+results.get(i).get("city").toString() +"\", \"phone\":\""+results.get(i).get("city").toString() +"\", \"description\":\"" + results.get(i).get("description").toString() + "\"}, \"geometry\": {\"type\":\"Point\", \"coordinates\": ["+results.get(i).get("latitude").toString()+", "+results.get(i).get("longitude").toString() + "]}}";
+            geoJson = geoJson + "{\"type\": \"Feature\", \"properties\": {\"name\":\"" + results.get(i).get("name").toString() + "\", \"gps\":\""+results.get(i).get("latitude").toString()+", "+ results.get(i).get("longitude").toString()+"\", \"category\":\""+ChoosePOICategory.category+"\", \"description\":\"" + results.get(i).get("description").toString() + "\"}, \"geometry\": {\"type\":\"Point\", \"coordinates\": ["+results.get(i).get("latitude").toString()+", "+results.get(i).get("longitude").toString() + "]}}";
             if (i != results.size()-1) {
                 geoJson = geoJson + ",";
             }

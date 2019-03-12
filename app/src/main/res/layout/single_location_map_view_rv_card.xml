@@ -65,7 +65,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:src="@drawable/fork"/>
+                android:src="@drawable/green_user_location"/>
 
             <ImageView
                 android:id="@+id/emoji"
@@ -73,7 +73,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_marginTop="0dp"
-                android:src="@drawable/mcdonalds"/>
+                android:src="@drawable/star"/>
 
         </FrameLayout>
 
@@ -150,17 +150,17 @@
             app:layout_constraintGuide_end="17dp"/>
 
         <TextView
-            android:id="@+id/hours_header_tv"
+            android:id="@+id/coordinates_header_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/hours"
+            android:text="@string/coordinates"
             android:textSize="@dimen/secondary_text_size"
             app:layout_constraintLeft_toLeftOf="@+id/guideline5"
             app:layout_constraintTop_toTopOf="@+id/guideline12"/>
 
         <TextView
-            android:id="@+id/location_hours_tv"
+            android:id="@+id/coordinates_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
@@ -170,35 +170,32 @@
             android:textColor="@color/black"
             android:textSize="@dimen/secondary_text_size"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintLeft_toLeftOf="@+id/hours_header_tv"
-            app:layout_constraintTop_toBottomOf="@+id/hours_header_tv"
+            app:layout_constraintLeft_toLeftOf="@+id/coordinates_header_tv"
+            app:layout_constraintTop_toBottomOf="@+id/coordinates_header_tv"
             tools:layout_editor_absoluteY="137dp"
             tools:text="11 AM - 9 PM"/>
 
         <TextView
-            android:id="@+id/phone_header_tv"
+            android:id="@+id/category_header_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginEnd="0dp"
-            android:layout_marginRight="8dp"
-            android:text="@string/phone"
+            android:layout_marginEnd="16dp"
+            android:text="@string/category"
             android:textSize="@dimen/secondary_text_size"
-            app:layout_constraintEnd_toEndOf="@+id/location_phone_num_tv"
-            app:layout_constraintRight_toRightOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/hours_header_tv"
-            />
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/coordinates_header_tv" />
 
         <TextView
-            android:id="@+id/location_phone_num_tv"
+            android:id="@+id/category_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="0dp"
             android:layout_marginStart="0dp"
             android:textColor="@color/black"
             android:textSize="@dimen/secondary_text_size"
-            app:layout_constraintBottom_toBottomOf="@+id/location_hours_tv"
+            app:layout_constraintBottom_toBottomOf="@+id/coordinates_tv"
             app:layout_constraintEnd_toStartOf="@+id/guideline13"
-            app:layout_constraintTop_toBottomOf="@+id/phone_header_tv"
+            app:layout_constraintTop_toBottomOf="@+id/category_header_tv"
             app:layout_constraintVertical_bias="0.0"
             tools:text="843-231-8582"/>
 

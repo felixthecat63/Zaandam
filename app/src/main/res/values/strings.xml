@@ -68,7 +68,7 @@
     <string name="failure_to_retrieve">Failure to retrieve the navigation route!</string>
 
     <!-- Single card -->
-    <string name="hours">Hours</string>
-    <string name="phone">Phone</string>
-    <string name="distance">mi</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="category">Category</string>
+    <string name="distance">km</string>
 </resources>
