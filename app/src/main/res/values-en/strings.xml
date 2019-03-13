@@ -1,0 +1,75 @@
+<resources>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZmVsaXh0aGVjYXQ2MyIsImEiOiJjanJ0MW5sYWoyZ2VtNDNwbHp5aXN2ZXh2In0.LQr-tOgZu1TMv36-A7X3oQ</string>
+    <string name="lang">Select language</string>
+    <string name="english">English</string>
+    <string name="french">French</string>
+    <string name="italian">Italian</string>
+
+    <string name="app_name">Zaandam</string>
+    <string name="title_activity_display_map">DisplayMapActivity</string>
+
+    <string name="display_map_confirm_location">Confirm location</string>
+
+    <string name="launcher_getCurrentLocation">Tell me your location:</string>
+    <string name="launcher_searchPlaceholder">...or type your destination</string>
+
+    <string name="geocoding_button_center_map">Center map</string>
+    <string name="geocoding_button_get_by_coordinates">Get by lat/long</string>
+    <string name="geocoding_button_advanced">Advanced</string>
+    <string name="geocoding_button_get_by_name">Get by name</string>
+    <string name="geocoding_hint_latitude">Latitude</string>
+    <string name="geocoding_hint_longitude">Longitude</string>
+    <string name="geocoding_hint_type_destination">Type your destination</string>
+
+    <string name="select_a_poi_category">Select a POI category</string>
+    <string name="select_poi_range">Choose a km range</string>
+    <string name="select_poi_category">Choose category</string>
+    <string name="search">Search</string>
+
+    <string name="five_km">5</string>
+    <string name="ten_km">10</string>
+    <string name="twenty_km">20</string>
+    <string name="fifty_km">50</string>
+
+    <string name="airports">Airports</string>
+    <string name="atms">ATMs</string>
+    <string name="attractions">Attractions</string>
+    <string name="bakeries">Bakeries</string>
+    <string name="campsites">Campsites</string>
+    <string name="food_stores">Food stores</string>
+    <string name="free_wifi">Free WiFi</string>
+    <string name="hotels">Hotels</string>
+    <string name="lakes">Lakes</string>
+    <string name="mc_donalds">Mc Donalds</string>
+    <string name="monuments">Monuments</string>
+    <string name="parking">Parking</string>
+    <string name="petrol_station">Petrol stations</string>
+    <string name="picnic">Picnic area</string>
+    <string name="railway_station">Railway stations</string>
+    <string name="religious_buildings">Religious buildings</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="seaside">Seaside</string>
+    <string name="theatre">Theatre</string>
+    <string name="tram_stations">Tram stations</string>
+    <string name="service_area">Service areas</string>
+
+    <string name="show_on_map">Show on a map</string>
+
+
+    <string name="final_app_name">Store Locator</string>
+    <string name="access_token" translatable="false">@string/mapbox_access_token</string>
+    <string name="purple_map_style" translatable="false">mapbox://styles/mapbox/cj7bww7is2f4i2rnwyxkzpwu7</string>
+    <string name="blue_map_style" translatable="false">mapbox://styles/mapbox/cj7bwwv3caf7l2spgukxm8bwv</string>
+    <string name="terminal_map_style" translatable="false">mapbox://styles/mapbox/cj62n87yx3mvi2rp93sfp2w9z</string>
+    <string name="map_view">Map view</string>
+    <string name="failure_to_load_file">Failure to load the local file of locations. Please try reloading the app.</string>
+    <string name="mock_location_title">Fake device location</string>
+    <string name="select_a_theme">Tap on a theme</string>
+    <string name="no_internet_message">Route drawing not possible because there\'s no internet connection!</string>
+    <string name="failure_to_retrieve">Failure to retrieve the navigation route!</string>
+
+    <!-- Single card -->
+    <string name="coordinates">Coordinates</string>
+    <string name="category">Category</string>
+    <string name="distance">km</string>
+</resources>

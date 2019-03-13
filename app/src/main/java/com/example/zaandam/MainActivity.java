@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-
+    private String en ="en", fr="fr", it="it";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -83,12 +83,33 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void setLocaleIt(View view) {
+        //Change Application level locale
+        LocaleHelper.setLocale(MainActivity.this, en);
+
+        //It is required to recreate the activity to reflect the change in UI.
+        recreate();
+        Intent intent = new Intent(this, MainActivity.class);
+        startActivity(intent);
 
     }
 
     public void setLocaleFr(View view) {
+        //Change Application level locale
+        LocaleHelper.setLocale(MainActivity.this, fr);
+
+        //It is required to recreate the activity to reflect the change in UI.
+        recreate();
+        Intent intent = new Intent(this, MainActivity.class);
+        startActivity(intent);
     }
 
     public void setLocaleEn(View view) {
+        //Change Application level locale
+        LocaleHelper.setLocale(MainActivity.this, it);
+
+        //It is required to recreate the activity to reflect the change in UI.
+        recreate();
+        Intent intent = new Intent(this, MainActivity.class);
+        startActivity(intent);
     }
 }

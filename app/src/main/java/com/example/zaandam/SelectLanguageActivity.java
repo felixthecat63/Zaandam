@@ -17,7 +17,7 @@ import java.util.Locale;
 
 public class SelectLanguageActivity extends AppCompatActivity {
 
-    public String en ="en", fr="fr", it="it";
+    private String en ="en", fr="fr", it="it";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
