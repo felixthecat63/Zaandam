@@ -72,7 +72,7 @@ public class LocationRecyclerViewAdapter extends
 
         emojiForCircle = ResourcesCompat.getDrawable(context.getResources(), R.drawable.green_user_location, null);
         backgroundCircle = ResourcesCompat.getDrawable(context.getResources(), R.drawable.white_circle, null);
-        setColors(R.color.colorPrimaryDark_neutral, R.color.black, R.color.black, R.color.black,
+        setColors(R.color.colorPrimary, R.color.white, R.color.white, R.color.black,
                 R.color.black, R.color.black,
                 R.color.black, R.color.black, R.color.black);
 
@@ -91,17 +91,17 @@ public class LocationRecyclerViewAdapter extends
     }
 
     private void setColors(int colorForUpperCard, int colorForName, int colorForAddress,
-                           int colorForHours, int colorForHoursHeader, int colorForPhoneNum,
-                           int colorForPhoneHeader, int colorForDistanceNum, int colorForMilesAbbreviation) {
+                           int colorForCoordinates, int colorForCoordinatesHeader, int colorForCategory,
+                           int colorForCategoryHeader, int colorForDistanceNum, int colorForKmAbbreviation) {
         upperCardSectionColor = ResourcesCompat.getColor(context.getResources(), colorForUpperCard, null);
         locationNameColor = ResourcesCompat.getColor(context.getResources(), colorForName, null);
         locationAddressColor = ResourcesCompat.getColor(context.getResources(), colorForAddress, null);
-        coordinatesColor = ResourcesCompat.getColor(context.getResources(), colorForHours, null);
-        coordinatesHeaderColor = ResourcesCompat.getColor(context.getResources(), colorForHoursHeader, null);
-        categoryColor = ResourcesCompat.getColor(context.getResources(), colorForPhoneNum, null);
-        categoryHeaderColor = ResourcesCompat.getColor(context.getResources(), colorForPhoneHeader, null);
+        coordinatesColor = ResourcesCompat.getColor(context.getResources(), colorForCoordinates, null);
+        coordinatesHeaderColor = ResourcesCompat.getColor(context.getResources(), colorForCoordinatesHeader, null);
+        categoryColor = ResourcesCompat.getColor(context.getResources(), colorForCategory, null);
+        categoryHeaderColor = ResourcesCompat.getColor(context.getResources(), colorForCategoryHeader, null);
         locationDistanceNumColor = ResourcesCompat.getColor(context.getResources(), colorForDistanceNum, null);
-        milesAbbreviationColor = ResourcesCompat.getColor(context.getResources(), colorForMilesAbbreviation, null);
+        milesAbbreviationColor = ResourcesCompat.getColor(context.getResources(), colorForKmAbbreviation, null);
     }
 
 
