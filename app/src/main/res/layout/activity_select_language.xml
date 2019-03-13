@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/aerial"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="35dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:background="@drawable/background_textview"
+            android:padding="5dp"
+            android:text="@string/launcher_getCurrentLocation"
+            android:textColor="@color/colorBlack"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/getMyLocation"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/placeholder"
+            android:onClick="getCurrentLocation" />
+
+        <TextView
+            android:id="@+id/typeDestination"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/background_edittext"
+            android:backgroundTint="@color/colorWhite"
+            android:padding="5dp"
+            android:text="@string/launcher_searchPlaceholder"
+            android:textColor="@android:color/background_dark" />
+
+        <Button
+            android:id="@+id/selectDestination"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/search"
+            android:onClick="selectDestination" />
+
+        <LinearLayout
+            android:layout_width="196dp"
+            android:layout_height="193dp"
+            android:layout_margin="50dp"
+            android:background="@drawable/border"
+            android:backgroundTint="@color/colorWhite"
+            android:baselineAligned="false"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="@string/lang"/>
+
+            <RadioGroup
+                android:id="@+id/boutons"
+                android:layout_width="wrap_content"
+                android:layout_height="132dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="5dp">
+
+                <RadioButton
+                    android:id="@+id/en2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="10dp"
+                    android:checked="true"
+                    android:text="@string/english"
+                    android:onClick="setLocaleEn"/>
+
+                <RadioButton
+                    android:id="@+id/fr2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/french"
+                    android:onClick="setLocaleFr"/>
+
+                <RadioButton
+                    android:id="@+id/it2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="10dp"
+                    android:checked="false"
+                    android:text="@string/italian"
+                    android:onClick="setLocaleIt"/>
+
+            </RadioGroup>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

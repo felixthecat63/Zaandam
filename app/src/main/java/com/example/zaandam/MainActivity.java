@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
@@ -39,6 +40,22 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()){
+            case R.id.choose:
+                select();
+                return true;
+        }
+
+        return super.onOptionsItemSelected(item);
+    }
+
+    public void select(){
+        Intent intent = new Intent(this, SelectLanguageActivity.class);
+        startActivity(intent);
+    }
+
+
     /** Called when the user taps on the search button (select a destinationCoordinates) */
     public void selectDestination (View view) {
         Intent intent = new Intent(this, GeocodingActivity.class);
@@ -63,5 +80,15 @@ public class MainActivity extends AppCompatActivity {
                 = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
         NetworkInfo activeNetworkInfo = connectivityManager.getActiveNetworkInfo();
         return activeNetworkInfo != null && activeNetworkInfo.isConnected();
+    }
+
+    public void setLocaleIt(View view) {
+
+    }
+
+    public void setLocaleFr(View view) {
+    }
+
+    public void setLocaleEn(View view) {
     }
 }
