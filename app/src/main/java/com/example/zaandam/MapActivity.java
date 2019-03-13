@@ -193,7 +193,7 @@ public class MapActivity extends AppCompatActivity implements
                             Toast.makeText(MapActivity.this, "Click on a card", Toast.LENGTH_SHORT).show();
 
                             // Show 3d buildings if the blue theme is being used
-                            if (customThemeManager.getNavigationLineColor() == R.color.navigationRouteLine_blue) {
+                            if (customThemeManager.getNavigationLineColor() == R.color.colorPrimaryDark) {
                                 showBuildingExtrusions();
                             }
                         }
@@ -586,7 +586,7 @@ public class MapActivity extends AppCompatActivity implements
 
         private void initializeTheme() {
             mapStyle = Style.MAPBOX_STREETS;
-            navigationLineColor = getResources().getColor(R.color.navigationRouteLine_neutral);
+            navigationLineColor = getResources().getColor(R.color.colorPrimaryDark);
             unselectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.green_user_location);
             selectedMarkerIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.green_user_location);
             mockLocationIcon = BitmapFactory.decodeResource(context.getResources(), R.drawable.neutral_orange_user_location);
