@@ -111,52 +111,70 @@ public class ChoosePOICategory extends AppCompatActivity {
     }
 
     public String giveFileName(String choice) {
-        switch (choice) {
-            case "Airports":
-                return "airport";
-            case "ATMs":
-                return "atm";
-            case "Attractions":
-                return "attraction";
-            case "Bakeries":
-                return "bakery";
-            case "Campsites":
-                return "campsite";
-            case "Food stores":
-                return "foodStores";
-            case "Free WiFi":
-                return "freeWiFi";
-            case "Hotels":
-                return "hotel";
-            case "Lakes":
-                return "lake";
-            case "Mc Donalds":
-                return "mcDonalds";
-            case "Monuments":
-                return "monument";
-            case "Parking":
-                return "parking";
-            case "Petrol stations":
-                return "petrolStation_leclerc";
-            case "Picnic area":
-                return "picnicArea";
-            case "Railway stations":
-                return "railwayStation";
-            case "Religious buildings":
-                return "religiousBuilding";
-            case "Restaurants":
-                return "restaurant";
-            case "Seaside":
-                return "seaside";
-            case "Service areas":
-                return "serviceArea";
-            case "Theatre":
-                return "theatre";
-            case "Tram stations":
-                return "tramStation";
-            default:
-                return "restaurant";
+        if (choice.equals(getString(R.string.airports))) {
+            return "airport";
         }
+        else if (choice.equals(getString(R.string.atms))) {
+            return "atm";
+        }
+        else if (choice.equals(getString(R.string.attractions))) {
+            return "attraction";
+        }
+        else if (choice.equals(getString(R.string.bakeries))) {
+            return "bakery";
+        }
+        else if (choice.equals(getString(R.string.campsites))) {
+            return "campsite";
+        }
+        else if (choice.equals(getString(R.string.food_stores))) {
+            return "foodStores";
+        }
+        else if (choice.equals(getString(R.string.free_wifi))) {
+            return "freeWiFi";
+        }
+        else if (choice.equals(getString(R.string.hotels))) {
+            return "hotel";
+        }
+        else if (choice.equals(getString(R.string.lakes))) {
+            return "lake";
+        }
+        else if (choice.equals(getString(R.string.mc_donalds))) {
+            return "mcDonalds";
+        }
+        else if (choice.equals(getString(R.string.monuments))) {
+            return "monument";
+        }
+        else if (choice.equals(getString(R.string.parking))) {
+            return "parking";
+        }
+        else if (choice.equals(getString(R.string.petrol_station))) {
+            return "petrolStation_leclerc";
+        }
+        else if (choice.equals(getString(R.string.picnic))) {
+            return "picnicArea";
+        }
+        else if (choice.equals(getString(R.string.religious_buildings))) {
+            return "religiousBuilding";
+        }
+        else if (choice.equals(getString(R.string.restaurants))) {
+            return "restaurant";
+        }
+        else if (choice.equals(getString(R.string.seaside))) {
+            return "seaside";
+        }
+        else if (choice.equals(getString(R.string.service_area))) {
+            return "serviceArea";
+        }
+        else if (choice.equals(getString(R.string.theatre))) {
+            return "theatre";
+        }
+        else if (choice.equals(getString(R.string.tram_stations))) {
+            return "tramStation";
+        }
+        else if (choice.equals(getString(R.string.railway_station))) {
+            return "railwayStation";
+        }
+        return "hotel";
     }
 
     public int giveRange(String choice) {
