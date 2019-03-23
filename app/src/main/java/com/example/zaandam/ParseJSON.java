@@ -56,7 +56,7 @@ public class ParseJSON {
             double haversineDistance = Haversine.computeDistance(lat1, lng1, lat2, lng2);
             float distance = (float) haversineDistance;
 
-            if (distance <= range) {
+            if (distance <= range && results.size() <=20) {
                 results.add(json_object);
                 distances.add(distance);
             }

@@ -58,8 +58,11 @@ public class MainActivity extends AppCompatActivity {
 
     /** Called when the user taps on the search button (select a destinationCoordinates) */
     public void selectDestination (View view) {
-        Intent intent = new Intent(this, GeocodingActivity.class);
-        startActivity(intent);
+        if (isNetworkAvailable()) {
+            Intent intent = new Intent(this, GeocodingActivity.class);
+            startActivity(intent);
+        }
+        Toast.makeText(MainActivity.this, "No internet connection detected: your location can't be retrieved but you can use the offline mode", Toast.LENGTH_LONG).show();
     }
 
     /** Called when the user taps the getMyLocation button */
@@ -70,8 +73,6 @@ public class MainActivity extends AppCompatActivity {
         }
         else {
             Toast.makeText(MainActivity.this, "No internet connection detected: your location can't be retrieved but you can use the offline mode", Toast.LENGTH_LONG).show();
-            Intent intent = new Intent(this, GeocodingActivity.class);
-            startActivity(intent);
         }
     }
 
