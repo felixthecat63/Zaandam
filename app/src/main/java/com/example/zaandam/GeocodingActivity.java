@@ -327,7 +327,9 @@ public class GeocodingActivity extends AppCompatActivity implements OnMapReadyCa
 
         ChoosePOICategory.destinationCoordinates.setLatitude(latitude);
         ChoosePOICategory.destinationCoordinates.setLongitude(longitude);
-
+		
+        DirectionMapActivity.origineCoordonner.setLatitude(latitude);
+        DirectionMapActivity.origineCoordonner.setLongitude(longitude);
         startActivity(intent);
     }
 

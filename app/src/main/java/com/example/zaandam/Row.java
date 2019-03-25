@@ -1,5 +1,7 @@
 package com.example.zaandam;
 
+import android.widget.Button;
+
 public class Row {
 
     private int distance;
@@ -7,13 +9,13 @@ public class Row {
     private String description;
     private String latitude;
     private String longitude;
-
     public Row(int distance, String name, String description, String latitude, String longitude) {
         this.distance = distance;
         this.name = name;
         this.description = description;
         this.longitude = longitude;
         this.latitude = latitude;
+
     }
 
     public String getName() {
@@ -55,4 +57,5 @@ public class Row {
     public void setLongitude(String longitude) {
         this.longitude = longitude;
     }
+
 }

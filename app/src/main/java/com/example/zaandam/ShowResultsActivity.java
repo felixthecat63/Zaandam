@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 
@@ -18,6 +19,7 @@ public class ShowResultsActivity extends AppCompatActivity {
 
     public static ArrayList<JSONObject> results = new ArrayList<>();
     public static ArrayList<Float> distances = new ArrayList<>();
+	public static ArrayList<Button> btn = new ArrayList<>();
 
     ListView mListView;
 
@@ -38,6 +40,7 @@ public class ShowResultsActivity extends AppCompatActivity {
         }
 
         ResultAdapter adapter = new ResultAdapter(ShowResultsActivity.this, results);
+
         mListView.setAdapter(adapter);
     }
 
@@ -46,6 +49,8 @@ public class ShowResultsActivity extends AppCompatActivity {
 
         for (int i = 0; i < results.size(); i++) {
             int y = (int) Math.round(distances.get(i));
+
+
             rowResults.add(new Row(y, results.get(i).get("name").toString(), results.get(i).get("city").toString() + ", " + results.get(i).get("description").toString(), results.get(i).get("latitude").toString(), results.get(i).get("longitude").toString()));
         }
         return rowResults;

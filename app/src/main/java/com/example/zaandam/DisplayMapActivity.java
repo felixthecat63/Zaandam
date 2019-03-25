@@ -79,6 +79,8 @@ public class DisplayMapActivity extends AppCompatActivity implements OnMapReadyC
 
             ChoosePOICategory.destinationCoordinates.setLatitude(latitude);
             ChoosePOICategory.destinationCoordinates.setLongitude(longitude);
+            DirectionMapActivity.origineCoordonner.setLatitude(latitude);
+            DirectionMapActivity.origineCoordonner.setLongitude(longitude);
 
 
         } else {
@@ -160,6 +162,7 @@ public class DisplayMapActivity extends AppCompatActivity implements OnMapReadyC
     /** Called when the user taps on the confirm location button (select a destinationCoordinates) */
     public void confirmLocation (View view) {
         Intent intent = new Intent(this, ChoosePOICategory.class);
+
         startActivity(intent);
     }
 }
