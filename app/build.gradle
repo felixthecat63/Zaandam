@@ -1,6 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    lintOptions {
+        checkReleaseBuilds false
+    }
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.example.zaandam"
@@ -18,6 +25,7 @@ android {
     }
     repositories {
         mavenCentral()
+        maven { url 'https://mapbox.bintray.com/mapbox' }
     }
 
 }
@@ -35,4 +43,5 @@ dependencies {
     implementation 'com.mapbox.mapboxsdk:mapbox-android-geocoder:1.0.0@aar'
     implementation 'com.android.support:cardview-v7:28.0.0'
     implementation 'com.android.support.constraint:constraint-layout:1.1.2'
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-navigation-ui:0.32.0'
 }

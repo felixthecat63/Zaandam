@@ -62,4 +62,16 @@
     <string name="coordinates">Coordinates</string>
     <string name="category">Category</string>
     <string name="distance">km</string>
+    <string name="directions_activity_marker_options_origin_title">Origin</string>
+    <string name="directions_activity_marker_options_origin_snippet">Alhambra</string>
+    <string name="directions_activity_marker_options_destination_title">Destination</string>
+    <string name="directions_activity_marker_options_destination_snippet">Plaza del Triunfo</string>
+    <string name="directions_activity_toast_message">Route is %1$f meters long.</string>
+    <string name="directions_distance">distance: %1$f km</string>
+    <string name="directions_heure">duration:%1$f s</string>
+    <string name="select_itenary">Select your profil</string>
+	<string name="itenary">ITINERARY</string>
+    <string name="Daccess_token">pk.eyJ1Ijoic2FjYW1zIiwiYSI6ImNqc2QxZXh0czBweGo0NGpuNGgwMWd0ejAifQ.4LJIeoQhMqBgdJnzP2uM-w</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
 </resources>
