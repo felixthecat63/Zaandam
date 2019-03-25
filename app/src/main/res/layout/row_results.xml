@@ -10,6 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:background="@color/colorSecondaryLight"
         app:layout_constraintEnd_toEndOf="parent"
@@ -19,15 +20,13 @@
 
         <TextView
             android:id="@+id/name"
-            android:layout_width="205dp"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:layout_marginTop="8dp"
+            android:layout_width="143dp"
+            android:layout_height="20dp"
+            android:layout_marginTop="10dp"
             android:text="address"
             android:textAllCaps="true"
             android:textColor="@color/colorWhite"
-            app:layout_constraintEnd_toEndOf="@+id/description"
-            app:layout_constraintStart_toEndOf="@+id/imageView2"
+            app:layout_constraintStart_toStartOf="@+id/description"
             app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
@@ -36,7 +35,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
-            android:layout_marginBottom="4dp"
+            android:layout_marginBottom="10dp"
             android:text="latitude"
             android:textColor="@color/colorBlack"
             android:textStyle="bold"
@@ -59,8 +58,8 @@
 
         <TextView
             android:id="@+id/description"
-            android:layout_width="204dp"
-            android:layout_height="wrap_content"
+            android:layout_width="131dp"
+            android:layout_height="18dp"
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:text="description"
@@ -84,7 +83,8 @@
             android:id="@+id/distance"
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:layout_marginEnd="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
             android:background="@drawable/background_round_blue_button"
             android:padding="10dp"
             android:text="KM"
@@ -92,16 +92,16 @@
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.787"
-            app:layout_constraintStart_toStartOf="parent" />
+            app:layout_constraintEnd_toStartOf="@+id/go"
+            app:layout_constraintHorizontal_bias="0.992"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
 
         <Button
             android:id="@+id/go"
             android:layout_width="55dp"
-            android:layout_height="50dp"
-            android:layout_marginEnd="16dp"
-            android:background="@drawable/background_round_blue_button"
+            android:layout_height="116dp"
+            android:background="@color/colorSecondaryDark"
             android:padding="10dp"
             android:text="GO"
             android:textColor="@color/colorWhite"
@@ -109,8 +109,7 @@
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="1.0" />
+            app:layout_constraintTop_toTopOf="parent" />
 
 
     </android.support.constraint.ConstraintLayout>

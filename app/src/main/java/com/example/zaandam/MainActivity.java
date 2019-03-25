@@ -62,7 +62,9 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this, GeocodingActivity.class);
             startActivity(intent);
         }
-        Toast.makeText(MainActivity.this, "No internet connection detected: your location can't be retrieved but you can use the offline mode", Toast.LENGTH_LONG).show();
+        else {
+            Toast.makeText(MainActivity.this, "No internet connection detected: your location can't be retrieved but you can use the offline mode", Toast.LENGTH_LONG).show();
+        }
     }
 
     /** Called when the user taps the getMyLocation button */

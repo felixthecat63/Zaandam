@@ -39,15 +39,7 @@ public class DirectionActivity extends AppCompatActivity  {
         car =(Button)findViewById(R.id.car);
         bike =(Button)findViewById(R.id.cycling);
         walking =(Button)findViewById(R.id.walking);
-        //mplay=(Button)findViewById(R.id.mplay);
 
-		/*mplay.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent NavigationActivity = new Intent(DirectionActivity.this, NavigationActivity.class);
-                startActivity(NavigationActivity);
-            }
-        });*/
 
         car.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -59,7 +51,6 @@ public class DirectionActivity extends AppCompatActivity  {
                 map.putExtra("profil",profil);
                 map.putExtra("latitude",longitude);
                 map.putExtra("longitude",latitude);
-
                 startActivity(map);
             }
         });

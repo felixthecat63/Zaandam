@@ -14,9 +14,9 @@
     <string name="launcher_searchPlaceholder">... ou je saisis ma destination</string>
 
     <string name="geocoding_button_center_map">Centre la carte</string>
-    <string name="geocoding_button_get_by_coordinates">Recherche par lat / long</string>
+    <string name="geocoding_button_get_by_coordinates">Prend lat/lng</string>
     <string name="geocoding_button_advanced">Avancée</string>
-    <string name="geocoding_button_get_by_name">Recherche par nom</string>
+    <string name="geocoding_button_get_by_name">Cherche par nom</string>
     <string name="geocoding_hint_latitude">Latitude</string>
     <string name="geocoding_hint_longitude">Longitude</string>
     <string name="geocoding_hint_type_destination">Ma destination</string>
@@ -51,6 +51,20 @@
     <string name="theatre">Theatres</string>
     <string name="tram_stations">Stations de tram</string>
     <string name="service_area">Aires de service CC</string>
+    <string name="your_destination">Ta destination</string>
+    <string name="selectAPOI">Choisis un point d\'intérêt</string>
+
+    <string name="directions_activity_marker_options_origin_title">Origine</string>
+    <string name="directions_activity_marker_options_origin_snippet">Alhambra</string>
+    <string name="directions_activity_marker_options_destination_title">Destination</string>
+    <string name="directions_activity_marker_options_destination_snippet">Plaza del Triunfo</string>
+    <string name="directions_activity_toast_message">Le parcours mesure %1$f mètres.</string>
+    <string name="directions_distance">distance: %1$f km</string>
+    <string name="directions_heure">durée:%1$f s</string>
+    <string name="select_itinerary">Sélectionne ton profil</string>
+    <string name="itenary">Itinéraire</string>
+    <string name="user_location_permission_explanation">Cette application a besoin de la localisation pour fonctionner.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
 
 
     <string name="show_on_map">Montre sur la carte</string>

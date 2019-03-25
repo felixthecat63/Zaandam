@@ -14,7 +14,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".NavigationActivity"></activity>
         <activity android:name=".DirectionMapActivity" />
         <activity android:name=".DirectionActivity" />
         <activity android:name=".MapActivity" />

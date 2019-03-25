@@ -51,6 +51,8 @@
     <string name="theatre">Theatre</string>
     <string name="tram_stations">Tram stations</string>
     <string name="service_area">Service areas</string>
+    <string name="your_destination">Your destination</string>
+    <string name="selectAPOI">Choose a point of interest</string>
 
     <string name="show_on_map">Show on a map</string>
 
@@ -69,9 +71,8 @@
     <string name="directions_activity_toast_message">Route is %1$f meters long.</string>
     <string name="directions_distance">distance: %1$f km</string>
     <string name="directions_heure">duration:%1$f s</string>
-    <string name="select_itenary">Select your profil</string>
+    <string name="select_itinerary">Select your profile</string>
 	<string name="itenary">ITINERARY</string>
-    <string name="Daccess_token">pk.eyJ1Ijoic2FjYW1zIiwiYSI6ImNqc2QxZXh0czBweGo0NGpuNGgwMWd0ejAifQ.4LJIeoQhMqBgdJnzP2uM-w</string>
     <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
     <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
 </resources>

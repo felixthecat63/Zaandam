@@ -28,9 +28,6 @@ public class ShowResultsActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_show_results);
 
-        TextView tvCategory = findViewById(R.id.TVpoicategory);
-        tvCategory.setText("Results for: " + ChoosePOICategory.category);
-
         mListView = (ListView) findViewById(R.id.listView);
         List<Row> results = null;
         try {

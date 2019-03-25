@@ -1,54 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-	xmlns:mapbox="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-	
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/night"
     tools:context=".DirectionActivity">
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textAlignment="center"
+        android:layout_marginTop="8dp"
         android:background="@color/colorPrimaryLight"
+        android:padding="10dp"
+        android:text="@string/select_itinerary"
+        android:textAlignment="center"
         android:textColor="@color/colorBlack"
         android:textSize="18sp"
-        android:padding="10dp"
-        android:layout_marginStart="0dp"
-        android:layout_marginTop="0dp"
-        android:layout_marginEnd="0dp"
-        android:layout_marginBottom="8dp"
-        android:text="@string/select_itenary"
-		app:layout_constraintBottom_toTopOf="@+id/linearLayout2"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <android.support.constraint.ConstraintLayout
         android:id="@+id/linearLayout2"
-        android:layout_width="match_parent"
+        android:layout_width="307dp"
         android:layout_height="74dp"
-        android:layout_marginTop="92dp"
-        android:layout_marginEnd="16dp"
-        android:background="@drawable/background_round_button"
+        android:layout_marginTop="8dp"
         android:gravity="center_vertical"
         android:orientation="horizontal"
         android:padding="3dp"
         android:textSize="20sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/textView"
-        app:layout_constraintEnd_toEndOf="@+id/textView"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0">
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView">
 
 
         <Button
             android:id="@+id/cycling"
-            android:layout_width="76dp"
+            android:layout_width="63dp"
             android:layout_height="58dp"
             android:layout_marginStart="24dp"
-            android:background="@drawable/cycling"
+            android:background="@drawable/bike"
             app:layout_constraintBottom_toTopOf="@+id/linearLayout2"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
@@ -57,16 +51,19 @@
             android:id="@+id/walking"
             android:layout_width="63dp"
             android:layout_height="61dp"
-            android:layout_marginStart="68dp"
-            android:background="@drawable/walking"
-            app:layout_constraintBottom_toTopOf="@+id/linearLayout2"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/feet"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/car"
             app:layout_constraintStart_toEndOf="@+id/cycling"
-            app:layout_constraintTop_toBottomOf="@+id/linearLayout2"
-            app:layout_constraintVertical_bias="0.488" />
+            app:layout_constraintTop_toTopOf="parent" />
 
         <Button
             android:id="@+id/car"
-            android:layout_width="83dp"
+            android:layout_width="71dp"
             android:layout_height="65dp"
             android:layout_marginEnd="16dp"
             android:background="@drawable/car"
@@ -77,15 +74,5 @@
             app:layout_constraintVertical_bias="0.503" />
 
     </android.support.constraint.ConstraintLayout>
-
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="match_parent"
-        android:layout_height="505dp"
-        android:layout_marginTop="44dp"
-        android:background="@drawable/itenaire"
-        app:layout_constraintTop_toBottomOf="@+id/linearLayout2"
-        tools:layout_editor_absoluteX="0dp" />
 
 </android.support.constraint.ConstraintLayout>

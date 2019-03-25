@@ -51,8 +51,20 @@
     <string name="theatre">Teatri</string>
     <string name="tram_stations">Stazioni tram</string>
     <string name="service_area">Aree di servizio camper</string>
+    <string name="your_destination">La tua destinazione</string>
+    <string name="selectAPOI">Scegli un POI</string>
 
-
+    <string name="directions_activity_marker_options_origin_title">Origine</string>
+    <string name="directions_activity_marker_options_origin_snippet">Alhambra</string>
+    <string name="directions_activity_marker_options_destination_title">Destinazione</string>
+    <string name="directions_activity_marker_options_destination_snippet">Plaza del Triunfo</string>
+    <string name="directions_activity_toast_message">Il percorso misura %1$f metri.</string>
+    <string name="directions_distance">distanza: %1$f km</string>
+    <string name="directions_heure">durata:%1$f s</string>
+    <string name="select_itinerary">Selezina il tuo profilo</string>
+    <string name="itenary">Itinerario</string>
+    <string name="user_location_permission_explanation">L\'applicazione ha bisogno della localizzazione per funzionare.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
 
     <string name="show_on_map">Mostra sulla mappa</string>
 
