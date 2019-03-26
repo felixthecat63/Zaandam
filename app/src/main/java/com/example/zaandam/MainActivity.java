@@ -11,7 +11,12 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.Toast;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -22,6 +27,27 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        try {
+            boolean internet = isInternet();
+            if (internet){
+
+            }else{
+                   // for(int i=0; i<2; i++) {
+                        Toast toast = new Toast(getApplicationContext());
+                        ImageView view = new ImageView(getApplicationContext());
+                        view.setImageResource(R.drawable.offline);
+                        toast.setView(view);
+                        toast.setDuration(Toast.LENGTH_LONG);
+                        toast.show();
+                CharSequence text = getString(R.string.toast_internet);
+                Toast.makeText(MainActivity.this, text, Toast.LENGTH_LONG).show();
+                    //}
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+            CharSequence text = getString(R.string.toast_internet);
+            Toast.makeText(MainActivity.this, text, Toast.LENGTH_LONG).show();
+        }
 
         // define here the behaviour of the button
         /*
@@ -57,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     /** Called when the user taps on the search button (select a destinationCoordinates) */
-    public void selectDestination (View view) {
+    public void selectDestination (View view) throws IOException {
         if (isNetworkAvailable()) {
             Intent intent = new Intent(this, GeocodingActivity.class);
             startActivity(intent);
@@ -68,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /** Called when the user taps the getMyLocation button */
-    public void getCurrentLocation(View view) {
+    public void getCurrentLocation(View view) throws IOException {
         if (isNetworkAvailable()) {
             Intent intent = new Intent(this, DisplayMapActivity.class);
             startActivity(intent);
@@ -78,11 +104,16 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    private boolean isNetworkAvailable() {
+    private boolean isNetworkAvailable() throws IOException {
         ConnectivityManager connectivityManager
                 = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
         NetworkInfo activeNetworkInfo = connectivityManager.getActiveNetworkInfo();
-        return activeNetworkInfo != null && activeNetworkInfo.isConnected();
+            String cmdPing = "ping www.google.com";
+            Runtime r = Runtime.getRuntime();
+            Process p = r.exec(cmdPing);
+            BufferedReader in = new BufferedReader(	new InputStreamReader(p.getInputStream()));
+            String inputLinhe = in.readLine();
+        return  activeNetworkInfo != null && activeNetworkInfo.isConnected()&& inputLinhe!=null;
     }
 
     public void setLocaleIt(View view) {
@@ -114,5 +145,15 @@ public class MainActivity extends AppCompatActivity {
         recreate();
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
+    }
+
+    private boolean isInternet() throws IOException {
+        String cmdPing = "ping www.google.com";
+        Runtime r = Runtime.getRuntime();
+        Process p = r.exec(cmdPing);
+        BufferedReader in = new BufferedReader(	new InputStreamReader(p.getInputStream()));
+        String inputLinhe = in.readLine();
+        boolean a = inputLinhe==null ? false : true;
+        return   a;
     }
 }

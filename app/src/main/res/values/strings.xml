@@ -75,4 +75,6 @@
 	<string name="itenary">ITINERARY</string>
     <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
     <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+    <string name="toast_internet">No internet connection detected, please log in</string>
+
 </resources>

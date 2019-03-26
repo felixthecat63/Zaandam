@@ -77,5 +77,6 @@
     <string name="coordinates">Coordonnées</string>
     <string name="category">Catégorie</string>
     <string name="distance">km</string>
+    <string name="toast_internet">Aucune connexion Internet détectée, veuillez vous connecter</string>
 
 </resources>
